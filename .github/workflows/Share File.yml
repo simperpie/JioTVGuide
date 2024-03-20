@@ -23,7 +23,6 @@ jobs:
 
     - name: Commit changes
       run: |
-        cd /tmp/shared_file
         git commit -m "Update shared file"
       
     - name: Push changes to public repo
