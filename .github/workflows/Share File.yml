@@ -18,11 +18,13 @@ jobs:
       
     - name: Initialize Git
       run: |
-        mkdir -p /tmp/shared_file
-        cd /tmp/shared_file
-        git init
-        git config --local user.email "91105635+simperpie@users.noreply.github.com"
-        git config --local user.name "Simper Pie"
+         if [ ! -d "/tmp/shared_file" ]; then
+          mkdir -p /tmp/shared_file
+         fi
+         cd /tmp/shared_file
+         git init
+         git config --local user.email "91105635+simperpie@users.noreply.github.com"
+         git config --local user.name "Simper Pie"
       
     - name: Add file
       run: |
