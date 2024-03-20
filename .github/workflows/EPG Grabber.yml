@@ -32,7 +32,7 @@ jobs:
         
     - name: Execute Script
       run: |
-        php tempest.php
+        php tempest.php engine=Generate createinvxmlgz=on
         git add .
         git commit -m "Automated commit"
         git push
