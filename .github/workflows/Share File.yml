@@ -18,12 +18,20 @@ jobs:
     
     - name: Copy file to public repo
       run: |
-        cp tempest_config/epg/tvguide.xml.gz update/
+         cp tempest_config/epg/tvguide.xml.gz /tmp/update-repo
         # You might need to add additional setup here depending on your file structure
+
+    - name: Clone public repo
+      run: |
+        git clone https://github.com/simperpie/update /tmp/update-repo
+
+    - name: Move file to public repo
+      run: |
+        mv /tmp/update-repo/tvguide.xml.gz /tmp/update-repo/
     
     - name: Commit and push changes
       run: |
-        cd path/to/public/repo
+        cd /tmp/update-repo
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
         git add .
