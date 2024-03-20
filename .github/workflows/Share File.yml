@@ -1,0 +1,41 @@
+name: Share File
+
+on:
+  push:
+    branches:
+      - main  # Adjust branch name as needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Copy file to temp location
+      run: cp tempest_config/epg/tvguide.xml.gz /tmp/shared_file
+      
+    - name: Initialize Git
+      run: |
+        cd /tmp/shared_file
+        git init
+        git config --local user.email "91105635+simperpie@users.noreply.github.com"
+        git config --local user.name "Simper Pie"
+      
+    - name: Add file
+      run: |
+        cd /tmp/shared_file
+        git add .
+
+    - name: Commit changes
+      run: |
+        cd /tmp/shared_file
+        git commit -m "Update shared file"
+      
+    - name: Push changes to public repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.PUBLIC_REPO_TOKEN }}
+        branch: main  # Adjust branch name as needed
+        repository: simperpie/updates  # Replace username/public-repo with your public repository's path
