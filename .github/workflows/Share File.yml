@@ -18,7 +18,6 @@ jobs:
       
     - name: Add file
       run: |
-        cd /tmp/shared_file
         git add .
 
     - name: Commit changes
