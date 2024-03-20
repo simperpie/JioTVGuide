@@ -23,12 +23,14 @@ jobs:
 
     - name: Clone or pull public repo
       run: |
-        if [ -d "/tmp/update-repo" ]; then
+        if [ -d "/tmp/update-repo/.git" ]; then
           cd /tmp/update-repo
           git pull origin main
         else
+          rm -rf /tmp/update-repo
           git clone https://github.com/simperpie/update /tmp/update-repo
         fi
+        
     - name: Move file to public repo
       run: |
         mv /tmp/update-repo/tvguide.xml.gz /tmp/update-repo/
