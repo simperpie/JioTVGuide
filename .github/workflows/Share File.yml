@@ -16,19 +16,6 @@ jobs:
     - name: Copy file to temp location
       run: cp tempest_config/epg/tvguide.xml.gz /tmp/shared_file
       
-    - name: Check if directory exists
-      run: |
-        if [ ! -d "/tmp/shared_file" ]; then
-        mkdir -p /tmp/shared_file
-        fi
-        
-    - name: Initialize Git and prepare directory
-      run: |
-        cd /tmp/shared_file
-        git init
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-          
     - name: Add file
       run: |
         cd /tmp/shared_file
