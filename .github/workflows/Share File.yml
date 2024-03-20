@@ -3,24 +3,29 @@ name: Share File
 on:
   push:
     branches:
-      - main  # Adjust branch name as needed
+      - main  # adjust as needed
 
 jobs:
-  build:
+  push_file:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout code
+    - name: Checkout private repository
       uses: actions/checkout@v2
-      
+      with:
+        repository: simperpie/tempest
+        token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+    
     - name: Copy file to public repo
       run: |
         cp tempest_config/epg/tvguide.xml.gz update/
-        cd simperpie/update
-        git config --local user.email "you@example.com"
-        git config --local user.name "Your Name"
-        git add important.txt
-        git commit -m "Update shared file"
-        git push origin main
-      env:
-        GITHUB_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
+        # You might need to add additional setup here depending on your file structure
+    
+    - name: Commit and push changes
+      run: |
+        cd path/to/public/repo
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add .
+        git commit -m "Update file from private repo"
+        git push origin main  # adjust the branch name as needed
