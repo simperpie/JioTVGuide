@@ -15,7 +15,7 @@ jobs:
       
     - name: Copy file to public repo
       run: |
-        cp tempest_config/epg/tvguide.xml.gz simperpie/update/
+        cp tempest_config/epg/tvguide.xml.gz update/
         cd simperpie/update
         git config --local user.email "you@example.com"
         git config --local user.name "Your Name"
