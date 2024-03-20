@@ -12,6 +12,11 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+ 
+    - name: config
+      run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
 
     - name: Copy file to temp location
       run: cp tempest_config/epg/tvguide.xml.gz /tmp/shared_file
