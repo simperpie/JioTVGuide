@@ -21,10 +21,14 @@ jobs:
          cp tempest_config/epg/tvguide.xml.gz /tmp/update-repo
         # You might need to add additional setup here depending on your file structure
 
-    - name: Clone public repo
+    - name: Clone or pull public repo
       run: |
-        git clone https://github.com/simperpie/update /tmp/update-repo
-
+        if [ -d "/tmp/update-repo" ]; then
+          cd /tmp/update-repo
+          git pull origin main
+        else
+          git clone https://github.com/simperpie/update /tmp/update-repo
+        fi
     - name: Move file to public repo
       run: |
         mv /tmp/update-repo/tvguide.xml.gz /tmp/update-repo/
