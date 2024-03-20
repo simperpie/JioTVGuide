@@ -30,7 +30,12 @@ jobs:
           rm -rf /tmp/update-repo
           git clone https://github.com/simperpie/update /tmp/update-repo
         fi
-    
+
+    - name: Add file to Git index
+      run: |
+        cd /tmp/update-repo
+        git add tvguide.xml.gz
+        
     - name: Commit and push changes
       run: |
         cd /tmp/update-repo
