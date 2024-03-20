@@ -21,6 +21,9 @@ jobs:
          cp tempest_config/epg/tvguide.xml.gz /tmp/update-repo
         # You might need to add additional setup here depending on your file structure
 
+    - name: List files in /tmp/update-repo
+      run: ls -la /tmp/update-repo
+
     - name: Clone or pull public repo
       run: |
         if [ -d "/tmp/update-repo/.git" ]; then
