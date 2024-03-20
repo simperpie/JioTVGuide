@@ -30,10 +30,6 @@ jobs:
           rm -rf /tmp/update-repo
           git clone https://github.com/simperpie/update /tmp/update-repo
         fi
-        
-    - name: Move file to public repo
-      run: |
-        mv /tmp/update-repo/tvguide.xml.gz /tmp/update-repo/
     
     - name: Commit and push changes
       run: |
