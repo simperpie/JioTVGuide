@@ -1,4 +1,4 @@
-name: Share File
+name: Push tvguide.xml.gz to Update Repo
 
 on:
   push:
@@ -10,40 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout private repository
+    - name: Checkout tempest repository
       uses: actions/checkout@v2
       with:
         repository: simperpie/tempest
-        token: ${{ secrets.PUBLIC_REPO_TOKEN }}
-    
-    - name: Copy file to public repo
-      run: |
-         cp tempest_config/epg/tvguide.xml.gz /tmp/update-repo
-        # You might need to add additional setup here depending on your file structure
+        token: ${{ secrets.PUPBLIC_REPO_TOKEN }}
 
-    - name: List files in /tmp/update-repo
-      run: ls -la /tmp/update-repo
+    - name: Move to tempest_config/epg directory
+      run: cd tempest_config/epg
 
-    - name: Clone or pull public repo
+    - name: Copy tvguide.xml.gz to public repo
       run: |
-        if [ -d "/tmp/update-repo/.git" ]; then
-          cd /tmp/update-repo
-          git pull origin main
-        else
-          rm -rf /tmp/update-repo
-          git clone https://github.com/simperpie/update /tmp/update-repo
-        fi
+        cp tvguide.xml.gz ../update
 
-    - name: Add file to Git index
-      run: |
-        cd /tmp/update-repo
-        git add tvguide.xml.gz
-        
     - name: Commit and push changes
       run: |
-        cd /tmp/update-repo
+        cd ../update
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
-        git add .
-        git commit -m "Update file from private repo"
+        git add tvguide.xml.gz
+        git commit -m "Update tvguide.xml.gz from tempest repository"
         git push origin main  # adjust the branch name as needed
