@@ -1,4 +1,4 @@
-name: Add Sensitive Files and Build
+name: Push File
 
 on:
   push:
@@ -23,7 +23,7 @@ jobs:
         
     - name: Commit Changes
       run: |
-        cd $GITHUB_WORKSPACE/repo_path
+        cd $GITHUB_WORKSPACE/simperpie/update
         git config --global user.email "actions@github.com"
         git config --global user.name "GitHub Actions"
         git add .
