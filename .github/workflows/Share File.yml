@@ -21,7 +21,7 @@ jobs:
 
     - name: Copy tvguide.xml.gz to public repo
       run: |
-        cp tvguide.xml.gz ../simperpie/update/
+        cp tempest_config/epg/tvguide.xml.gz ../simperpie/update/
 
     - name: Commit and push changes
       run: |
