@@ -13,7 +13,7 @@ jobs:
     - name: Checkout Remote Repository
       uses: actions/checkout@v2
       with:
-        repository: simperpie/tvguide # Replace with the owner and repository name
+        repository: simperpie/tempest # Replace with the owner and repository name
         ref: main # Replace with the branch name
 
     - name: Add Sensitive Files
