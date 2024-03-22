@@ -1,39 +1,22 @@
 name: Push File
 
-on:
-  push:
-    branches:
-      - main
+on: push
 
 jobs:
-  build:
+  copy-file:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout Remote Repository
+    - name: Checkout
       uses: actions/checkout@v2
-      with:
-        repository: simperpie/tempest # Replace with the owner and repository name
-        ref: main # Replace with the branch name
 
-    - name: Add Sensitive Files
-      run: |
-        # Copy the sensitive file from the current repository to the checked out repository
-        cp tempest_config/epg/tvguide.xml.gz $GITHUB_WORKSPACE/simperpie/update/tvguide.xml.gz
-        
-    - name: Commit Changes
-      run: |
-        cd $GITHUB_WORKSPACE/simperpie/update
-        git config --global user.email "actions@github.com"
-        git config --global user.name "GitHub Actions"
-        git add .
-        git commit -m "Add sensitive file"
-        
-    - name: Push Changes
-      uses: ad-m/github-push-action@v0.6.0
+    - name: Pushes test file
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.PUSH_TOKEN_FROM_PRIVATE_TO_MY_PAGE }}
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Build
-      run: |
-        # Execute your build process here
+        source_file: 'tempest_config/epg/tvguide.xml.gz'
+        destination_repo: 'simperpie/simperpie.github.io'
+        destination_folder: 'tvguide'
+        user_email: '91105635+simperpie@users.noreply.github.com'
+        user_name: 'simperpie'
+        commit_message: 'Automated update'
