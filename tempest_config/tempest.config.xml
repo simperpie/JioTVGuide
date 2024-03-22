@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Tempest EPG Generator (made by Kvanc) -->
 <configuration>
-  <filename>tvguide.xml</filename>
+  <filename>tvguide_original.xml</filename>
   <user-agent/>
   <logger>on</logger>
   <retry>2</retry>
   <time-out>15</time-out>
   <timespan>1</timespan>
   <proxy/>
-  <index-only>off</index-only>
+  <index-only>on</index-only>
   <fusion>on</fusion>
   <fusion-level>0</fusion-level>
   <time-converter>+05:30</time-converter>
   <delay channel="" index="" detail=""/>
   <channel-lister>on</channel-lister>
-  <inverter>off</inverter>
-  <inverter-filename/>
-  <inverter-path/>
+  <inverter>on</inverter>
+  <inverter-filename>tiviguide.xml</inverter-filename>
+  <inverter-path>["desc":"##subtitle##","##desc##": #rating##"]["subtitle":||#delete#]["episode":||#delete#]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["colour":||#delete#]["aspect":||#delete#]["quality":||#delete#]["producer":||#delete#]["writer":||#delete#]["rating":||#delete#]["keyword":||#delete#]["star-rating":||#delete#]["language":||#delete#]</inverter-path>
   <logname>tvguide.log</logname>
   <channel site="[ENC][EX]singtel.com_0" site_id="6421" xmltv_id="HBOSignatureHD.my">HBO Signature 🄼</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="1301" xmltv_id="SkySpMainEvent.uk">SkySpMainEv</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="1302" xmltv_id="SkySpCricket.uk">SkySp Cricket</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="3661" xmltv_id="TNTSports1.uk">TNT Sports 1</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="3663" xmltv_id="TNTSports2.uk">TNT Sports 2</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="4090" xmltv_id="SkySpMix.uk">SkySp Mix</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="5032" xmltv_id="TNTSports3.uk">TNT Sports 3</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="8" xmltv_id="STARPlusHD.in">STAR Plus HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="244" xmltv_id="StarBharatHD.in">Star Bharat HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="15" xmltv_id="SETHD.in">SET HD</channel>
