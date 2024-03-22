@@ -1,7 +1,12 @@
 name: Push File
 
-on: push
-
+on:
+  workflow_run:
+    workflows: ["EPG Grabber"]
+    types:
+      - completed
+  workflow_dispatch:
+  
 jobs:
   copy-file:
     runs-on: ubuntu-latest
