@@ -4,435 +4,6 @@
     <display-name lang="en">TNT Sports 2</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb3663.png"/>
   </channel>
-  <programme start="20240321033000 +0530" stop="20240321043000 +0530" channel="TNTSports2.uk">
-    <title lang="en">PSA Squash Highlights</title>
-    <desc lang="en">Highlights from the Optasia Championship at the Wimbledon Club in London.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/378d1c24-fe1b-339f-b567-d927cbe6b6d4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321043000 +0530" stop="20240321044500 +0530" channel="TNTSports2.uk">
-    <title lang="en">Badminton Weekly</title>
-    <desc lang="en">The latest episode of Badminton Weekly.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ffda5929-cc2e-3b9b-a4aa-fb6518f4b141/16-9"/>
-    <episode-num system="xmltv_ns">2023.2.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321044500 +0530" stop="20240321050000 +0530" channel="TNTSports2.uk">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/55b0c758-7ed2-3002-95e6-adb9dc55c631/16-9"/>
-    <episode-num system="xmltv_ns">23.11.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321050000 +0530" stop="20240321053000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Liberty A-League Women Highlights</title>
-    <desc lang="en">Highlights from the 20th round of Liberty A-League Women fixtures.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3718f0e1-0c31-3d79-b830-7ad9369e8b65/16-9"/>
-    <episode-num system="xmltv_ns">2022.19.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321053000 +0530" stop="20240321063000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Newcastle Jets v Adelaide United</title>
-    <desc lang="en">Action from the Isuzu UTE A-League as Newcastle Jets face Adelaide United at McDonald Jones Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0145ef69-ecba-3905-ba4e-7cbb1134873c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321063000 +0530" stop="20240321073000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Wellington Phoenix v Sydney FC</title>
-    <desc lang="en">Action from the Isuzu UTE A-League as Wellington Phoenix face Sydney FC at Eden Park.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a2daff00-c476-368e-ae03-90dd4ac2a4e3/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321073000 +0530" stop="20240321083000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Brisbane Roar v Macarthur FC</title>
-    <desc lang="en">Action from the Isuzu UTE A-League as Brisbane Roar take on Macarthur FC at Ballymore Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d233930f-6abc-3b78-b548-0295d063dced/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321083000 +0530" stop="20240321093000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Western United v Melbourne Victory</title>
-    <desc lang="en">Action from the Isuzu UTE A-League as Western United host Melbourne Victory.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/914b2573-aecf-3970-ba0a-7a9ebb7547ce/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321093000 +0530" stop="20240321103000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Perth Glory v Western Sydney</title>
-    <desc lang="en">Action from the Isuzu UTE A-League as Perth Glory face Western Sydney Wanderers at HBF Park.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/440fc4e6-f9b9-341a-846c-c6858aedeb57/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321103000 +0530" stop="20240321113000 +0530" channel="TNTSports2.uk">
-    <title lang="en">PSA Squash Highlights</title>
-    <desc lang="en">Highlights from the Optasia Championship at the Wimbledon Club in London.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/378d1c24-fe1b-339f-b567-d927cbe6b6d4/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321113000 +0530" stop="20240321120000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">We revisit this Boxing Day clash between Bournemouth and West Ham. Marko Arnautovic and Callum Wilson were among the scorers in this six-goal thriller.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e56b7a57-def3-3fb0-b765-bb9cf472ef34/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321120000 +0530" stop="20240321123000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">A look back at the exciting clash between Wolves and Arsenal from the 2018/19 season. The hosts would be three goals up at half-time.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7eec5da5-8b52-3786-99c3-101e4ef10ed8/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321123000 +0530" stop="20240321133000 +0530" channel="TNTSports2.uk">
-    <title lang="en">NZ v England - Women's 1st T20</title>
-    <desc lang="en">Women's cricket action from the first T20 between New Zealand and England at University Oval in Dunedin.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2e7080fd-a407-3099-85b5-6210e19edf1e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321133000 +0530" stop="20240321143000 +0530" channel="TNTSports2.uk">
-    <title lang="en">MLB: 2023 Top Rookies</title>
-    <desc lang="en">A look at the top rookies from the 2023 MLB season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f84c667a-b9be-321b-a62d-3a945e343b34/16-9"/>
-    <episode-num system="xmltv_ns">2023.7.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321143000 +0530" stop="20240321150000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Indian Baseball Dreams</title>
-    <desc lang="en">As the 2023 Major League Baseball Draft approaches, Indian-American baseball talent Arjun Nimmala travels to his motherland, discovering the rise of baseball in India. 1/4</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cc3882b7-90db-3b64-b35b-a63b897937e0/16-9"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321150000 +0530" stop="20240321153000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Indian Baseball Dreams</title>
-    <desc lang="en">As the 2023 Major League Baseball Draft approaches, Indian-American baseball talent Arjun Nimmala travels to his motherland, discovering the rise of baseball in India. 2/4</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/152a7987-7728-3d64-891b-3db7e1fece49/16-9"/>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321153000 +0530" stop="20240321184500 +0530" channel="TNTSports2.uk">
-    <title lang="en">Live MLB: Padres @ Dodgers</title>
-    <desc lang="en">Action from Major League Baseball as Los Angeles Dodgers host San Diego Padres at Dodger Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/be00724c-a4ef-35a3-b716-57237224a741/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321184500 +0530" stop="20240321191500 +0530" channel="TNTSports2.uk">
-    <title lang="en">Indian Baseball Dreams</title>
-    <desc lang="en">As the 2023 Major League Baseball Draft approaches, Indian-American baseball talent Arjun Nimmala travels to his motherland, discovering the rise of baseball in India. 3/4</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d86f7cd4-d151-35e1-a3a3-ee488209d489/16-9"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321191500 +0530" stop="20240321194500 +0530" channel="TNTSports2.uk">
-    <title lang="en">Indian Baseball Dreams</title>
-    <desc lang="en">As the 2023 Major League Baseball Draft approaches, Indian-American baseball talent Arjun Nimmala travels to his motherland, discovering the rise of baseball in India. 4/4</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e91d5456-2f10-363b-a540-923a443bd80d/16-9"/>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321194500 +0530" stop="20240321204500 +0530" channel="TNTSports2.uk">
-    <title lang="en">FIA Formula E Highlights</title>
-    <desc lang="en">Highlights from round four of the ABB FIA Formula E World Championship in Sao Paulo.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8bea03f4-2764-3b68-a343-23a98ee4224c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321204500 +0530" stop="20240321214500 +0530" channel="TNTSports2.uk">
-    <title lang="en">Fishing: On The Bank - 2024</title>
-    <desc lang="en">Andy gets up early to head out on the water with bass fishing guide Marcus Hazeldine. Plus, match angler Nick Speed gives tips on how to catch more fish.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Fishing</category>
-    <icon src="https://images.metadata.sky.com/pd-image/04cf4800-d3cd-371f-aeb2-50abfe459635/16-9"/>
-    <episode-num system="xmltv_ns">23.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321214500 +0530" stop="20240321220000 +0530" channel="TNTSports2.uk">
-    <title lang="en">UEFA Europa League Goals Reload</title>
-    <desc lang="en">The pick of the goals from the latest round of fixtures in the UEFA Europa League, including Brighton v Roma, Liverpool v Sparta Prague and West Ham v Freiburg.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c66ce560-a79a-3c42-91d1-e27a7a7b8869/16-9"/>
-    <episode-num system="xmltv_ns">22.9.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321220000 +0530" stop="20240321223000 +0530" channel="TNTSports2.uk">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">Jamie Bynoe-Gittens discusses moving to Germany, scoring in the Champions League, and a pivotal time at Caversham Trents. Plus, a special look at Arsenal boss Mikel Arteta.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7b60c28f-a3dd-31e3-ac46-ccfcd95b3430/16-9"/>
-    <episode-num system="xmltv_ns">22.21.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321223000 +0530" stop="20240321233000 +0530" channel="TNTSports2.uk">
-    <title lang="en">NZ v England - Women's 1st T20</title>
-    <desc lang="en">Women's cricket action from the first T20 between New Zealand and England at University Oval in Dunedin.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2e7080fd-a407-3099-85b5-6210e19edf1e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240321233000 +0530" stop="20240322003000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Ajax Women v Chelsea Women</title>
-    <desc lang="en">Action from the UEFA Women's Champions League quarter-final 1st leg between Ajax and Chelsea at Johan Cruyff Arena.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4d2c9f76-2393-3ec6-bad0-08775ee87df1/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322003000 +0530" stop="20240322013000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Benfica Women v Lyon Women</title>
-    <desc lang="en">Action from the UEFA Women's Champions League quarter-final 1st leg between Benfica and Lyon Women at Estadio da Luz.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2549c1b8-e354-3f38-8031-0b024dcb3899/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322013000 +0530" stop="20240322023000 +0530" channel="TNTSports2.uk">
-    <title lang="en">BK Hacken Women v PSG Women</title>
-    <desc lang="en">Action from the UEFA Women's Champions League quarter-final 1st leg between BK Hacken and Paris Saint-Germain at Bravida Arena.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/336db0b5-edfa-3f52-985f-93edc9d2f0af/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322023000 +0530" stop="20240322033000 +0530" channel="TNTSports2.uk">
-    <title lang="en">Brann Women v Barcelona Women</title>
-    <desc lang="en">Action from the UEFA Women's Champions League quarter-final 1st leg between Brann and Barcelona at Asane Arena.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ee8d1416-211a-31c2-bee4-c17483fe2c74/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322033000 +0530" stop="20240322034500 +0530" channel="TNTSports2.uk">
-    <title lang="en">Premier League Reload 2023</title>
-    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring Fulham v Tottenham, Luton v Nottingham Forest and West Ham v Aston Villa.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/431f0438-bf2a-3525-8108-0f4e5e98395a/16-9"/>
-    <episode-num system="xmltv_ns">22.28.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240322034500 +0530" stop="20240322040000 +0530" channel="TNTSports2.uk">
-    <title lang="en">TNT Sports Goals Reload</title>
-    <desc lang="en">We bring you the greatest goals from around the world this week, including action from the Premier League, Serie A and Ligue 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/26c7eca0-90aa-316c-93b0-5db6a676e141/16-9"/>
-    <episode-num system="xmltv_ns">22.29.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
   <programme start="20240322040000 +0530" stop="20240322043000 +0530" channel="TNTSports2.uk">
     <title lang="en">NBA Action</title>
     <desc lang="en">Action is the watchword for this fast paced highlights programme, which rounds up the latest action from the NBA.</desc>
@@ -596,7 +167,8 @@
     <desc lang="en">Broadcaster Jaydee Dyer meets British heavyweight boxer Moses Itauma.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6602c3bb-9f49-3640-8b42-a040f1f82b00/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9f8cecca-a06d-3d7b-9f60-7c3df6d544e8/16-9"/>
+    <episode-num system="xmltv_ns">23.0.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -636,7 +208,7 @@
   </programme>
   <programme start="20240322214500 +0530" stop="20240322223000 +0530" channel="TNTSports2.uk">
     <title lang="en">Live MotoE: GP of Portugal Qualifying</title>
-    <desc lang="en">MotoE action from the Grand Prix of Portugal Qualifying session.</desc>
+    <desc lang="en">MotoE action from the Grand Prix of Portugal qualifying session.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Motor Sports</category>
     <icon src="https://images.metadata.sky.com/pd-image/f54fbc44-12a3-3459-aba7-d59cc83cf290/16-9"/>
@@ -712,7 +284,8 @@
     <desc lang="en">Broadcaster Jaydee Dyer meets British heavyweight boxer Moses Itauma.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
-    <icon src="https://images.metadata.sky.com/pd-image/40b9d264-d59c-3ce5-9dd2-6d50405f255c/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/9f8cecca-a06d-3d7b-9f60-7c3df6d544e8/16-9"/>
+    <episode-num system="xmltv_ns">23.0.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -723,10 +296,296 @@
   </programme>
   <programme start="20240323003000 +0530" stop="20240323053000 +0530" channel="TNTSports2.uk">
     <title lang="en">Live Boxing: Bourke v Lane</title>
-    <desc lang="en">Boxing action from Fight Night Live as Chris Bourke challenges Ashley Lane for the British bantamweight title at York Hall in London.</desc>
+    <desc lang="en">Action from Fight Night Live as Chris Bourke challenges Ashley Lane for the vacant British bantamweight title at York Hall in London. And, Willy Hutchinson faces Martin Houben.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
     <icon src="https://images.metadata.sky.com/pd-image/4333b143-d3f8-3056-94ff-3e646bfa5f00/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323053000 +0530" stop="20240323080000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live NBA: Cavaliers @ Timberwolves</title>
+    <desc lang="en">Action from the NBA as Minnesota Timberwolves host Cleveland Cavaliers at Target Center.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/495ce29b-35b7-3ea7-88bb-6e82e04fa5b4/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323080000 +0530" stop="20240323083000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">Could Juventus bring back the feel-good factor after their dip in form when they hosted Genoa? Elsewhere, new Lecce boss Luca Gotti took charge of his first match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95a704c5-02e8-3458-91e4-29e6c6368ce2/16-9"/>
+    <episode-num system="xmltv_ns">2020.28.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323083000 +0530" stop="20240323103000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Badminton: All England Open</title>
+    <desc lang="en">Action from the finals of the All England Open Badminton Championships, part of the HSBC BWF World Tour.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/675bf1c7-77ce-376e-9405-95416c799f7c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323103000 +0530" stop="20240323123000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live: Melbourne C W v Mariners W</title>
+    <desc lang="en">Action from the Liberty A-League Women as Melbourne City face Central Coast Mariners at City Football Academy Field.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/203ddb96-da73-3dac-9c65-b7e5ee92346c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323123000 +0530" stop="20240323130000 +0530" channel="TNTSports2.uk">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">Jamie Bynoe-Gittens discusses moving to Germany, scoring in the Champions League, and a pivotal time at Caversham Trents. Plus, a special look at Arsenal boss Mikel Arteta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7b60c28f-a3dd-31e3-ac46-ccfcd95b3430/16-9"/>
+    <episode-num system="xmltv_ns">22.21.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323130000 +0530" stop="20240323133000 +0530" channel="TNTSports2.uk">
+    <title lang="en">The Big Interview: Andrew Cole</title>
+    <desc lang="en">Andrew Cole discusses his incredible footballing journey, including getting noticed by Sir Alex Ferguson, winning the treble in 1999, and his lethal partnership with Dwight Yorke.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3843521-27d3-3ede-8187-39201b74b70c/16-9"/>
+    <episode-num system="xmltv_ns">22.32.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323133000 +0530" stop="20240323140000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Premier League Netbusters</title>
+    <desc lang="en">A unique and fast-paced look at all the best action from the Premier League, including West Ham v Aston Villa, Luton Town v Nottingham Forest and Fulham v Tottenham.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1b044c6f-cb49-310d-967a-ab7cfc7b9ab5/16-9"/>
+    <episode-num system="xmltv_ns">22.28.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323140000 +0530" stop="20240323153000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live Moto2/3: Portugal FP2</title>
+    <desc lang="en">Coverage of the Moto2 and Moto3 free practice 2 sessions at the Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8e1ad100-465f-3a33-a8a4-df623943535b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323153000 +0530" stop="20240323173000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live MotoGP: Portugal Qualifying</title>
+    <desc lang="en">Action from the MotoGP free practice 2 and qualifying sessions at the Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/92b13044-ec1b-33f4-8ea4-0956bc6eeab7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323173000 +0530" stop="20240323181500 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live MotoE: GP of Portugal Race 1</title>
+    <desc lang="en">Coverage of Race 1 from the MotoE Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8030c300-6923-37f4-8654-9809c896f8a6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323181500 +0530" stop="20240323200000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live Moto2/3: Portugal Qualifying</title>
+    <desc lang="en">Coverage of the Moto2 and Moto3 qualifying sessions from the Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3edd27e5-2983-3489-9e82-81adf5f7397d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323200000 +0530" stop="20240323213000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live MotoGP: Portugal Sprint Race</title>
+    <desc lang="en">MotoGP action from the Grand Prix of Portugal Sprint Race.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fe8ba8a8-9247-3caf-800d-99efb5204c5f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323213000 +0530" stop="20240323221500 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live MotoE: Portugal - Race 2</title>
+    <desc lang="en">Coverage of Race 2 from the MotoE Grand Prix of Portugal.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/29b9a5f9-3e80-3159-947a-099fd3dc6289/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323221500 +0530" stop="20240323223000 +0530" channel="TNTSports2.uk">
+    <title lang="en">MotoGP Rewind: Qatar 2024</title>
+    <desc lang="en">A look back at the best of the action from the MotoGP Grand Prix of Qatar.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d862d177-d6da-3e68-aefa-f72c0999b916/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240323223000 +0530" stop="20240324010000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Live NBA: Nets @ Knicks</title>
+    <desc lang="en">Action from the NBA as Brooklyn Nets face New York Knicks at Madison Square Garden.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cea4178-dd3f-3feb-b98f-7affee2b67ad/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324010000 +0530" stop="20240324013000 +0530" channel="TNTSports2.uk">
+    <title lang="en">NBA On Fire</title>
+    <desc lang="en">The latest episode of NBA On Fire.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ce8729b-f814-37dc-ae89-dcb48c6e7fad/16-9"/>
+    <episode-num system="xmltv_ns">22.20.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324013000 +0530" stop="20240324033000 +0530" channel="TNTSports2.uk">
+    <title lang="en">Boxing: Bourke v Lane</title>
+    <desc lang="en">Action from Fight Night Live as Chris Bourke challenges Ashley Lane for the vacant British bantamweight title at York Hall in London. And, Willy Hutchinson faces Martin Houben.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2993824c-7169-3a82-97cc-1556339ca542/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324033000 +0530" stop="20240324043000 +0530" channel="TNTSports2.uk">
+    <title lang="en">ABB FIA Formula E Preview Show</title>
+    <desc lang="en">A preview show looking ahead to round five of ABB FIA Formula E in Tokyo, Japan.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0b2d251-c7b7-31d9-9445-4cebdacbefe9/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324043000 +0530" stop="20240324050000 +0530" channel="TNTSports2.uk">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">The best of the latest action from the Vanarama National League, including Rochdale v Maidenhead, Bromley v York and Eastleigh v Hartlepool.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0238e8ff-cf8e-33e0-8ce6-9bad970a6207/16-9"/>
+    <episode-num system="xmltv_ns">2022.40.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240324050000 +0530" stop="20240324053000 +0530" channel="TNTSports2.uk">
+    <title lang="en">What Went Down: Joanna Jedrzejczyk</title>
+    <desc lang="en">Joanna Jedrzejczyk revisits her historic UFC 248 fight with Weili Zhang and discusses her pride at being involved in this intense contest.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/228ec2f0-8b9f-3ac8-9086-372234924e8c/16-9"/>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>

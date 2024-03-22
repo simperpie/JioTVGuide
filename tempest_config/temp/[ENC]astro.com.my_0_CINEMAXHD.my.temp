@@ -4,272 +4,6 @@
     <display-name lang="mg">CINEMAX 🄼</display-name>
     <icon src="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png"/>
   </channel>
-  <programme start="20240320224500 +0530" stop="20240321010500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">THE DEVIL'S ADVOCATE</title>
-    <desc lang="mg">Keanu Reeves stars as a successful young attorney battling for his very soul with Al Pacino as his sinister boss.</desc>
-    <credits>
-      <director>TAYLOR HACKFORD</director>
-      <actor>KEANU REEVES</actor>
-      <actor>AL PACINO</actor>
-      <actor>CHARLIZE THERON</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000499X186697.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240321010500 +0530" stop="20240321023500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Jumper</title>
-    <desc lang="mg">A teleporting man finds himself in a war between other 'Jumpers' and those who have sworn to kill them.</desc>
-    <credits>
-      <director>DOUG LIMAN</director>
-      <actor>HAYDEN CHRISTENSEN</actor>
-      <actor>SAMUEL L JACKSON</actor>
-      <actor>JAMIE BELL</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/jumper.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240321023500 +0530" stop="20240321030500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">BALLERS</title>
-    <desc lang="mg">Spencer takes his pitch on the road; Charles bristles over a slight; Ricky jumps to conclusions.</desc>
-    <credits>
-      <director>DAVID KATZENBERG</director>
-      <actor>DWAYNE JOHNSON</actor>
-      <actor>JOHN DAVID WASHINGTON</actor>
-      <actor>OMAR MILLER</actor>
-    </credits>
-    <category lang="mg">TV Show/Series</category>
-    <category lang="mg">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/Ballers.jpg"/>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240321030500 +0530" stop="20240321034000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">BALLERS</title>
-    <desc lang="mg">Spencer looks to score a key owner's blessing for a Vegas team; tensions rise between Charles and Larry.</desc>
-    <credits>
-      <director>DAVID KATZENBERG</director>
-      <actor>DWAYNE JOHNSON</actor>
-      <actor>JOHN DAVID WASHINGTON</actor>
-      <actor>OMAR MILLER</actor>
-    </credits>
-    <category lang="mg">TV Show/Series</category>
-    <category lang="mg">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/Ballers.jpg"/>
-    <episode-num system="xmltv_ns">.3.</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240321034000 +0530" stop="20240321053000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Stop-Loss</title>
-    <desc lang="mg">A decorated war hero returns to his hometown only to be dragged back into the battlefield, testing his resolve towards life, love and family.</desc>
-    <credits>
-      <director>KIMBERLY PEIRCE</director>
-      <actor>RYAN PHILLIPPE</actor>
-      <actor>JOSEPH GORDON-LEVITT</actor>
-      <actor>ABBIE CORNISH</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X110252.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240321053000 +0530" stop="20240321074000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Syriana</title>
-    <desc lang="mg">George Clooney is a ready-to-retire CIA veteran who gets sucked into a dangerous conspiracy on his last mission in the Middle East.</desc>
-    <credits>
-      <director>STEPHEN GAGHAN</director>
-      <actor>GEORGE CLOONEY</actor>
-      <actor>MATT DAMON</actor>
-      <actor>JEFFREY WRIGHT</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X58830.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240321074000 +0530" stop="20240321081000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">HOLLYWOOD on SET</title>
-    <desc lang="mg">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
-    <credits>
-      <director>PAUL WYNNE</director>
-    </credits>
-    <category lang="mg">TV Show/Series</category>
-    <category lang="mg">Series</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X517807.jpg"/>
-    <episode-num system="xmltv_ns">.1057.</episode-num>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240321081000 +0530" stop="20240321103000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">BLOOD DIAMOND</title>
-    <desc lang="mg">A smuggler, fisherman and reporter team up in search of a priceless pink diamond, a lost son and the dark story behind the diamond trade.</desc>
-    <credits>
-      <director>ED ZWICK</director>
-      <actor>LEONARDO DICAPRIO</actor>
-      <actor>JENNIFER CONNELLY</actor>
-      <actor>DJIMON HOUNSOU</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X1507.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240321103000 +0530" stop="20240321123000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">DRAGON: THE BRUCE LEE STORY</title>
-    <desc lang="mg">Jason Scott Lee is totally riveting in this moving tribute to the life of one of the most influential martial arts stars of all time Bruce Lee.</desc>
-    <credits>
-      <director>ROB COHEN</director>
-      <actor>JASON SCOTT LEE</actor>
-      <actor>LAUREN HOLLY</actor>
-      <actor>ROBERT WAGNER</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X772779.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240321123000 +0530" stop="20240321142000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Stop-Loss</title>
-    <desc lang="mg">A decorated war hero returns to his hometown only to be dragged back into the battlefield, testing his resolve towards life, love and family.</desc>
-    <credits>
-      <director>KIMBERLY PEIRCE</director>
-      <actor>RYAN PHILLIPPE</actor>
-      <actor>JOSEPH GORDON-LEVITT</actor>
-      <actor>ABBIE CORNISH</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X110252.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240321142000 +0530" stop="20240321162000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Warm Springs</title>
-    <desc lang="mg">One man's secret quest for hope during his darkest days, in a place that would serve as a source of strength for him the rest of his life: Warm Springs.</desc>
-    <credits>
-      <director>JOE SARGENT</director>
-      <actor>KENNETH BRANAGH</actor>
-      <actor>CYNTHIA NIXON</actor>
-      <actor>KATHY BATES</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X431605.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240321162000 +0530" stop="20240321182000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">Boycott</title>
-    <desc lang="mg">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
-    <credits>
-      <director>CLARK JOHNSON</director>
-      <actor>JEFFREY WRIGHT</actor>
-      <actor>TERRENCE HOWARD</actor>
-      <actor>C.C.H. POUNDER</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X323751.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240321182000 +0530" stop="20240321203000 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">MISSION: IMPOSSIBLE GHOST PROTOCOL</title>
-    <desc lang="mg">Ethan Hunt and his team get called to exonerate the IMF's name when it gets implicated in the Kremlin bombing.</desc>
-    <credits>
-      <director>BRAD BIRD</director>
-      <actor>TOM CRUISE</actor>
-      <actor>JEREMY RENNER</actor>
-      <actor>SIMON PEGG</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/Mission-Impossible-Ghost-Protocol.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240321203000 +0530" stop="20240321224500 +0530" channel="CINEMAXHD.my">
-    <title lang="mg">MISSION: IMPOSSIBLE ROGUE NATION</title>
-    <desc lang="mg">With his task force shut down, Agent Ethan Hunt is faced with his toughest mission yet when he has to stop a destructive criminal organisation before it is too late.</desc>
-    <credits>
-      <director>CHRISTOPHER MCQUARRIE</director>
-      <actor>TOM CRUISE</actor>
-      <actor>REBECCA FERGUSON</actor>
-      <actor>JEREMY RENNER</actor>
-    </credits>
-    <category lang="mg">Movies</category>
-    <category lang="mg">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000043X58844.jpg"/>
-    <video>
-      <quality>HDTV</quality>
-    </video>
-    <rating system="FCBM">
-      <value>13</value>
-    </rating>
-  </programme>
   <programme start="20240321224500 +0530" stop="20240322010000 +0530" channel="CINEMAXHD.my">
     <title lang="mg">Public Enemies</title>
     <desc lang="mg">Johnny Depp and Christian Bale star in this drama set in 1930s America about a government agent's attempt to stop a charismatic and elusive outlaw.</desc>
@@ -574,6 +308,264 @@
     </video>
     <rating system="FCBM">
       <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240322225500 +0530" stop="20240323004500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">War Dogs</title>
+    <desc lang="mg">True story of two stoner kids who become big-time arms dealers for the U.S. Government and close a $300 million deal that got them in way over their heads.</desc>
+    <credits>
+      <director>TODD PHILLIPS</director>
+      <actor>JONAH HILL</actor>
+      <actor>MILES TELLER</actor>
+      <actor>ANA DE ARMAS</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X187947.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240323004500 +0530" stop="20240323025000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">SIN CITY</title>
+    <desc lang="mg">A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.</desc>
+    <credits>
+      <director>FRANK MILLER</director>
+      <actor>MICKEY ROURKE</actor>
+      <actor>CLIVE OWEN</actor>
+      <actor>BRUCE WILLIS</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Thriller</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X381084.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240323025000 +0530" stop="20240323043500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">THE FACULTY</title>
+    <desc lang="mg">When some creepy things start happening around school, the students make a chilling discovery that confirms their worst suspicions.</desc>
+    <credits>
+      <director>ROBERT RODRIGUEZ</director>
+      <actor>ELIJAH WOOD</actor>
+      <actor>CLEA DUVALL</actor>
+      <actor>JORDANA BREWSTER</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Horror</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X323764.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240323043500 +0530" stop="20240323061500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">BLADE OF THE 47 RONIN</title>
+    <desc lang="mg">300 years after '47 Ronin,' the battling Samurai clans still exist. A powerful force reunites them against a common evil who wants power for himself.</desc>
+    <credits>
+      <director>RON YUAN</director>
+      <actor>ANNA AKANA</actor>
+      <actor>MARK DACASCOS</actor>
+      <actor>TERESA TING</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X784839.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240323061500 +0530" stop="20240323075000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">I Love You Man</title>
+    <desc lang="mg">In this comedy that explores what it truly means to be a friend, a successful realtor embarks on a series of 'man dates' to find a best man for his wedding.</desc>
+    <credits>
+      <director>JOHN HAMBURG</director>
+      <actor>PAUL RUDD</actor>
+      <actor>JASON SEGEL</actor>
+      <actor>RASHIDA JONES</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X110256.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240323075000 +0530" stop="20240323093000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">CHARLIE WILSON'S WAR</title>
+    <desc lang="mg">Tom Hanks and Julia Roberts star in this fact-based tale about a Texas congressman and the role he played in escalating tension in the Middle East.</desc>
+    <credits>
+      <director>MIKE NICHOLS</director>
+      <actor>TOM HANKS</actor>
+      <actor>JULIA ROBERTS</actor>
+      <actor>PHILIP SEYMOUR HOFFMAN</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000150X22206.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240323093000 +0530" stop="20240323110500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">EASTER SUNDAY</title>
+    <desc lang="mg">A love letter to the Filipino-American community, stand-up comedian Jo Koy stars as a man returning back to his hometown for a celebration with his riotous but loving family.</desc>
+    <credits>
+      <director>JAY CHANDRASEKHAR</director>
+      <actor>JO KOY</actor>
+      <actor>JIMMY O. YANG</actor>
+      <actor>TIA CARRERE</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X731563.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240323110500 +0530" stop="20240323124000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">48 Hrs.</title>
+    <desc lang="mg">A jailbird and a detective forge an unlikely alliance to catch the convict's escaped partner.</desc>
+    <credits>
+      <director>WALTER HILL</director>
+      <actor>EDDIE MURPHY</actor>
+      <actor>NICK NOLTE</actor>
+      <actor>ANNETTE O'TOOLE</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X286136.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240323124000 +0530" stop="20240323141500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">Another 48 Hrs.</title>
+    <desc lang="mg">A hard-bitten San Francisco cop, the prime suspect in a shooting, is forced to re-team with an ex-con in order to clear his name. Stars Eddie Murphy.</desc>
+    <credits>
+      <director>WALTER HILL</director>
+      <actor>EDDIE MURPHY</actor>
+      <actor>NICK NOLTE</actor>
+      <actor>BRION JAMES</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/985X287826.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240323141500 +0530" stop="20240323144500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">HOLLYWOOD on SET</title>
+    <desc lang="mg">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <credits>
+      <director>PAUL WYNNE</director>
+    </credits>
+    <category lang="mg">TV Show/Series</category>
+    <category lang="mg">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X517807.jpg"/>
+    <episode-num system="xmltv_ns">.1058.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240323144500 +0530" stop="20240323163000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">The Pentagon Wars</title>
+    <desc lang="mg">Follow the comedic exploits and firefight between an Air Force lieutenant colonel and Army major over a carrier/scout vehicle.</desc>
+    <credits>
+      <director>RICHARD BENJAMIN</director>
+      <actor>KELSEY GRAMMER</actor>
+      <actor>CARY ELWES</actor>
+      <actor>VIOLA DAVIS</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X258787.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240323163000 +0530" stop="20240323180500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">The Gathering Storm</title>
+    <desc lang="mg">The story of Winston Churchill unfolds in this award winning HBO Original Movie.</desc>
+    <credits>
+      <director>RICHARD LONCRAINE</director>
+      <actor>ALBERT FINNEY</actor>
+      <actor>VANESSA REDGRAVE</actor>
+      <actor>JIM BROADBENT</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X342903.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240323180500 +0530" stop="20240323203000 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">MISSION: IMPOSSIBLE - FALLOUT</title>
+    <desc lang="mg">Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.</desc>
+    <credits>
+      <director>CHRISTOPHER MCQUARRIE</director>
+      <actor>TOM CRUISE</actor>
+      <actor>HENRY CAVILL</actor>
+      <actor>REBECCA FERGUSON</actor>
+    </credits>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X351287.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240323203000 +0530" stop="20240323221500 +0530" channel="CINEMAXHD.my">
+    <title lang="mg">The Tuskegee Airmen</title>
+    <desc lang="mg">The historic struggle and the courageous fighting of The Tuskegee Airmen, the first African-American U.S. Army Air Corps combat fighter pilots in WWII.</desc>
+    <category lang="mg">Movies</category>
+    <category lang="mg">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JDPQW.jpg"/>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="FCBM">
+      <value>U</value>
     </rating>
   </programme>
 </tv>
