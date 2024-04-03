@@ -653,10 +653,10 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/626A62C613F187997F5301DCB3BE68F6FB8B4585D.jpg"/>
   </programme>
   <programme start="20240404180000 +0530" stop="20240404183000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Cricket Live Countdown</title>
-    <desc lang="en">A compilation of some of the best moments of the Indian cricket team competing against various countries in India's 2024 home season, live.</desc>
+    <title lang="en">Cricket Countdown</title>
+    <desc lang="en">A countdown of some of the best moments from various professional cricket matches played around the world by various teams in 2024.</desc>
     <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8ABCD4AD923EDDED6AB3B4EA08D870501DBAA9ECD.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFA2D70CBD52BE8EFC904C449BF46D05ADF03ABF1.jpg"/>
   </programme>
   <programme start="20240404183000 +0530" stop="20240404192000 +0530" channel="Star Sports 2 HD">
     <title lang="en">Amul Cricket Live</title>
@@ -724,76 +724,316 @@
     <category lang="en">Kabaddi</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FFE7F8663229FC91F26EE765ED6F21BD696C91T.jpg"/>
   </programme>
-  <programme start="20240405000000 +0530" stop="20240405020000 +0530" channel="Star Sports 2 HD">
+  <programme start="20240405000000 +0530" stop="20240405003000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v MI</title>
+    <desc lang="en">Gujarat Titans vs. Mumbai Indians- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2EF9A563EFB04D822D10FC48E4AADBE7408DC0898.jpg"/>
+  </programme>
+  <programme start="20240405003000 +0530" stop="20240405010000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405010000 +0530" stop="20240405013000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights CSK v GT</title>
+    <desc lang="en">Chennai Super Kings vs. Gujarat Titans- M A Chidambaram Stadium, Chennai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF40D07E941D93C1E3E70F9AC0838976EC2914221.jpg"/>
+  </programme>
+  <programme start="20240405013000 +0530" stop="20240405020000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405020000 +0530" stop="20240405023000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights RR v DC</title>
+    <desc lang="en">Rajasthan Royals vs. Delhi Capitals- Sawai Mansingh Stadium, Jaipur, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB540F1D7830E131C6DA812DF4229ADE08F5FFC07.jpg"/>
+  </programme>
+  <programme start="20240405023000 +0530" stop="20240405030000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights RCB v KKR</title>
+    <desc lang="en">Royal Challengers Bengaluru vs. Kolkata Knight Riders- M Chinnaswamy Stadium, Bengaluru, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E23718C169D58F55959857D34390BBACAB1A2CC6.jpg"/>
+  </programme>
+  <programme start="20240405030000 +0530" stop="20240405033000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405033000 +0530" stop="20240405040000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v SRH</title>
+    <desc lang="en">Gujarat Titans vs. Sunrisers Hyderabad- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/35487686428E237E489E430D85EBDC7C6780D7591.jpg"/>
+  </programme>
+  <programme start="20240405040000 +0530" stop="20240405043000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights DC v CSK</title>
+    <desc lang="en">Delhi Capitals vs. Chennai Super Kings- ACA VDCA Cricket Stadium, Visakhapatnam, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A511A4922AAE4B8E37CDC7F113402B5E3803F8A8X.jpg"/>
+  </programme>
+  <programme start="20240405043000 +0530" stop="20240405050000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405050000 +0530" stop="20240405053000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights RCB v LSG</title>
+    <desc lang="en">Royal Challengers Bengaluru vs. Lucknow Super Giants- M Chinnaswamy Stadium, Bengaluru, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD7125E20F22F22BFD266AD54073FEA4A4767B0D6.jpg"/>
+  </programme>
+  <programme start="20240405053000 +0530" stop="20240405060000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights DC v KKR</title>
+    <desc lang="en">Delhi Capitals vs. Kolkata Knight Riders- ACA VDCA Cricket Stadium, Visakhapatnam, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/626A62C613F187997F5301DCB3BE68F6FB8B4585D.jpg"/>
+  </programme>
+  <programme start="20240405060000 +0530" stop="20240405063000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405063000 +0530" stop="20240405070000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights MI v RR</title>
+    <desc lang="en">Mumbai Indians vs. Rajasthan Royals- Wankhede Stadium, Mumbai, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/41D9ECD3C906159AE300809AE8FB11C51CD74726M.jpg"/>
+  </programme>
+  <programme start="20240405070000 +0530" stop="20240405071500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">IPL Today</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09384E0A2752E6DF6178DB1B4AC2C85FAB7B879C4.jpg"/>
+  </programme>
+  <programme start="20240405071500 +0530" stop="20240405073000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405073000 +0530" stop="20240405074500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Match Point:IPL 2024</title>
+    <desc lang="en">Experts discuss the game of cricket, provide interesting trivia and review the performances of players and teams in the IPL 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C7C155DB35EB477D70960967A23DA13C720A8813I.jpg"/>
+  </programme>
+  <programme start="20240405074500 +0530" stop="20240405080000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405080000 +0530" stop="20240405081500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights SRH v MI</title>
+    <desc lang="en">Sunrisers Hyderabad vs. Mumbai Indians- Rajiv Gandhi International Cricket Stadium, Hyderabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CDD67EE5769684E9E315B0BBB645AED85AFB809G.jpg"/>
+  </programme>
+  <programme start="20240405081500 +0530" stop="20240405083000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights DC v CSK</title>
+    <desc lang="en">Delhi Capitals vs. Chennai Super Kings- ACA VDCA Cricket Stadium, Visakhapatnam, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A511A4922AAE4B8E37CDC7F113402B5E3803F8A8X.jpg"/>
+  </programme>
+  <programme start="20240405083000 +0530" stop="20240405090000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Cricket Countdown:IPL 2024</title>
+    <desc lang="en">A recap of some of the best moments from the 2024 Indian Premier League is presented wherein teams representing different parts of India compete to win.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C4A75E9D70859DC375CE4C774275C48268372554M.jpg"/>
+  </programme>
+  <programme start="20240405090000 +0530" stop="20240405091500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Game Plan:IPL 2024</title>
+    <desc lang="en">Analysis of the matches played during the 2024 Indian Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78E1D5384AFE3E45436CF2CEA9C548AA4308253C1.jpg"/>
+  </programme>
+  <programme start="20240405091500 +0530" stop="20240405093000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights DC v CSK</title>
+    <desc lang="en">Delhi Capitals vs. Chennai Super Kings- ACA VDCA Cricket Stadium, Visakhapatnam, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A511A4922AAE4B8E37CDC7F113402B5E3803F8A8X.jpg"/>
+  </programme>
+  <programme start="20240405093000 +0530" stop="20240405100000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405100000 +0530" stop="20240405101500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">IPL Today</title>
+    <desc lang="en">The host sheds light on various stories concerning the 2024 season of the Indian Premier League, a men's Twenty20 cricket league that is annually held in India.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/09384E0A2752E6DF6178DB1B4AC2C85FAB7B879C4.jpg"/>
+  </programme>
+  <programme start="20240405101500 +0530" stop="20240405103000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights DC v KKR</title>
+    <desc lang="en">Delhi Capitals vs. Kolkata Knight Riders- ACA VDCA Cricket Stadium, Visakhapatnam, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/626A62C613F187997F5301DCB3BE68F6FB8B4585D.jpg"/>
+  </programme>
+  <programme start="20240405103000 +0530" stop="20240405104500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Follow The Blues</title>
+    <desc lang="en">The host sheds light on the journey of the Indian cricket team through various professional tournaments and its strategies and preparations for major face-offs during 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/103A3BD7E04816EAAE8FBEE57C3EAEC7CB3047821.jpg"/>
+  </programme>
+  <programme start="20240405104500 +0530" stop="20240405110000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights RCB v LSG</title>
+    <desc lang="en">Royal Challengers Bengaluru vs. Lucknow Super Giants- M Chinnaswamy Stadium, Bengaluru, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FD7125E20F22F22BFD266AD54073FEA4A4767B0D6.jpg"/>
+  </programme>
+  <programme start="20240405110000 +0530" stop="20240405111500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Game Plan:IPL 2024</title>
+    <desc lang="en">Analysis of the matches played during the 2024 Indian Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78E1D5384AFE3E45436CF2CEA9C548AA4308253C1.jpg"/>
+  </programme>
+  <programme start="20240405111500 +0530" stop="20240405114500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights DC v CSK</title>
+    <desc lang="en">Delhi Capitals vs. Chennai Super Kings- ACA VDCA Cricket Stadium, Visakhapatnam, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A511A4922AAE4B8E37CDC7F113402B5E3803F8A8X.jpg"/>
+  </programme>
+  <programme start="20240405114500 +0530" stop="20240405120000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Match Point:IPL 2024</title>
+    <desc lang="en">Experts discuss the game of cricket, provide interesting trivia and review the performances of players and teams in the IPL 2024.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C7C155DB35EB477D70960967A23DA13C720A8813I.jpg"/>
+  </programme>
+  <programme start="20240405120000 +0530" stop="20240405123000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
+  </programme>
+  <programme start="20240405123000 +0530" stop="20240405130000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Cricket Countdown:IPL 2024</title>
+    <desc lang="en">A recap of some of the best moments from the 2024 Indian Premier League is presented wherein teams representing different parts of India compete to win.</desc>
+    <category lang="en">Other Sports</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C4A75E9D70859DC375CE4C774275C48268372554M.jpg"/>
+  </programme>
+  <programme start="20240405130000 +0530" stop="20240405160000 +0530" channel="Star Sports 2 HD">
     <title lang="en">Sports Programme</title>
     <desc lang="en">Sports Programme</desc>
     <category lang="en">Other Sports</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
   </programme>
-  <programme start="20240405020000 +0530" stop="20240405040000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+  <programme start="20240405160000 +0530" stop="20240405163000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
   </programme>
-  <programme start="20240405040000 +0530" stop="20240405060000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
+  <programme start="20240405163000 +0530" stop="20240405164500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Follow The Blues</title>
+    <desc lang="en">The host sheds light on the journey of the Indian cricket team through various professional tournaments and its strategies and preparations for major face-offs during 2024.</desc>
     <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/103A3BD7E04816EAAE8FBEE57C3EAEC7CB3047821.jpg"/>
   </programme>
-  <programme start="20240405060000 +0530" stop="20240405080000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+  <programme start="20240405164500 +0530" stop="20240405170000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights SRH v MI</title>
+    <desc lang="en">Sunrisers Hyderabad vs. Mumbai Indians- Rajiv Gandhi International Cricket Stadium, Hyderabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6CDD67EE5769684E9E315B0BBB645AED85AFB809G.jpg"/>
   </programme>
-  <programme start="20240405080000 +0530" stop="20240405100000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+  <programme start="20240405170000 +0530" stop="20240405171500 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Game Plan:IPL 2024</title>
+    <desc lang="en">Analysis of the matches played during the 2024 Indian Premier League.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/78E1D5384AFE3E45436CF2CEA9C548AA4308253C1.jpg"/>
   </programme>
-  <programme start="20240405100000 +0530" stop="20240405120000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+  <programme start="20240405171500 +0530" stop="20240405173000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights DC v CSK</title>
+    <desc lang="en">Delhi Capitals vs. Chennai Super Kings- ACA VDCA Cricket Stadium, Visakhapatnam, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A511A4922AAE4B8E37CDC7F113402B5E3803F8A8X.jpg"/>
   </programme>
-  <programme start="20240405120000 +0530" stop="20240405140000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+  <programme start="20240405173000 +0530" stop="20240405180000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">TATA IPL 2024 Highlights GT v PBKS</title>
+    <desc lang="en">Gujarat Titans vs. Punjab Kings- Narendra Modi Stadium, Ahmedabad, India</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F086A7A935F49D68C44AEB5F04994A382B71C56EJ.jpg"/>
   </programme>
-  <programme start="20240405140000 +0530" stop="20240405160000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
+  <programme start="20240405180000 +0530" stop="20240405183000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Cricket Live Countdown</title>
+    <desc lang="en">A compilation of some of the best moments of the Indian cricket team competing against various countries in India's 2024 home season, live.</desc>
     <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8ABCD4AD923EDDED6AB3B4EA08D870501DBAA9ECD.jpg"/>
   </programme>
-  <programme start="20240405160000 +0530" stop="20240405180000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
+  <programme start="20240405183000 +0530" stop="20240405192000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">Amul Cricket Live</title>
+    <desc lang="en">Live pre-show analysis of the matches played during the 2024 Indian Premier League.</desc>
     <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/419A4E92DD16CF4F8C3F50593A5E47EA64559DC44.jpg"/>
   </programme>
-  <programme start="20240405180000 +0530" stop="20240405200000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
+  <programme start="20240405192000 +0530" stop="20240405193000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">IPL Snapshot</title>
+    <desc lang="en">IPL (2023 to 2027): Take a look at some of the most memorable cricket matches and other interesting moments.</desc>
     <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D614309760AC678F634C5E3B12336CFD2AF1A26J.jpg"/>
   </programme>
-  <programme start="20240405200000 +0530" stop="20240405220000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+  <programme start="20240405193000 +0530" stop="20240405200000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">PKL Season 10 - Highlights PAT v JAI</title>
+    <desc lang="en">Patna Pirates vs. Jaipur Pink Panthers- Shree Shiv Chhatrapati Sports Complex, Pune, India</desc>
+    <category lang="en">Kabaddi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FFE7F8663229FC91F26EE765ED6F21BD696C91T.jpg"/>
   </programme>
-  <programme start="20240405220000 +0530" stop="20240406020000 +0530" channel="Star Sports 2 HD">
-    <title lang="en">Sports Programme</title>
-    <desc lang="en">Sports Programme</desc>
-    <category lang="en">Other Sports</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6BFEBC129C4216A9AE8A399E29554CAE839993461.jpg"/>
+  <programme start="20240405200000 +0530" stop="20240405203000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">PKL Season 10 - Highlights PUN v PAT</title>
+    <desc lang="en">Puneri Paltan vs. Patna Pirates- Jawaharlal Nehru Indoor Stadium, Chennai, India</desc>
+    <category lang="en">Kabaddi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FFE7F8663229FC91F26EE765ED6F21BD696C91T.jpg"/>
+  </programme>
+  <programme start="20240405203000 +0530" stop="20240405210000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">ICC Women's World T20 Hlts. IND v IRE</title>
+    <desc lang="en">India vs. Ireland- St George's Park Cricket Ground, Gqeberha, South Africa</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68061D991751B3028BCE42DA4B503C2934109636C.jpg"/>
+  </programme>
+  <programme start="20240405210000 +0530" stop="20240405213000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">PKL Season 10 - Highlights MUM v CHE</title>
+    <desc lang="en">U Mumba vs. Tamil Thalaivas- Shree Shiv Chhatrapati Sports Complex, Pune, India</desc>
+    <category lang="en">Kabaddi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FFE7F8663229FC91F26EE765ED6F21BD696C91T.jpg"/>
+  </programme>
+  <programme start="20240405213000 +0530" stop="20240405220000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">ICC Women's World T20 Hlts. AUS v IND</title>
+    <desc lang="en">Semi-Finals, Australia vs. India- Newlands Cricket Ground, Cape Town, South Africa</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A19BD9105A47905656615A3F35A6182736BDEA64C.jpg"/>
+  </programme>
+  <programme start="20240405220000 +0530" stop="20240405223000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">PKL Season 10 - Highlights PUN v HAR</title>
+    <desc lang="en">Puneri Paltan vs. Haryana Steelers- Shree Shiv Chhatrapati Sports Complex, Pune, India</desc>
+    <category lang="en">Kabaddi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FFE7F8663229FC91F26EE765ED6F21BD696C91T.jpg"/>
+  </programme>
+  <programme start="20240405223000 +0530" stop="20240405230000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">ICC Women's World T20 Hlts. WI v IND</title>
+    <desc lang="en">West Indies vs. India- Newlands Cricket Ground, Cape Town, South Africa</desc>
+    <category lang="en">Cricket</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D960CEB7C8CFC96777A185D166463CAEB56C097CN.jpg"/>
+  </programme>
+  <programme start="20240405230000 +0530" stop="20240405233000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">PKL Season 10 - Highlights BLR v JAI</title>
+    <desc lang="en">Bengaluru Bulls vs. Jaipur Pink Panthers- Kanteerava Indoor Stadium, Bengaluru, India</desc>
+    <category lang="en">Kabaddi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FFE7F8663229FC91F26EE765ED6F21BD696C91T.jpg"/>
+  </programme>
+  <programme start="20240405233000 +0530" stop="20240406000000 +0530" channel="Star Sports 2 HD">
+    <title lang="en">PKL Season 10 - Highlights PAT v JAI</title>
+    <desc lang="en">Patna Pirates vs. Jaipur Pink Panthers- Shree Shiv Chhatrapati Sports Complex, Pune, India</desc>
+    <category lang="en">Kabaddi</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/11FFE7F8663229FC91F26EE765ED6F21BD696C91T.jpg"/>
   </programme>
 </tv>
