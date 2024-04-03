@@ -32,7 +32,10 @@ jobs:
         
     - name: Execute Script
       run: |
-        php tempest.php engine=Generate createinvxmlgz=on
+        php tempest.php engine=Generate tempconfig=simper.config.xml createinvxmlgz=on
+        php tempest.php engine=Generate tempconfig=tataplay.config.xml createinvxmlgz=on
+        rm tempest_config/epg/simper_epg.xml
+        rm tempest_config/epg/tataplay_epg.xml
         git add .
         git commit -m "Automated commit"
         git push
