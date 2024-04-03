@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="CNBC TV18 Prime HD">
+    <display-name lang="en">CNBC TV18 Prime HD</display-name>
+    <icon src="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_150/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png"/>
+  </channel>
+  <programme start="20240403003000 +0530" stop="20240403013000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+      <actor>Bill Griffeth</actor>
+      <actor>Maria Bartiromo</actor>
+      <actor>Kelly Chang Rickert</actor>
+      <actor>Gemma Godfrey</actor>
+      <actor>Lauren Fix</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEB5403DC44606185FE8ABF5D05381FF28F78CCB7.jpg"/>
+  </programme>
+  <programme start="20240403013000 +0530" stop="20240403023000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Closing Bell: Overtime</title>
+    <desc lang="en">The host invites a renowned industry expert to discuss the trending market developments.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A08B8B131688AD8483AF2C0EC8845E14E6A6EC7FZ.jpg"/>
+  </programme>
+  <programme start="20240403023000 +0530" stop="20240403033000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Fast Money</title>
+    <desc lang="en">A group of panelist discuss business-related stories and economic development.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D57537921966E8690C72A5F6F695FB6FA1304D4V.jpg"/>
+  </programme>
+  <programme start="20240403033000 +0530" stop="20240403063000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Asia: Experts provide pre-market updates useful for investors and professional traders.</desc>
+    <credits>
+      <actor>Becky Quick</actor>
+      <actor>Joe Kernen</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A12BF2640B37E62AFBD61C87DA44E09B17C1207FS.jpg"/>
+  </programme>
+  <programme start="20240403063000 +0530" stop="20240403080000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Street Signs</title>
+    <desc lang="en">Asia: Martin Soong and Oriel Morrison provide real-time information on the Asian markets.</desc>
+    <credits>
+      <actor>Martin Soong</actor>
+      <actor>Oriel Morrison</actor>
+      <actor>Tanvir Gill</actor>
+      <actor>Nancy Hungerford</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54A0FED89D1BA30EBF1D2C7D84C7328D4B25CA1BK.jpg"/>
+  </programme>
+  <programme start="20240403080000 +0530" stop="20240403090000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Morning Call</title>
+    <desc lang="en">India: The hosts take a look at the condition of the stock market prior to its opening.</desc>
+    <credits>
+      <actor>Udayan Mukherjee</actor>
+      <actor>Mitali Mukherjee</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E2B8D431DB195354C13CA597B1446F146FDA26CN.jpg"/>
+  </programme>
+  <programme start="20240403090000 +0530" stop="20240403100000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Open Exchange</title>
+    <desc lang="en">India: The hosts analyse the current state and trends of the stock market.</desc>
+    <credits>
+      <actor>Latha Venkatesh</actor>
+      <actor>Anuj Singhal</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE1AC8DBBEE964FF1FC3EE93C3EAB6C4A192A7CCG.jpg"/>
+  </programme>
+  <programme start="20240403100000 +0530" stop="20240403103000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Corporate Radar</title>
+    <desc lang="en">India: Take a look at how CEOs and global economists go about their business.</desc>
+    <credits>
+      <actor>Udayan Mukherjee</actor>
+      <actor>Mitali Mukherjee</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE423D62379E64FFCB0A4151F8235C255C43F668Y.jpg"/>
+  </programme>
+  <programme start="20240403103000 +0530" stop="20240403113000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Capital Connection</title>
+    <desc lang="en">Europe: The hosts provide an in-depth analysis of the trends that affect international markets.</desc>
+    <credits>
+      <actor>Matthew Taylor</actor>
+      <actor>Hadley Gamble</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/618E8187590CB03E39C0449DF7999F80A6C4ED1D5.jpg"/>
+  </programme>
+  <programme start="20240403113000 +0530" stop="20240403143000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Europe: A look at Asia's market performance while an analysis of the US markets is also done.</desc>
+    <credits>
+      <actor>Becky Quick</actor>
+      <actor>Joe Kernen</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A12BF2640B37E62AFBD61C87DA44E09B17C1207FS.jpg"/>
+  </programme>
+  <programme start="20240403143000 +0530" stop="20240403160000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">NSE Closing Bell</title>
+    <desc lang="en">India: The host presents the status of the stocks at the time of the closing bell.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA7F62C2A0E2FDE2F6D4F7E44804D0CABCF3233BJ.jpg"/>
+  </programme>
+  <programme start="20240403160000 +0530" stop="20240403183000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">US Squawk Box</title>
+    <desc lang="en">Prominent personalities and analysts share their insights on the latest business updates.</desc>
+    <credits>
+      <actor>Joe Kernen</actor>
+      <actor>Becky Quick</actor>
+      <actor>Andrew Ross Sorki</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0E0E17E628A340BB353B9B717E870CB374D58BN.jpg"/>
+  </programme>
+  <programme start="20240403183000 +0530" stop="20240403203000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk On The Street</title>
+    <desc lang="en">The host presents updates from the first 90 minutes of trading in the US stock market.</desc>
+    <credits>
+      <actor>David Faber</actor>
+      <actor>Simon Hobbs</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46B6DD0C62FF39943E69D4173703F41D26F0490BN.jpg"/>
+  </programme>
+  <programme start="20240403203000 +0530" stop="20240403210000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Money Movers</title>
+    <desc lang="en">The hosts, along with experts, discuss various speculations concerning the market.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/753334FD13AC2BD2595ECBF03F3E034CC8965B6FH.jpg"/>
+  </programme>
+  <programme start="20240403210000 +0530" stop="20240403213000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">India: The hosts take a look at the biggest business news stories of the day.</desc>
+    <credits>
+      <actor>Shereen Bhan</actor>
+      <actor>Harsha Subramaniam</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E39EDA861A3133FAE6321ECB2E465A642B58B5FFU.jpg"/>
+  </programme>
+  <programme start="20240403213000 +0530" stop="20240403223000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Halftime Report</title>
+    <desc lang="en">The host presents a fast-paced analysis of key developments in the market.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/31B87726D85FC2382829C37A986437B4047E0A7CF.jpg"/>
+  </programme>
+  <programme start="20240403223000 +0530" stop="20240403233000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">The Exchange</title>
+    <desc lang="en">Host Kelly Evans presents the latest financial and economic headlines around the world.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D46075C26F4922829525E343094F12CC54C065C1.jpg"/>
+  </programme>
+  <programme start="20240403233000 +0530" stop="20240404003000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Power Lunch</title>
+    <desc lang="en">Experts discuss how money can be made in the fields of real estate and stock market.</desc>
+    <credits>
+      <actor>Bill Griffeth</actor>
+      <actor>Sue Herera</actor>
+      <actor>Tyler Mathisen</actor>
+      <actor>Dennis Kneale</actor>
+      <actor>Amanda Drury</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDD3496ECA1C832C69589BACE5DF76ADDB6E01F2A.jpg"/>
+  </programme>
+  <programme start="20240404003000 +0530" stop="20240404013000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+      <actor>Bill Griffeth</actor>
+      <actor>Maria Bartiromo</actor>
+      <actor>Kelly Chang Rickert</actor>
+      <actor>Gemma Godfrey</actor>
+      <actor>Lauren Fix</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEB5403DC44606185FE8ABF5D05381FF28F78CCB7.jpg"/>
+  </programme>
+  <programme start="20240404013000 +0530" stop="20240404023000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Closing Bell: Overtime</title>
+    <desc lang="en">The host invites a renowned industry expert to discuss the trending market developments.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A08B8B131688AD8483AF2C0EC8845E14E6A6EC7FZ.jpg"/>
+  </programme>
+  <programme start="20240404023000 +0530" stop="20240404033000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Fast Money</title>
+    <desc lang="en">A group of panelist discuss business-related stories and economic development.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D57537921966E8690C72A5F6F695FB6FA1304D4V.jpg"/>
+  </programme>
+  <programme start="20240404033000 +0530" stop="20240404063000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Asia: Experts provide pre-market updates useful for investors and professional traders.</desc>
+    <credits>
+      <actor>Becky Quick</actor>
+      <actor>Joe Kernen</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A12BF2640B37E62AFBD61C87DA44E09B17C1207FS.jpg"/>
+  </programme>
+  <programme start="20240404063000 +0530" stop="20240404080000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Street Signs</title>
+    <desc lang="en">Asia: Martin Soong and Oriel Morrison provide real-time information on the Asian markets.</desc>
+    <credits>
+      <actor>Martin Soong</actor>
+      <actor>Oriel Morrison</actor>
+      <actor>Tanvir Gill</actor>
+      <actor>Nancy Hungerford</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54A0FED89D1BA30EBF1D2C7D84C7328D4B25CA1BK.jpg"/>
+  </programme>
+  <programme start="20240404080000 +0530" stop="20240404090000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Morning Call</title>
+    <desc lang="en">India: The hosts take a look at the condition of the stock market prior to its opening.</desc>
+    <credits>
+      <actor>Udayan Mukherjee</actor>
+      <actor>Mitali Mukherjee</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E2B8D431DB195354C13CA597B1446F146FDA26CN.jpg"/>
+  </programme>
+  <programme start="20240404090000 +0530" stop="20240404100000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Open Exchange</title>
+    <desc lang="en">India: The hosts analyse the current state and trends of the stock market.</desc>
+    <credits>
+      <actor>Latha Venkatesh</actor>
+      <actor>Anuj Singhal</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE1AC8DBBEE964FF1FC3EE93C3EAB6C4A192A7CCG.jpg"/>
+  </programme>
+  <programme start="20240404100000 +0530" stop="20240404103000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Corporate Radar</title>
+    <desc lang="en">India: Take a look at how CEOs and global economists go about their business.</desc>
+    <credits>
+      <actor>Udayan Mukherjee</actor>
+      <actor>Mitali Mukherjee</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE423D62379E64FFCB0A4151F8235C255C43F668Y.jpg"/>
+  </programme>
+  <programme start="20240404103000 +0530" stop="20240404113000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Capital Connection</title>
+    <desc lang="en">Europe: The hosts provide an in-depth analysis of the trends that affect international markets.</desc>
+    <credits>
+      <actor>Matthew Taylor</actor>
+      <actor>Hadley Gamble</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/618E8187590CB03E39C0449DF7999F80A6C4ED1D5.jpg"/>
+  </programme>
+  <programme start="20240404113000 +0530" stop="20240404143000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Europe: A look at Asia's market performance while an analysis of the US markets is also done.</desc>
+    <credits>
+      <actor>Becky Quick</actor>
+      <actor>Joe Kernen</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A12BF2640B37E62AFBD61C87DA44E09B17C1207FS.jpg"/>
+  </programme>
+  <programme start="20240404143000 +0530" stop="20240404160000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">NSE Closing Bell</title>
+    <desc lang="en">India: The host presents the status of the stocks at the time of the closing bell.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA7F62C2A0E2FDE2F6D4F7E44804D0CABCF3233BJ.jpg"/>
+  </programme>
+  <programme start="20240404160000 +0530" stop="20240404183000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">US Squawk Box</title>
+    <desc lang="en">Prominent personalities and analysts share their insights on the latest business updates.</desc>
+    <credits>
+      <actor>Joe Kernen</actor>
+      <actor>Becky Quick</actor>
+      <actor>Andrew Ross Sorki</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0E0E17E628A340BB353B9B717E870CB374D58BN.jpg"/>
+  </programme>
+  <programme start="20240404183000 +0530" stop="20240404203000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk On The Street</title>
+    <desc lang="en">The host presents updates from the first 90 minutes of trading in the US stock market.</desc>
+    <credits>
+      <actor>David Faber</actor>
+      <actor>Simon Hobbs</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46B6DD0C62FF39943E69D4173703F41D26F0490BN.jpg"/>
+  </programme>
+  <programme start="20240404203000 +0530" stop="20240404210000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Money Movers</title>
+    <desc lang="en">The hosts, along with experts, discuss various speculations concerning the market.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/753334FD13AC2BD2595ECBF03F3E034CC8965B6FH.jpg"/>
+  </programme>
+  <programme start="20240404210000 +0530" stop="20240404213000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">India: The hosts take a look at the biggest business news stories of the day.</desc>
+    <credits>
+      <actor>Shereen Bhan</actor>
+      <actor>Harsha Subramaniam</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E39EDA861A3133FAE6321ECB2E465A642B58B5FFU.jpg"/>
+  </programme>
+  <programme start="20240404213000 +0530" stop="20240404223000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Halftime Report</title>
+    <desc lang="en">The host presents a fast-paced analysis of key developments in the market.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/31B87726D85FC2382829C37A986437B4047E0A7CF.jpg"/>
+  </programme>
+  <programme start="20240404223000 +0530" stop="20240404233000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">The Exchange</title>
+    <desc lang="en">Host Kelly Evans presents the latest financial and economic headlines around the world.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D46075C26F4922829525E343094F12CC54C065C1.jpg"/>
+  </programme>
+  <programme start="20240404233000 +0530" stop="20240405003000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Power Lunch</title>
+    <desc lang="en">Experts discuss how money can be made in the fields of real estate and stock market.</desc>
+    <credits>
+      <actor>Bill Griffeth</actor>
+      <actor>Sue Herera</actor>
+      <actor>Tyler Mathisen</actor>
+      <actor>Dennis Kneale</actor>
+      <actor>Amanda Drury</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDD3496ECA1C832C69589BACE5DF76ADDB6E01F2A.jpg"/>
+  </programme>
+  <programme start="20240405003000 +0530" stop="20240405013000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+      <actor>Bill Griffeth</actor>
+      <actor>Maria Bartiromo</actor>
+      <actor>Kelly Chang Rickert</actor>
+      <actor>Gemma Godfrey</actor>
+      <actor>Lauren Fix</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEB5403DC44606185FE8ABF5D05381FF28F78CCB7.jpg"/>
+  </programme>
+  <programme start="20240405013000 +0530" stop="20240405023000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Closing Bell: Overtime</title>
+    <desc lang="en">The host invites a renowned industry expert to discuss the trending market developments.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A08B8B131688AD8483AF2C0EC8845E14E6A6EC7FZ.jpg"/>
+  </programme>
+  <programme start="20240405023000 +0530" stop="20240405030000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Fast Money</title>
+    <desc lang="en">A group of panelist discuss business-related stories and economic development.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D57537921966E8690C72A5F6F695FB6FA1304D4V.jpg"/>
+  </programme>
+  <programme start="20240405030000 +0530" stop="20240405033000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Option Exchange</title>
+    <desc lang="en">Financial experts put forward their views on the trends in options exchange.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB5AC8C5F55717EF8D331BF11E21F3439A140ACBJ.jpg"/>
+  </programme>
+  <programme start="20240405033000 +0530" stop="20240405063000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Asia: Experts provide pre-market updates useful for investors and professional traders.</desc>
+    <credits>
+      <actor>Becky Quick</actor>
+      <actor>Joe Kernen</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A12BF2640B37E62AFBD61C87DA44E09B17C1207FS.jpg"/>
+  </programme>
+  <programme start="20240405063000 +0530" stop="20240405080000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Street Signs</title>
+    <desc lang="en">Asia: Martin Soong and Oriel Morrison provide real-time information on the Asian markets.</desc>
+    <credits>
+      <actor>Martin Soong</actor>
+      <actor>Oriel Morrison</actor>
+      <actor>Tanvir Gill</actor>
+      <actor>Nancy Hungerford</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/54A0FED89D1BA30EBF1D2C7D84C7328D4B25CA1BK.jpg"/>
+  </programme>
+  <programme start="20240405080000 +0530" stop="20240405090000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Morning Call</title>
+    <desc lang="en">India: The hosts take a look at the condition of the stock market prior to its opening.</desc>
+    <credits>
+      <actor>Udayan Mukherjee</actor>
+      <actor>Mitali Mukherjee</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E2B8D431DB195354C13CA597B1446F146FDA26CN.jpg"/>
+  </programme>
+  <programme start="20240405090000 +0530" stop="20240405100000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Open Exchange</title>
+    <desc lang="en">India: The hosts analyse the current state and trends of the stock market.</desc>
+    <credits>
+      <actor>Latha Venkatesh</actor>
+      <actor>Anuj Singhal</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE1AC8DBBEE964FF1FC3EE93C3EAB6C4A192A7CCG.jpg"/>
+  </programme>
+  <programme start="20240405100000 +0530" stop="20240405103000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Bazaar Corporate Radar</title>
+    <desc lang="en">India: Take a look at how CEOs and global economists go about their business.</desc>
+    <credits>
+      <actor>Udayan Mukherjee</actor>
+      <actor>Mitali Mukherjee</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE423D62379E64FFCB0A4151F8235C255C43F668Y.jpg"/>
+  </programme>
+  <programme start="20240405103000 +0530" stop="20240405113000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Capital Connection</title>
+    <desc lang="en">Europe: The hosts provide an in-depth analysis of the trends that affect international markets.</desc>
+    <credits>
+      <actor>Matthew Taylor</actor>
+      <actor>Hadley Gamble</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/618E8187590CB03E39C0449DF7999F80A6C4ED1D5.jpg"/>
+  </programme>
+  <programme start="20240405113000 +0530" stop="20240405143000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Europe: A look at Asia's market performance while an analysis of the US markets is also done.</desc>
+    <credits>
+      <actor>Becky Quick</actor>
+      <actor>Joe Kernen</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A12BF2640B37E62AFBD61C87DA44E09B17C1207FS.jpg"/>
+  </programme>
+  <programme start="20240405143000 +0530" stop="20240405160000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">NSE Closing Bell</title>
+    <desc lang="en">India: The host presents the status of the stocks at the time of the closing bell.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA7F62C2A0E2FDE2F6D4F7E44804D0CABCF3233BJ.jpg"/>
+  </programme>
+  <programme start="20240405160000 +0530" stop="20240405183000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">US Squawk Box</title>
+    <desc lang="en">Prominent personalities and analysts share their insights on the latest business updates.</desc>
+    <credits>
+      <actor>Joe Kernen</actor>
+      <actor>Becky Quick</actor>
+      <actor>Andrew Ross Sorki</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CD0E0E17E628A340BB353B9B717E870CB374D58BN.jpg"/>
+  </programme>
+  <programme start="20240405183000 +0530" stop="20240405203000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Squawk On The Street</title>
+    <desc lang="en">The host presents updates from the first 90 minutes of trading in the US stock market.</desc>
+    <credits>
+      <actor>David Faber</actor>
+      <actor>Simon Hobbs</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46B6DD0C62FF39943E69D4173703F41D26F0490BN.jpg"/>
+  </programme>
+  <programme start="20240405203000 +0530" stop="20240405210000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Money Movers</title>
+    <desc lang="en">The hosts, along with experts, discuss various speculations concerning the market.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/753334FD13AC2BD2595ECBF03F3E034CC8965B6FH.jpg"/>
+  </programme>
+  <programme start="20240405210000 +0530" stop="20240405213000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">India: The hosts take a look at the biggest business news stories of the day.</desc>
+    <credits>
+      <actor>Shereen Bhan</actor>
+      <actor>Harsha Subramaniam</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E39EDA861A3133FAE6321ECB2E465A642B58B5FFU.jpg"/>
+  </programme>
+  <programme start="20240405213000 +0530" stop="20240405223000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Halftime Report</title>
+    <desc lang="en">The host presents a fast-paced analysis of key developments in the market.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/31B87726D85FC2382829C37A986437B4047E0A7CF.jpg"/>
+  </programme>
+  <programme start="20240405223000 +0530" stop="20240405233000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">The Exchange</title>
+    <desc lang="en">Host Kelly Evans presents the latest financial and economic headlines around the world.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D46075C26F4922829525E343094F12CC54C065C1.jpg"/>
+  </programme>
+  <programme start="20240405233000 +0530" stop="20240406003000 +0530" channel="CNBC TV18 Prime HD">
+    <title lang="en">Power Lunch</title>
+    <desc lang="en">Experts discuss how money can be made in the fields of real estate and stock market.</desc>
+    <credits>
+      <actor>Bill Griffeth</actor>
+      <actor>Sue Herera</actor>
+      <actor>Tyler Mathisen</actor>
+      <actor>Dennis Kneale</actor>
+      <actor>Amanda Drury</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDD3496ECA1C832C69589BACE5DF76ADDB6E01F2A.jpg"/>
+  </programme>
+</tv>

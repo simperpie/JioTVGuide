@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="Jothi TV">
+    <display-name lang="en">Jothi TV</display-name>
+    <icon src="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_150/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11712-j9kt9fbs-v2/imageContent-11712-j9kt9fbs-m2.png"/>
+  </channel>
+  <programme start="20240403000000 +0530" stop="20240403060000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403060000 +0530" stop="20240403063000 +0530" channel="Jothi TV">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403063000 +0530" stop="20240403070000 +0530" channel="Jothi TV">
+    <title lang="en">Apisegamum Aarathanaiyum</title>
+    <desc lang="en">Apisegamum Aarathanaiyum</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D350ED99DB330B6876DF3C5D21AAC88D8B0804D4.jpg"/>
+  </programme>
+  <programme start="20240403070000 +0530" stop="20240403073000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403073000 +0530" stop="20240403080000 +0530" channel="Jothi TV">
+    <title lang="en">Rasi Palan</title>
+    <desc lang="en">Rasi Palan</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BF24C97B6634F259CDFAAE720C7B67C68239096L.jpg"/>
+  </programme>
+  <programme start="20240403080000 +0530" stop="20240403083000 +0530" channel="Jothi TV">
+    <title lang="en">Dinam Dinam Perumal</title>
+    <desc lang="en">Dinam Dinam Perumal</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/565A5E9246047571879498C451016419FF477FA7Y.jpg"/>
+  </programme>
+  <programme start="20240403083000 +0530" stop="20240403090000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240403090000 +0530" stop="20240403093000 +0530" channel="Jothi TV">
+    <title lang="en">Thiruvizha Peruvizha</title>
+    <desc lang="en">Thiruvizha Peruvizha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E5264B999B8CDF752EAE42B4453423743DDD8411.jpg"/>
+  </programme>
+  <programme start="20240403093000 +0530" stop="20240403100000 +0530" channel="Jothi TV">
+    <title lang="en">Kasi Special Apisegam</title>
+    <desc lang="en">Kasi Special Apisegam</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EEE476B6F78DA047B98EDE2F4005B03B5DBBD52A.jpg"/>
+  </programme>
+  <programme start="20240403100000 +0530" stop="20240403103000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403103000 +0530" stop="20240403110000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403110000 +0530" stop="20240403113000 +0530" channel="Jothi TV">
+    <title lang="en">Vel Maral</title>
+    <desc lang="en">Vel Maral</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B66916F07227562C3B4BF975164E98AF5821DC866.jpg"/>
+  </programme>
+  <programme start="20240403113000 +0530" stop="20240403114500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403114500 +0530" stop="20240403120000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240403120000 +0530" stop="20240403123000 +0530" channel="Jothi TV">
+    <title lang="en">Sai Neram Shirdi Sai</title>
+    <desc lang="en">Sai Neram Shirdi Sai</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C853BB25E1D9E352A1F63F169B310B15EBFF4946D.jpg"/>
+  </programme>
+  <programme start="20240403123000 +0530" stop="20240403124500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403124500 +0530" stop="20240403130000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240403130000 +0530" stop="20240403133000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240403133000 +0530" stop="20240403134500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedu Alayam</title>
+    <desc lang="en">Manam Thedu Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1481924C4D86C28B763EF1991776A85BE02EE592W.jpg"/>
+  </programme>
+  <programme start="20240403134500 +0530" stop="20240403140000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403140000 +0530" stop="20240403143000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedu Alayam</title>
+    <desc lang="en">Manam Thedu Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1481924C4D86C28B763EF1991776A85BE02EE592W.jpg"/>
+  </programme>
+  <programme start="20240403143000 +0530" stop="20240403144500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403144500 +0530" stop="20240403150000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedu Alayam</title>
+    <desc lang="en">Manam Thedu Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1481924C4D86C28B763EF1991776A85BE02EE592W.jpg"/>
+  </programme>
+  <programme start="20240403150000 +0530" stop="20240403153000 +0530" channel="Jothi TV">
+    <title lang="en">Kovai Koniamman Kovil - Their - Live</title>
+    <desc lang="en">Kovai Koniamman Kovil - Their - Live</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/24DE64AAB4CF127A6C80726EDBC5A4F5D03F03AEW.jpg"/>
+  </programme>
+  <programme start="20240403153000 +0530" stop="20240403160000 +0530" channel="Jothi TV">
+    <title lang="en">Pachapudavakari</title>
+    <desc lang="en">Pachapudavakari</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/34EB965AE71CB94EC0BC49A07D9F0BFC4C6EA1D51.jpg"/>
+  </programme>
+  <programme start="20240403160000 +0530" stop="20240403162000 +0530" channel="Jothi TV">
+    <title lang="en">Arul Neram</title>
+    <desc lang="en">Arul Neram</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53C58D2805B05E728702DBD6EFA2939FDB06918BI.jpg"/>
+  </programme>
+  <programme start="20240403162000 +0530" stop="20240403163000 +0530" channel="Jothi TV">
+    <title lang="en">Mahishasur Mardini Stothram</title>
+    <desc lang="en">Mahishasur Mardini Stothram</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E1F52A4DE8E7E735BE7C368CDBAFF2A3244AD6BB.jpg"/>
+  </programme>
+  <programme start="20240403163000 +0530" stop="20240403170000 +0530" channel="Jothi TV">
+    <title lang="en">Vishnu Sahasranama</title>
+    <desc lang="en">Vishnu Sahasranama</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDFC193151ABC8D1A1146471AE2C1B98BAA8C855B.jpg"/>
+  </programme>
+  <programme start="20240403170000 +0530" stop="20240403174500 +0530" channel="Jothi TV">
+    <title lang="en">Lalitha Sahasranama</title>
+    <desc lang="en">Lalitha Sahasranama</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E5D0F446BC125FAD70BB460ABAA40C0C161FF774.jpg"/>
+  </programme>
+  <programme start="20240403174500 +0530" stop="20240403180000 +0530" channel="Jothi TV">
+    <title lang="en">Kangathara Sothiram</title>
+    <desc lang="en">Kangathara Sothiram</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F05631C51B3758161A666D347BB5534B2EC35251.jpg"/>
+  </programme>
+  <programme start="20240403180000 +0530" stop="20240403183000 +0530" channel="Jothi TV">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403183000 +0530" stop="20240403200000 +0530" channel="Jothi TV">
+    <title lang="en">Sangadahara Chadurthi Live</title>
+    <desc lang="en">Sangadahara Chadurthi Live</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8624A788A57B9BCCECDC24DFF9B3A22DA6EB53102.jpg"/>
+  </programme>
+  <programme start="20240403200000 +0530" stop="20240403203000 +0530" channel="Jothi TV">
+    <title lang="en">Ahobilam</title>
+    <desc lang="en">Ahobilam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F7DFC80B0446B007C6E80B766B476D1A9785744D.jpg"/>
+  </programme>
+  <programme start="20240403203000 +0530" stop="20240403210000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240403210000 +0530" stop="20240403213000 +0530" channel="Jothi TV">
+    <title lang="en">108 Divya Desam</title>
+    <desc lang="en">108 Divya Desam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81132982A66B1523837A7341E54B7E02B0D8AFFE2.jpg"/>
+  </programme>
+  <programme start="20240403213000 +0530" stop="20240403220000 +0530" channel="Jothi TV">
+    <title lang="en">108 Divya Desam</title>
+    <desc lang="en">108 Divya Desam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81132982A66B1523837A7341E54B7E02B0D8AFFE2.jpg"/>
+  </programme>
+  <programme start="20240403220000 +0530" stop="20240403223000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403223000 +0530" stop="20240403230000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240403230000 +0530" stop="20240403233000 +0530" channel="Jothi TV">
+    <title lang="en">Vinayagar Abisegam</title>
+    <desc lang="en">Vinayagar Abisegam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97403F366A390EDA8383CBD3B30F4AA8427D933FO.jpg"/>
+  </programme>
+  <programme start="20240403233000 +0530" stop="20240404000000 +0530" channel="Jothi TV">
+    <title lang="en">Vinayagar Abisegam</title>
+    <desc lang="en">Vinayagar Abisegam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/97403F366A390EDA8383CBD3B30F4AA8427D933FO.jpg"/>
+  </programme>
+  <programme start="20240404000000 +0530" stop="20240404060000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404060000 +0530" stop="20240404063000 +0530" channel="Jothi TV">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404063000 +0530" stop="20240404070000 +0530" channel="Jothi TV">
+    <title lang="en">Apisegamum Aarathanaiyum</title>
+    <desc lang="en">Apisegamum Aarathanaiyum</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D350ED99DB330B6876DF3C5D21AAC88D8B0804D4.jpg"/>
+  </programme>
+  <programme start="20240404070000 +0530" stop="20240404073000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404073000 +0530" stop="20240404080000 +0530" channel="Jothi TV">
+    <title lang="en">Rasi Palan</title>
+    <desc lang="en">Rasi Palan</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BF24C97B6634F259CDFAAE720C7B67C68239096L.jpg"/>
+  </programme>
+  <programme start="20240404080000 +0530" stop="20240404083000 +0530" channel="Jothi TV">
+    <title lang="en">Dinam Dinam Perumal</title>
+    <desc lang="en">Dinam Dinam Perumal</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/565A5E9246047571879498C451016419FF477FA7Y.jpg"/>
+  </programme>
+  <programme start="20240404083000 +0530" stop="20240404090000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240404090000 +0530" stop="20240404093000 +0530" channel="Jothi TV">
+    <title lang="en">Thiruvizha Peruvizha</title>
+    <desc lang="en">Thiruvizha Peruvizha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E5264B999B8CDF752EAE42B4453423743DDD8411.jpg"/>
+  </programme>
+  <programme start="20240404093000 +0530" stop="20240404100000 +0530" channel="Jothi TV">
+    <title lang="en">Kasi Special Apisegam</title>
+    <desc lang="en">Kasi Special Apisegam</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EEE476B6F78DA047B98EDE2F4005B03B5DBBD52A.jpg"/>
+  </programme>
+  <programme start="20240404100000 +0530" stop="20240404103000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404103000 +0530" stop="20240404110000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404110000 +0530" stop="20240404113000 +0530" channel="Jothi TV">
+    <title lang="en">Vel Maral</title>
+    <desc lang="en">Vel Maral</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B66916F07227562C3B4BF975164E98AF5821DC866.jpg"/>
+  </programme>
+  <programme start="20240404113000 +0530" stop="20240404114500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404114500 +0530" stop="20240404120000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240404120000 +0530" stop="20240404123000 +0530" channel="Jothi TV">
+    <title lang="en">Sai Neram - Shiradi Sai Live</title>
+    <desc lang="en">Sai Neram - Shiradi Sai Live</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/ABE44FF9DDB22381867BAB1163C16FDECDB24BA15.jpg"/>
+  </programme>
+  <programme start="20240404123000 +0530" stop="20240404124500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404124500 +0530" stop="20240404130000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240404130000 +0530" stop="20240404133000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240404133000 +0530" stop="20240404134500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedu Alayam</title>
+    <desc lang="en">Manam Thedu Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1481924C4D86C28B763EF1991776A85BE02EE592W.jpg"/>
+  </programme>
+  <programme start="20240404134500 +0530" stop="20240404140000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404140000 +0530" stop="20240404143000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240404143000 +0530" stop="20240404144500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404144500 +0530" stop="20240404150000 +0530" channel="Jothi TV">
+    <title lang="en">Arputha Aalaiyangal</title>
+    <desc lang="en">Arputha Aalaiyangal</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6557B5A3E0408E40879ABAB728FF199836126CC9E.jpg"/>
+  </programme>
+  <programme start="20240404150000 +0530" stop="20240404153000 +0530" channel="Jothi TV">
+    <title lang="en">Kasi Special Apisegam</title>
+    <desc lang="en">Kasi Special Apisegam</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EEE476B6F78DA047B98EDE2F4005B03B5DBBD52A.jpg"/>
+  </programme>
+  <programme start="20240404153000 +0530" stop="20240404160000 +0530" channel="Jothi TV">
+    <title lang="en">Pachapudavakari</title>
+    <desc lang="en">Pachapudavakari</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/34EB965AE71CB94EC0BC49A07D9F0BFC4C6EA1D51.jpg"/>
+  </programme>
+  <programme start="20240404160000 +0530" stop="20240404162000 +0530" channel="Jothi TV">
+    <title lang="en">Arul Neram</title>
+    <desc lang="en">Arul Neram</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/53C58D2805B05E728702DBD6EFA2939FDB06918BI.jpg"/>
+  </programme>
+  <programme start="20240404162000 +0530" stop="20240404163000 +0530" channel="Jothi TV">
+    <title lang="en">Mahishasur Mardini Stothram</title>
+    <desc lang="en">Mahishasur Mardini Stothram</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E1F52A4DE8E7E735BE7C368CDBAFF2A3244AD6BB.jpg"/>
+  </programme>
+  <programme start="20240404163000 +0530" stop="20240404170000 +0530" channel="Jothi TV">
+    <title lang="en">Vishnu Sahasranama</title>
+    <desc lang="en">Vishnu Sahasranama</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDFC193151ABC8D1A1146471AE2C1B98BAA8C855B.jpg"/>
+  </programme>
+  <programme start="20240404170000 +0530" stop="20240404174500 +0530" channel="Jothi TV">
+    <title lang="en">Lalitha Sahasranama</title>
+    <desc lang="en">Lalitha Sahasranama</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E5D0F446BC125FAD70BB460ABAA40C0C161FF774.jpg"/>
+  </programme>
+  <programme start="20240404174500 +0530" stop="20240404180000 +0530" channel="Jothi TV">
+    <title lang="en">Kangathara Sothiram</title>
+    <desc lang="en">Kangathara Sothiram</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F05631C51B3758161A666D347BB5534B2EC35251.jpg"/>
+  </programme>
+  <programme start="20240404180000 +0530" stop="20240404183000 +0530" channel="Jothi TV">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404183000 +0530" stop="20240404190000 +0530" channel="Jothi TV">
+    <title lang="en">Apisegamum Aarathanaiyum</title>
+    <desc lang="en">Apisegamum Aarathanaiyum</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D350ED99DB330B6876DF3C5D21AAC88D8B0804D4.jpg"/>
+  </programme>
+  <programme start="20240404190000 +0530" stop="20240404193000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240404193000 +0530" stop="20240404200000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240404200000 +0530" stop="20240404203000 +0530" channel="Jothi TV">
+    <title lang="en">Dinam Dinam Perumal</title>
+    <desc lang="en">Dinam Dinam Perumal</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/565A5E9246047571879498C451016419FF477FA7Y.jpg"/>
+  </programme>
+  <programme start="20240404203000 +0530" stop="20240404210000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240404210000 +0530" stop="20240404213000 +0530" channel="Jothi TV">
+    <title lang="en">108 Divya Desam</title>
+    <desc lang="en">108 Divya Desam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81132982A66B1523837A7341E54B7E02B0D8AFFE2.jpg"/>
+  </programme>
+  <programme start="20240404213000 +0530" stop="20240404220000 +0530" channel="Jothi TV">
+    <title lang="en">108 Divya Desam</title>
+    <desc lang="en">108 Divya Desam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81132982A66B1523837A7341E54B7E02B0D8AFFE2.jpg"/>
+  </programme>
+  <programme start="20240404220000 +0530" stop="20240404223000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404223000 +0530" stop="20240404230000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240404230000 +0530" stop="20240404233000 +0530" channel="Jothi TV">
+    <title lang="en">Saibaba Abisegam</title>
+    <desc lang="en">Saibaba Abisegam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4603BA8AF010B12D9E4509591A18523DA3E7C00E6.jpg"/>
+  </programme>
+  <programme start="20240404233000 +0530" stop="20240405000000 +0530" channel="Jothi TV">
+    <title lang="en">Saibaba Abisegam</title>
+    <desc lang="en">Saibaba Abisegam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4603BA8AF010B12D9E4509591A18523DA3E7C00E6.jpg"/>
+  </programme>
+  <programme start="20240405000000 +0530" stop="20240405060000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405060000 +0530" stop="20240405063000 +0530" channel="Jothi TV">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405063000 +0530" stop="20240405070000 +0530" channel="Jothi TV">
+    <title lang="en">Apisegamum Aarathanaiyum</title>
+    <desc lang="en">Apisegamum Aarathanaiyum</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D350ED99DB330B6876DF3C5D21AAC88D8B0804D4.jpg"/>
+  </programme>
+  <programme start="20240405070000 +0530" stop="20240405073000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405073000 +0530" stop="20240405080000 +0530" channel="Jothi TV">
+    <title lang="en">Rasi Palan</title>
+    <desc lang="en">Rasi Palan</desc>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BF24C97B6634F259CDFAAE720C7B67C68239096L.jpg"/>
+  </programme>
+  <programme start="20240405080000 +0530" stop="20240405083000 +0530" channel="Jothi TV">
+    <title lang="en">Dinam Dinam Perumal</title>
+    <desc lang="en">Dinam Dinam Perumal</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/565A5E9246047571879498C451016419FF477FA7Y.jpg"/>
+  </programme>
+  <programme start="20240405083000 +0530" stop="20240405090000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240405090000 +0530" stop="20240405093000 +0530" channel="Jothi TV">
+    <title lang="en">Thiruvizha Peruvizha</title>
+    <desc lang="en">Thiruvizha Peruvizha</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E5264B999B8CDF752EAE42B4453423743DDD8411.jpg"/>
+  </programme>
+  <programme start="20240405093000 +0530" stop="20240405100000 +0530" channel="Jothi TV">
+    <title lang="en">Kasi Special Apisegam</title>
+    <desc lang="en">Kasi Special Apisegam</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EEE476B6F78DA047B98EDE2F4005B03B5DBBD52A.jpg"/>
+  </programme>
+  <programme start="20240405100000 +0530" stop="20240405103000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405103000 +0530" stop="20240405110000 +0530" channel="Jothi TV">
+    <title lang="en">Ahobilam</title>
+    <desc lang="en">Ahobilam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F7DFC80B0446B007C6E80B766B476D1A9785744D.jpg"/>
+  </programme>
+  <programme start="20240405110000 +0530" stop="20240405113000 +0530" channel="Jothi TV">
+    <title lang="en">Vel Maral</title>
+    <desc lang="en">Vel Maral</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B66916F07227562C3B4BF975164E98AF5821DC866.jpg"/>
+  </programme>
+  <programme start="20240405113000 +0530" stop="20240405114500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405114500 +0530" stop="20240405120000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240405120000 +0530" stop="20240405123000 +0530" channel="Jothi TV">
+    <title lang="en">Sai Neram Shirdi Sai</title>
+    <desc lang="en">Sai Neram Shirdi Sai</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C853BB25E1D9E352A1F63F169B310B15EBFF4946D.jpg"/>
+  </programme>
+  <programme start="20240405123000 +0530" stop="20240405124500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405124500 +0530" stop="20240405130000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240405130000 +0530" stop="20240405133000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240405133000 +0530" stop="20240405134500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240405134500 +0530" stop="20240405140000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405140000 +0530" stop="20240405143000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240405143000 +0530" stop="20240405144500 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405144500 +0530" stop="20240405150000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedu Alayam</title>
+    <desc lang="en">Manam Thedu Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1481924C4D86C28B763EF1991776A85BE02EE592W.jpg"/>
+  </programme>
+  <programme start="20240405150000 +0530" stop="20240405153000 +0530" channel="Jothi TV">
+    <title lang="en">Kasi Special Apisegam</title>
+    <desc lang="en">Kasi Special Apisegam</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EEE476B6F78DA047B98EDE2F4005B03B5DBBD52A.jpg"/>
+  </programme>
+  <programme start="20240405153000 +0530" stop="20240405160000 +0530" channel="Jothi TV">
+    <title lang="en">Apisegamum Aarathanaiyum</title>
+    <desc lang="en">Apisegamum Aarathanaiyum</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D350ED99DB330B6876DF3C5D21AAC88D8B0804D4.jpg"/>
+  </programme>
+  <programme start="20240405160000 +0530" stop="20240405162000 +0530" channel="Jothi TV">
+    <title lang="en">Varahi Special Abisegam</title>
+    <desc lang="en">Varahi Special Abisegam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2A82D26C4DB8D51DB48573D9CF0D7C81AD5FA5E7G.jpg"/>
+  </programme>
+  <programme start="20240405162000 +0530" stop="20240405163000 +0530" channel="Jothi TV">
+    <title lang="en">Mahishasur Mardini Stothram</title>
+    <desc lang="en">Mahishasur Mardini Stothram</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E1F52A4DE8E7E735BE7C368CDBAFF2A3244AD6BB.jpg"/>
+  </programme>
+  <programme start="20240405163000 +0530" stop="20240405170000 +0530" channel="Jothi TV">
+    <title lang="en">Vishnu Sahasranama</title>
+    <desc lang="en">Vishnu Sahasranama</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDFC193151ABC8D1A1146471AE2C1B98BAA8C855B.jpg"/>
+  </programme>
+  <programme start="20240405170000 +0530" stop="20240405174500 +0530" channel="Jothi TV">
+    <title lang="en">Lalitha Sahasranama</title>
+    <desc lang="en">Lalitha Sahasranama</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E5D0F446BC125FAD70BB460ABAA40C0C161FF774.jpg"/>
+  </programme>
+  <programme start="20240405174500 +0530" stop="20240405180000 +0530" channel="Jothi TV">
+    <title lang="en">Kangathara Sothiram</title>
+    <desc lang="en">Kangathara Sothiram</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F05631C51B3758161A666D347BB5534B2EC35251.jpg"/>
+  </programme>
+  <programme start="20240405180000 +0530" stop="20240405183000 +0530" channel="Jothi TV">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405183000 +0530" stop="20240405190000 +0530" channel="Jothi TV">
+    <title lang="en">Apisegamum Aarathanaiyum</title>
+    <desc lang="en">Apisegamum Aarathanaiyum</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D350ED99DB330B6876DF3C5D21AAC88D8B0804D4.jpg"/>
+  </programme>
+  <programme start="20240405190000 +0530" stop="20240405193000 +0530" channel="Jothi TV">
+    <title lang="en">Pachapudavakari</title>
+    <desc lang="en">Pachapudavakari</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/34EB965AE71CB94EC0BC49A07D9F0BFC4C6EA1D51.jpg"/>
+  </programme>
+  <programme start="20240405193000 +0530" stop="20240405200000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Thedum Alayam</title>
+    <desc lang="en">Manam Thedum Alayam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C5EF60C525275BD038136A54776FC77CF605331EO.jpg"/>
+  </programme>
+  <programme start="20240405200000 +0530" stop="20240405203000 +0530" channel="Jothi TV">
+    <title lang="en">Dinam Dinam Perumal</title>
+    <desc lang="en">Dinam Dinam Perumal</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/565A5E9246047571879498C451016419FF477FA7Y.jpg"/>
+  </programme>
+  <programme start="20240405203000 +0530" stop="20240405210000 +0530" channel="Jothi TV">
+    <title lang="en">Aanmiga Sethigal</title>
+    <desc lang="en">Aanmiga Sethigal</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AF1019E54C24B708DE984747E42A684685D5B7CEO.jpg"/>
+  </programme>
+  <programme start="20240405210000 +0530" stop="20240405213000 +0530" channel="Jothi TV">
+    <title lang="en">108 Divya Desam</title>
+    <desc lang="en">108 Divya Desam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81132982A66B1523837A7341E54B7E02B0D8AFFE2.jpg"/>
+  </programme>
+  <programme start="20240405213000 +0530" stop="20240405220000 +0530" channel="Jothi TV">
+    <title lang="en">108 Divya Desam</title>
+    <desc lang="en">108 Divya Desam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81132982A66B1523837A7341E54B7E02B0D8AFFE2.jpg"/>
+  </programme>
+  <programme start="20240405220000 +0530" stop="20240405223000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405223000 +0530" stop="20240405230000 +0530" channel="Jothi TV">
+    <title lang="en">Manam Urugudhe</title>
+    <desc lang="en">Manam Urugudhe</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D231498B3F4BB21D333C2D70B8B656CB23C914CCS.jpg"/>
+  </programme>
+  <programme start="20240405230000 +0530" stop="20240405233000 +0530" channel="Jothi TV">
+    <title lang="en">Amman Abisegam</title>
+    <desc lang="en">Amman Abisegam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/474E03BE5F0AB21E3715EE9531DAFD45AC6115636.jpg"/>
+  </programme>
+  <programme start="20240405233000 +0530" stop="20240406000000 +0530" channel="Jothi TV">
+    <title lang="en">Amman Abisegam</title>
+    <desc lang="en">Amman Abisegam</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/474E03BE5F0AB21E3715EE9531DAFD45AC6115636.jpg"/>
+  </programme>
+</tv>

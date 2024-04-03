@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="Al Jazeera">
+    <display-name lang="en">Al Jazeera</display-name>
+    <icon src="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_150/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png"/>
+  </channel>
+  <programme start="20240403003000 +0530" stop="20240403010000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403010000 +0530" stop="20240403013000 +0530" channel="Al Jazeera">
+    <title lang="en">The Bottom Line</title>
+    <desc lang="en">The Bottom Line</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0809CD3152DA6444562C7F88B93532D22557BD556.jpg"/>
+  </programme>
+  <programme start="20240403013000 +0530" stop="20240403020000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403020000 +0530" stop="20240403023000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240403023000 +0530" stop="20240403033000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240403033000 +0530" stop="20240403043000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240403043000 +0530" stop="20240403050000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403050000 +0530" stop="20240403053000 +0530" channel="Al Jazeera">
+    <title lang="en">Africa Direct</title>
+    <desc lang="en">Africa Direct</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9AFDD635DF40E00DBF46A4DE9169D394543CF71EZ.jpg"/>
+  </programme>
+  <programme start="20240403053000 +0530" stop="20240403060000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403060000 +0530" stop="20240403063000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240403063000 +0530" stop="20240403073000 +0530" channel="Al Jazeera">
+    <title lang="en">Al Jazeera World</title>
+    <desc lang="en">Al Jazeera World</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B3091DCDDFC35F32953B3EC6E7FDEB53D898D17C1.jpg"/>
+  </programme>
+  <programme start="20240403073000 +0530" stop="20240403080000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403080000 +0530" stop="20240403083000 +0530" channel="Al Jazeera">
+    <title lang="en">The India Report</title>
+    <desc lang="en">The India Report</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76C1E99C9EEEB58549832A6E8B496C116BF90C53Y.jpg"/>
+  </programme>
+  <programme start="20240403083000 +0530" stop="20240403090000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403090000 +0530" stop="20240403093000 +0530" channel="Al Jazeera">
+    <title lang="en">Witness</title>
+    <desc lang="en">Witness</desc>
+    <credits>
+      <actor>Ghida Fakhry</actor>
+      <actor>Rageh Omaar</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E94E14706FE0993915845A58512C7C5A5981B46H.jpg"/>
+  </programme>
+  <programme start="20240403093000 +0530" stop="20240403100000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403100000 +0530" stop="20240403103000 +0530" channel="Al Jazeera">
+    <title lang="en">The Bottom Line</title>
+    <desc lang="en">The Bottom Line</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0809CD3152DA6444562C7F88B93532D22557BD556.jpg"/>
+  </programme>
+  <programme start="20240403103000 +0530" stop="20240403110000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403110000 +0530" stop="20240403113000 +0530" channel="Al Jazeera">
+    <title lang="en">101 East</title>
+    <desc lang="en">101 East</desc>
+    <credits>
+      <actor>Steve Chao</actor>
+      <actor>Drew Ambrose</actor>
+      <actor>Mary Ann Jolley</actor>
+      <actor>Karishma Vyas</actor>
+      <actor>Trevor Bormann</actor>
+    </credits>
+    <category lang="en">Investigation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5465AA241AAE6CA0BCA9BB9CD343DE59B5C3FD9W.jpg"/>
+  </programme>
+  <programme start="20240403113000 +0530" stop="20240403120000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403120000 +0530" stop="20240403123000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240403123000 +0530" stop="20240403133000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240403133000 +0530" stop="20240403140000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403140000 +0530" stop="20240403143000 +0530" channel="Al Jazeera">
+    <title lang="en">Africa Direct</title>
+    <desc lang="en">Africa Direct</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9AFDD635DF40E00DBF46A4DE9169D394543CF71EZ.jpg"/>
+  </programme>
+  <programme start="20240403143000 +0530" stop="20240403150000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403150000 +0530" stop="20240403153000 +0530" channel="Al Jazeera">
+    <title lang="en">The Stream</title>
+    <desc lang="en">The Stream</desc>
+    <credits>
+      <actor>Femi Oke</actor>
+      <actor>Tommy Edison</actor>
+      <actor>Anushay Hossain</actor>
+      <actor>Josh Rushing</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D75B646EF2C686A9C19413B297371C74882C1C5E7.jpg"/>
+  </programme>
+  <programme start="20240403153000 +0530" stop="20240403163000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240403163000 +0530" stop="20240403170000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403170000 +0530" stop="20240403173000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240403173000 +0530" stop="20240403183000 +0530" channel="Al Jazeera">
+    <title lang="en">Witness</title>
+    <desc lang="en">Witness</desc>
+    <credits>
+      <actor>Ghida Fakhry</actor>
+      <actor>Rageh Omaar</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E94E14706FE0993915845A58512C7C5A5981B46H.jpg"/>
+  </programme>
+  <programme start="20240403183000 +0530" stop="20240403193000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240403193000 +0530" stop="20240403200000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403200000 +0530" stop="20240403203000 +0530" channel="Al Jazeera">
+    <title lang="en">Upfront</title>
+    <desc lang="en">Upfront</desc>
+    <credits>
+      <actor>Mehdi Hasan</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/584FBBFCB4B60634F2B9109DC1FA8186C8B216B11.jpg"/>
+  </programme>
+  <programme start="20240403203000 +0530" stop="20240403213000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240403213000 +0530" stop="20240403220000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403220000 +0530" stop="20240403223000 +0530" channel="Al Jazeera">
+    <title lang="en">Counting The Cost</title>
+    <desc lang="en">Counting The Cost</desc>
+    <credits>
+      <actor>Kamahl Santamaria</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C273C74B796DC2D06291A216CFE93F7CEE3AF2193.jpg"/>
+  </programme>
+  <programme start="20240403223000 +0530" stop="20240403230000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240403230000 +0530" stop="20240403233000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240403233000 +0530" stop="20240404003000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240404003000 +0530" stop="20240404010000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404010000 +0530" stop="20240404013000 +0530" channel="Al Jazeera">
+    <title lang="en">The Listening Post</title>
+    <desc lang="en">The Listening Post</desc>
+    <credits>
+      <actor>Richard Gizbert</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA73572A0A0AEC1E6C717D1B50B3E36984F6ED91H.jpg"/>
+  </programme>
+  <programme start="20240404013000 +0530" stop="20240404020000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404020000 +0530" stop="20240404023000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240404023000 +0530" stop="20240404033000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240404033000 +0530" stop="20240404043000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240404043000 +0530" stop="20240404050000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404050000 +0530" stop="20240404053000 +0530" channel="Al Jazeera">
+    <title lang="en">People And Power</title>
+    <desc lang="en">People And Power</desc>
+    <credits>
+      <actor>Max Keiser</actor>
+      <actor>Samah El-Shahat</actor>
+      <actor>Juliana Ruhfus</actor>
+      <actor>Sorious Samura</actor>
+      <actor>Anas Aremeyaw Anas</actor>
+    </credits>
+    <category lang="en">Investigation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEF30169528848A4544A3B2BB400696FED6662DAV.jpg"/>
+  </programme>
+  <programme start="20240404053000 +0530" stop="20240404060000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404060000 +0530" stop="20240404063000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240404063000 +0530" stop="20240404073000 +0530" channel="Al Jazeera">
+    <title lang="en">Witness</title>
+    <desc lang="en">Witness</desc>
+    <credits>
+      <actor>Ghida Fakhry</actor>
+      <actor>Rageh Omaar</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E94E14706FE0993915845A58512C7C5A5981B46H.jpg"/>
+  </programme>
+  <programme start="20240404073000 +0530" stop="20240404080000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404080000 +0530" stop="20240404083000 +0530" channel="Al Jazeera">
+    <title lang="en">The Stream</title>
+    <desc lang="en">The Stream</desc>
+    <credits>
+      <actor>Femi Oke</actor>
+      <actor>Tommy Edison</actor>
+      <actor>Anushay Hossain</actor>
+      <actor>Josh Rushing</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D75B646EF2C686A9C19413B297371C74882C1C5E7.jpg"/>
+  </programme>
+  <programme start="20240404083000 +0530" stop="20240404090000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404090000 +0530" stop="20240404093000 +0530" channel="Al Jazeera">
+    <title lang="en">Africa Direct</title>
+    <desc lang="en">Africa Direct</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9AFDD635DF40E00DBF46A4DE9169D394543CF71EZ.jpg"/>
+  </programme>
+  <programme start="20240404093000 +0530" stop="20240404100000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404100000 +0530" stop="20240404103000 +0530" channel="Al Jazeera">
+    <title lang="en">The Listening Post</title>
+    <desc lang="en">The Listening Post</desc>
+    <credits>
+      <actor>Richard Gizbert</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA73572A0A0AEC1E6C717D1B50B3E36984F6ED91H.jpg"/>
+  </programme>
+  <programme start="20240404103000 +0530" stop="20240404110000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404110000 +0530" stop="20240404113000 +0530" channel="Al Jazeera">
+    <title lang="en">Witness</title>
+    <desc lang="en">Witness</desc>
+    <credits>
+      <actor>Ghida Fakhry</actor>
+      <actor>Rageh Omaar</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E94E14706FE0993915845A58512C7C5A5981B46H.jpg"/>
+  </programme>
+  <programme start="20240404113000 +0530" stop="20240404120000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404120000 +0530" stop="20240404123000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240404123000 +0530" stop="20240404133000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240404133000 +0530" stop="20240404140000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404140000 +0530" stop="20240404143000 +0530" channel="Al Jazeera">
+    <title lang="en">People And Power</title>
+    <desc lang="en">People And Power</desc>
+    <credits>
+      <actor>Max Keiser</actor>
+      <actor>Samah El-Shahat</actor>
+      <actor>Juliana Ruhfus</actor>
+      <actor>Sorious Samura</actor>
+      <actor>Anas Aremeyaw Anas</actor>
+    </credits>
+    <category lang="en">Investigation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEF30169528848A4544A3B2BB400696FED6662DAV.jpg"/>
+  </programme>
+  <programme start="20240404143000 +0530" stop="20240404150000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404150000 +0530" stop="20240404153000 +0530" channel="Al Jazeera">
+    <title lang="en">The Bottom Line</title>
+    <desc lang="en">The Bottom Line</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0809CD3152DA6444562C7F88B93532D22557BD556.jpg"/>
+  </programme>
+  <programme start="20240404153000 +0530" stop="20240404163000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240404163000 +0530" stop="20240404170000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404170000 +0530" stop="20240404173000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240404173000 +0530" stop="20240404183000 +0530" channel="Al Jazeera">
+    <title lang="en">I Am Not Alone: Armenia's Velvet Revolution</title>
+    <desc lang="en">I Am Not Alone: Armenia's Velvet Revolution</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF071649CCD6B94313E3EB2C9B745BA68F86E3CAY.jpg"/>
+  </programme>
+  <programme start="20240404183000 +0530" stop="20240404193000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240404193000 +0530" stop="20240404200000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404200000 +0530" stop="20240404203000 +0530" channel="Al Jazeera">
+    <title lang="en">Talk To Al Jazeera</title>
+    <desc lang="en">Talk To Al Jazeera</desc>
+    <credits>
+      <actor>Osama Javaid</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/58ECA7333A5C51AD00A95673E6908134BFD49A00A.jpg"/>
+  </programme>
+  <programme start="20240404203000 +0530" stop="20240404213000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240404213000 +0530" stop="20240404220000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404220000 +0530" stop="20240404223000 +0530" channel="Al Jazeera">
+    <title lang="en">The Bottom Line</title>
+    <desc lang="en">The Bottom Line</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0809CD3152DA6444562C7F88B93532D22557BD556.jpg"/>
+  </programme>
+  <programme start="20240404223000 +0530" stop="20240404230000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240404230000 +0530" stop="20240404233000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240404233000 +0530" stop="20240405003000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240405003000 +0530" stop="20240405010000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405010000 +0530" stop="20240405013000 +0530" channel="Al Jazeera">
+    <title lang="en">Witness</title>
+    <desc lang="en">Witness</desc>
+    <credits>
+      <actor>Ghida Fakhry</actor>
+      <actor>Rageh Omaar</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E94E14706FE0993915845A58512C7C5A5981B46H.jpg"/>
+  </programme>
+  <programme start="20240405013000 +0530" stop="20240405020000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405020000 +0530" stop="20240405023000 +0530" channel="Al Jazeera">
+    <title lang="en">The Stream</title>
+    <desc lang="en">The Stream</desc>
+    <credits>
+      <actor>Femi Oke</actor>
+      <actor>Tommy Edison</actor>
+      <actor>Anushay Hossain</actor>
+      <actor>Josh Rushing</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D75B646EF2C686A9C19413B297371C74882C1C5E7.jpg"/>
+  </programme>
+  <programme start="20240405023000 +0530" stop="20240405033000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240405033000 +0530" stop="20240405043000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240405043000 +0530" stop="20240405050000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405050000 +0530" stop="20240405053000 +0530" channel="Al Jazeera">
+    <title lang="en">101 East</title>
+    <desc lang="en">101 East</desc>
+    <credits>
+      <actor>Steve Chao</actor>
+      <actor>Drew Ambrose</actor>
+      <actor>Mary Ann Jolley</actor>
+      <actor>Karishma Vyas</actor>
+      <actor>Trevor Bormann</actor>
+    </credits>
+    <category lang="en">Investigation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5465AA241AAE6CA0BCA9BB9CD343DE59B5C3FD9W.jpg"/>
+  </programme>
+  <programme start="20240405053000 +0530" stop="20240405060000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405060000 +0530" stop="20240405063000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240405063000 +0530" stop="20240405073000 +0530" channel="Al Jazeera">
+    <title lang="en">I Am Not Alone: Armenia's Velvet Revolution</title>
+    <desc lang="en">I Am Not Alone: Armenia's Velvet Revolution</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF071649CCD6B94313E3EB2C9B745BA68F86E3CAY.jpg"/>
+  </programme>
+  <programme start="20240405073000 +0530" stop="20240405080000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405080000 +0530" stop="20240405083000 +0530" channel="Al Jazeera">
+    <title lang="en">The Listening Post</title>
+    <desc lang="en">The Listening Post</desc>
+    <credits>
+      <actor>Richard Gizbert</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EA73572A0A0AEC1E6C717D1B50B3E36984F6ED91H.jpg"/>
+  </programme>
+  <programme start="20240405083000 +0530" stop="20240405090000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405090000 +0530" stop="20240405093000 +0530" channel="Al Jazeera">
+    <title lang="en">People And Power</title>
+    <desc lang="en">People And Power</desc>
+    <credits>
+      <actor>Max Keiser</actor>
+      <actor>Samah El-Shahat</actor>
+      <actor>Juliana Ruhfus</actor>
+      <actor>Sorious Samura</actor>
+      <actor>Anas Aremeyaw Anas</actor>
+    </credits>
+    <category lang="en">Investigation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEF30169528848A4544A3B2BB400696FED6662DAV.jpg"/>
+  </programme>
+  <programme start="20240405093000 +0530" stop="20240405100000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405100000 +0530" stop="20240405103000 +0530" channel="Al Jazeera">
+    <title lang="en">Witness</title>
+    <desc lang="en">Witness</desc>
+    <credits>
+      <actor>Ghida Fakhry</actor>
+      <actor>Rageh Omaar</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E94E14706FE0993915845A58512C7C5A5981B46H.jpg"/>
+  </programme>
+  <programme start="20240405103000 +0530" stop="20240405110000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405110000 +0530" stop="20240405113000 +0530" channel="Al Jazeera">
+    <title lang="en">The Stream</title>
+    <desc lang="en">The Stream</desc>
+    <credits>
+      <actor>Femi Oke</actor>
+      <actor>Tommy Edison</actor>
+      <actor>Anushay Hossain</actor>
+      <actor>Josh Rushing</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D75B646EF2C686A9C19413B297371C74882C1C5E7.jpg"/>
+  </programme>
+  <programme start="20240405113000 +0530" stop="20240405120000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405120000 +0530" stop="20240405123000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240405123000 +0530" stop="20240405133000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240405133000 +0530" stop="20240405140000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405140000 +0530" stop="20240405143000 +0530" channel="Al Jazeera">
+    <title lang="en">101 East</title>
+    <desc lang="en">101 East</desc>
+    <credits>
+      <actor>Steve Chao</actor>
+      <actor>Drew Ambrose</actor>
+      <actor>Mary Ann Jolley</actor>
+      <actor>Karishma Vyas</actor>
+      <actor>Trevor Bormann</actor>
+    </credits>
+    <category lang="en">Investigation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A5465AA241AAE6CA0BCA9BB9CD343DE59B5C3FD9W.jpg"/>
+  </programme>
+  <programme start="20240405143000 +0530" stop="20240405150000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405150000 +0530" stop="20240405153000 +0530" channel="Al Jazeera">
+    <title lang="en">Africa Direct</title>
+    <desc lang="en">Africa Direct</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9AFDD635DF40E00DBF46A4DE9169D394543CF71EZ.jpg"/>
+  </programme>
+  <programme start="20240405153000 +0530" stop="20240405163000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240405163000 +0530" stop="20240405170000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405170000 +0530" stop="20240405173000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240405173000 +0530" stop="20240405183000 +0530" channel="Al Jazeera">
+    <title lang="en">Al Jazeera World</title>
+    <desc lang="en">Al Jazeera World</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B3091DCDDFC35F32953B3EC6E7FDEB53D898D17C1.jpg"/>
+  </programme>
+  <programme start="20240405183000 +0530" stop="20240405193000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240405193000 +0530" stop="20240405200000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405200000 +0530" stop="20240405203000 +0530" channel="Al Jazeera">
+    <title lang="en">The Stream</title>
+    <desc lang="en">The Stream</desc>
+    <credits>
+      <actor>Femi Oke</actor>
+      <actor>Tommy Edison</actor>
+      <actor>Anushay Hossain</actor>
+      <actor>Josh Rushing</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D75B646EF2C686A9C19413B297371C74882C1C5E7.jpg"/>
+  </programme>
+  <programme start="20240405203000 +0530" stop="20240405213000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+  <programme start="20240405213000 +0530" stop="20240405220000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405220000 +0530" stop="20240405223000 +0530" channel="Al Jazeera">
+    <title lang="en">The India Report</title>
+    <desc lang="en">The India Report</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/76C1E99C9EEEB58549832A6E8B496C116BF90C53Y.jpg"/>
+  </programme>
+  <programme start="20240405223000 +0530" stop="20240405230000 +0530" channel="Al Jazeera">
+    <title lang="en">News Live</title>
+    <desc lang="en">News Live</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1947810CD479EA12A6739043AF0C2F4B84C12C11P.jpg"/>
+  </programme>
+  <programme start="20240405230000 +0530" stop="20240405233000 +0530" channel="Al Jazeera">
+    <title lang="en">Inside Story</title>
+    <desc lang="en">Inside Story</desc>
+    <credits>
+      <actor>Ray Suarez</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AE5E2393F83C8DA006AEF9CA76601586E0D520EZ.jpg"/>
+  </programme>
+  <programme start="20240405233000 +0530" stop="20240406003000 +0530" channel="Al Jazeera">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Newshour</desc>
+    <credits>
+      <actor>Stephen Cole</actor>
+      <actor>Darren Jordon</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/05750C9730014291D9C5789FA81136A9F939B9161.jpg"/>
+  </programme>
+</tv>

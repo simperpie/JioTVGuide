@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="NHK World Japan">
+    <display-name lang="en">NHK World Japan</display-name>
+    <icon src="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_150/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69827-l1dh5izk-v1/imageContent-69827-l1dh5izk-m1.png"/>
+  </channel>
+  <programme start="20240403001000 +0530" stop="20240403002500 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240403002500 +0530" stop="20240403003000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo-Life</title>
+    <desc lang="en">Ukiyoe Edo-Life</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/841FA8E62E86CF1639A58277AB897E482B5AACDEN.jpg"/>
+  </programme>
+  <programme start="20240403003000 +0530" stop="20240403010000 +0530" channel="NHK World Japan">
+    <title lang="en">Rising</title>
+    <desc lang="en">Rising</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7B9E45BF80E8A587F82F54B4727E0F780E04B4268.jpg"/>
+  </programme>
+  <programme start="20240403010000 +0530" stop="20240403013000 +0530" channel="NHK World Japan">
+    <title lang="en">Document 72 Hours</title>
+    <desc lang="en">Document 72 Hours</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E504A1B7EB8E7D32D7A9DF5198CBFE6CBA4E235EZ.jpg"/>
+  </programme>
+  <programme start="20240403013000 +0530" stop="20240403014800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403014800 +0530" stop="20240403020000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240403020000 +0530" stop="20240403023000 +0530" channel="NHK World Japan">
+    <title lang="en">Science View</title>
+    <desc lang="en">Science View</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B581A53E5F602DFC238B9CC26D951FB75A634E2AS.jpg"/>
+  </programme>
+  <programme start="20240403023000 +0530" stop="20240403024800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403024800 +0530" stop="20240403030000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240403030000 +0530" stop="20240403033000 +0530" channel="NHK World Japan">
+    <title lang="en">Journeys In Japan</title>
+    <desc lang="en">Journeys In Japan</desc>
+    <credits>
+      <actor>Bill Sullivan</actor>
+      <actor>Charles Glover</actor>
+      <actor>Kyle Card</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EE149EF27038C7445FEB08EE0BDEECF215B78E38Q.jpg"/>
+  </programme>
+  <programme start="20240403033000 +0530" stop="20240403034800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403034800 +0530" stop="20240403040000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240403040000 +0530" stop="20240403043000 +0530" channel="NHK World Japan">
+    <title lang="en">Dining With The Chef</title>
+    <desc lang="en">Dining With The Chef</desc>
+    <credits>
+      <actor>Seira Kagami</actor>
+      <actor>Patrick Harlan</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/38DCF19AFE4B1DA983A59AACB8D900075A6B9A20I.jpg"/>
+  </programme>
+  <programme start="20240403043000 +0530" stop="20240403044500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403044500 +0530" stop="20240403045000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo-Life</title>
+    <desc lang="en">Ukiyoe Edo-Life</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/841FA8E62E86CF1639A58277AB897E482B5AACDEN.jpg"/>
+  </programme>
+  <programme start="20240403045000 +0530" stop="20240403045500 +0530" channel="NHK World Japan">
+    <title lang="en">Time-Lapse Japan</title>
+    <desc lang="en">Time-Lapse Japan</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C54FD6164F5A9F84548045C5CB85AE7D0ED134575.jpg"/>
+  </programme>
+  <programme start="20240403045500 +0530" stop="20240403050000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan From Above: Up Close</title>
+    <desc lang="en">Japan From Above: Up Close</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52944C109513FF65C4321C48CCB38618A4D55529C.jpg"/>
+  </programme>
+  <programme start="20240403050000 +0530" stop="20240403051500 +0530" channel="NHK World Japan">
+    <title lang="en">Deeper Look</title>
+    <desc lang="en">Deeper Look</desc>
+    <category lang="en">Politics</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D828085E955009FB381A6AFF2EB55F37E3C4EEDEL.jpg"/>
+  </programme>
+  <programme start="20240403051500 +0530" stop="20240403052500 +0530" channel="NHK World Japan">
+    <title lang="en">Dig More Japan!</title>
+    <desc lang="en">Dig More Japan!</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/12DD2D2317F5525CC9102965D73C74890411F5AC8.jpg"/>
+  </programme>
+  <programme start="20240403052500 +0530" stop="20240403053000 +0530" channel="NHK World Japan">
+    <title lang="en">The seasons of Yamato</title>
+    <desc lang="en">The seasons of Yamato</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1A1866C78E479AB392085E81D83E3D9A66C85600R.jpg"/>
+  </programme>
+  <programme start="20240403053000 +0530" stop="20240403054500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403054500 +0530" stop="20240403060000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240403060000 +0530" stop="20240403063000 +0530" channel="NHK World Japan">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">Dive In Tokyo</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70BE7CD65C5611B6A12D21AFCA1614F7ED08E51F0.jpg"/>
+  </programme>
+  <programme start="20240403063000 +0530" stop="20240403064500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403064500 +0530" stop="20240403070000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240403070000 +0530" stop="20240403071500 +0530" channel="NHK World Japan">
+    <title lang="en">Ninja Truth</title>
+    <desc lang="en">Ninja Truth</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBA1523CB063A1771A7CE64DC202E58C6C116F74.jpg"/>
+  </programme>
+  <programme start="20240403071500 +0530" stop="20240403072500 +0530" channel="NHK World Japan">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">Magical Japanese</desc>
+    <credits>
+      <actor>Emma Howard</actor>
+      <actor>Peter MacMillan</actor>
+      <actor>Sachiko Kagami</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF5F53D54A138DD3917B65B75292C8F8D9BDF352Z.jpg"/>
+  </programme>
+  <programme start="20240403072500 +0530" stop="20240403073000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Core Kyoto Mini</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D20BD0F4ED5124DDE4FF4C0664D664F29AE6B0DN.jpg"/>
+  </programme>
+  <programme start="20240403073000 +0530" stop="20240403074500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403074500 +0530" stop="20240403080000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240403080000 +0530" stop="20240403083000 +0530" channel="NHK World Japan">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">Frontrunners</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DDA8DC14522BC0795E6736439E8D7BC285016095G.jpg"/>
+  </programme>
+  <programme start="20240403083000 +0530" stop="20240403084500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403084500 +0530" stop="20240403090000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240403090000 +0530" stop="20240403093000 +0530" channel="NHK World Japan">
+    <title lang="en">Science View</title>
+    <desc lang="en">Science View</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B581A53E5F602DFC238B9CC26D951FB75A634E2AS.jpg"/>
+  </programme>
+  <programme start="20240403093000 +0530" stop="20240403094500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403094500 +0530" stop="20240403100000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240403100000 +0530" stop="20240403103000 +0530" channel="NHK World Japan">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Kabuki Kool</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5BB37A88CC6E1A940BA0F357D8864B1D70639497G.jpg"/>
+  </programme>
+  <programme start="20240403103000 +0530" stop="20240403104500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403104500 +0530" stop="20240403110000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240403110000 +0530" stop="20240403113000 +0530" channel="NHK World Japan">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">Dive In Tokyo</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70BE7CD65C5611B6A12D21AFCA1614F7ED08E51F0.jpg"/>
+  </programme>
+  <programme start="20240403113000 +0530" stop="20240403120000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">Newsline Asia 24</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCCB80F85F5185E9D268B7DEAE549C0967385F65R.jpg"/>
+  </programme>
+  <programme start="20240403120000 +0530" stop="20240403121500 +0530" channel="NHK World Japan">
+    <title lang="en">Ninja Truth</title>
+    <desc lang="en">Ninja Truth</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBA1523CB063A1771A7CE64DC202E58C6C116F74.jpg"/>
+  </programme>
+  <programme start="20240403121500 +0530" stop="20240403122500 +0530" channel="NHK World Japan">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">Magical Japanese</desc>
+    <credits>
+      <actor>Emma Howard</actor>
+      <actor>Peter MacMillan</actor>
+      <actor>Sachiko Kagami</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF5F53D54A138DD3917B65B75292C8F8D9BDF352Z.jpg"/>
+  </programme>
+  <programme start="20240403122500 +0530" stop="20240403123000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Core Kyoto Mini</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D20BD0F4ED5124DDE4FF4C0664D664F29AE6B0DN.jpg"/>
+  </programme>
+  <programme start="20240403123000 +0530" stop="20240403130000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">Newsline Asia 24</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCCB80F85F5185E9D268B7DEAE549C0967385F65R.jpg"/>
+  </programme>
+  <programme start="20240403130000 +0530" stop="20240403133000 +0530" channel="NHK World Japan">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">Frontrunners</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DDA8DC14522BC0795E6736439E8D7BC285016095G.jpg"/>
+  </programme>
+  <programme start="20240403133000 +0530" stop="20240403134400 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403134400 +0530" stop="20240403134500 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240403134500 +0530" stop="20240403135300 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240403135300 +0530" stop="20240403140000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan From Above: Up Close</title>
+    <desc lang="en">Japan From Above: Up Close</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52944C109513FF65C4321C48CCB38618A4D55529C.jpg"/>
+  </programme>
+  <programme start="20240403140000 +0530" stop="20240403143000 +0530" channel="NHK World Japan">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Kabuki Kool</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5BB37A88CC6E1A940BA0F357D8864B1D70639497G.jpg"/>
+  </programme>
+  <programme start="20240403143000 +0530" stop="20240403144400 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403144400 +0530" stop="20240403144500 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240403144500 +0530" stop="20240403150000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240403150000 +0530" stop="20240403153000 +0530" channel="NHK World Japan">
+    <title lang="en">Science View</title>
+    <desc lang="en">Science View</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B581A53E5F602DFC238B9CC26D951FB75A634E2AS.jpg"/>
+  </programme>
+  <programme start="20240403153000 +0530" stop="20240403154700 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403154700 +0530" stop="20240403154800 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240403154800 +0530" stop="20240403160000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240403160000 +0530" stop="20240403163000 +0530" channel="NHK World Japan">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">Dive In Tokyo</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70BE7CD65C5611B6A12D21AFCA1614F7ED08E51F0.jpg"/>
+  </programme>
+  <programme start="20240403163000 +0530" stop="20240403165700 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240403165700 +0530" stop="20240403171000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240403171000 +0530" stop="20240403172500 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240403172500 +0530" stop="20240403173000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo-Life</title>
+    <desc lang="en">Ukiyoe Edo-Life</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/841FA8E62E86CF1639A58277AB897E482B5AACDEN.jpg"/>
+  </programme>
+  <programme start="20240403173000 +0530" stop="20240403180000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240403180000 +0530" stop="20240403181500 +0530" channel="NHK World Japan">
+    <title lang="en">Ninja Truth</title>
+    <desc lang="en">Ninja Truth</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBA1523CB063A1771A7CE64DC202E58C6C116F74.jpg"/>
+  </programme>
+  <programme start="20240403181500 +0530" stop="20240403182500 +0530" channel="NHK World Japan">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">Magical Japanese</desc>
+    <credits>
+      <actor>Emma Howard</actor>
+      <actor>Peter MacMillan</actor>
+      <actor>Sachiko Kagami</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF5F53D54A138DD3917B65B75292C8F8D9BDF352Z.jpg"/>
+  </programme>
+  <programme start="20240403182500 +0530" stop="20240403183000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Core Kyoto Mini</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D20BD0F4ED5124DDE4FF4C0664D664F29AE6B0DN.jpg"/>
+  </programme>
+  <programme start="20240403183000 +0530" stop="20240403184800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403184800 +0530" stop="20240403190000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240403190000 +0530" stop="20240403193000 +0530" channel="NHK World Japan">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">Frontrunners</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DDA8DC14522BC0795E6736439E8D7BC285016095G.jpg"/>
+  </programme>
+  <programme start="20240403193000 +0530" stop="20240403194500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403194500 +0530" stop="20240403200000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240403200000 +0530" stop="20240403203000 +0530" channel="NHK World Japan">
+    <title lang="en">Trails to Oishii Tokyo</title>
+    <desc lang="en">Trails to Oishii Tokyo</desc>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3C92198FE137257DA97B7B9BF47591BA3C04410U.jpg"/>
+  </programme>
+  <programme start="20240403203000 +0530" stop="20240403204500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403204500 +0530" stop="20240403210000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240403210000 +0530" stop="20240403213000 +0530" channel="NHK World Japan">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">Dive In Tokyo</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70BE7CD65C5611B6A12D21AFCA1614F7ED08E51F0.jpg"/>
+  </programme>
+  <programme start="20240403213000 +0530" stop="20240403214500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403214500 +0530" stop="20240403220000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240403220000 +0530" stop="20240403223000 +0530" channel="NHK World Japan">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Kabuki Kool</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5BB37A88CC6E1A940BA0F357D8864B1D70639497G.jpg"/>
+  </programme>
+  <programme start="20240403223000 +0530" stop="20240403224500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240403224500 +0530" stop="20240403230000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240403230000 +0530" stop="20240403231500 +0530" channel="NHK World Japan">
+    <title lang="en">Ninja Truth</title>
+    <desc lang="en">Ninja Truth</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBA1523CB063A1771A7CE64DC202E58C6C116F74.jpg"/>
+  </programme>
+  <programme start="20240403231500 +0530" stop="20240403232500 +0530" channel="NHK World Japan">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">Magical Japanese</desc>
+    <credits>
+      <actor>Emma Howard</actor>
+      <actor>Peter MacMillan</actor>
+      <actor>Sachiko Kagami</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF5F53D54A138DD3917B65B75292C8F8D9BDF352Z.jpg"/>
+  </programme>
+  <programme start="20240403232500 +0530" stop="20240403233000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Core Kyoto Mini</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D20BD0F4ED5124DDE4FF4C0664D664F29AE6B0DN.jpg"/>
+  </programme>
+  <programme start="20240403233000 +0530" stop="20240403235700 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240403235700 +0530" stop="20240404001000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404001000 +0530" stop="20240404002500 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240404002500 +0530" stop="20240404003000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo Life</title>
+    <desc lang="en">Ukiyoe Edo Life</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169BF72559D0E8DB1872FB60F5672AC0B5FBF3618.jpg"/>
+  </programme>
+  <programme start="20240404003000 +0530" stop="20240404010000 +0530" channel="NHK World Japan">
+    <title lang="en">Tiny Desk Concerts Japan</title>
+    <desc lang="en">Tiny Desk Concerts Japan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AEA3B6FA38A2FA16A3D4E6F129E86883A6816A4EI.jpg"/>
+  </programme>
+  <programme start="20240404010000 +0530" stop="20240404013000 +0530" channel="NHK World Japan">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">Frontrunners</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DDA8DC14522BC0795E6736439E8D7BC285016095G.jpg"/>
+  </programme>
+  <programme start="20240404013000 +0530" stop="20240404014800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404014800 +0530" stop="20240404020000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240404020000 +0530" stop="20240404023000 +0530" channel="NHK World Japan">
+    <title lang="en">Trails to Oishii Tokyo</title>
+    <desc lang="en">Trails to Oishii Tokyo</desc>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3C92198FE137257DA97B7B9BF47591BA3C04410U.jpg"/>
+  </programme>
+  <programme start="20240404023000 +0530" stop="20240404024800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404024800 +0530" stop="20240404030000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240404030000 +0530" stop="20240404033000 +0530" channel="NHK World Japan">
+    <title lang="en">Dive In Tokyo</title>
+    <desc lang="en">Dive In Tokyo</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/70BE7CD65C5611B6A12D21AFCA1614F7ED08E51F0.jpg"/>
+  </programme>
+  <programme start="20240404033000 +0530" stop="20240404034800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404034800 +0530" stop="20240404040000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240404040000 +0530" stop="20240404041500 +0530" channel="NHK World Japan">
+    <title lang="en">Ninja Truth</title>
+    <desc lang="en">Ninja Truth</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2CBA1523CB063A1771A7CE64DC202E58C6C116F74.jpg"/>
+  </programme>
+  <programme start="20240404041500 +0530" stop="20240404042500 +0530" channel="NHK World Japan">
+    <title lang="en">Magical Japanese</title>
+    <desc lang="en">Magical Japanese</desc>
+    <credits>
+      <actor>Emma Howard</actor>
+      <actor>Peter MacMillan</actor>
+      <actor>Sachiko Kagami</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BF5F53D54A138DD3917B65B75292C8F8D9BDF352Z.jpg"/>
+  </programme>
+  <programme start="20240404042500 +0530" stop="20240404043000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Core Kyoto Mini</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D20BD0F4ED5124DDE4FF4C0664D664F29AE6B0DN.jpg"/>
+  </programme>
+  <programme start="20240404043000 +0530" stop="20240404044500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404044500 +0530" stop="20240404045000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo Life</title>
+    <desc lang="en">Ukiyoe Edo Life</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169BF72559D0E8DB1872FB60F5672AC0B5FBF3618.jpg"/>
+  </programme>
+  <programme start="20240404045000 +0530" stop="20240404045500 +0530" channel="NHK World Japan">
+    <title lang="en">Japan Time-Lapse Ainu</title>
+    <desc lang="en">Japan Time-Lapse Ainu</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36328CC6AE50DB55132198BB882026E5B7FCE560F.jpg"/>
+  </programme>
+  <programme start="20240404045500 +0530" stop="20240404050000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan From Above: Up Close</title>
+    <desc lang="en">Japan From Above: Up Close</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52944C109513FF65C4321C48CCB38618A4D55529C.jpg"/>
+  </programme>
+  <programme start="20240404050000 +0530" stop="20240404053000 +0530" channel="NHK World Japan">
+    <title lang="en">Kabuki Kool</title>
+    <desc lang="en">Kabuki Kool</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5BB37A88CC6E1A940BA0F357D8864B1D70639497G.jpg"/>
+  </programme>
+  <programme start="20240404053000 +0530" stop="20240404054500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404054500 +0530" stop="20240404060000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404060000 +0530" stop="20240404063000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto</title>
+    <desc lang="en">Core Kyoto</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98FEEA26253AE794624CCA41E8FD6A09664BF203J.jpg"/>
+  </programme>
+  <programme start="20240404063000 +0530" stop="20240404064500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404064500 +0530" stop="20240404070000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240404070000 +0530" stop="20240404073000 +0530" channel="NHK World Japan">
+    <title lang="en">Design X Stories</title>
+    <desc lang="en">Design X Stories</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/965D861AC459E443011124D63815EAF8F582D0FBK.jpg"/>
+  </programme>
+  <programme start="20240404073000 +0530" stop="20240404074500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404074500 +0530" stop="20240404080000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404080000 +0530" stop="20240404083000 +0530" channel="NHK World Japan">
+    <title lang="en">Japanology Plus</title>
+    <desc lang="en">Japanology Plus</desc>
+    <credits>
+      <actor>Peter Barakan</actor>
+    </credits>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/315B895F78C03160CDBB86AFE434C2F8D2F7D45CR.jpg"/>
+  </programme>
+  <programme start="20240404083000 +0530" stop="20240404084500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404084500 +0530" stop="20240404090000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404090000 +0530" stop="20240404093000 +0530" channel="NHK World Japan">
+    <title lang="en">Trails to Oishii Tokyo</title>
+    <desc lang="en">Trails to Oishii Tokyo</desc>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3C92198FE137257DA97B7B9BF47591BA3C04410U.jpg"/>
+  </programme>
+  <programme start="20240404093000 +0530" stop="20240404094500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404094500 +0530" stop="20240404100000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404100000 +0530" stop="20240404102500 +0530" channel="NHK World Japan">
+    <title lang="en">Lunch On!</title>
+    <desc lang="en">Lunch On!</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D94CB498EDB46B1E5474150B56FF3FC5B2640DR.jpg"/>
+  </programme>
+  <programme start="20240404102500 +0530" stop="20240404103000 +0530" channel="NHK World Japan">
+    <title lang="en">Dining With The Chef Mini</title>
+    <desc lang="en">Dining With The Chef Mini</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD0F88A6B34E8AA560BD80149DCB1CA28E0B819W.jpg"/>
+  </programme>
+  <programme start="20240404103000 +0530" stop="20240404104500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404104500 +0530" stop="20240404110000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240404110000 +0530" stop="20240404113000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto</title>
+    <desc lang="en">Core Kyoto</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98FEEA26253AE794624CCA41E8FD6A09664BF203J.jpg"/>
+  </programme>
+  <programme start="20240404113000 +0530" stop="20240404120000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">Newsline Asia 24</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCCB80F85F5185E9D268B7DEAE549C0967385F65R.jpg"/>
+  </programme>
+  <programme start="20240404120000 +0530" stop="20240404123000 +0530" channel="NHK World Japan">
+    <title lang="en">Design X Stories</title>
+    <desc lang="en">Design X Stories</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/965D861AC459E443011124D63815EAF8F582D0FBK.jpg"/>
+  </programme>
+  <programme start="20240404123000 +0530" stop="20240404130000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">Newsline Asia 24</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCCB80F85F5185E9D268B7DEAE549C0967385F65R.jpg"/>
+  </programme>
+  <programme start="20240404130000 +0530" stop="20240404133000 +0530" channel="NHK World Japan">
+    <title lang="en">Japanology Plus</title>
+    <desc lang="en">Japanology Plus</desc>
+    <credits>
+      <actor>Peter Barakan</actor>
+    </credits>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/315B895F78C03160CDBB86AFE434C2F8D2F7D45CR.jpg"/>
+  </programme>
+  <programme start="20240404133000 +0530" stop="20240404134400 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404134400 +0530" stop="20240404134500 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240404134500 +0530" stop="20240404135300 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240404135300 +0530" stop="20240404140000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan From Above: Up Close</title>
+    <desc lang="en">Japan From Above: Up Close</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52944C109513FF65C4321C48CCB38618A4D55529C.jpg"/>
+  </programme>
+  <programme start="20240404140000 +0530" stop="20240404142500 +0530" channel="NHK World Japan">
+    <title lang="en">Lunch On!</title>
+    <desc lang="en">Lunch On!</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D94CB498EDB46B1E5474150B56FF3FC5B2640DR.jpg"/>
+  </programme>
+  <programme start="20240404142500 +0530" stop="20240404143000 +0530" channel="NHK World Japan">
+    <title lang="en">Dining With The Chef Mini</title>
+    <desc lang="en">Dining With The Chef Mini</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD0F88A6B34E8AA560BD80149DCB1CA28E0B819W.jpg"/>
+  </programme>
+  <programme start="20240404143000 +0530" stop="20240404144400 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404144400 +0530" stop="20240404144500 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240404144500 +0530" stop="20240404150000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240404150000 +0530" stop="20240404153000 +0530" channel="NHK World Japan">
+    <title lang="en">Trails to Oishii Tokyo</title>
+    <desc lang="en">Trails to Oishii Tokyo</desc>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3C92198FE137257DA97B7B9BF47591BA3C04410U.jpg"/>
+  </programme>
+  <programme start="20240404153000 +0530" stop="20240404154700 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404154700 +0530" stop="20240404154800 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240404154800 +0530" stop="20240404160000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240404160000 +0530" stop="20240404163000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto</title>
+    <desc lang="en">Core Kyoto</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98FEEA26253AE794624CCA41E8FD6A09664BF203J.jpg"/>
+  </programme>
+  <programme start="20240404163000 +0530" stop="20240404165700 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240404165700 +0530" stop="20240404171000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404171000 +0530" stop="20240404172500 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240404172500 +0530" stop="20240404173000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo Life</title>
+    <desc lang="en">Ukiyoe Edo Life</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/169BF72559D0E8DB1872FB60F5672AC0B5FBF3618.jpg"/>
+  </programme>
+  <programme start="20240404173000 +0530" stop="20240404180000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240404180000 +0530" stop="20240404183000 +0530" channel="NHK World Japan">
+    <title lang="en">Design X Stories</title>
+    <desc lang="en">Design X Stories</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/965D861AC459E443011124D63815EAF8F582D0FBK.jpg"/>
+  </programme>
+  <programme start="20240404183000 +0530" stop="20240404184800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404184800 +0530" stop="20240404190000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240404190000 +0530" stop="20240404193000 +0530" channel="NHK World Japan">
+    <title lang="en">Japanology Plus</title>
+    <desc lang="en">Japanology Plus</desc>
+    <credits>
+      <actor>Peter Barakan</actor>
+    </credits>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/315B895F78C03160CDBB86AFE434C2F8D2F7D45CR.jpg"/>
+  </programme>
+  <programme start="20240404193000 +0530" stop="20240404194500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404194500 +0530" stop="20240404200000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404200000 +0530" stop="20240404203000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan Railway Journal</title>
+    <desc lang="en">Japan Railway Journal</desc>
+    <category lang="en">Engineering</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB9C293C3F3016A87E0464233A3822D51D220A0FQ.jpg"/>
+  </programme>
+  <programme start="20240404203000 +0530" stop="20240404204500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404204500 +0530" stop="20240404210000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404210000 +0530" stop="20240404213000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto</title>
+    <desc lang="en">Core Kyoto</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98FEEA26253AE794624CCA41E8FD6A09664BF203J.jpg"/>
+  </programme>
+  <programme start="20240404213000 +0530" stop="20240404214500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404214500 +0530" stop="20240404220000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240404220000 +0530" stop="20240404222500 +0530" channel="NHK World Japan">
+    <title lang="en">Lunch On!</title>
+    <desc lang="en">Lunch On!</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D94CB498EDB46B1E5474150B56FF3FC5B2640DR.jpg"/>
+  </programme>
+  <programme start="20240404222500 +0530" stop="20240404223000 +0530" channel="NHK World Japan">
+    <title lang="en">Dining With The Chef Mini</title>
+    <desc lang="en">Dining With The Chef Mini</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD0F88A6B34E8AA560BD80149DCB1CA28E0B819W.jpg"/>
+  </programme>
+  <programme start="20240404223000 +0530" stop="20240404224500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240404224500 +0530" stop="20240404230000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240404230000 +0530" stop="20240404233000 +0530" channel="NHK World Japan">
+    <title lang="en">Design X Stories</title>
+    <desc lang="en">Design X Stories</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/965D861AC459E443011124D63815EAF8F582D0FBK.jpg"/>
+  </programme>
+  <programme start="20240404233000 +0530" stop="20240404235700 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240404235700 +0530" stop="20240405001000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405001000 +0530" stop="20240405002500 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240405002500 +0530" stop="20240405003000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo-Life</title>
+    <desc lang="en">Ukiyoe Edo-Life</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/841FA8E62E86CF1639A58277AB897E482B5AACDEN.jpg"/>
+  </programme>
+  <programme start="20240405003000 +0530" stop="20240405010000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan's Top Inventions</title>
+    <desc lang="en">Japan's Top Inventions</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E63E5769A039131FE83F5C2341E734AE7F45D0B6B.jpg"/>
+  </programme>
+  <programme start="20240405010000 +0530" stop="20240405013000 +0530" channel="NHK World Japan">
+    <title lang="en">Japanology Plus</title>
+    <desc lang="en">Japanology Plus</desc>
+    <credits>
+      <actor>Peter Barakan</actor>
+    </credits>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/315B895F78C03160CDBB86AFE434C2F8D2F7D45CR.jpg"/>
+  </programme>
+  <programme start="20240405013000 +0530" stop="20240405014800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405014800 +0530" stop="20240405020000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240405020000 +0530" stop="20240405023000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan Railway Journal</title>
+    <desc lang="en">Japan Railway Journal</desc>
+    <category lang="en">Engineering</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB9C293C3F3016A87E0464233A3822D51D220A0FQ.jpg"/>
+  </programme>
+  <programme start="20240405023000 +0530" stop="20240405024800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405024800 +0530" stop="20240405030000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240405030000 +0530" stop="20240405033000 +0530" channel="NHK World Japan">
+    <title lang="en">Core Kyoto</title>
+    <desc lang="en">Core Kyoto</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98FEEA26253AE794624CCA41E8FD6A09664BF203J.jpg"/>
+  </programme>
+  <programme start="20240405033000 +0530" stop="20240405034800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405034800 +0530" stop="20240405040000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240405040000 +0530" stop="20240405043000 +0530" channel="NHK World Japan">
+    <title lang="en">Design X Stories</title>
+    <desc lang="en">Design X Stories</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/965D861AC459E443011124D63815EAF8F582D0FBK.jpg"/>
+  </programme>
+  <programme start="20240405043000 +0530" stop="20240405044500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405044500 +0530" stop="20240405045000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo-Life</title>
+    <desc lang="en">Ukiyoe Edo-Life</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/841FA8E62E86CF1639A58277AB897E482B5AACDEN.jpg"/>
+  </programme>
+  <programme start="20240405045000 +0530" stop="20240405045500 +0530" channel="NHK World Japan">
+    <title lang="en">Japan Time-Lapse Ainu</title>
+    <desc lang="en">Japan Time-Lapse Ainu</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36328CC6AE50DB55132198BB882026E5B7FCE560F.jpg"/>
+  </programme>
+  <programme start="20240405045500 +0530" stop="20240405050000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan From Above: Up Close</title>
+    <desc lang="en">Japan From Above: Up Close</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/52944C109513FF65C4321C48CCB38618A4D55529C.jpg"/>
+  </programme>
+  <programme start="20240405050000 +0530" stop="20240405052500 +0530" channel="NHK World Japan">
+    <title lang="en">Lunch On!</title>
+    <desc lang="en">Lunch On!</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25D94CB498EDB46B1E5474150B56FF3FC5B2640DR.jpg"/>
+  </programme>
+  <programme start="20240405052500 +0530" stop="20240405053000 +0530" channel="NHK World Japan">
+    <title lang="en">Dining With The Chef Mini</title>
+    <desc lang="en">Dining With The Chef Mini</desc>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0AD0F88A6B34E8AA560BD80149DCB1CA28E0B819W.jpg"/>
+  </programme>
+  <programme start="20240405053000 +0530" stop="20240405054500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405054500 +0530" stop="20240405060000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405060000 +0530" stop="20240405063000 +0530" channel="NHK World Japan">
+    <title lang="en">Asia Insight</title>
+    <desc lang="en">Asia Insight</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/464C87D96A2B68EE159D71B0E6EC9E18B876D2E9P.jpg"/>
+  </programme>
+  <programme start="20240405063000 +0530" stop="20240405064500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405064500 +0530" stop="20240405070000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240405070000 +0530" stop="20240405071500 +0530" channel="NHK World Japan">
+    <title lang="en">Bento Expo</title>
+    <desc lang="en">Bento Expo</desc>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5334F1962474E1D044417647CE6480DBF238A43BQ.jpg"/>
+  </programme>
+  <programme start="20240405071500 +0530" stop="20240405073000 +0530" channel="NHK World Japan">
+    <title lang="en">Zero Waste Life</title>
+    <desc lang="en">Zero Waste Life</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F35D3F7996C3B7772148CA66DCFDF1C41A2E92CCB.jpg"/>
+  </programme>
+  <programme start="20240405073000 +0530" stop="20240405074500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405074500 +0530" stop="20240405080000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405080000 +0530" stop="20240405083000 +0530" channel="NHK World Japan">
+    <title lang="en">Wander - Land</title>
+    <desc lang="en">Wander - Land</desc>
+    <credits>
+      <actor>Honey Jiro</actor>
+      <actor>Maxwell Powers</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A4B738313D637B3B6B5F7B574115171522F551B3.jpg"/>
+  </programme>
+  <programme start="20240405083000 +0530" stop="20240405084500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405084500 +0530" stop="20240405090000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405090000 +0530" stop="20240405093000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan Railway Journal</title>
+    <desc lang="en">Japan Railway Journal</desc>
+    <category lang="en">Engineering</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB9C293C3F3016A87E0464233A3822D51D220A0FQ.jpg"/>
+  </programme>
+  <programme start="20240405093000 +0530" stop="20240405094500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405094500 +0530" stop="20240405100000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405100000 +0530" stop="20240405103000 +0530" channel="NHK World Japan">
+    <title lang="en">Seasoning The Seasons</title>
+    <desc lang="en">Seasoning The Seasons</desc>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E046B8D3F10EB00382E622725BB9CEF0416C055P.jpg"/>
+  </programme>
+  <programme start="20240405103000 +0530" stop="20240405104500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405104500 +0530" stop="20240405110000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240405110000 +0530" stop="20240405113000 +0530" channel="NHK World Japan">
+    <title lang="en">Asia Insight</title>
+    <desc lang="en">Asia Insight</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/464C87D96A2B68EE159D71B0E6EC9E18B876D2E9P.jpg"/>
+  </programme>
+  <programme start="20240405113000 +0530" stop="20240405120000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">Newsline Asia 24</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCCB80F85F5185E9D268B7DEAE549C0967385F65R.jpg"/>
+  </programme>
+  <programme start="20240405120000 +0530" stop="20240405121500 +0530" channel="NHK World Japan">
+    <title lang="en">Bento Expo</title>
+    <desc lang="en">Bento Expo</desc>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5334F1962474E1D044417647CE6480DBF238A43BQ.jpg"/>
+  </programme>
+  <programme start="20240405121500 +0530" stop="20240405123000 +0530" channel="NHK World Japan">
+    <title lang="en">Zero Waste Life</title>
+    <desc lang="en">Zero Waste Life</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F35D3F7996C3B7772148CA66DCFDF1C41A2E92CCB.jpg"/>
+  </programme>
+  <programme start="20240405123000 +0530" stop="20240405130000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Asia 24</title>
+    <desc lang="en">Newsline Asia 24</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CCCB80F85F5185E9D268B7DEAE549C0967385F65R.jpg"/>
+  </programme>
+  <programme start="20240405130000 +0530" stop="20240405133000 +0530" channel="NHK World Japan">
+    <title lang="en">Wander - Land</title>
+    <desc lang="en">Wander - Land</desc>
+    <credits>
+      <actor>Honey Jiro</actor>
+      <actor>Maxwell Powers</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A4B738313D637B3B6B5F7B574115171522F551B3.jpg"/>
+  </programme>
+  <programme start="20240405133000 +0530" stop="20240405134400 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405134400 +0530" stop="20240405134500 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240405134500 +0530" stop="20240405135300 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240405135300 +0530" stop="20240405140000 +0530" channel="NHK World Japan">
+    <title lang="en">Chatroom Japan</title>
+    <desc lang="en">Chatroom Japan</desc>
+    <credits>
+      <actor>Kawasaki Rika</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5280EFA91EF94EF135AEFBF0EDE0EBC2745067A67.jpg"/>
+  </programme>
+  <programme start="20240405140000 +0530" stop="20240405143000 +0530" channel="NHK World Japan">
+    <title lang="en">Document 72 Hours</title>
+    <desc lang="en">Document 72 Hours</desc>
+    <category lang="en">Documentary</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E504A1B7EB8E7D32D7A9DF5198CBFE6CBA4E235EZ.jpg"/>
+  </programme>
+  <programme start="20240405143000 +0530" stop="20240405144400 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405144400 +0530" stop="20240405144500 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240405144500 +0530" stop="20240405150000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240405150000 +0530" stop="20240405153000 +0530" channel="NHK World Japan">
+    <title lang="en">Japan Railway Journal</title>
+    <desc lang="en">Japan Railway Journal</desc>
+    <category lang="en">Engineering</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB9C293C3F3016A87E0464233A3822D51D220A0FQ.jpg"/>
+  </programme>
+  <programme start="20240405153000 +0530" stop="20240405154700 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405154700 +0530" stop="20240405154800 +0530" channel="NHK World Japan">
+    <title lang="en">Nl Bridge</title>
+    <desc lang="en">Nl Bridge</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BCAE0D38C599874729E249B2FB466F726EBC7BF6T.jpg"/>
+  </programme>
+  <programme start="20240405154800 +0530" stop="20240405160000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240405160000 +0530" stop="20240405163000 +0530" channel="NHK World Japan">
+    <title lang="en">Asia Insight</title>
+    <desc lang="en">Asia Insight</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/464C87D96A2B68EE159D71B0E6EC9E18B876D2E9P.jpg"/>
+  </programme>
+  <programme start="20240405163000 +0530" stop="20240405165700 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240405165700 +0530" stop="20240405171000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405171000 +0530" stop="20240405172500 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240405172500 +0530" stop="20240405173000 +0530" channel="NHK World Japan">
+    <title lang="en">Ukiyoe Edo-Life</title>
+    <desc lang="en">Ukiyoe Edo-Life</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/841FA8E62E86CF1639A58277AB897E482B5AACDEN.jpg"/>
+  </programme>
+  <programme start="20240405173000 +0530" stop="20240405180000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240405180000 +0530" stop="20240405181500 +0530" channel="NHK World Japan">
+    <title lang="en">Bento Expo</title>
+    <desc lang="en">Bento Expo</desc>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5334F1962474E1D044417647CE6480DBF238A43BQ.jpg"/>
+  </programme>
+  <programme start="20240405181500 +0530" stop="20240405183000 +0530" channel="NHK World Japan">
+    <title lang="en">Zero Waste Life</title>
+    <desc lang="en">Zero Waste Life</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F35D3F7996C3B7772148CA66DCFDF1C41A2E92CCB.jpg"/>
+  </programme>
+  <programme start="20240405183000 +0530" stop="20240405184800 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405184800 +0530" stop="20240405190000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline Biz</title>
+    <desc lang="en">Newsline Biz</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2FEBA1C3584AD6226C7AA584F7E2F36FF800E3C17.jpg"/>
+  </programme>
+  <programme start="20240405190000 +0530" stop="20240405193000 +0530" channel="NHK World Japan">
+    <title lang="en">Wander - Land</title>
+    <desc lang="en">Wander - Land</desc>
+    <credits>
+      <actor>Honey Jiro</actor>
+      <actor>Maxwell Powers</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A4B738313D637B3B6B5F7B574115171522F551B3.jpg"/>
+  </programme>
+  <programme start="20240405193000 +0530" stop="20240405194500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405194500 +0530" stop="20240405200000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405200000 +0530" stop="20240405203000 +0530" channel="NHK World Japan">
+    <title lang="en">Rene Goes to School</title>
+    <desc lang="en">Rene Goes to School</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/69180C2E90B24D8E93972F1B8BF5F5D833F323FD7.jpg"/>
+  </programme>
+  <programme start="20240405203000 +0530" stop="20240405204500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405204500 +0530" stop="20240405210000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405210000 +0530" stop="20240405213000 +0530" channel="NHK World Japan">
+    <title lang="en">Asia Insight</title>
+    <desc lang="en">Asia Insight</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/464C87D96A2B68EE159D71B0E6EC9E18B876D2E9P.jpg"/>
+  </programme>
+  <programme start="20240405213000 +0530" stop="20240405214500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405214500 +0530" stop="20240405220000 +0530" channel="NHK World Japan">
+    <title lang="en">Direct Talk</title>
+    <desc lang="en">Direct Talk</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9CBC0B495D30D3A0203F601E50495B3483F23CC1.jpg"/>
+  </programme>
+  <programme start="20240405220000 +0530" stop="20240405223000 +0530" channel="NHK World Japan">
+    <title lang="en">Frontrunners</title>
+    <desc lang="en">Frontrunners</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DDA8DC14522BC0795E6736439E8D7BC285016095G.jpg"/>
+  </programme>
+  <programme start="20240405223000 +0530" stop="20240405224500 +0530" channel="NHK World Japan">
+    <title lang="en">NHK Newsline</title>
+    <desc lang="en">NHK Newsline</desc>
+    <credits>
+      <actor>Minori Takao</actor>
+      <actor>Kyoko Tashiro</actor>
+      <actor>Miki Yamamoto</actor>
+      <actor>Ai Uchida</actor>
+      <actor>James Tengan</actor>
+      <actor>Ross Mihara</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6B962A79BACE814E3E3E5872278D60DE9CF2FEEJ.jpg"/>
+  </programme>
+  <programme start="20240405224500 +0530" stop="20240405230000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+  <programme start="20240405230000 +0530" stop="20240405231500 +0530" channel="NHK World Japan">
+    <title lang="en">Bento Expo</title>
+    <desc lang="en">Bento Expo</desc>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5334F1962474E1D044417647CE6480DBF238A43BQ.jpg"/>
+  </programme>
+  <programme start="20240405231500 +0530" stop="20240405233000 +0530" channel="NHK World Japan">
+    <title lang="en">Zero Waste Life</title>
+    <desc lang="en">Zero Waste Life</desc>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F35D3F7996C3B7772148CA66DCFDF1C41A2E92CCB.jpg"/>
+  </programme>
+  <programme start="20240405233000 +0530" stop="20240405235700 +0530" channel="NHK World Japan">
+    <title lang="en">Newsroom Tokyo</title>
+    <desc lang="en">Newsroom Tokyo</desc>
+    <credits>
+      <actor>Aiko Doden</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF13FA0F4516CED527838327C97C3EF6752842AEN.jpg"/>
+  </programme>
+  <programme start="20240405235700 +0530" stop="20240406001000 +0530" channel="NHK World Japan">
+    <title lang="en">Newsline In Depth</title>
+    <desc lang="en">Newsline In Depth</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/96031DFABC28BEE65D6DBD5E1AF3300CAF13B0B17.jpg"/>
+  </programme>
+</tv>

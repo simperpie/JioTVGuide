@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="LIVE TV on Mobile">
+    <display-name lang="en">LIVE TV on Mobile</display-name>
+    <icon src="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_150/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47476-k2eajl2w-v2/imageContent-47476-k2eajl2w-m2.png"/>
+  </channel>
+  <programme start="20240403000000 +0530" stop="20240403050000 +0530" channel="LIVE TV on Mobile">
+    <title lang="en">Tata Play Binge app</title>
+    <desc lang="en">Tata Play Binge app</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240403050000 +0530" stop="20240403100000 +0530" channel="LIVE TV on Mobile">
+    <title lang="en">Tata Play Binge app</title>
+    <desc lang="en">Tata Play Binge app</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240403100000 +0530" stop="20240403150000 +0530" channel="LIVE TV on Mobile">
+    <title lang="en">Tata Play Binge app</title>
+    <desc lang="en">Tata Play Binge app</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240403150000 +0530" stop="20240403180000 +0530" channel="LIVE TV on Mobile">
+    <title lang="en">Tata Play Binge app</title>
+    <desc lang="en">Tata Play Binge app</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240403180000 +0530" stop="20240403183000 +0530" channel="LIVE TV on Mobile">
+    <title lang="en">Tata Play Linear Pack</title>
+    <desc lang="en">Tata Play Linear Pack</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240403183000 +0530" stop="20240403190000 +0530" channel="LIVE TV on Mobile">
+    <title lang="en">Tata Play Linear Pack</title>
+    <desc lang="en">Tata Play Linear Pack</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+  <programme start="20240403190000 +0530" stop="20240404000000 +0530" channel="LIVE TV on Mobile">
+    <title lang="en">Tata Play Binge app</title>
+    <desc lang="en">Tata Play Binge app</desc>
+    <category lang="en">Promotional</category>
+    <icon src="http://imagestatasky.whatsonindia.com/dasimages/landscape/1280x720/Tataplaylogo.jpg"/>
+  </programme>
+</tv>

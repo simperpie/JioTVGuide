@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="DD Punjabi">
+    <display-name lang="en">DD Punjabi</display-name>
+    <icon src="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_150/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11374-j9jpwgiw-v1/imageContent-11374-j9jpwgiw-m1.png"/>
+  </channel>
+  <programme start="20240403000000 +0530" stop="20240403003000 +0530" channel="DD Punjabi">
+    <title lang="en">Navi Udari</title>
+    <desc lang="en">The hosts invite eminent personalities, who have achieved laurels in their respective fields, and learn about their life and career achievements.</desc>
+    <credits>
+      <actor>Updesh Khinda</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2B8BE46F656CBA0B26BB735B94245AB45420FFD29.jpg"/>
+  </programme>
+  <programme start="20240403003000 +0530" stop="20240403010000 +0530" channel="DD Punjabi">
+    <title lang="en">Rachna</title>
+    <desc lang="en">The host engages in conversation with renowned artists and discusses their professional achievements and personal lives in detail.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B15589C14080DCD212473A7DAD6939FB351CA5661.jpg"/>
+  </programme>
+  <programme start="20240403010000 +0530" stop="20240403013000 +0530" channel="DD Punjabi">
+    <title lang="en">Hulle Hulare</title>
+    <desc lang="en">Talented Punjabi singers from across different genres take to the stage and entertain the audience with their performances.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17F8937D180FA914D54BB8F2B5FBC9FC45A04BFFB.jpg"/>
+  </programme>
+  <programme start="20240403013000 +0530" stop="20240403020000 +0530" channel="DD Punjabi">
+    <title lang="en">Mehfil</title>
+    <desc lang="en">Renowned singers from around the world compose and perform some of their popular ghazals and explain the meaning of their verses.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B3804F895F2935C2FB8C55FFEE8697EE10ABBD80.jpg"/>
+  </programme>
+  <programme start="20240403020000 +0530" stop="20240403024500 +0530" channel="DD Punjabi">
+    <title lang="en">Chamak Dhamak</title>
+    <desc lang="en">A special show on the occasion of New Year. People around the world celebrate the beginning of the year while also reminiscing about the moments of the year gone by.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F70572E68B8FFC8F1F4EC075D3A25F47789BB730.jpg"/>
+  </programme>
+  <programme start="20240403024500 +0530" stop="20240403030000 +0530" channel="DD Punjabi">
+    <title lang="en">Laung Lachiyan</title>
+    <desc lang="en">Laung Lachiyan</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/267DDCF18F12A8492595F34F2BA6753215281620Z.jpg"/>
+  </programme>
+  <programme start="20240403030000 +0530" stop="20240403040000 +0530" channel="DD Punjabi">
+    <title lang="en">Kavishree/Dhadiwarran</title>
+    <desc lang="en">A comprehensive compilation of hymns, verses and devotional songs sung by Sikh devotees in praise of God to invoke His blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB37C13D24E099AC5E632560E6642EC5317AFF76J.jpg"/>
+  </programme>
+  <programme start="20240403040000 +0530" stop="20240403053000 +0530" channel="DD Punjabi">
+    <title lang="en">Aasa Di Vaar</title>
+    <desc lang="en">A comprehensive collection of stanzas composed by the founder of Sikhism, Guru Nanak Dev ji, played during the early morning service.</desc>
+    <credits>
+      <actor>Bhai Surjan Singh Ji</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F040CBB9145C04184552F9BAE5CAD94CFF39DA9P.jpg"/>
+  </programme>
+  <programme start="20240403053000 +0530" stop="20240403054500 +0530" channel="DD Punjabi">
+    <title lang="en">Bhakti Sangeet</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs performed by the finest singers and talented musicians in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E97C720AD7E1FF2CC3BE5EC2B0682E396BABB94P.jpg"/>
+  </programme>
+  <programme start="20240403054500 +0530" stop="20240403061500 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Kirtan</title>
+    <desc lang="en">Various renowned 'ragis' and their teams render some of the popular Shabad Gurbani kirtans in the praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/481CA8A5BD2669C398139B4C484AC3E0D6A777F57.jpg"/>
+  </programme>
+  <programme start="20240403061500 +0530" stop="20240403064000 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Vichar</title>
+    <desc lang="en">Shabad Vichar</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E1556161DEC7441B519FE122B677DA8990353199.jpg"/>
+  </programme>
+  <programme start="20240403064000 +0530" stop="20240403071000 +0530" channel="DD Punjabi">
+    <title lang="en">Begampura</title>
+    <desc lang="en">Begampura</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/744F46DFA59CC8170435941DFD20E7AC618708AC5.jpg"/>
+  </programme>
+  <programme start="20240403071000 +0530" stop="20240403071500 +0530" channel="DD Punjabi">
+    <title lang="en">Bhakti Sangeet</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs performed by the finest singers and talented musicians in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E97C720AD7E1FF2CC3BE5EC2B0682E396BABB94P.jpg"/>
+  </programme>
+  <programme start="20240403071500 +0530" stop="20240403073000 +0530" channel="DD Punjabi">
+    <title lang="en">Sanskrit News</title>
+    <desc lang="en">The host presents updates on the latest news, current affairs, religious and cultural events and happenings presented in Sanskrit.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/20C36D309B975641F507394BC3E2B6648294AD43Q.jpg"/>
+  </programme>
+  <programme start="20240403073000 +0530" stop="20240403075500 +0530" channel="DD Punjabi">
+    <title lang="en">Sachi Bani</title>
+    <desc lang="en">A comprehensive compilation of some of the famous devotional songs dedicated to Sikh gurus written and composed by renowned artists from around the world.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B3503A51B206CCA52D0B92DF0A900838ED532EE5X.jpg"/>
+  </programme>
+  <programme start="20240403075500 +0530" stop="20240403080000 +0530" channel="DD Punjabi">
+    <title lang="en">Ajj Da Vichar</title>
+    <desc lang="en">A prominent religious leader talks about the sacred scriptures and holds a spiritual discourse wherein he praises the lord.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAB59369FB722F73E32232FCE035ACFB3BC0E35A5.jpg"/>
+  </programme>
+  <programme start="20240403080000 +0530" stop="20240403081500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403081500 +0530" stop="20240403084000 +0530" channel="DD Punjabi">
+    <title lang="en">So Than Sohawa</title>
+    <desc lang="en">Spiritual leaders and devotees sing hymns and chant verses from the Guru Granth Sahib in praise of the Almighty at Takht Sri Keshgarh Sahib, Punjab.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/954356BAB33B281976FABDD2C3F6F43E1BC87D01F.jpg"/>
+  </programme>
+  <programme start="20240403084000 +0530" stop="20240403091500 +0530" channel="DD Punjabi">
+    <title lang="en">Gallan Te Geet</title>
+    <desc lang="en">The hosts chat with experts from various fields and cover several crucial issues that are impacting the lives of the people in India.</desc>
+    <credits>
+      <actor>Jasmer Singh Dhatt</actor>
+      <actor>Sandeep Sandhu</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A73EA1AF0FB512B22CD45B24DB5B7FD257608FEW.jpg"/>
+  </programme>
+  <programme start="20240403091500 +0530" stop="20240403093500 +0530" channel="DD Punjabi">
+    <title lang="en">Meri Kala</title>
+    <desc lang="en">This program features incredible artists of India, along with a detailed analysis on their artwork.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/49F2E3DE145F988003D6F84399F3944BB5887C91R.jpg"/>
+  </programme>
+  <programme start="20240403093500 +0530" stop="20240403100000 +0530" channel="DD Punjabi">
+    <title lang="en">Geet Dhamal</title>
+    <desc lang="en">Geet Dhamal</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/89F7912E59C91FE5883E7F52C1798EBE4DDA3B15V.jpg"/>
+  </programme>
+  <programme start="20240403100000 +0530" stop="20240403101000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403101000 +0530" stop="20240403103500 +0530" channel="DD Punjabi">
+    <title lang="en">Ajj Di Gal</title>
+    <desc lang="en">The host, along with experts from various fields, discusses diverse significant topics and provides insightful information concerning the matter.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F17E22BE0F59F15CEE7C96E6E5AD96CF908B3BDK.jpg"/>
+  </programme>
+  <programme start="20240403103500 +0530" stop="20240403110000 +0530" channel="DD Punjabi">
+    <title lang="en">Vaalayati Dulha</title>
+    <desc lang="en">Vaalayati Dulha</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B41123433DAA1C10FCE2F5BB259A5A98EFB36D4EK.jpg"/>
+  </programme>
+  <programme start="20240403110000 +0530" stop="20240403120000 +0530" channel="DD Punjabi">
+    <title lang="en">Sanjh Suran Di</title>
+    <desc lang="en">A group of talented folk music artists sings traditional Punjabi songs and performs a number of dances to enthral the audience.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EF04D04D988AC111B1C13FC7B894C6D071AEBB0R.jpg"/>
+  </programme>
+  <programme start="20240403120000 +0530" stop="20240403123000 +0530" channel="DD Punjabi">
+    <title lang="en">Aa Chhuh Lai Zindagi</title>
+    <desc lang="en">The host invites guests from various walks of life to shed light on how they determinedly overcame challenges in order to succeed.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C1D8EB8C937AC9E1C94F10C0F3CA825FCDD37952.jpg"/>
+  </programme>
+  <programme start="20240403123000 +0530" stop="20240403130000 +0530" channel="DD Punjabi">
+    <title lang="en">Mera Pind Mere Khet</title>
+    <desc lang="en">The host sheds light on some of the most advanced and innovative methods of farming and discusses the latest news and developments in the field of agriculture.</desc>
+    <category lang="en">Agriculture &amp; Farming</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6008A836E536CA86E2406CEE79BE5E3C1519632Z.jpg"/>
+  </programme>
+  <programme start="20240403130000 +0530" stop="20240403131000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403131000 +0530" stop="20240403140000 +0530" channel="DD Punjabi">
+    <title lang="en">Gallan Te Geet</title>
+    <desc lang="en">The hosts chat with experts from various fields and cover several crucial issues that are impacting the lives of the people in India.</desc>
+    <credits>
+      <actor>Jasmer Singh Dhatt</actor>
+      <actor>Sandeep Sandhu</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A73EA1AF0FB512B22CD45B24DB5B7FD257608FEW.jpg"/>
+  </programme>
+  <programme start="20240403140000 +0530" stop="20240403143000 +0530" channel="DD Punjabi">
+    <title lang="en">Hulle Hulare</title>
+    <desc lang="en">Talented Punjabi singers from across different genres take to the stage and entertain the audience with their performances.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17F8937D180FA914D54BB8F2B5FBC9FC45A04BFFB.jpg"/>
+  </programme>
+  <programme start="20240403143000 +0530" stop="20240403150000 +0530" channel="DD Punjabi">
+    <title lang="en">Peeley Patteya Di Dastan</title>
+    <desc lang="en">Peeley Patteya Di Dastan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9D975832502A45BED3FCAA5DAF2CF209A85F4B1R.jpg"/>
+  </programme>
+  <programme start="20240403150000 +0530" stop="20240403150500 +0530" channel="DD Punjabi">
+    <title lang="en">News Headlines</title>
+    <desc lang="en">The presenter reports the latest and most important political and socio-economic news headlines from India and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F454928729EBFA4C62FBF22EBFD89569B493C6104.jpg"/>
+  </programme>
+  <programme start="20240403150500 +0530" stop="20240403153000 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Lok</title>
+    <desc lang="en">A religious leader reads out holy texts and hymns from a holy book, Sri Guru Granth Sahib, and ecourages devotees to follow the teachings of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CDCD5BD83B05C1D616B5DAADBB634220FDA6AEV.jpg"/>
+  </programme>
+  <programme start="20240403153000 +0530" stop="20240403160000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403160000 +0530" stop="20240403170000 +0530" channel="DD Punjabi">
+    <title lang="en">DDK Chandigarh</title>
+    <desc lang="en">DDK Chandigarh</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E57CD79F8231674C54CC7099D151B2DD4AC594A5N.jpg"/>
+  </programme>
+  <programme start="20240403170000 +0530" stop="20240403170500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403170500 +0530" stop="20240403173000 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Kirtan</title>
+    <desc lang="en">Various renowned 'ragis' and their teams render some of the popular Shabad Gurbani kirtans in the praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/481CA8A5BD2669C398139B4C484AC3E0D6A777F57.jpg"/>
+  </programme>
+  <programme start="20240403173000 +0530" stop="20240403180000 +0530" channel="DD Punjabi">
+    <title lang="en">Mera Pind Mere Khet</title>
+    <desc lang="en">The host sheds light on some of the most advanced and innovative methods of farming and discusses the latest news and developments in the field of agriculture.</desc>
+    <category lang="en">Agriculture &amp; Farming</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6008A836E536CA86E2406CEE79BE5E3C1519632Z.jpg"/>
+  </programme>
+  <programme start="20240403180000 +0530" stop="20240403183000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403183000 +0530" stop="20240403184500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403184500 +0530" stop="20240403190000 +0530" channel="DD Punjabi">
+    <title lang="en">Patriotic Songs</title>
+    <desc lang="en">A comprehensive compilation of patriotic songs glorifying the greatness and unity of India performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDB600F5EC6D5AAB26CC29C3E265C46AC1703AA2W.jpg"/>
+  </programme>
+  <programme start="20240403190000 +0530" stop="20240403200000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403200000 +0530" stop="20240403203000 +0530" channel="DD Punjabi">
+    <title lang="en">Surtaal</title>
+    <desc lang="en">Surtaal</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2EE611F2259D4ABB4BF795870937AE751BA6BEBF9.jpg"/>
+  </programme>
+  <programme start="20240403203000 +0530" stop="20240403210000 +0530" channel="DD Punjabi">
+    <title lang="en">Raunka Di Raat</title>
+    <desc lang="en">A special show on the occasion of New Year. People around the world celebrate the beginning of the year while also reminiscing about the moments of the year gone by.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B84B4795C940AD362B3774300BA1A703B6F53D8K.jpg"/>
+  </programme>
+  <programme start="20240403210000 +0530" stop="20240403213000 +0530" channel="DD Punjabi">
+    <title lang="en">Peeley Patteya Di Dastan</title>
+    <desc lang="en">Peeley Patteya Di Dastan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9D975832502A45BED3FCAA5DAF2CF209A85F4B1R.jpg"/>
+  </programme>
+  <programme start="20240403213000 +0530" stop="20240403214500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240403214500 +0530" stop="20240403220000 +0530" channel="DD Punjabi">
+    <title lang="en">Patriotic Songs</title>
+    <desc lang="en">A comprehensive compilation of patriotic songs glorifying the greatness and unity of India performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDB600F5EC6D5AAB26CC29C3E265C46AC1703AA2W.jpg"/>
+  </programme>
+  <programme start="20240403220000 +0530" stop="20240403223000 +0530" channel="DD Punjabi">
+    <title lang="en">Start Up Champions 2.0</title>
+    <desc lang="en">Entrepreneurs from emerging and successful start-ups share their stories and provide insights on starting and running new businesses.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17105A94E30AAC0C94B5C4E39639355BF0592E1AN.jpg"/>
+  </programme>
+  <programme start="20240403223000 +0530" stop="20240403231000 +0530" channel="DD Punjabi">
+    <title lang="en">Gallan Te Geet</title>
+    <desc lang="en">The hosts chat with experts from various fields and cover several crucial issues that are impacting the lives of the people in India.</desc>
+    <credits>
+      <actor>Jasmer Singh Dhatt</actor>
+      <actor>Sandeep Sandhu</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A73EA1AF0FB512B22CD45B24DB5B7FD257608FEW.jpg"/>
+  </programme>
+  <programme start="20240403231000 +0530" stop="20240403233500 +0530" channel="DD Punjabi">
+    <title lang="en">Aa Chhuh Lai Zindagi</title>
+    <desc lang="en">The host invites guests from various walks of life to shed light on how they determinedly overcame challenges in order to succeed.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1C1D8EB8C937AC9E1C94F10C0F3CA825FCDD37952.jpg"/>
+  </programme>
+  <programme start="20240403233500 +0530" stop="20240404000000 +0530" channel="DD Punjabi">
+    <title lang="en">Vaalayati Dulha</title>
+    <desc lang="en">Vaalayati Dulha</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B41123433DAA1C10FCE2F5BB259A5A98EFB36D4EK.jpg"/>
+  </programme>
+  <programme start="20240404000000 +0530" stop="20240404003000 +0530" channel="DD Punjabi">
+    <title lang="en">Hulle Hulare</title>
+    <desc lang="en">Talented Punjabi singers from across different genres take to the stage and entertain the audience with their performances.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17F8937D180FA914D54BB8F2B5FBC9FC45A04BFFB.jpg"/>
+  </programme>
+  <programme start="20240404003000 +0530" stop="20240404010000 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Lok</title>
+    <desc lang="en">A religious leader reads out holy texts and hymns from a holy book, Sri Guru Granth Sahib, and ecourages devotees to follow the teachings of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F3CDCD5BD83B05C1D616B5DAADBB634220FDA6AEV.jpg"/>
+  </programme>
+  <programme start="20240404010000 +0530" stop="20240404020000 +0530" channel="DD Punjabi">
+    <title lang="en">Sanjh Suran Di</title>
+    <desc lang="en">A group of talented folk music artists sings traditional Punjabi songs and performs a number of dances to enthral the audience.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8EF04D04D988AC111B1C13FC7B894C6D071AEBB0R.jpg"/>
+  </programme>
+  <programme start="20240404020000 +0530" stop="20240404024500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404024500 +0530" stop="20240404030000 +0530" channel="DD Punjabi">
+    <title lang="en">Teri Meri Tu Tu Main Main</title>
+    <desc lang="en">Talented stand-up comics entertain the audience with their wit, funny sketches, and impersonations of famous personalities.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D8BD2A9E9BEFB039BE114B602102309E0E02439O.jpg"/>
+  </programme>
+  <programme start="20240404030000 +0530" stop="20240404040000 +0530" channel="DD Punjabi">
+    <title lang="en">Kavishree/Dhadiwarran</title>
+    <desc lang="en">A comprehensive compilation of hymns, verses and devotional songs sung by Sikh devotees in praise of God to invoke His blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB37C13D24E099AC5E632560E6642EC5317AFF76J.jpg"/>
+  </programme>
+  <programme start="20240404040000 +0530" stop="20240404053000 +0530" channel="DD Punjabi">
+    <title lang="en">Aasa Di Vaar</title>
+    <desc lang="en">A comprehensive collection of stanzas composed by the founder of Sikhism, Guru Nanak Dev ji, played during the early morning service.</desc>
+    <credits>
+      <actor>Bhai Surjan Singh Ji</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F040CBB9145C04184552F9BAE5CAD94CFF39DA9P.jpg"/>
+  </programme>
+  <programme start="20240404053000 +0530" stop="20240404054500 +0530" channel="DD Punjabi">
+    <title lang="en">Bhakti Sangeet</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs performed by the finest singers and talented musicians in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E97C720AD7E1FF2CC3BE5EC2B0682E396BABB94P.jpg"/>
+  </programme>
+  <programme start="20240404054500 +0530" stop="20240404061500 +0530" channel="DD Punjabi">
+    <title lang="en">Bhakti Sangeet</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs performed by the finest singers and talented musicians in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E97C720AD7E1FF2CC3BE5EC2B0682E396BABB94P.jpg"/>
+  </programme>
+  <programme start="20240404061500 +0530" stop="20240404064000 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Vichar</title>
+    <desc lang="en">Shabad Vichar</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E1556161DEC7441B519FE122B677DA8990353199.jpg"/>
+  </programme>
+  <programme start="20240404064000 +0530" stop="20240404071000 +0530" channel="DD Punjabi">
+    <title lang="en">Bhakti Sangeet</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs performed by the finest singers and talented musicians in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E97C720AD7E1FF2CC3BE5EC2B0682E396BABB94P.jpg"/>
+  </programme>
+  <programme start="20240404071000 +0530" stop="20240404071500 +0530" channel="DD Punjabi">
+    <title lang="en">Bhakti Sangeet</title>
+    <desc lang="en">A comprehensive compilation of melodious devotional songs performed by the finest singers and talented musicians in praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0E97C720AD7E1FF2CC3BE5EC2B0682E396BABB94P.jpg"/>
+  </programme>
+  <programme start="20240404071500 +0530" stop="20240404073000 +0530" channel="DD Punjabi">
+    <title lang="en">Sanskrit News</title>
+    <desc lang="en">The host presents updates on the latest news, current affairs, religious and cultural events and happenings presented in Sanskrit.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/20C36D309B975641F507394BC3E2B6648294AD43Q.jpg"/>
+  </programme>
+  <programme start="20240404073000 +0530" stop="20240404075500 +0530" channel="DD Punjabi">
+    <title lang="en">Sachi Bani</title>
+    <desc lang="en">A comprehensive compilation of some of the famous devotional songs dedicated to Sikh gurus written and composed by renowned artists from around the world.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B3503A51B206CCA52D0B92DF0A900838ED532EE5X.jpg"/>
+  </programme>
+  <programme start="20240404075500 +0530" stop="20240404080000 +0530" channel="DD Punjabi">
+    <title lang="en">Ajj Da Vichar</title>
+    <desc lang="en">A prominent religious leader talks about the sacred scriptures and holds a spiritual discourse wherein he praises the lord.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAB59369FB722F73E32232FCE035ACFB3BC0E35A5.jpg"/>
+  </programme>
+  <programme start="20240404080000 +0530" stop="20240404081500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404081500 +0530" stop="20240404083000 +0530" channel="DD Punjabi">
+    <title lang="en">Patriotic Songs</title>
+    <desc lang="en">A comprehensive compilation of patriotic songs glorifying the greatness and unity of India performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDB600F5EC6D5AAB26CC29C3E265C46AC1703AA2W.jpg"/>
+  </programme>
+  <programme start="20240404083000 +0530" stop="20240404084000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404084000 +0530" stop="20240404090000 +0530" channel="DD Punjabi">
+    <title lang="en">Patriotic Songs</title>
+    <desc lang="en">A comprehensive compilation of patriotic songs glorifying the greatness and unity of India performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDB600F5EC6D5AAB26CC29C3E265C46AC1703AA2W.jpg"/>
+  </programme>
+  <programme start="20240404090000 +0530" stop="20240404121500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404121500 +0530" stop="20240404123000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404123000 +0530" stop="20240404130000 +0530" channel="DD Punjabi">
+    <title lang="en">Mera Pind Mere Khet</title>
+    <desc lang="en">The host sheds light on some of the most advanced and innovative methods of farming and discusses the latest news and developments in the field of agriculture.</desc>
+    <category lang="en">Agriculture &amp; Farming</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6008A836E536CA86E2406CEE79BE5E3C1519632Z.jpg"/>
+  </programme>
+  <programme start="20240404130000 +0530" stop="20240404131000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404131000 +0530" stop="20240404140000 +0530" channel="DD Punjabi">
+    <title lang="en">Rituraj Basant</title>
+    <desc lang="en">The host sheds light on the spring season, an auspicious time for ceremonies for local people and provides insightful information about the peculiarities of the season.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E4B7AF859ED808A1D28B3CF2F2469B034C83DB886.jpg"/>
+  </programme>
+  <programme start="20240404140000 +0530" stop="20240404143000 +0530" channel="DD Punjabi">
+    <title lang="en">Ajadi Di Rooh Jallian Wala Bagh</title>
+    <desc lang="en">The host presents an engaging overview of the circumstances that led to the Jallianwala Bagh massacre and its subsequent impact on propelling India's freedom struggle.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8DC5EECE1B8A1CF020B64C046B317C4D07EC1271D.jpg"/>
+  </programme>
+  <programme start="20240404143000 +0530" stop="20240404150000 +0530" channel="DD Punjabi">
+    <title lang="en">Peeley Patteya Di Dastan</title>
+    <desc lang="en">Peeley Patteya Di Dastan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9D975832502A45BED3FCAA5DAF2CF209A85F4B1R.jpg"/>
+  </programme>
+  <programme start="20240404150000 +0530" stop="20240404150500 +0530" channel="DD Punjabi">
+    <title lang="en">News Headlines</title>
+    <desc lang="en">The presenter reports the latest and most important political and socio-economic news headlines from India and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F454928729EBFA4C62FBF22EBFD89569B493C6104.jpg"/>
+  </programme>
+  <programme start="20240404150500 +0530" stop="20240404153000 +0530" channel="DD Punjabi">
+    <title lang="en">Sat Guru Ram Singh Ji Da Jiwan Ate Falsafa</title>
+    <desc lang="en">Sat Guru Ram Singh Ji Da Jiwan Ate Falsafa</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F2DDB825C49BE70E1DB85F8407F9B54688E5EF1BZ.jpg"/>
+  </programme>
+  <programme start="20240404153000 +0530" stop="20240404160000 +0530" channel="DD Punjabi">
+    <title lang="en">Geet Bahar</title>
+    <desc lang="en">The host collates and presents a comprehensive compilation of popular songs from classic movies that are played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3199B51B614EBD0561AF7CC49959B76226C76D26L.jpg"/>
+  </programme>
+  <programme start="20240404160000 +0530" stop="20240404170000 +0530" channel="DD Punjabi">
+    <title lang="en">DDK Chandigarh</title>
+    <desc lang="en">DDK Chandigarh</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E57CD79F8231674C54CC7099D151B2DD4AC594A5N.jpg"/>
+  </programme>
+  <programme start="20240404170000 +0530" stop="20240404170500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404170500 +0530" stop="20240404173000 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Kirtan</title>
+    <desc lang="en">Various renowned 'ragis' and their teams render some of the popular Shabad Gurbani kirtans in the praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/481CA8A5BD2669C398139B4C484AC3E0D6A777F57.jpg"/>
+  </programme>
+  <programme start="20240404173000 +0530" stop="20240404180000 +0530" channel="DD Punjabi">
+    <title lang="en">Mera Pind Mere Khet</title>
+    <desc lang="en">The host sheds light on some of the most advanced and innovative methods of farming and discusses the latest news and developments in the field of agriculture.</desc>
+    <category lang="en">Agriculture &amp; Farming</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6008A836E536CA86E2406CEE79BE5E3C1519632Z.jpg"/>
+  </programme>
+  <programme start="20240404180000 +0530" stop="20240404183000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404183000 +0530" stop="20240404184500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404184500 +0530" stop="20240404190000 +0530" channel="DD Punjabi">
+    <title lang="en">Patriotic Songs</title>
+    <desc lang="en">A comprehensive compilation of patriotic songs glorifying the greatness and unity of India performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDB600F5EC6D5AAB26CC29C3E265C46AC1703AA2W.jpg"/>
+  </programme>
+  <programme start="20240404190000 +0530" stop="20240404191500 +0530" channel="DD Punjabi">
+    <title lang="en">Zaika</title>
+    <desc lang="en">A culinary expert provides numerous cooking tips and tricks and helps viewers in preparing some of the delicious recipes.</desc>
+    <credits>
+      <actor>Jyoti Arora</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DF9B3920C8BEC96E0B297903C8F756CC1846991F3.jpg"/>
+  </programme>
+  <programme start="20240404191500 +0530" stop="20240404193000 +0530" channel="DD Punjabi">
+    <title lang="en">Teri Meri Tu Tu Main Main</title>
+    <desc lang="en">Talented stand-up comics entertain the audience with their wit, funny sketches, and impersonations of famous personalities.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2D8BD2A9E9BEFB039BE114B602102309E0E02439O.jpg"/>
+  </programme>
+  <programme start="20240404193000 +0530" stop="20240404200000 +0530" channel="DD Punjabi">
+    <title lang="en">Wirasat Basant Panchami</title>
+    <desc lang="en">The religious leaders and devotees of Hinduism celebrate Vasant Panchami, honouring the Goddess Saraswati as part of the arrival of spring.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3EC831E897F37FDC734833C70679E8B9B11845D7W.jpg"/>
+  </programme>
+  <programme start="20240404200000 +0530" stop="20240404203000 +0530" channel="DD Punjabi">
+    <title lang="en">Chhankar</title>
+    <desc lang="en">A comprehensive compilation of some of the most popular songs performed by renowned artists and bands played back to back.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2474516AE8D7E434A8A17E5EE31B9F335F45F917X.jpg"/>
+  </programme>
+  <programme start="20240404203000 +0530" stop="20240404210000 +0530" channel="DD Punjabi">
+    <title lang="en">Kangna</title>
+    <desc lang="en">Kangna</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E19267939C2F7403F444A5CC0D69B1605F17ED57.jpg"/>
+  </programme>
+  <programme start="20240404210000 +0530" stop="20240404213000 +0530" channel="DD Punjabi">
+    <title lang="en">Peeley Patteya Di Dastan</title>
+    <desc lang="en">Peeley Patteya Di Dastan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9D975832502A45BED3FCAA5DAF2CF209A85F4B1R.jpg"/>
+  </programme>
+  <programme start="20240404213000 +0530" stop="20240404214500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240404214500 +0530" stop="20240404220000 +0530" channel="DD Punjabi">
+    <title lang="en">Patriotic Songs</title>
+    <desc lang="en">A comprehensive compilation of patriotic songs glorifying the greatness and unity of India performed by various artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FDB600F5EC6D5AAB26CC29C3E265C46AC1703AA2W.jpg"/>
+  </programme>
+  <programme start="20240404220000 +0530" stop="20240405000000 +0530" channel="DD Punjabi">
+    <title lang="en">Gaddar Di Goonj</title>
+    <desc lang="en">Gaddar Di Goonj</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FF331ADA1C61486D8E46F4948478DEA14341C144G.jpg"/>
+  </programme>
+  <programme start="20240405000000 +0530" stop="20240405003000 +0530" channel="DD Punjabi">
+    <title lang="en">Geet Bahar</title>
+    <desc lang="en">The host collates and presents a comprehensive compilation of popular songs from classic movies that are played in quick succession.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3199B51B614EBD0561AF7CC49959B76226C76D26L.jpg"/>
+  </programme>
+  <programme start="20240405003000 +0530" stop="20240405010000 +0530" channel="DD Punjabi">
+    <title lang="en">Rawayati Sangeet</title>
+    <desc lang="en">Rawayati Sangeet</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CA9E0B98E019E8952A4CD353E87AF7B689B0AE9N.jpg"/>
+  </programme>
+  <programme start="20240405010000 +0530" stop="20240405020000 +0530" channel="DD Punjabi">
+    <title lang="en">Mehfil</title>
+    <desc lang="en">Renowned singers from around the world compose and perform some of their popular ghazals and explain the meaning of their verses.</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0B3804F895F2935C2FB8C55FFEE8697EE10ABBD80.jpg"/>
+  </programme>
+  <programme start="20240405020000 +0530" stop="20240405030000 +0530" channel="DD Punjabi">
+    <title lang="en">Nachiye Gayiye Shagan Manayiye</title>
+    <desc lang="en">Nachiye Gayiye Shagan Manayiye</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/175AA236FE25DAA9AED908B31AE8F38176BE7CDFM.jpg"/>
+  </programme>
+  <programme start="20240405030000 +0530" stop="20240405040000 +0530" channel="DD Punjabi">
+    <title lang="en">Kavishree/Dhadiwarran</title>
+    <desc lang="en">A comprehensive compilation of hymns, verses and devotional songs sung by Sikh devotees in praise of God to invoke His blessings.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB37C13D24E099AC5E632560E6642EC5317AFF76J.jpg"/>
+  </programme>
+  <programme start="20240405040000 +0530" stop="20240405053000 +0530" channel="DD Punjabi">
+    <title lang="en">Aasa Di Vaar</title>
+    <desc lang="en">A comprehensive collection of stanzas composed by the founder of Sikhism, Guru Nanak Dev ji, played during the early morning service.</desc>
+    <credits>
+      <actor>Bhai Surjan Singh Ji</actor>
+    </credits>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5F040CBB9145C04184552F9BAE5CAD94CFF39DA9P.jpg"/>
+  </programme>
+  <programme start="20240405053000 +0530" stop="20240405061500 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Kirtan</title>
+    <desc lang="en">Various renowned 'ragis' and their teams render some of the popular Shabad Gurbani kirtans in the praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/481CA8A5BD2669C398139B4C484AC3E0D6A777F57.jpg"/>
+  </programme>
+  <programme start="20240405061500 +0530" stop="20240405064500 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Vichar</title>
+    <desc lang="en">Shabad Vichar</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2E1556161DEC7441B519FE122B677DA8990353199.jpg"/>
+  </programme>
+  <programme start="20240405064500 +0530" stop="20240405071500 +0530" channel="DD Punjabi">
+    <title lang="en">Satsangat Mile So Tarey</title>
+    <desc lang="en">Satsangat Mile So Tarey</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0C5899F55BEB5518E310E8746ED720F9EE6465DF4.jpg"/>
+  </programme>
+  <programme start="20240405071500 +0530" stop="20240405073000 +0530" channel="DD Punjabi">
+    <title lang="en">Sanskrit News</title>
+    <desc lang="en">The host presents updates on the latest news, current affairs, religious and cultural events and happenings presented in Sanskrit.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/20C36D309B975641F507394BC3E2B6648294AD43Q.jpg"/>
+  </programme>
+  <programme start="20240405073000 +0530" stop="20240405075500 +0530" channel="DD Punjabi">
+    <title lang="en">Sachhi Baani</title>
+    <desc lang="en">Devotees sing a compilation of popular devotional songs dedicated to Sikh gurus written and composed by renowned artists from around the world.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/821A8B160BE1B5D26B90C93A35DC35D7192984FFR.jpg"/>
+  </programme>
+  <programme start="20240405075500 +0530" stop="20240405080000 +0530" channel="DD Punjabi">
+    <title lang="en">Ajj Da Vichar</title>
+    <desc lang="en">A prominent religious leader talks about the sacred scriptures and holds a spiritual discourse wherein he praises the lord.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EAB59369FB722F73E32232FCE035ACFB3BC0E35A5.jpg"/>
+  </programme>
+  <programme start="20240405080000 +0530" stop="20240405081500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405081500 +0530" stop="20240405084000 +0530" channel="DD Punjabi">
+    <title lang="en">So Than Sohawa</title>
+    <desc lang="en">Spiritual leaders and devotees sing hymns and chant verses from the Guru Granth Sahib in praise of the Almighty at Takht Sri Keshgarh Sahib, Punjab.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/954356BAB33B281976FABDD2C3F6F43E1BC87D01F.jpg"/>
+  </programme>
+  <programme start="20240405084000 +0530" stop="20240405091500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405091500 +0530" stop="20240405093500 +0530" channel="DD Punjabi">
+    <title lang="en">Hing Lage Na Fatkari</title>
+    <desc lang="en">A health expert from the field of Ayurveda shares the homely remedies and a variety of recipes to cure several ailments.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F65DDF4A65D7ACB01EC9D07DFC0DE2D32EC4591M.jpg"/>
+  </programme>
+  <programme start="20240405093500 +0530" stop="20240405100000 +0530" channel="DD Punjabi">
+    <title lang="en">Geetanjali</title>
+    <desc lang="en">A comprehensive showcase of memorable songs written and popularised by legendary poet, writer and musician Rabindranath Tagore.</desc>
+    <credits>
+      <actor>Divya Dutta</actor>
+    </credits>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/900A98F4ADDD0553CEC9231735568532891FF7FEX.jpg"/>
+  </programme>
+  <programme start="20240405100000 +0530" stop="20240405101000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405101000 +0530" stop="20240405103500 +0530" channel="DD Punjabi">
+    <title lang="en">Vigyan Prasar</title>
+    <desc lang="en">Experts from various fields share their knowledge on different aspects of science and technology to decrease the distance between the common man and the laboratory.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0CAC267849B6248858550D88A62460015D9C052FL.jpg"/>
+  </programme>
+  <programme start="20240405103500 +0530" stop="20240405110000 +0530" channel="DD Punjabi">
+    <title lang="en">Aur Ek Kahani</title>
+    <desc lang="en">Aur Ek Kahani</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DCF8AF0F2592A0945F3F61DA3DC7AF046C341E2CU.jpg"/>
+  </programme>
+  <programme start="20240405110000 +0530" stop="20240405130000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405130000 +0530" stop="20240405131000 +0530" channel="DD Punjabi">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents a compilation of the latest updates and developments pertaining to politics, sports, social and economic news.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3FACCB092D2FDBB244E070C7BDD45A4ED085E77BF.jpg"/>
+  </programme>
+  <programme start="20240405131000 +0530" stop="20240405140000 +0530" channel="DD Punjabi">
+    <title lang="en">Gallan Te Geet</title>
+    <desc lang="en">The hosts chat with experts from various fields and cover several crucial issues that are impacting the lives of the people in India.</desc>
+    <credits>
+      <actor>Jasmer Singh Dhatt</actor>
+      <actor>Sandeep Sandhu</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A73EA1AF0FB512B22CD45B24DB5B7FD257608FEW.jpg"/>
+  </programme>
+  <programme start="20240405140000 +0530" stop="20240405143000 +0530" channel="DD Punjabi">
+    <title lang="en">Ajj Di Gal</title>
+    <desc lang="en">The host, along with experts from various fields, discusses diverse significant topics and provides insightful information concerning the matter.</desc>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0F17E22BE0F59F15CEE7C96E6E5AD96CF908B3BDK.jpg"/>
+  </programme>
+  <programme start="20240405143000 +0530" stop="20240405150000 +0530" channel="DD Punjabi">
+    <title lang="en">Peeley Patteya Di Dastan</title>
+    <desc lang="en">Peeley Patteya Di Dastan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9D975832502A45BED3FCAA5DAF2CF209A85F4B1R.jpg"/>
+  </programme>
+  <programme start="20240405150000 +0530" stop="20240405150500 +0530" channel="DD Punjabi">
+    <title lang="en">News Headlines</title>
+    <desc lang="en">The presenter reports the latest and most important political and socio-economic news headlines from India and around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F454928729EBFA4C62FBF22EBFD89569B493C6104.jpg"/>
+  </programme>
+  <programme start="20240405150500 +0530" stop="20240405153000 +0530" channel="DD Punjabi">
+    <title lang="en">Ek Bharat Shreshtha Bharat</title>
+    <desc lang="en">Ek Bharat Shreshtha Bharat is a Government of India initiative that aims to improve the present cultural connection across various states of India.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4711274FF8E55E6E8CFE30FED2CC587B09A3AF5FY.jpg"/>
+  </programme>
+  <programme start="20240405153000 +0530" stop="20240405160000 +0530" channel="DD Punjabi">
+    <title lang="en">Wirasat</title>
+    <desc lang="en">This program aims at identifying, conserving and promoting the heritage of India.</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/87843EF834727DCD97C65B76EDD8779931EA3A26C.jpg"/>
+  </programme>
+  <programme start="20240405160000 +0530" stop="20240405170000 +0530" channel="DD Punjabi">
+    <title lang="en">DDK Chandigarh</title>
+    <desc lang="en">DDK Chandigarh</desc>
+    <category lang="en">Art &amp; Culture</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E57CD79F8231674C54CC7099D151B2DD4AC594A5N.jpg"/>
+  </programme>
+  <programme start="20240405170000 +0530" stop="20240405170500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405170500 +0530" stop="20240405173000 +0530" channel="DD Punjabi">
+    <title lang="en">Shabad Kirtan</title>
+    <desc lang="en">Various renowned 'ragis' and their teams render some of the popular Shabad Gurbani kirtans in the praise of the Almighty.</desc>
+    <category lang="en">Devotional</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/481CA8A5BD2669C398139B4C484AC3E0D6A777F57.jpg"/>
+  </programme>
+  <programme start="20240405173000 +0530" stop="20240405180000 +0530" channel="DD Punjabi">
+    <title lang="en">Mera Pind Mere Khet</title>
+    <desc lang="en">The host sheds light on some of the most advanced and innovative methods of farming and discusses the latest news and developments in the field of agriculture.</desc>
+    <category lang="en">Agriculture &amp; Farming</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C6008A836E536CA86E2406CEE79BE5E3C1519632Z.jpg"/>
+  </programme>
+  <programme start="20240405180000 +0530" stop="20240405183000 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405183000 +0530" stop="20240405184500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405184500 +0530" stop="20240405190000 +0530" channel="DD Punjabi">
+    <title lang="en">Songs</title>
+    <desc lang="en">A comprehensive compilation of catchy, popular and entertaining songs by various artists and bands from around the world.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7F4E319D909A6C7EADA8FFA7B8C249DC927BBE95P.jpg"/>
+  </programme>
+  <programme start="20240405190000 +0530" stop="20240405193000 +0530" channel="DD Punjabi">
+    <title lang="en">Pagal Lok</title>
+    <desc lang="en">Pagal Lok</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4062282AB49BCF40FCFE18DC4E8201DE16EE71F4V.jpg"/>
+  </programme>
+  <programme start="20240405193000 +0530" stop="20240405200000 +0530" channel="DD Punjabi">
+    <title lang="en">Dhamak Punjab Di</title>
+    <desc lang="en">Dhamak Punjab Di</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE68D81967F34B4E622128F6E4C4713994164F12I.jpg"/>
+  </programme>
+  <programme start="20240405200000 +0530" stop="20240405203000 +0530" channel="DD Punjabi">
+    <title lang="en">Rooh Punjab Di</title>
+    <desc lang="en">Rooh Punjab Di</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D21FF0DE110CAA289148F41DF963887D5E6A7AE6.jpg"/>
+  </programme>
+  <programme start="20240405203000 +0530" stop="20240405210000 +0530" channel="DD Punjabi">
+    <title lang="en">Hulle Hulare</title>
+    <desc lang="en">Talented Punjabi singers from across different genres take to the stage and entertain the audience with their performances.</desc>
+    <category lang="en">Concert</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/17F8937D180FA914D54BB8F2B5FBC9FC45A04BFFB.jpg"/>
+  </programme>
+  <programme start="20240405210000 +0530" stop="20240405213000 +0530" channel="DD Punjabi">
+    <title lang="en">Peeley Patteya Di Dastan</title>
+    <desc lang="en">Peeley Patteya Di Dastan</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9D975832502A45BED3FCAA5DAF2CF209A85F4B1R.jpg"/>
+  </programme>
+  <programme start="20240405213000 +0530" stop="20240405214500 +0530" channel="DD Punjabi">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/80CF5C868F96B374717B0505A25AB6326DB9F4EDC.jpg"/>
+  </programme>
+  <programme start="20240405214500 +0530" stop="20240405220000 +0530" channel="DD Punjabi">
+    <title lang="en">Hing Lage Na Fatkari</title>
+    <desc lang="en">A health expert from the field of Ayurveda shares the homely remedies and a variety of recipes to cure several ailments.</desc>
+    <category lang="en">Health &amp; Fitness</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2F65DDF4A65D7ACB01EC9D07DFC0DE2D32EC4591M.jpg"/>
+  </programme>
+  <programme start="20240405220000 +0530" stop="20240405224000 +0530" channel="DD Punjabi">
+    <title lang="en">Gallan Te Geet</title>
+    <desc lang="en">The hosts chat with experts from various fields and cover several crucial issues that are impacting the lives of the people in India.</desc>
+    <credits>
+      <actor>Jasmer Singh Dhatt</actor>
+      <actor>Sandeep Sandhu</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7A73EA1AF0FB512B22CD45B24DB5B7FD257608FEW.jpg"/>
+  </programme>
+  <programme start="20240405224000 +0530" stop="20240405230000 +0530" channel="DD Punjabi">
+    <title lang="en">Ek Bharat Shreshtha Bharat</title>
+    <desc lang="en">Ek Bharat Shreshtha Bharat is a Government of India initiative that aims to improve the present cultural connection across various states of India.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4711274FF8E55E6E8CFE30FED2CC587B09A3AF5FY.jpg"/>
+  </programme>
+  <programme start="20240405230000 +0530" stop="20240405233000 +0530" channel="DD Punjabi">
+    <title lang="en">Aur Ek Kahani</title>
+    <desc lang="en">Aur Ek Kahani</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DCF8AF0F2592A0945F3F61DA3DC7AF046C341E2CU.jpg"/>
+  </programme>
+  <programme start="20240405233000 +0530" stop="20240406000000 +0530" channel="DD Punjabi">
+    <title lang="en">Wirasat</title>
+    <desc lang="en">This program aims at identifying, conserving and promoting the heritage of India.</desc>
+    <category lang="en">Historical</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/87843EF834727DCD97C65B76EDD8779931EA3A26C.jpg"/>
+  </programme>
+</tv>
