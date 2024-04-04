@@ -26,14 +26,3 @@ jobs:
         user_name: 'simperpie'
         commit_message: 'Automated update'
         
-    - name: Pushes test file
-      uses: dmnemec/copy_file_to_another_repo_action@main
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.PUSH_TOKEN_FROM_PRIVATE_TO_MY_PAGE }}
-      with:
-        source_file: 'tempest_config/epg/tataplay_epg.xml.gz'
-        destination_repo: 'simperpie/simperpie.github.io'
-        destination_folder: 'TVGuide'
-        user_email: '91105635+simperpie@users.noreply.github.com'
-        user_name: 'simperpie'
-        commit_message: 'Automated update'
