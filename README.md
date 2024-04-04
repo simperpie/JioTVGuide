@@ -8,7 +8,7 @@
 Updated EPG links of Indian TV channels, **auto updated every day**.
 
 ### Usage
-Paste this URL: `https://simperpie.github.io/tempest/guide.xml.gz` to any player which supports EPG
+Paste this URL: `https://simperpie.github.io/TVGuide/simper_epg.xml.gz` to any player which supports EPG
 
 ### Credit
 
