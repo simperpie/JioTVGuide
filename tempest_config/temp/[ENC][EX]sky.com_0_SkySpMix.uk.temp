@@ -24,6 +24,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e0afe60a-369a-358d-8c80-923b874b5f47/16-9"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -180,9 +181,6 @@
       <stereo>Stereo</stereo>
     </audio>
     <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
   </programme>
   <programme start="20240424154000 +0530" stop="20240424164000 +0530" channel="SkySpMix.uk">
     <title lang="en">Ladies European Tour Golf Hlts</title>
@@ -201,7 +199,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240424164000 +0530" stop="20240424174000 +0530" channel="SkySpMix.uk">
+  <programme start="20240424164000 +0530" stop="20240424181500 +0530" channel="SkySpMix.uk">
     <title lang="en">LPGA Tour Golf Highlights</title>
     <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
     <category lang="en">Sports</category>
@@ -218,7 +216,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240424174000 +0530" stop="20240424183500 +0530" channel="SkySpMix.uk">
+  <programme start="20240424181501 +0530" stop="20240424191501 +0530" channel="SkySpMix.uk">
     <title lang="en">IPL: Rajasthan R v Mumbai I Hlts</title>
     <desc lang="en">Jos Buttler's table-topping Rajasthan Royals return to IPL action with a match against Mumbai Indians. It was Buttler who shone in Rajasthan's latest win over KKR, smashing 107*. (22.04)</desc>
     <category lang="en">Sports</category>
@@ -236,12 +234,13 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20240424183500 +0530" stop="20240424193000 +0530" channel="SkySpMix.uk">
+  <programme start="20240424191501 +0530" stop="20240424201001 +0530" channel="SkySpMix.uk">
     <title lang="en">IPL: CSK v Lucknow SG Hlts</title>
     <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e0afe60a-369a-358d-8c80-923b874b5f47/16-9"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -250,23 +249,16 @@
     </audio>
     <subtitles type="teletext"/>
   </programme>
-  <programme start="20240424193000 +0530" stop="20240424203000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
-    <desc lang="en">Fresh from sending the Bills home in the divisional round, Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
+  <programme start="20240424201001 +0530" stop="20240424202901 +0530" channel="SkySpMix.uk">
+    <title lang="en">My Icon: Thierry Henry</title>
+    <desc lang="en">My Icon: Thierry Henry</desc>
     <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0032abde-0687-3c21-88b9-5d8df409ad42/16-9"/>
-    <episode-num system="xmltv_ns">2023.59.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b2a2b75f-d86b-470b-99ae-1e8410cfe19d/16-9"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
     <audio>
-      <stereo>Stereo</stereo>
+      <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
   </programme>
   <programme start="20240424203000 +0530" stop="20240424230000 +0530" channel="SkySpMix.uk">
     <title lang="en">BBL: London V Surrey</title>
@@ -360,6 +352,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e0afe60a-369a-358d-8c80-923b874b5f47/16-9"/>
+    <episode-num system="xmltv_ns">.38.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -520,6 +513,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/f4858fe2-36b5-3934-9f8d-75012bcca583/16-9"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -548,6 +542,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/e17ced33-aac6-3465-92fc-b8b342f8e279/16-9"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -720,7 +715,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <icon src="https://images.metadata.sky.com/pd-image/08cad358-0aa5-3b20-8060-ea0e460fc229/16-9"/>
-    <episode-num system="xmltv_ns">2023.139.</episode-num>
+    <episode-num system="xmltv_ns">2023.142.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -892,7 +887,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Rugby</category>
     <icon src="https://images.metadata.sky.com/pd-image/08cad358-0aa5-3b20-8060-ea0e460fc229/16-9"/>
-    <episode-num system="xmltv_ns">2023.139.</episode-num>
+    <episode-num system="xmltv_ns">2023.142.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>

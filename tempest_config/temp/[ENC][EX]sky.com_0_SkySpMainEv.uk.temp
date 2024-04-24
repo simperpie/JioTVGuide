@@ -16,7 +16,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240424033000 +0530" stop="20240424040000 +0530" channel="SkySpMainEv.uk">
     <title lang="en">Sky Sports News</title>
@@ -180,7 +179,7 @@
   </programme>
   <programme start="20240424143000 +0530" stop="20240424233000 +0530" channel="SkySpMainEv.uk">
     <title lang="en">Live Tennis: Madrid</title>
-    <desc lang="en">The second day of the Madrid Open - a joint ATP Masters and WTA 1000 clay-court event. Carlos Alcaraz is the reigning men's champion, while Aryna Sabalenka holds the women's crown. (24.04)</desc>
+    <desc lang="en">Emma Raducanu faces Maria Lourdes Carle in round one of the Madrid Open, while fellow Brit Jack Draper takes on Thanasi Kokkinakis. Harriet Dart and Naomi Osaka also feature. (24.04)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/eec66798-cf54-3bad-b4c6-90c4a116e702/16-9"/>
@@ -246,6 +245,7 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20240425053000 +0530" stop="20240425063000 +0530" channel="SkySpMainEv.uk">
     <title lang="en">Sky Sports News</title>
@@ -298,6 +298,7 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
+    <subtitles type="teletext"/>
   </programme>
   <programme start="20240425103000 +0530" stop="20240425133000 +0530" channel="SkySpMainEv.uk">
     <title lang="en">Live DP World Tour Golf</title>
