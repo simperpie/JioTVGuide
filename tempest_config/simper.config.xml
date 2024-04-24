@@ -18,7 +18,13 @@
   <inverter-filename>simper_epg.xml</inverter-filename>
   <inverter-path>["desc":"##subtitle##","##desc##": #rating##"]["subtitle":||#delete#]["episode":||#delete#]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["colour":||#delete#]["aspect":||#delete#]["quality":||#delete#]["producer":||#delete#]["writer":||#delete#]["rating":||#delete#]["keyword":||#delete#]["star-rating":||#delete#]["language":||#delete#]</inverter-path>
   <logname>simper.log</logname>
+  <channel site="[ENC][EX]flixed.io[US]_0" site_id="68605" xmltv_id="WILLOW.us">WILLOW</channel>
+  <channel site="[ENC][EX]flixed.io[US]_0" site_id="100316" xmltv_id="WILXTRA.us">WILXTRA</channel>
   <channel site="[ENC][EX]singtel.com_0" site_id="6421" xmltv_id="HBOSignatureHD.my">HBO Signature 🄼</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|1301" xmltv_id="SkySpMainEv.uk">SkySpMainEv</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|1302" xmltv_id="SkySpCricket.uk">SkySp Cricket</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|4091" xmltv_id="SkySpMix.uk">SkySp Mix</channel>
+  <channel site="[ENC][EX]supersport.com_0" site_id="za|##|9224a474-1364-4025-922b-2997f2abf56d" xmltv_id="SSCricket.za">Cricket</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="8" xmltv_id="STARPlusHD.in">STAR Plus HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="244" xmltv_id="StarBharatHD.in">Star Bharat HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="15" xmltv_id="SETHD.in">SET HD</channel>
@@ -136,6 +142,7 @@
   <channel site="[ENC]distro.tv_0" site_id="87417" xmltv_id="BollywoodClassicHD.distro">Bollywood Classic HD</channel>
   <channel site="[ENC]distro.tv_0" site_id="87418" xmltv_id="BollywoodHD.distro">Bollywood HD</channel>
   <channel site="[ENC]distro.tv_0" site_id="105576" xmltv_id="KidsTVIndia.distro">Kids India</channel>
+  <channel site="[ENC]distro.tv_0" site_id="124295" xmltv_id="HollywoodDesi.distro">Hollywood Desi</channel>
   <channel site="[ENC]jiotv_0" site_id="732" xmltv_id="9XTashan.in">9X Tashan</channel>
   <channel site="[ENC]jiotv_0" site_id="887" xmltv_id="SwarShree.in">Swar Shree</channel>
   <channel site="[ENC]jiotv_0" site_id="1192" xmltv_id="BritAsiaTV.uk">BritAsiaTV</channel>
@@ -152,4 +159,5 @@
   <channel site="[ENC]jiotv_0" site_id="2252" xmltv_id="DesiMusicStation.in">Desi Music Station</channel>
   <channel site="[ENC]jiotv_0" site_id="2753" xmltv_id="YRFMusic.in">YRF Music</channel>
   <channel site="[ENC]jiotv_0" site_id="2762" xmltv_id="NHStudioz.in">NH Studioz</channel>
+  <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251347" xmltv_id="FOXCricketHD.au">FOX Cricket</channel>
 </configuration>
