@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="SkySpMix.uk">
+    <display-name lang="en">SkySp Mix</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4091.png"/>
+  </channel>
+  <programme start="20240424023000 +0530" stop="20240424033000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: Rajasthan R v Mumbai I Hlts</title>
+    <desc lang="en">Jos Buttler's table-topping Rajasthan Royals return to IPL action with a match against Mumbai Indians. It was Buttler who shone in Rajasthan's latest win over KKR, smashing 107*. (22.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5c8c46d1-91d0-335a-8f53-109140856288/16-9"/>
+    <episode-num system="xmltv_ns">.37.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240424033000 +0530" stop="20240424043000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: CSK v Lucknow SG Hlts</title>
+    <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e0afe60a-369a-358d-8c80-923b874b5f47/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240424043000 +0530" stop="20240424053000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Chinese F1 GP Highlights</title>
+    <desc lang="en">For the first time in five years, it's lights out at the Chinese Grand Prix. Red Bull have pole for the 100th time as Max Verstappen is joined by Sergio Perez on the front row. (21.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a0271cd3-3c5b-36c2-960d-72f583606a09/16-9"/>
+    <episode-num system="xmltv_ns">.67.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424053000 +0530" stop="20240424060000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Playing Lessons: Aaron Wise</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Aaron Wise delivers the lesson.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/71e25e45-b59b-446c-bd7a-6d55aff7ec14/16-9"/>
+    <episode-num system="xmltv_ns">2021.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424060000 +0530" stop="20240424063000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Playing Lessons: Corey Conners</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing topics such as shot setup, club selection, and strategy. Here, Corey Conners delivers the lesson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d94d80f9-1f70-4f72-a3a8-13ae216fc722/16-9"/>
+    <episode-num system="xmltv_ns">2021.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424063000 +0530" stop="20240424073000 +0530" channel="SkySpMix.uk">
+    <title lang="en">LPGA Tour Golf Highlights</title>
+    <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5a7eee17-73fb-34a2-ac52-af37bb5bbd2f/16-9"/>
+    <episode-num system="xmltv_ns">2023.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424073000 +0530" stop="20240424074500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the fourth divisional matchup from the 2023 NFL playoffs, as the defending Super Bowl champions Kansas City Chiefs head to the Buffalo Bills. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/515fd562-9946-3eae-9e3e-148f30e65058/16-9"/>
+    <episode-num system="xmltv_ns">2023.53.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424074500 +0530" stop="20240424080000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from an NFC divisional round matchup, as the Detroit Lions host the Tampa Bay Buccaneers. The Lions haven't won multiple playoff games since 1957. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a03fe1d-462a-3f39-bd22-83345ba98ed3/16-9"/>
+    <episode-num system="xmltv_ns">2023.52.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424080000 +0530" stop="20240424103000 +0530" channel="SkySpMix.uk">
+    <title lang="en">BBL: London V Surrey</title>
+    <desc lang="en">The London Lions go head to head with the Surrey Scorchers in the British Basketball League. (18.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e806a6cd-d331-37df-b11c-cc0eff9e4b95/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424103000 +0530" stop="20240424144000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: CSK v Lucknow SG</title>
+    <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a1210d4-28b2-3c29-bc3f-3aeb34912393/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240424144000 +0530" stop="20240424154000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">Highlights from the 2024 Corales Puntacana Championship, staged at the Corales Golf Club in the Dominican Republic. FedExCup points were up for grabs in the sixth edition of this event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d4e319b0-0e1f-345d-918d-8fa658d117cb/16-9"/>
+    <episode-num system="xmltv_ns">.70.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424154000 +0530" stop="20240424164000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Ladies European Tour Golf Hlts</title>
+    <desc lang="en">Tournament highlights from the 2024 Joburg Ladies Open, a Ladies European Tour tournament held at Modderfontein Golf Club in Johannesburg, South Africa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2f9d6bf7-98f4-3fc6-af71-640666fafd90/16-9"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424164000 +0530" stop="20240424174000 +0530" channel="SkySpMix.uk">
+    <title lang="en">LPGA Tour Golf Highlights</title>
+    <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5a7eee17-73fb-34a2-ac52-af37bb5bbd2f/16-9"/>
+    <episode-num system="xmltv_ns">2023.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424174000 +0530" stop="20240424183500 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: Rajasthan R v Mumbai I Hlts</title>
+    <desc lang="en">Jos Buttler's table-topping Rajasthan Royals return to IPL action with a match against Mumbai Indians. It was Buttler who shone in Rajasthan's latest win over KKR, smashing 107*. (22.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5c8c46d1-91d0-335a-8f53-109140856288/16-9"/>
+    <episode-num system="xmltv_ns">.37.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424183500 +0530" stop="20240424193000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: CSK v Lucknow SG Hlts</title>
+    <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e0afe60a-369a-358d-8c80-923b874b5f47/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240424193000 +0530" stop="20240424203000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Fresh from sending the Bills home in the divisional round, Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0032abde-0687-3c21-88b9-5d8df409ad42/16-9"/>
+    <episode-num system="xmltv_ns">2023.59.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424203000 +0530" stop="20240424230000 +0530" channel="SkySpMix.uk">
+    <title lang="en">BBL: London V Surrey</title>
+    <desc lang="en">The London Lions go head to head with the Surrey Scorchers in the British Basketball League. (18.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e806a6cd-d331-37df-b11c-cc0eff9e4b95/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240424230000 +0530" stop="20240425000000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">In an NFC divisional round matchup, the Detroit Lions host the Tampa Bay Buccaneers. The last time the Lions won multiple playoff games dates back to their 1957 championship run. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b992a917-693f-3885-b508-2a9b2e4b2e6a/16-9"/>
+    <episode-num system="xmltv_ns">2023.50.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425000000 +0530" stop="20240425003000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Spirit of Yachting</title>
+    <desc lang="en">21 boats and 191 competitors set sail for the 2024 Rolex China Sea Race, embarking on an epic 565 nautical-mile journey from Victoria Harbour in Hong Kong to Subic Bay in the Philippines.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Water Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1617e4d5-251a-30f1-90b9-aba5c77a8ff1/16-9"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425003000 +0530" stop="20240425013000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Ladies European Tour Golf Hlts</title>
+    <desc lang="en">Tournament highlights from the 2024 Joburg Ladies Open, a Ladies European Tour tournament held at Modderfontein Golf Club in Johannesburg, South Africa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2f9d6bf7-98f4-3fc6-af71-640666fafd90/16-9"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425013000 +0530" stop="20240425023000 +0530" channel="SkySpMix.uk">
+    <title lang="en">LPGA Tour Golf Highlights</title>
+    <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5a7eee17-73fb-34a2-ac52-af37bb5bbd2f/16-9"/>
+    <episode-num system="xmltv_ns">2023.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425023000 +0530" stop="20240425033000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: CSK v Lucknow SG Hlts</title>
+    <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e0afe60a-369a-358d-8c80-923b874b5f47/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240425033000 +0530" stop="20240425043000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: Delhi C v Gujarat T Hlts</title>
+    <desc lang="en">Rahul Tewatia's Gujarat Titans look to follow up their win over Punjab at the weekend with another in Delhi as they travel for an IPL match against the Capitals. (24.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f23dd848-fb66-3cd8-8244-2bee0321a56d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240425043000 +0530" stop="20240425084000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: Delhi C v Gujarat T</title>
+    <desc lang="en">Rahul Tewatia's Gujarat Titans look to follow up their win over Punjab at the weekend with another in Delhi as they travel for an IPL match against the Capitals. (24.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d7245280-610a-3bd5-8c75-6f2e5f2075cf/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240425084000 +0530" stop="20240425090000 +0530" channel="SkySpMix.uk">
+    <title lang="en">ICC Men's T20 WC: IND v PAK 2007</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit the final of the inaugural edition of the competition between Pakistan and India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9c23d731-9286-40a8-b2c9-83936e831fa0/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425090000 +0530" stop="20240425093000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Beginnings: As Nasser Hussain meets some of the most successful leaders in sport, find out how beginnings play a crucial part in building success. (1 of 5)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6e7e7f65-f829-39a3-8daf-918ccd1988c9/16-9"/>
+    <episode-num system="xmltv_ns">2022.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425093000 +0530" stop="20240425103000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Captain's Log: Michael Atherton</title>
+    <desc lang="en">Michael Atherton reflects on his five years as England Test captain between 1993 and 1998, including the 'dirt in the pocket' affair, his famous Johannesburg innings and his Ashes memories.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a17eade8-279e-4fc1-acbc-5a7e460d7dfc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425103000 +0530" stop="20240425130000 +0530" channel="SkySpMix.uk">
+    <title lang="en">BBL: London V Surrey</title>
+    <desc lang="en">The London Lions go head to head with the Surrey Scorchers in the British Basketball League. (18.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e806a6cd-d331-37df-b11c-cc0eff9e4b95/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425130000 +0530" stop="20240425140000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">In an NFC divisional round matchup, the Detroit Lions host the Tampa Bay Buccaneers. The last time the Lions won multiple playoff games dates back to their 1957 championship run. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b992a917-693f-3885-b508-2a9b2e4b2e6a/16-9"/>
+    <episode-num system="xmltv_ns">2023.50.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425140000 +0530" stop="20240425141500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the fourth divisional matchup from the 2023 NFL playoffs, as the defending Super Bowl champions Kansas City Chiefs head to the Buffalo Bills. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/515fd562-9946-3eae-9e3e-148f30e65058/16-9"/>
+    <episode-num system="xmltv_ns">2023.53.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425141500 +0530" stop="20240425143000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24 (15mins)</title>
+    <desc lang="en">Bitesize highlights as the San Francisco 49ers and the Detroit Lions advance to the NFC Championship game with a Super Bowl bid on the line. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/86ac9c54-0796-3448-aae9-7f7974b6354e/16-9"/>
+    <episode-num system="xmltv_ns">2023.57.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425143000 +0530" stop="20240425153000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PGA Tour Champions Highlights</title>
+    <desc lang="en">The PGA Tour Champions season continues with the Invited Celebrity Classic, held at Las Colinas Country Club. The previous winner of this event was Australia's Mark Hensby.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4858fe2-36b5-3934-9f8d-75012bcca583/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240425153000 +0530" stop="20240425160000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PGA Tour Champions Learning Centre</title>
+    <desc lang="en">From instruction tips for your game, to fitness advice and lifestyle lessons, hear from the best on the circuit in PGA Tour Champions Learning Centre.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/380de817-8d91-3e10-bf31-f617380054a1/16-9"/>
+    <episode-num system="xmltv_ns">2023.22.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240425160000 +0530" stop="20240425163000 +0530" channel="SkySpMix.uk">
+    <title lang="en">European Challenge Tour Golf</title>
+    <desc lang="en">The European Challenge Tour took to the UAE for the first event of its two-stop visit, starting with the Abu Dhabi Challenge from Al Ain Golf Club.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e17ced33-aac6-3465-92fc-b8b342f8e279/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240425163000 +0530" stop="20240425203000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live Ladies European Tour Golf</title>
+    <desc lang="en">Round one from the 2024 Investec South African Women's Open, held at Erinvale Country and Golf Estate. Major champion Ashleigh Buhai clinched victory at this event 2023. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f1894227-33b9-3e63-bc8f-e08d1c51140c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240425203000 +0530" stop="20240425204500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the second divisional matchup in the NFL playoffs, as the San Francisco 49ers face the Green Bay Packers in the NFC. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d43dabd8-7a1f-3944-972d-3bcc03ed5dbf/16-9"/>
+    <episode-num system="xmltv_ns">2023.49.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425204500 +0530" stop="20240425210000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the fourth divisional matchup from the 2023 NFL playoffs, as the defending Super Bowl champions Kansas City Chiefs head to the Buffalo Bills. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/515fd562-9946-3eae-9e3e-148f30e65058/16-9"/>
+    <episode-num system="xmltv_ns">2023.53.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425210000 +0530" stop="20240425211500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from a wild-card matchup during the NFL playoffs, as the Kansas City Chiefs host the Miami Dolphins who are searching for their first postseason win since 2000. (13.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d36e2087-4063-32af-b81e-43b296169924/16-9"/>
+    <episode-num system="xmltv_ns">2023.32.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425211500 +0530" stop="20240425213000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from a wild-card matchup during the 2023 NFL playoffs, as the AFC's number two seed Buffalo Bills host the number seven-seeded Pittsburgh Steelers. (14.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8375cda8-832d-376f-a3e2-7e084bcdeeeb/16-9"/>
+    <episode-num system="xmltv_ns">2023.39.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240425213000 +0530" stop="20240426023000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live World Pool Masters Rnd1</title>
+    <desc lang="en">A world-class field convenes in Hildesheim, Germany, for pool's most historic invitational event - the World Pool Masters. Ko Pin Yi won last year's tournament in Essex. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0eaecbe6-6b22-3e7b-b7b8-2a4dd195a7cc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240426023000 +0530" stop="20240426030000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Spirit of Yachting</title>
+    <desc lang="en">21 boats and 191 competitors set sail for the 2024 Rolex China Sea Race, embarking on an epic 565 nautical-mile journey from Victoria Harbour in Hong Kong to Subic Bay in the Philippines.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Water Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1617e4d5-251a-30f1-90b9-aba5c77a8ff1/16-9"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240426030000 +0530" stop="20240426040000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: Delhi C v Gujarat T Hlts</title>
+    <desc lang="en">Rahul Tewatia's Gujarat Titans look to follow up their win over Punjab at the weekend with another in Delhi as they travel for an IPL match against the Capitals. (24.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f23dd848-fb66-3cd8-8244-2bee0321a56d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240426040000 +0530" stop="20240426050000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: SRH v RCB Highlights</title>
+    <desc lang="en">The inform Sunrisers Hyderabad face Royal Challengers Bengaluru in the IPL. Hyderabad's winning run stretched to four recently as they sent Delhi to the cleaners with a 67-run win. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a3cd319a-d837-302d-b3cd-72470c0c2a4f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240426050000 +0530" stop="20240426060000 +0530" channel="SkySpMix.uk">
+    <title lang="en">LPGA Tour Golf Highlights</title>
+    <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5a7eee17-73fb-34a2-ac52-af37bb5bbd2f/16-9"/>
+    <episode-num system="xmltv_ns">2023.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240426060000 +0530" stop="20240426084500 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: St.Helens v Huddersfield</title>
+    <desc lang="en">Back to winning ways and second in the table, St Helens host Huddersfield Giants in the Betfred Super League. Ian Watson's Huddersfield are on a run of five straight wins. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/08cad358-0aa5-3b20-8060-ea0e460fc229/16-9"/>
+    <episode-num system="xmltv_ns">2023.139.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240426084500 +0530" stop="20240426090000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from a wild-card matchup during the NFL playoffs, as the Kansas City Chiefs host the Miami Dolphins who are searching for their first postseason win since 2000. (13.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d36e2087-4063-32af-b81e-43b296169924/16-9"/>
+    <episode-num system="xmltv_ns">2023.32.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240426090000 +0530" stop="20240426093000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PGA Tour Champions Learning Centre</title>
+    <desc lang="en">From instruction tips for your game, to fitness advice and lifestyle lessons, hear from the best on the circuit in PGA Tour Champions Learning Centre.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/380de817-8d91-3e10-bf31-f617380054a1/16-9"/>
+    <episode-num system="xmltv_ns">2023.22.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240426093000 +0530" stop="20240426103000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: SRH v RCB Highlights</title>
+    <desc lang="en">The inform Sunrisers Hyderabad face Royal Challengers Bengaluru in the IPL. Hyderabad's winning run stretched to four recently as they sent Delhi to the cleaners with a 67-run win. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a3cd319a-d837-302d-b3cd-72470c0c2a4f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240426103000 +0530" stop="20240426143000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PL Darts: Liverpool</title>
+    <desc lang="en">The BetMGM Premier League continues during 2024 with night 13 in Liverpool, as Nathan Aspinall enters M&amp;S Bank Arena the latest nightly winner, toppling Michael Smith last week. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Darts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/33b1e4cb-ae0a-300a-bced-253eb63d8803/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240426143000 +0530" stop="20240426144500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from a wild-card matchup during the 2023 NFL playoffs, as two frequent postseason combatants - the Cowboys and the Packers - collide at AT&amp;T Stadium. (14.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3606cc24-4d93-3fe6-a665-af95f37d743e/16-9"/>
+    <episode-num system="xmltv_ns">2023.34.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240426144500 +0530" stop="20240426150000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from a wild-card matchup during the 2023 NFL playoffs, as the NFC's number three-seeded Detroit Lions take on the number six seeds Los Angeles Rams. (14.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f58ea6dd-5a29-3162-ab4d-5adaa7350af7/16-9"/>
+    <episode-num system="xmltv_ns">2023.36.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240426150000 +0530" stop="20240426170000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live Super Rugby:Waratahs v Chiefs</title>
+    <desc lang="en">The 10th round of Super Rugby Pacific continues with a clash between the Waratahs and the Chiefs. (26.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da78ffa0-0195-3a06-8d05-6b2a8983c0ae/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240426170000 +0530" stop="20240426203000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live Ladies European Tour Golf</title>
+    <desc lang="en">Round two from the 2024 Investec South African Women's Open, held at Erinvale Country and Golf Estate. Major champion Ashleigh Buhai clinched victory at this event 2023. (26.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/08be9ccd-d8ba-3f6c-967c-e82c531b354c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240426203000 +0530" stop="20240426210000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Playing Lessons: Mina Harigae</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Mina Harigae delivers the lesson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83191813-93c4-403b-935a-e9a7e9f82e69/16-9"/>
+    <episode-num system="xmltv_ns">2021.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240426210000 +0530" stop="20240426213000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Playing Lessons: Nick Dougherty</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Nick Dougherty delivers the lesson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0f6832bd-f4f2-48fa-8bb4-c02647a8364b/16-9"/>
+    <episode-num system="xmltv_ns">2021.11.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240426213000 +0530" stop="20240427001500 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: St.Helens v Huddersfield</title>
+    <desc lang="en">Back to winning ways and second in the table, St Helens host Huddersfield Giants in the Betfred Super League. Ian Watson's Huddersfield are on a run of five straight wins. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/08cad358-0aa5-3b20-8060-ea0e460fc229/16-9"/>
+    <episode-num system="xmltv_ns">2023.139.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240427001500 +0530" stop="20240427002500 +0530" channel="SkySpMix.uk">
+    <title lang="en">My Icon: Leon Pryce</title>
+    <desc lang="en">Former Bradford Bulls and St Helens star Leon Pryce discusses the individuals that have inspired him in his life and career.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6807172b-3984-4f17-afd2-abe984daac56/16-9"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427002500 +0530" stop="20240427023000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live S/Lge: Castleford V London</title>
+    <desc lang="en">Castleford Tigers host London Broncos in the Betfred Super League. The Broncos slumped to another defeat last week as their search for an elusive first win this season continues. (26.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/04e5ebc3-7a4e-37d1-acd2-ff53d0b8fb59/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240427023000 +0530" stop="20240427024500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the final wild-card matchup during the 2023 NFL playoffs, as the Tampa Bay Buccaneers host the Philadelphia Eagles. (15.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8e4cc8d0-4bed-332e-89d9-ff36c5364d40/16-9"/>
+    <episode-num system="xmltv_ns">2023.41.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427024500 +0530" stop="20240427030000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights of Super Bowl LVIII, coming from Las Vegas, as the San Francisco 49ers and the Kansas City Chiefs set up a repeat of the same game four years ago. (11.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/47b84804-e50c-39f0-8a31-f76335a091c2/16-9"/>
+    <episode-num system="xmltv_ns">2023.76.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427030000 +0530" stop="20240427031500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24 (15mins)</title>
+    <desc lang="en">Bitesize highlights as the San Francisco 49ers and the Detroit Lions advance to the NFC Championship game with a Super Bowl bid on the line. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/86ac9c54-0796-3448-aae9-7f7974b6354e/16-9"/>
+    <episode-num system="xmltv_ns">2023.57.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427031500 +0530" stop="20240427033000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the fourth divisional matchup from the 2023 NFL playoffs, as the defending Super Bowl champions Kansas City Chiefs head to the Buffalo Bills. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/515fd562-9946-3eae-9e3e-148f30e65058/16-9"/>
+    <episode-num system="xmltv_ns">2023.53.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427033000 +0530" stop="20240427043000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: KKR v Punjab K Hlts</title>
+    <desc lang="en">In the IPL, Kolkata Knight Riders meet Punjab Kings. (26.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/180fddfb-a3f2-37c1-9cfe-5f362e7f1d21/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+</tv>
