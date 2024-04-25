@@ -4,348 +4,6 @@
     <display-name lang="en">SkySp Mix</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4091.png"/>
   </channel>
-  <programme start="20240424023000 +0530" stop="20240424033000 +0530" channel="SkySpMix.uk">
-    <title lang="en">IPL: Rajasthan R v Mumbai I Hlts</title>
-    <desc lang="en">Jos Buttler's table-topping Rajasthan Royals return to IPL action with a match against Mumbai Indians. It was Buttler who shone in Rajasthan's latest win over KKR, smashing 107*. (22.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5c8c46d1-91d0-335a-8f53-109140856288/16-9"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240424033000 +0530" stop="20240424043000 +0530" channel="SkySpMix.uk">
-    <title lang="en">IPL: CSK v Lucknow SG Hlts</title>
-    <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e0afe60a-369a-358d-8c80-923b874b5f47/16-9"/>
-    <episode-num system="xmltv_ns">.38.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240424043000 +0530" stop="20240424053000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Chinese F1 GP Highlights</title>
-    <desc lang="en">For the first time in five years, it's lights out at the Chinese Grand Prix. Red Bull have pole for the 100th time as Max Verstappen is joined by Sergio Perez on the front row. (21.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a0271cd3-3c5b-36c2-960d-72f583606a09/16-9"/>
-    <episode-num system="xmltv_ns">.67.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424053000 +0530" stop="20240424060000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Playing Lessons: Aaron Wise</title>
-    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Aaron Wise delivers the lesson.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/71e25e45-b59b-446c-bd7a-6d55aff7ec14/16-9"/>
-    <episode-num system="xmltv_ns">2021.2.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424060000 +0530" stop="20240424063000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Playing Lessons: Corey Conners</title>
-    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing topics such as shot setup, club selection, and strategy. Here, Corey Conners delivers the lesson.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d94d80f9-1f70-4f72-a3a8-13ae216fc722/16-9"/>
-    <episode-num system="xmltv_ns">2021.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424063000 +0530" stop="20240424073000 +0530" channel="SkySpMix.uk">
-    <title lang="en">LPGA Tour Golf Highlights</title>
-    <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5a7eee17-73fb-34a2-ac52-af37bb5bbd2f/16-9"/>
-    <episode-num system="xmltv_ns">2023.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424073000 +0530" stop="20240424074500 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
-    <desc lang="en">Bitesize highlights from the fourth divisional matchup from the 2023 NFL playoffs, as the defending Super Bowl champions Kansas City Chiefs head to the Buffalo Bills. (21.01)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/515fd562-9946-3eae-9e3e-148f30e65058/16-9"/>
-    <episode-num system="xmltv_ns">2023.53.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424074500 +0530" stop="20240424080000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
-    <desc lang="en">Bitesize highlights from an NFC divisional round matchup, as the Detroit Lions host the Tampa Bay Buccaneers. The Lions haven't won multiple playoff games since 1957. (21.01)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6a03fe1d-462a-3f39-bd22-83345ba98ed3/16-9"/>
-    <episode-num system="xmltv_ns">2023.52.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424080000 +0530" stop="20240424103000 +0530" channel="SkySpMix.uk">
-    <title lang="en">BBL: London V Surrey</title>
-    <desc lang="en">The London Lions go head to head with the Surrey Scorchers in the British Basketball League. (18.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e806a6cd-d331-37df-b11c-cc0eff9e4b95/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424103000 +0530" stop="20240424144000 +0530" channel="SkySpMix.uk">
-    <title lang="en">IPL: CSK v Lucknow SG</title>
-    <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6a1210d4-28b2-3c29-bc3f-3aeb34912393/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240424144000 +0530" stop="20240424154000 +0530" channel="SkySpMix.uk">
-    <title lang="en">PGA Tour Golf Highlights</title>
-    <desc lang="en">Highlights from the 2024 Corales Puntacana Championship, staged at the Corales Golf Club in the Dominican Republic. FedExCup points were up for grabs in the sixth edition of this event.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d4e319b0-0e1f-345d-918d-8fa658d117cb/16-9"/>
-    <episode-num system="xmltv_ns">.70.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240424154000 +0530" stop="20240424164000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Ladies European Tour Golf Hlts</title>
-    <desc lang="en">Tournament highlights from the 2024 Joburg Ladies Open, a Ladies European Tour tournament held at Modderfontein Golf Club in Johannesburg, South Africa.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2f9d6bf7-98f4-3fc6-af71-640666fafd90/16-9"/>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424164000 +0530" stop="20240424181500 +0530" channel="SkySpMix.uk">
-    <title lang="en">LPGA Tour Golf Highlights</title>
-    <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5a7eee17-73fb-34a2-ac52-af37bb5bbd2f/16-9"/>
-    <episode-num system="xmltv_ns">2023.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424181501 +0530" stop="20240424191501 +0530" channel="SkySpMix.uk">
-    <title lang="en">IPL: Rajasthan R v Mumbai I Hlts</title>
-    <desc lang="en">Jos Buttler's table-topping Rajasthan Royals return to IPL action with a match against Mumbai Indians. It was Buttler who shone in Rajasthan's latest win over KKR, smashing 107*. (22.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5c8c46d1-91d0-335a-8f53-109140856288/16-9"/>
-    <episode-num system="xmltv_ns">.37.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424191501 +0530" stop="20240424201001 +0530" channel="SkySpMix.uk">
-    <title lang="en">IPL: CSK v Lucknow SG Hlts</title>
-    <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e0afe60a-369a-358d-8c80-923b874b5f47/16-9"/>
-    <episode-num system="xmltv_ns">.38.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240424201001 +0530" stop="20240424202901 +0530" channel="SkySpMix.uk">
-    <title lang="en">My Icon: Thierry Henry</title>
-    <desc lang="en">My Icon: Thierry Henry</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b2a2b75f-d86b-470b-99ae-1e8410cfe19d/16-9"/>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240424203000 +0530" stop="20240424230000 +0530" channel="SkySpMix.uk">
-    <title lang="en">BBL: London V Surrey</title>
-    <desc lang="en">The London Lions go head to head with the Surrey Scorchers in the British Basketball League. (18.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e806a6cd-d331-37df-b11c-cc0eff9e4b95/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240424230000 +0530" stop="20240425000000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
-    <desc lang="en">In an NFC divisional round matchup, the Detroit Lions host the Tampa Bay Buccaneers. The last time the Lions won multiple playoff games dates back to their 1957 championship run. (21.01)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b992a917-693f-3885-b508-2a9b2e4b2e6a/16-9"/>
-    <episode-num system="xmltv_ns">2023.50.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240425000000 +0530" stop="20240425003000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Spirit of Yachting</title>
-    <desc lang="en">21 boats and 191 competitors set sail for the 2024 Rolex China Sea Race, embarking on an epic 565 nautical-mile journey from Victoria Harbour in Hong Kong to Subic Bay in the Philippines.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Water Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1617e4d5-251a-30f1-90b9-aba5c77a8ff1/16-9"/>
-    <episode-num system="xmltv_ns">.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240425003000 +0530" stop="20240425013000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Ladies European Tour Golf Hlts</title>
-    <desc lang="en">Tournament highlights from the 2024 Joburg Ladies Open, a Ladies European Tour tournament held at Modderfontein Golf Club in Johannesburg, South Africa.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2f9d6bf7-98f4-3fc6-af71-640666fafd90/16-9"/>
-    <episode-num system="xmltv_ns">.16.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240425013000 +0530" stop="20240425023000 +0530" channel="SkySpMix.uk">
-    <title lang="en">LPGA Tour Golf Highlights</title>
-    <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5a7eee17-73fb-34a2-ac52-af37bb5bbd2f/16-9"/>
-    <episode-num system="xmltv_ns">2023.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240425023000 +0530" stop="20240425033000 +0530" channel="SkySpMix.uk">
     <title lang="en">IPL: CSK v Lucknow SG Hlts</title>
     <desc lang="en">In the IPL, Moeen Ali's Super Kings take on KL Rahul's Lucknow Super Giants. Both teams are locked on eight points as the battle to reach the playoffs continues in Chennai. (23.04)</desc>
@@ -1005,6 +663,316 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/180fddfb-a3f2-37c1-9cfe-5f362e7f1d21/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240427043000 +0530" stop="20240427053000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Chinese F1 GP Highlights</title>
+    <desc lang="en">For the first time in five years, it's lights out at the Chinese Grand Prix. Red Bull have pole for the 100th time as Max Verstappen is joined by Sergio Perez on the front row. (21.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a0271cd3-3c5b-36c2-960d-72f583606a09/16-9"/>
+    <episode-num system="xmltv_ns">.67.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427053000 +0530" stop="20240427054500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from an NFC divisional round matchup, as the Detroit Lions host the Tampa Bay Buccaneers. The Lions haven't won multiple playoff games since 1957. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a03fe1d-462a-3f39-bd22-83345ba98ed3/16-9"/>
+    <episode-num system="xmltv_ns">2023.52.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427054500 +0530" stop="20240427060000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the second divisional matchup in the NFL playoffs, as the San Francisco 49ers face the Green Bay Packers in the NFC. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d43dabd8-7a1f-3944-972d-3bcc03ed5dbf/16-9"/>
+    <episode-num system="xmltv_ns">2023.49.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427060000 +0530" stop="20240427063000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Playing Lessons: Aaron Wise</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Aaron Wise delivers the lesson.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/71e25e45-b59b-446c-bd7a-6d55aff7ec14/16-9"/>
+    <episode-num system="xmltv_ns">2021.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427063000 +0530" stop="20240427064500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the opening divisional round matchup during the NFL playoffs, as the Baltimore Ravens host the Houston Texans in the AFC. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f087ecbc-2903-3ba9-ac86-78c364b1314c/16-9"/>
+    <episode-num system="xmltv_ns">2023.48.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427064500 +0530" stop="20240427093000 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: Hull KR v Wigan</title>
+    <desc lang="en">Unbeaten on home soil this year, Wigan's next Betfred Super League test comes on the road as the champions take on a Hull KR side who were undone in the south of France previously. (26.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc1f369e-fdf8-38af-88a7-a9aa9807c33d/16-9"/>
+    <episode-num system="xmltv_ns">2023.145.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240427093000 +0530" stop="20240427103000 +0530" channel="SkySpMix.uk">
+    <title lang="en">LPGA Tour Golf Highlights</title>
+    <desc lang="en">The final day of play at the Chevron Championship, held at the Club at Carlton Woods. Canadian superstar Brooke Henderson and Nelly Korda are among the names in contention. (21.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5a7eee17-73fb-34a2-ac52-af37bb5bbd2f/16-9"/>
+    <episode-num system="xmltv_ns">2023.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427103000 +0530" stop="20240427144000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Indian Premier League</title>
+    <desc lang="en">In the IPL, Kolkata Knight Riders meet Punjab Kings. (26.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d04d2ff4-6bbb-34cc-a39b-2764fb8bdb1b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240427144000 +0530" stop="20240427150500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Talking Cricket: Sachin Tendulkar</title>
+    <desc lang="en">A look at the career of the modern era's greatest batsman through the eyes of those that shared the pitch with him. Steve Waugh, Ravi Shastri and the 'Little Master' himself contribute.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d557c6e8-9c67-46d6-9b31-f9634bce3dc7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427150500 +0530" stop="20240427153000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Secrets of Success</title>
+    <desc lang="en">Legacy: Nasser Hussain meets some of the most successful leaders in sport to find out how they inspire, motivate and manage their teams to succeed at the highest level. (5 of 5)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cc948ce-19f1-3cf5-bf51-6f2a7946afa1/16-9"/>
+    <episode-num system="xmltv_ns">2022.4.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427153000 +0530" stop="20240427154500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights as Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e6fd8f26-dc48-3a9d-86d6-8781a914f566/16-9"/>
+    <episode-num system="xmltv_ns">2023.61.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427154500 +0530" stop="20240427160000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">Bitesize highlights from the opening divisional round matchup during the NFL playoffs, as the Baltimore Ravens host the Houston Texans in the AFC. (20.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f087ecbc-2903-3ba9-ac86-78c364b1314c/16-9"/>
+    <episode-num system="xmltv_ns">2023.48.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427160000 +0530" stop="20240427203000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live World Pool Masters: Q/Finals</title>
+    <desc lang="en">The afternoon session on day three of four at the 2024 World Pool Masters, held in Hildesheim, Germany. Ko Pin Yi came out on top at last year's tournament, winning in Essex. (27.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d243d879-7121-3035-bb71-8e49f7b3adba/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240427203000 +0530" stop="20240427210000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Spirit of Yachting</title>
+    <desc lang="en">21 boats and 191 competitors set sail for the 2024 Rolex China Sea Race, embarking on an epic 565 nautical-mile journey from Victoria Harbour in Hong Kong to Subic Bay in the Philippines.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Water Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1617e4d5-251a-30f1-90b9-aba5c77a8ff1/16-9"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427210000 +0530" stop="20240427220000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24</title>
+    <desc lang="en">The Super Bowl champions Kansas City Chiefs head to the Buffalo Bills for an AFC divisional round matchup. The Chiefs' Patrick Mahomes stars in his first playoff game on the road. (21.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/68946b8b-0c80-3de4-bbdb-e89efecf8894/16-9"/>
+    <episode-num system="xmltv_ns">2023.51.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427220000 +0530" stop="20240427223000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Spirit of Yachting</title>
+    <desc lang="en">21 boats and 191 competitors set sail for the 2024 Rolex China Sea Race, embarking on an epic 565 nautical-mile journey from Victoria Harbour in Hong Kong to Subic Bay in the Philippines.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Water Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1617e4d5-251a-30f1-90b9-aba5c77a8ff1/16-9"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240427223000 +0530" stop="20240428030000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Live World Pool Masters: Q/Finals</title>
+    <desc lang="en">The evening session on day three of four at the 2024 World Pool Masters, held in Hildesheim, Germany. Ko Pin Yi came out on top at last year's tournament, winning in Essex. (27.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/53b48be2-68c2-3f53-90a6-3ce60676ea05/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240428030000 +0530" stop="20240428033000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Spirit of Yachting</title>
+    <desc lang="en">21 boats and 191 competitors set sail for the 2024 Rolex China Sea Race, embarking on an epic 565 nautical-mile journey from Victoria Harbour in Hong Kong to Subic Bay in the Philippines.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Water Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1617e4d5-251a-30f1-90b9-aba5c77a8ff1/16-9"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240428033000 +0530" stop="20240428043000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: Delhi C v Mumbai I Hlts</title>
+    <desc lang="en">Delhi Capitals and Mumbai Indians meet in IPL action. (27.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/af7db870-7ced-3aff-a375-9abd5c68b1c1/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>
