@@ -4,20 +4,6 @@
     <display-name lang="en">SkySpMainEv</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb1301.png"/>
   </channel>
-  <programme start="20240424233000 +0530" stop="20240425033000 +0530" channel="SkySpMainEv.uk">
-    <title lang="en">Live PL: Everton v Liverpool</title>
-    <desc lang="en">Everton look to take another step towards Premier League survival as they welcome neighbours Liverpool to Goodison. The Reds steadied the ship Sunday, winning 3-1 away at Fulham. (24.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/81682e70-1b57-3455-9d74-e7b52228880f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240425033000 +0530" stop="20240425040000 +0530" channel="SkySpMainEv.uk">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news with live analysis and comment plus extended interviews with the headline makers.</desc>
@@ -30,7 +16,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240425040000 +0530" stop="20240425043000 +0530" channel="SkySpMainEv.uk">
     <title lang="en">Back Pages Tonight</title>
@@ -142,7 +127,7 @@
   </programme>
   <programme start="20240425143000 +0530" stop="20240426000000 +0530" channel="SkySpMainEv.uk">
     <title lang="en">Live Tennis: Madrid</title>
-    <desc lang="en">The third day of the Madrid Open - a joint ATP Masters and WTA 1000 clay-court event. Carlos Alcaraz is the reigning men's champion, while Aryna Sabalenka holds the women's crown. (25.04)</desc>
+    <desc lang="en">Rafael Nadal gets his Madrid Open campaign underway against 16-year-old Darwin Blanch, while world number one Iga Swiatek faces Xiyu Wang. Coco Gauff and Naomi Osaka also feature. (25.04)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/39fded12-fcee-3f5f-b672-3a5c696bc0e4/16-9"/>
@@ -429,7 +414,7 @@
   </programme>
   <programme start="20240427213000 +0530" stop="20240428003000 +0530" channel="SkySpMainEv.uk">
     <title lang="en">Live SNF: Everton v Brentford</title>
-    <desc lang="en">On Saturday Night Football, Everton play host to Brentford at Goodison Park in the Premier League. (27.04)</desc>
+    <desc lang="en">Everton look to follow up a massive midweek derby day win as they welcome Brentford to Goodison Park in the Premier League on Saturday Night Football. (27.04)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/63879130-56ba-380f-b6f8-813e41929492/16-9"/>

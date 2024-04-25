@@ -24,6 +24,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/f23dd848-fb66-3cd8-8244-2bee0321a56d/16-9"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -165,6 +166,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/f23dd848-fb66-3cd8-8244-2bee0321a56d/16-9"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -195,6 +197,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/f23dd848-fb66-3cd8-8244-2bee0321a56d/16-9"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -272,6 +275,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/f23dd848-fb66-3cd8-8244-2bee0321a56d/16-9"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -298,6 +302,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/f23dd848-fb66-3cd8-8244-2bee0321a56d/16-9"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -465,12 +470,16 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/f23dd848-fb66-3cd8-8244-2bee0321a56d/16-9"/>
+    <episode-num system="xmltv_ns">.39.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240426182500 +0530" stop="20240426192000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: SRH v RCB Highlights</title>
