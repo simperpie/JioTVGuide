@@ -24,6 +24,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/180fddfb-a3f2-37c1-9cfe-5f362e7f1d21/16-9"/>
+    <episode-num system="xmltv_ns">.41.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -101,6 +102,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/180fddfb-a3f2-37c1-9cfe-5f362e7f1d21/16-9"/>
+    <episode-num system="xmltv_ns">.41.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -131,6 +133,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/180fddfb-a3f2-37c1-9cfe-5f362e7f1d21/16-9"/>
+    <episode-num system="xmltv_ns">.41.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -178,6 +181,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/180fddfb-a3f2-37c1-9cfe-5f362e7f1d21/16-9"/>
+    <episode-num system="xmltv_ns">.41.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -546,12 +550,16 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/180fddfb-a3f2-37c1-9cfe-5f362e7f1d21/16-9"/>
+    <episode-num system="xmltv_ns">.41.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
-      <stereo>Mono</stereo>
+      <stereo>Stereo</stereo>
     </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
   </programme>
   <programme start="20240428142500 +0530" stop="20240428152000 +0530" channel="SkySpCricket.uk">
     <title lang="en">IPL: Delhi C v Mumbai I Hlts</title>
