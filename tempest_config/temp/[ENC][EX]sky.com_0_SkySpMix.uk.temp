@@ -4,282 +4,6 @@
     <display-name lang="en">SkySp Mix</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4091.png"/>
   </channel>
-  <programme start="20240429023000 +0530" stop="20240429033000 +0530" channel="SkySpMix.uk">
-    <title lang="en">IPL: Gujarat T v RCB Hlts</title>
-    <desc lang="en">Gujarat Titans face RCB in the IPL. Recently, RCB recorded just their second win all season, as Virat Kohli and co look to battle on despite a disappointing campaign. (28.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2fe84247-ae54-37af-b8f3-d20fbe8709d9/16-9"/>
-    <episode-num system="xmltv_ns">.44.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240429033000 +0530" stop="20240429043000 +0530" channel="SkySpMix.uk">
-    <title lang="en">IPL: CSK v SRH Highlights</title>
-    <desc lang="en">Chennai Super Kings take on Sunrisers Hyderabad in the IPL. Both teams were on the losing end midweek, but CSK were dealt a double blow with back-to-back defeats to Lucknow. (28.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/618b99b6-30b4-37e8-96a0-c3686abb4f5b/16-9"/>
-    <episode-num system="xmltv_ns">.45.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240429043000 +0530" stop="20240429063000 +0530" channel="SkySpMix.uk">
-    <title lang="en">How The 2012 ICC T20 WC Was Won</title>
-    <desc lang="en">As it happened, this was the story of the 2012 ICC World Twenty20 held in Sri Lanka - a tournament ultimately won by the West Indies.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fdeb8f59-013a-4e5d-9ac8-7ac0597ce5b1/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429063000 +0530" stop="20240429070000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Playing Lessons: Max Homa Part 1</title>
-    <desc lang="en">Multiple-time PGA TOUR winner Max Homa joins Bones on the course, and shares the tips and strategies that have led to his global success. Part 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d6df349c-58f5-4118-9074-620adea409e7/16-9"/>
-    <episode-num system="xmltv_ns">2021.8.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429070000 +0530" stop="20240429073000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Playing Lessons: Max Homa Part 2</title>
-    <desc lang="en">Multiple-time PGA TOUR winner Max Homa joins Bones on the course, and shares the tips and strategies that have led to his global success. Part 2.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d3ca24c8-be71-4e61-af3f-35789b0f47d0/16-9"/>
-    <episode-num system="xmltv_ns">2021.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429073000 +0530" stop="20240429083000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Zurich Classic of New Orleans 2015</title>
-    <desc lang="en">The Zurich Classic Of New Orleans from the TPC of Louisiana. The last European to win the event was Englishman Lee Westwood in 1998.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/23eaf7e3-7aec-45ea-94ed-8b26b694c93d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429083000 +0530" stop="20240429093000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Zurich Classic of New Orleans 2016</title>
-    <desc lang="en">The 2017 Zurich Classic of New Orleans, held at TPC of Louisiana. Switching to a team event this year, partnerships include Jordan Spieth and Ryan Palmer, and Bubba Watson and JB Holmes.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7f0085d1-b9fc-32a1-98c9-6fb8d6e9bdcf/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429093000 +0530" stop="20240429100000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Playing Lessons: Mina Harigae</title>
-    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Mina Harigae delivers the lesson.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/83191813-93c4-403b-935a-e9a7e9f82e69/16-9"/>
-    <episode-num system="xmltv_ns">2021.7.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429100000 +0530" stop="20240429103000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Playing Lessons: Nick Dougherty</title>
-    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Nick Dougherty delivers the lesson.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0f6832bd-f4f2-48fa-8bb4-c02647a8364b/16-9"/>
-    <episode-num system="xmltv_ns">2021.11.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429103000 +0530" stop="20240429153000 +0530" channel="SkySpMix.uk">
-    <title lang="en">DP World Tour Golf</title>
-    <desc lang="en">The fourth and final day of the second edition of the ISPS Handa Championship, held at Taiheiyo Golf Club in Gotemba, Japan. (28.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/83977944-8136-3198-9a0a-0e3b9476a66b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240429153000 +0530" stop="20240429193000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Ladies European Tour Golf</title>
-    <desc lang="en">Round four from the 2024 Investec South African Women's Open, held at Erinvale Country and Golf Estate. Major champion Ashleigh Buhai clinched victory at this event in 2023. (28.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/90d2636b-20c4-342c-8e5e-f40d6b0b0c2f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240429193000 +0530" stop="20240429223000 +0530" channel="SkySpMix.uk">
-    <title lang="en">LPGA Tour Golf</title>
-    <desc lang="en">The fourth and final round of the second JM Eagle LA Championship presented by Plastpro, held at Los Angeles' Wilshire Country Club. (28.04)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e193959e-7da0-33e4-87e4-a9d3ac6a440d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-  </programme>
-  <programme start="20240429223000 +0530" stop="20240429230000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Playing Lessons: Patty Tavatanakit</title>
-    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Patty Tavatanakit leads the lesson.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f05d33d6-fbf0-49d3-9416-57c4fd1f0ceb/16-9"/>
-    <episode-num system="xmltv_ns">2021.0.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429230000 +0530" stop="20240429233000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Playing Lessons: Kamaiu Johnson</title>
-    <desc lang="en">With multiple wins on the APGA Tour, Kamaiu Johnson joins Bones on the course to share his tips and strategies for optimum success.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c974a626-0488-4727-b747-cedc9a16a7f3/16-9"/>
-    <episode-num system="xmltv_ns">2021.1.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240429233000 +0530" stop="20240430003000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
-    <desc lang="en">Fresh from sending the Bills home in the divisional round, Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0032abde-0687-3c21-88b9-5d8df409ad42/16-9"/>
-    <episode-num system="xmltv_ns">2023.59.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240430003000 +0530" stop="20240430013000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
-    <desc lang="en">In the opening divisional round matchup during the NFL playoffs, the Baltimore Ravens host the Houston Texans in the AFC. This will be the Ravens' first postseason game after a bye. (20.01)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/63db5a7b-1400-38c3-81bd-849939219770/16-9"/>
-    <episode-num system="xmltv_ns">2023.46.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240430013000 +0530" stop="20240430023000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Best of NFL 23/24</title>
-    <desc lang="en">The second divisional matchup in the NFL playoffs pits the San Francisco 49ers against the Green Bay Packers in the NFC. A place in the conference championships are at stake here. (20.01)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">American Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4be7d349-dab3-3c2e-905e-60588d5368b5/16-9"/>
-    <episode-num system="xmltv_ns">2023.47.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-    </video>
-    <audio>
-      <stereo>Stereo</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-    <rating system="BBFC">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240430023000 +0530" stop="20240430033000 +0530" channel="SkySpMix.uk">
     <title lang="en">PGA Tour Golf Highlights</title>
     <desc lang="en">Tournament highlights from the 2024 Zurich Classic of New Orleans from TPC Louisiana - a PGA Tour team event previously won by the pair of Davis Riley and Nick Hardy.</desc>
@@ -300,6 +24,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/4c4ef5ca-ce7e-3881-91cd-2fbfd71a7ea6/16-9"/>
+    <episode-num system="xmltv_ns">.46.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -550,6 +275,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/4c4ef5ca-ce7e-3881-91cd-2fbfd71a7ea6/16-9"/>
+    <episode-num system="xmltv_ns">.46.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -599,6 +325,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/4c4ef5ca-ce7e-3881-91cd-2fbfd71a7ea6/16-9"/>
+    <episode-num system="xmltv_ns">.46.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -664,6 +391,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/02fe16b8-250f-3020-bd9c-36fbd3688852/16-9"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -707,6 +435,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/02fe16b8-250f-3020-bd9c-36fbd3688852/16-9"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
@@ -880,12 +609,14 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/4c4ef5ca-ce7e-3881-91cd-2fbfd71a7ea6/16-9"/>
+    <episode-num system="xmltv_ns">.46.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
       <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
     <rating system="BBFC">
       <value>U</value>
     </rating>
@@ -909,12 +640,14 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/4c4ef5ca-ce7e-3881-91cd-2fbfd71a7ea6/16-9"/>
+    <episode-num system="xmltv_ns">.46.</episode-num>
     <video>
       <aspect>16:9</aspect>
     </video>
     <audio>
       <stereo>Stereo</stereo>
     </audio>
+    <subtitles type="teletext"/>
     <rating system="BBFC">
       <value>U</value>
     </rating>
@@ -933,7 +666,7 @@
     </audio>
   </programme>
   <programme start="20240501193000 +0530" stop="20240501203000 +0530" channel="SkySpMix.uk">
-    <title lang="en">Fight Night</title>
+    <title lang="en">Fight Night Int: Lopez V Ortiz</title>
     <desc lang="en">Teofimo Lopez puts his WBO super-lightweight crown on the line in Las Vegas as Jamaine Ortiz challenges the 26-year-old American in what will be his first world title shot. (09.02)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Boxing</category>
@@ -1063,6 +796,404 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/232298b9-b844-343b-8eb3-cf37673c0045/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240502043000 +0530" stop="20240502053000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Ladies European Tour Golf Hlts</title>
+    <desc lang="en">Tournament highlights from the 2024 Investec South African Women's Open, held at Erinvale Country and Golf Estate. Major champion Ashleigh Buhai clinched victory at this event in 2023.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/90d2636b-20c4-342c-8e5e-f40d6b0b0c2f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240502053000 +0530" stop="20240502063000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">Tournament highlights from the 2024 Zurich Classic of New Orleans from TPC Louisiana - a PGA Tour team event previously won by the pair of Davis Riley and Nick Hardy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f888e950-3864-3dc7-bd69-845122583e25/16-9"/>
+    <episode-num system="xmltv_ns">.74.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502063000 +0530" stop="20240502073000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PGA Tour Champions Highlights</title>
+    <desc lang="en">The PGA Tour Champions season continues with the Mitsubishi Electric Classic, held at TPC Sugarloaf. The previous winner of this event was Stephen Ames, winner of the 2006 Players.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b27767bd-88db-3a54-9943-53f0f463c3b6/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240502073000 +0530" stop="20240502080000 +0530" channel="SkySpMix.uk">
+    <title lang="en">PGA Tour: The Cut</title>
+    <desc lang="en">A look behind the scenes of the PGA Tour. Follow the world's best players as they prepare for the big events in 2024.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/632a5067-4f5e-3a22-84ec-df3a13aa8e83/16-9"/>
+    <episode-num system="xmltv_ns">2023.34.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240502080000 +0530" stop="20240502083000 +0530" channel="SkySpMix.uk">
+    <title lang="en">European Challenge Tour Golf</title>
+    <desc lang="en">The European Challenge Tour stayed in the UAE for the second event in its two-stop visit, concluding with the UAE Challenge from Saadiyat Beach Golf Club.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/181673aa-5131-3131-8948-57de2e7e3daa/16-9"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240502083000 +0530" stop="20240502093000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night Int: Valdez v Wilson</title>
+    <desc lang="en">A doubleheader in Arizona pits Oscar Valdez against Liam Wilson in a super-featherweight battle, while Seniesa Estrada takes on Yokasta Valle for the undisputed minimumweight title. (30.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e33f6f67-cfb5-3d6e-be97-7c430d69651f/16-9"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502093000 +0530" stop="20240502103000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night Int: Kholmativ v Ford</title>
+    <desc lang="en">Uzbek phenom Otabek Kholmatov faces off against American standout Raymond Ford for the vacant WBA featherweight world title in Verona, New York. (03.03)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85cc5c0d-2601-3879-a7d6-2a01ab2c7217/16-9"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502103000 +0530" stop="20240502144000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: CSK v Punjab K</title>
+    <desc lang="en">Lucknow Super Giants collide with Mumbai Indians in the IPL. In their last outing, Lucknow couldn't contend with the league leaders Rajasthan, losing by seven wickets. (30.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/62a75e06-7190-30e1-b828-38b9b8e4ea96/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240502144000 +0530" stop="20240502150500 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Best of The ICC Women's T20</title>
+    <desc lang="en">Littered with memorable moments throughout its history, revisit the best of the ICC Women's T20 World Cup over the years - with the next 20-over showcase set for 2024 in Bangladesh.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a35f603d-d90b-3d17-a33c-7760ea627091/16-9"/>
+    <episode-num system="xmltv_ns">2023.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502150500 +0530" stop="20240502153000 +0530" channel="SkySpMix.uk">
+    <title lang="en">The Best of The ICC Women's T20</title>
+    <desc lang="en">Littered with memorable moments throughout its history, revisit the best of the ICC Women's T20 World Cup over the years - with the next 20-over showcase set for 2024 in Bangladesh.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b46676f6-499c-331d-bbe7-d4b7c796689d/16-9"/>
+    <episode-num system="xmltv_ns">2023.6.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502153000 +0530" stop="20240502163000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: Lucknow SG v Mumbai I Hlts</title>
+    <desc lang="en">Lucknow Super Giants collide with Mumbai Indians in the IPL. In their last outing, Lucknow couldn't contend with the league leaders Rajasthan, losing by seven wickets. (30.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6f16f35d-bb20-3d5f-8421-c21bd33e6f51/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240502163000 +0530" stop="20240502173000 +0530" channel="SkySpMix.uk">
+    <title lang="en">IPL: CSK v Punjab K Hlts</title>
+    <desc lang="en">In the IPL, Chennai Super Kings go up against Punjab Kings. Skipper Ruturaj Gaikwad smacked 98 from 54 in Chennai's latest win over Sunrisers Hyderabad. (01.05)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/232298b9-b844-343b-8eb3-cf37673c0045/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20240502173000 +0530" stop="20240502183000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night Int:</title>
+    <desc lang="en">In Quebec City, Callum Smith stands across the ring from Artur Beterbiev as the Liverpudlian attempts to topple the unified light heavyweight champion of the world. (13.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0653f143-2ee9-3422-9cdd-7eb4e40c7100/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502183000 +0530" stop="20240502184500 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge:St. Helens v Huddersfield</title>
+    <desc lang="en">Back to winning ways and second in the table, St Helens host Huddersfield Giants in the Betfred Super League. Ian Watson's Huddersfield are on a run of five straight wins. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/14a839e9-6772-3079-884e-7873e84f54dc/16-9"/>
+    <episode-num system="xmltv_ns">2023.141.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502184500 +0530" stop="20240502190000 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: Hull KR v Wigan Hlts</title>
+    <desc lang="en">Unbeaten on home soil this year, Wigan's next Betfred Super League test comes on the road as the champions take on a Hull KR side who were undone in the south of France previously. (26.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/81d25a66-679c-30a3-b1dc-6168503f4bd5/16-9"/>
+    <episode-num system="xmltv_ns">2023.143.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502190000 +0530" stop="20240502200000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night Int: Foster v Nova</title>
+    <desc lang="en">The Theater at Madison Square Garden sets the scene for a WBC super-featherweight title defence, as the champion O'Shaquie Foster goes toe to toe with Abraham Nova for 12 rounds. (17.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6808dd1d-5a8f-3c91-a4aa-b5ec20e8f41b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502200000 +0530" stop="20240502201500 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge:St. Helens v Huddersfield</title>
+    <desc lang="en">Back to winning ways and second in the table, St Helens host Huddersfield Giants in the Betfred Super League. Ian Watson's Huddersfield are on a run of five straight wins. (25.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/14a839e9-6772-3079-884e-7873e84f54dc/16-9"/>
+    <episode-num system="xmltv_ns">2023.141.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502201500 +0530" stop="20240502203000 +0530" channel="SkySpMix.uk">
+    <title lang="en">S/Lge: Hull KR v Wigan Hlts</title>
+    <desc lang="en">Unbeaten on home soil this year, Wigan's next Betfred Super League test comes on the road as the champions take on a Hull KR side who were undone in the south of France previously. (26.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/81d25a66-679c-30a3-b1dc-6168503f4bd5/16-9"/>
+    <episode-num system="xmltv_ns">2023.143.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502203000 +0530" stop="20240502213000 +0530" channel="SkySpMix.uk">
+    <title lang="en">World Club Challenge Highlights</title>
+    <desc lang="en">The 2023 season of the Betfred Wheelchair Super League comes to an end with the final. Leeds Rhinos and Halifax Panthers contested last year's showpiece. (15.10)</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/0d8884d8-30ad-3a9f-8e56-d9e1bd896b9f/16-9"/>
+    <episode-num system="xmltv_ns">.80.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502213000 +0530" stop="20240502223000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night Int:</title>
+    <desc lang="en">In Quebec City, Callum Smith stands across the ring from Artur Beterbiev as the Liverpudlian attempts to topple the unified light heavyweight champion of the world. (13.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0653f143-2ee9-3422-9cdd-7eb4e40c7100/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240502223000 +0530" stop="20240503010000 +0530" channel="SkySpMix.uk">
+    <title lang="en">BBL: London V Surrey</title>
+    <desc lang="en">The London Lions go head to head with the Surrey Scorchers in the British Basketball League. (18.04)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e806a6cd-d331-37df-b11c-cc0eff9e4b95/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240503010000 +0530" stop="20240503011500 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24 (15mins)</title>
+    <desc lang="en">Bitesize highlights as Patrick Mahomes and the Kansas City Chiefs return to the AFC championship game as they face the Ravens in Baltimore. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e6fd8f26-dc48-3a9d-86d6-8781a914f566/16-9"/>
+    <episode-num system="xmltv_ns">2023.61.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240503011500 +0530" stop="20240503013000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Best of NFL 23/24 (15mins)</title>
+    <desc lang="en">Bitesize highlights as the San Francisco 49ers and the Detroit Lions advance to the NFC Championship game with a Super Bowl bid on the line. (28.01)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/86ac9c54-0796-3448-aae9-7f7974b6354e/16-9"/>
+    <episode-num system="xmltv_ns">2023.57.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240503013000 +0530" stop="20240503023000 +0530" channel="SkySpMix.uk">
+    <title lang="en">Fight Night Int: Foster v Nova</title>
+    <desc lang="en">The Theater at Madison Square Garden sets the scene for a WBC super-featherweight title defence, as the champion O'Shaquie Foster goes toe to toe with Abraham Nova for 12 rounds. (17.02)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6808dd1d-5a8f-3c91-a4aa-b5ec20e8f41b/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>Stereo</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+    <rating system="BBFC">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240503023000 +0530" stop="20240503043000 +0530" channel="SkySpMix.uk">
+    <title lang="en">NBC's Pro-Football Talk</title>
+    <desc lang="en">Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">American Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2561ef69-d1ba-3928-b955-c73d760eab5f/16-9"/>
     <video>
       <aspect>16:9</aspect>
     </video>
