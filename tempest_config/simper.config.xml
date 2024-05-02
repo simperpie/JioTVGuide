@@ -18,29 +18,7 @@
   <inverter-filename>simper_epg.xml</inverter-filename>
   <inverter-path>["desc":"##subtitle##","##desc##": #rating##"]["subtitle":||#delete#]["episode":||#delete#]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["colour":||#delete#]["aspect":||#delete#]["quality":||#delete#]["producer":||#delete#]["writer":||#delete#]["rating":||#delete#]["keyword":||#delete#]["star-rating":||#delete#]["language":||#delete#]</inverter-path>
   <logname>simper.log</logname>
-  <channel site="[ENC][EX]flixed.io[US]_0" site_id="68605" xmltv_id="WILLOW.us">WILLOW</channel>
-  <channel site="[ENC][EX]flixed.io[US]_0" site_id="100316" xmltv_id="WILXTRA.us">WILXTRA</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="732" xmltv_id="9XTashan.in">9X Tashan</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="887" xmltv_id="SwarShree.in">Swar Shree</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1192" xmltv_id="BritAsiaTV.uk">BritAsiaTV</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1205" xmltv_id="ABPGanga.in">ABP Ganga</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1248" xmltv_id="BolHadippa.in">Bol Hadippa</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1249" xmltv_id="KadakHits.in">Kadak Hits</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1603" xmltv_id="HITSHD.in">HITS HD</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2036" xmltv_id="DilSe.in">Dil Se</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2037" xmltv_id="PopPataka.in">Pop Pataka</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2041" xmltv_id="BhaktiSagar.in">Bhakti Sagar</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2043" xmltv_id="ArtistAloud.in">Artist Aloud</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2064" xmltv_id="MerchantRecords.in">Merchant Records</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2065" xmltv_id="SaregamaMusic.in">Saregama Music</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2252" xmltv_id="DesiMusicStation.in">Desi Music Station</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2753" xmltv_id="YRFMusic.in">YRF Music</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2762" xmltv_id="NHStudioz.in">NH Studioz</channel>
   <channel site="[ENC][EX]singtel.com_0" site_id="6421" xmltv_id="HBOSignatureHD.my">HBO Signature 🄼</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|1301" xmltv_id="SkySpMainEv.uk">SkySpMainEv</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|1302" xmltv_id="SkySpCricket.uk">SkySp Cricket</channel>
-  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|4091" xmltv_id="SkySpMix.uk">SkySp Mix</channel>
-  <channel site="[ENC][EX]supersport.com_0" site_id="za|##|9224a474-1364-4025-922b-2997f2abf56d" xmltv_id="SSCricket.za">Cricket</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="8" xmltv_id="STARPlusHD.in">STAR Plus HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="244" xmltv_id="StarBharatHD.in">Star Bharat HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="15" xmltv_id="SETHD.in">SET HD</channel>
@@ -142,22 +120,42 @@
   <channel site="[ENC][EX]tataplay.com_0" site_id="79" xmltv_id="News18UttarPradeshUttarakhand.in">News18 Uttar Pradesh Uttarakhand</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="637" xmltv_id="ZeeUttarPradeshUttarakhand.in">Zee Uttar Pradesh Uttarakhand</channel>
   <channel site="[ENC]app.plex.tv_0" site_id="62d1a58e520656fda09e609d" xmltv_id="ShemarooBollywood.us">Shemaroo Bollywood</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="365" xmltv_id="ColorsHindiHD.my">Colors 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="490" xmltv_id="ZeeCinema.my">Zee Cinema 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="391" xmltv_id="HITSMoviesHD.my">HITS Movies 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="251" xmltv_id="BOOHD.my">BOO 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="143" xmltv_id="HBOHD.my">HBO 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="337" xmltv_id="CINEMAXHD.my">CINEMAX 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="454" xmltv_id="SHOWCASE.my">SHOWCASE 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="449" xmltv_id="HBOHits.my">HBO Hits 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="131" xmltv_id="AXNHD.my">AXN 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="270" xmltv_id="WarnerTVHD.my">Warner TV 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="448" xmltv_id="ParamountNetwork.my">Paramount Network 🄼</channel>
-  <channel site="[ENC]astro.com.my_0" site_id="197" xmltv_id="AstroCricketHD.my">Astro Cricket 🄼</channel>
   <channel site="[ENC]distro.tv_0" site_id="64138" xmltv_id="Arré.distro">Arré</channel>
   <channel site="[ENC]distro.tv_0" site_id="87417" xmltv_id="BollywoodClassicHD.distro">Bollywood Classic HD</channel>
   <channel site="[ENC]distro.tv_0" site_id="87418" xmltv_id="BollywoodHD.distro">Bollywood HD</channel>
   <channel site="[ENC]distro.tv_0" site_id="105576" xmltv_id="KidsTVIndia.distro">Kids India</channel>
   <channel site="[ENC]distro.tv_0" site_id="124295" xmltv_id="HollywoodDesi.distro">Hollywood Desi</channel>
-  <channel site="[ENC]tvguide.theage.com.au_0" site_id="168|##|251347" xmltv_id="FOXCricketHD.au">FOX Cricket</channel>
+  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_AU1|##|FoxCricket.alt.au" xmltv_id="FOXCricketHD.au">FOX Cricket</channel>
+  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_UK1|##|Brit.Asia.TV.uk" xmltv_id="BritAsiaTV.uk">BritAsiaTV</channel>
+  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_UK1|##|SkySpMainEvHD.uk" xmltv_id="SkySpMainEv.uk">SkySpMainEv</channel>
+  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_UK1|##|SkySpCricket.HD.uk" xmltv_id="SkySpCricket.uk">SkySp Cricket</channel>
+  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_UK1|##|SkySp.Mix.HD.uk" xmltv_id="SkySpMix.uk">SkySp Mix</channel>
+  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Willow.Cricket.HDTV.(WILLHD).us" xmltv_id="WILLOW.us">WILLOW</channel>
+  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Willow.Xtra.(WILLX).us" xmltv_id="WILXTRA.us">WILXTRA</channel>
+  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_ZA1|##|CRICKET.za" xmltv_id="SSCricket.za">Cricket</channel>
+  <channel site="astro.afqad_0" site_id="ColorsHD" xmltv_id="ColorsHindiHD.my">Colors 🄼</channel>
+  <channel site="astro.afqad_0" site_id="ZeeCinema" xmltv_id="ZeeCinema.my">Zee Cinema 🄼</channel>
+  <channel site="astro.afqad_0" site_id="HITSMovies" xmltv_id="HITSMoviesHD.my">HITS Movies 🄼</channel>
+  <channel site="astro.afqad_0" site_id="BOO" xmltv_id="BOOHD.my">BOO 🄼</channel>
+  <channel site="astro.afqad_0" site_id="HBO" xmltv_id="HBOHD.my">HBO 🄼</channel>
+  <channel site="astro.afqad_0" site_id="Cinemax" xmltv_id="CINEMAXHD.my">CINEMAX 🄼</channel>
+  <channel site="astro.afqad_0" site_id="Showcase" xmltv_id="SHOWCASE.my">SHOWCASE 🄼</channel>
+  <channel site="astro.afqad_0" site_id="HBOHits" xmltv_id="HBOHits.my">HBO Hits 🄼</channel>
+  <channel site="astro.afqad_0" site_id="AXN" xmltv_id="AXNHD.my">AXN 🄼</channel>
+  <channel site="astro.afqad_0" site_id="WarnerTV" xmltv_id="WarnerTVHD.my">Warner TV 🄼</channel>
+  <channel site="astro.afqad_0" site_id="AstroCricket" xmltv_id="AstroCricketHD.my">Astro Cricket 🄼</channel>
+  <channel site="jio.local_0" site_id="9XTashan.in" xmltv_id="9X Tashan">9X Tashan</channel>
+  <channel site="jio.local_0" site_id="SwarShree.in" xmltv_id="Swar Shree">Swar Shree</channel>
+  <channel site="jio.local_0" site_id="ABPGanga.in" xmltv_id="ABP Ganga">ABP Ganga</channel>
+  <channel site="jio.local_0" site_id="BolHadippa.in" xmltv_id="Bol Hadippa">Bol Hadippa</channel>
+  <channel site="jio.local_0" site_id="KadakHits.in" xmltv_id="Kadak Hits">Kadak Hits</channel>
+  <channel site="jio.local_0" site_id="DilSe.in" xmltv_id="Dil Se">Dil Se</channel>
+  <channel site="jio.local_0" site_id="PopPataka.in" xmltv_id="Pop Pataka">Pop Pataka</channel>
+  <channel site="jio.local_0" site_id="BhaktiSagar.in" xmltv_id="Bhakti Sagar">Bhakti Sagar</channel>
+  <channel site="jio.local_0" site_id="ArtistAloud.in" xmltv_id="Artist Aloud">Artist Aloud</channel>
+  <channel site="jio.local_0" site_id="MerchantRecords.in" xmltv_id="Merchant Records">Merchant Records</channel>
+  <channel site="jio.local_0" site_id="SaregamaMusic.in" xmltv_id="Saregama Music">Saregama Music</channel>
+  <channel site="jio.local_0" site_id="DesiMusicStation.in" xmltv_id="Desi Music Station">Desi Music Station</channel>
+  <channel site="jio.local_0" site_id="YRFMusic.in" xmltv_id="YRF Music">YRF Music</channel>
+  <channel site="jio.local_0" site_id="NHStudioz.in" xmltv_id="NH Studioz">NH Studioz</channel>
 </configuration>
