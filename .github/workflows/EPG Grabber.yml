@@ -2,7 +2,7 @@ name: EPG Grabber
 
 on:
   schedule:
-    - cron: '0 21 * * *'   # Runs at 02:30 AM IST
+    - cron: '30 03 * * *'   # Runs at 02:30 AM IST
   workflow_dispatch: # Allows manual triggering
     
 jobs:
