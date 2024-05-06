@@ -125,14 +125,6 @@
   <channel site="[ENC]distro.tv_0" site_id="87418" xmltv_id="BollywoodHD.distro">Bollywood HD</channel>
   <channel site="[ENC]distro.tv_0" site_id="105576" xmltv_id="KidsTVIndia.distro">Kids India</channel>
   <channel site="[ENC]distro.tv_0" site_id="124295" xmltv_id="HollywoodDesi.distro">Hollywood Desi</channel>
-  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_AU1|##|FoxCricket.alt.au" xmltv_id="FOXCricketHD.au">FOX Cricket</channel>
-  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_UK1|##|Brit.Asia.TV.uk" xmltv_id="BritAsiaTV.uk">BritAsiaTV</channel>
-  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_UK1|##|SkySpMainEvHD.uk" xmltv_id="SkySpMainEv.uk">SkySpMainEv</channel>
-  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_UK1|##|SkySpCricket.HD.uk" xmltv_id="SkySpCricket.uk">SkySp Cricket</channel>
-  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_UK1|##|SkySp.Mix.HD.uk" xmltv_id="SkySpMix.uk">SkySp Mix</channel>
-  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Willow.Cricket.HDTV.(WILLHD).us" xmltv_id="WILLOW.us">WILLOW</channel>
-  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_US1|##|Willow.Xtra.(WILLX).us" xmltv_id="WILXTRA.us">WILXTRA</channel>
-  <channel site="[ENC]epgshare01.online_0" site_id="epg_ripper_ZA1|##|CRICKET.za" xmltv_id="SSCricket.za">Cricket</channel>
   <channel site="astro.afqad_0" site_id="ColorsHD" xmltv_id="ColorsHindiHD.my">Colors 🄼</channel>
   <channel site="astro.afqad_0" site_id="ZeeCinema" xmltv_id="ZeeCinema.my">Zee Cinema 🄼</channel>
   <channel site="astro.afqad_0" site_id="HITSMovies" xmltv_id="HITSMoviesHD.my">HITS Movies 🄼</channel>
@@ -144,18 +136,19 @@
   <channel site="astro.afqad_0" site_id="AXN" xmltv_id="AXNHD.my">AXN 🄼</channel>
   <channel site="astro.afqad_0" site_id="WarnerTV" xmltv_id="WarnerTVHD.my">Warner TV 🄼</channel>
   <channel site="astro.afqad_0" site_id="AstroCricket" xmltv_id="AstroCricketHD.my">Astro Cricket 🄼</channel>
-  <channel site="jio.local_0" site_id="9XTashan.in" xmltv_id="9XTashan.in">9X Tashan</channel>
-  <channel site="jio.local_0" site_id="SwarShree.in" xmltv_id="SwarShree.in">Swar Shree</channel>
-  <channel site="jio.local_0" site_id="ABPGanga.in" xmltv_id="ABPGanga.in">ABP Ganga</channel>
-  <channel site="jio.local_0" site_id="BolHadippa.in" xmltv_id="BolHadippa.in">Bol Hadippa</channel>
-  <channel site="jio.local_0" site_id="KadakHits.in" xmltv_id="KadakHits.in">Kadak Hits</channel>
-  <channel site="jio.local_0" site_id="DilSe.in" xmltv_id="DilSe.in">Dil Se</channel>
-  <channel site="jio.local_0" site_id="PopPataka.in" xmltv_id="PopPataka.in">Pop Pataka</channel>
-  <channel site="jio.local_0" site_id="BhaktiSagar.in" xmltv_id="BhaktiSagar.in">Bhakti Sagar</channel>
-  <channel site="jio.local_0" site_id="ArtistAloud.in" xmltv_id="ArtistAloud.in">Artist Aloud</channel>
-  <channel site="jio.local_0" site_id="MerchantRecords.in" xmltv_id="MerchantRecords.in">Merchant Records</channel>
-  <channel site="jio.local_0" site_id="SaregamaMusic.in" xmltv_id="SaregamaMusic.in">Saregama Music</channel>
-  <channel site="jio.local_0" site_id="DesiMusicStation.in" xmltv_id="DesiMusicStation.in">Desi Music Station</channel>
-  <channel site="jio.local_0" site_id="YRFMusic.in" xmltv_id="YRFMusic.in">YRF Music</channel>
-  <channel site="jio.local_0" site_id="NHStudioz.in" xmltv_id="NHStudioz.in">NH Studioz</channel>
+  <channel site="tobalan_0" site_id="732" xmltv_id="9XTashan.in">9X Tashan</channel>
+  <channel site="tobalan_0" site_id="887" xmltv_id="SwarShree.in">Swar Shree</channel>
+  <channel site="tobalan_0" site_id="1192" xmltv_id="BritAsiaTV.uk">BritAsiaTV</channel>
+  <channel site="tobalan_0" site_id="1205" xmltv_id="ABPGanga.in">ABP Ganga</channel>
+  <channel site="tobalan_0" site_id="1248" xmltv_id="BolHadippa.in">Bol Hadippa</channel>
+  <channel site="tobalan_0" site_id="1249" xmltv_id="KadakHits.in">Kadak Hits</channel>
+  <channel site="tobalan_0" site_id="2036" xmltv_id="DilSe.in">Dil Se</channel>
+  <channel site="tobalan_0" site_id="2037" xmltv_id="PopPataka.in">Pop Pataka</channel>
+  <channel site="tobalan_0" site_id="2041" xmltv_id="BhaktiSagar.in">Bhakti Sagar</channel>
+  <channel site="tobalan_0" site_id="2043" xmltv_id="ArtistAloud.in">Artist Aloud</channel>
+  <channel site="tobalan_0" site_id="2064" xmltv_id="MerchantRecords.in">Merchant Records</channel>
+  <channel site="tobalan_0" site_id="2065" xmltv_id="SaregamaMusic.in">Saregama Music</channel>
+  <channel site="tobalan_0" site_id="2252" xmltv_id="DesiMusicStation.in">Desi Music Station</channel>
+  <channel site="tobalan_0" site_id="2753" xmltv_id="YRFMusic.in">YRF Music</channel>
+  <channel site="tobalan_0" site_id="2762" xmltv_id="NHStudioz.in">NH Studioz</channel>
 </configuration>
