@@ -33,6 +33,8 @@ jobs:
     - name: Execute Script
       run: |
         php tempest.php --epg config=tempest.config.xml inv
+        php tempest.php --xmlmerge xml=tempest_epg xml=jio_epg out=simper_epg gz
+        rm tempest_config/epg/tempest_epg_original.xml
         git add .
         git commit -m "Automated commit"
         git push
