@@ -32,7 +32,7 @@ jobs:
         
     - name: Execute Script
       run: |
-        php tempest.php --epg config=simper.config.xml inv
+        php tempest.php --epg config=simper.config.xml
         rm tempest_config/epg/jio_local_original.xml
         git add .
         git commit -m "Automated commit"
