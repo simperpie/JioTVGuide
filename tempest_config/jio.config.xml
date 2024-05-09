@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tempest EPG Generator (made by Kvanc) -->
+<configuration>
+  <filename>jio_local_original.xml</filename>
+  <user-agent/>
+  <logger>off</logger>
+  <retry>2</retry>
+  <time-out>15</time-out>
+  <timespan>6</timespan>
+  <proxy>http://117.250.3.58:8080</proxy>
+  <index-only>off</index-only>
+  <fusion>on</fusion>
+  <fusion-level>0</fusion-level>
+  <time-converter>+05:30</time-converter>
+  <delay channel="" index="" detail=""/>
+  <channel-lister>on</channel-lister>
+  <inverter>on</inverter>
+  <inverter-filename>jio_local.xml</inverter-filename>
+  <inverter-path>["desc":"##subtitle##","##desc##": #rating##"]["subtitle":||#delete#]["episode":||#delete#]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["colour":||#delete#]["aspect":||#delete#]["quality":||#delete#]["producer":||#delete#]["writer":||#delete#]["rating":||#delete#]["keyword":||#delete#]["star-rating":||#delete#]["language":||#delete#]</inverter-path>
+  <logname>jio_local.log</logname>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="732" xmltv_id="9XTashan.in">9X Tashan</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="887" xmltv_id="SwarShree.in">Swar Shree</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="1205" xmltv_id="ABPGanga.in">ABP Ganga</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="1248" xmltv_id="BolHadippa.in">Bol Hadippa</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="1249" xmltv_id="KadakHits.in">Kadak Hits</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2036" xmltv_id="DilSe.in">Dil Se</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2037" xmltv_id="PopPataka.in">Pop Pataka</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2041" xmltv_id="BhaktiSagar.in">Bhakti Sagar</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2043" xmltv_id="ArtistAloud.in">Artist Aloud</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2064" xmltv_id="MerchantRecords.in">Merchant Records</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2065" xmltv_id="SaregamaMusic.in">Saregama Music</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2252" xmltv_id="DesiMusicStation.in">Desi Music Station</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2753" xmltv_id="YRFMusic.in">YRF Music</channel>
+  <channel site="[ENC][EX]jio.com[en]_1" site_id="2762" xmltv_id="NHStudioz.in">NH Studioz</channel>
+</configuration>
