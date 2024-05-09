@@ -3,12 +3,12 @@
 <configuration>
   <filename>jio_epg_original.xml</filename>
   <user-agent/>
-  <logger>off</logger>
+  <logger>on</logger>
   <retry>2</retry>
   <time-out>15</time-out>
   <timespan>2</timespan>
   <proxy>http://117.250.3.58:8080</proxy>
-  <index-only>off</index-only>
+  <index-only>on</index-only>
   <fusion>on</fusion>
   <fusion-level>0</fusion-level>
   <time-converter>+05:30</time-converter>
