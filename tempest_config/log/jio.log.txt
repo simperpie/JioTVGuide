@@ -7,109 +7,104 @@
 [                   ]     by Kivanc Altug aka "Kvanc"
 [                   ]-------------------------------------
 [                   ]
-[10-05-2024 20:34:43] Tempest Version : rv1.7.0.0-2405061442
-[10-05-2024 20:34:43] System Info : Linux fv-az1094-575 6.5.0-1018-azure #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024 x86_64
-[10-05-2024 20:34:43] PHP Version : 8.1.2-1ubuntu2.15
-[10-05-2024 20:34:43] Server Info : Command Line Interface (Cli)
-[10-05-2024 20:34:43] Initializing...
-[10-05-2024 20:34:43] Checking required modules...
-[10-05-2024 20:34:43] Inverter mode enabled...
-[10-05-2024 20:34:43] Time converter enabled...
-[10-05-2024 20:34:43] Fusion mode (Level 0) enabled...
-[10-05-2024 20:34:43] jio_epg_original.xml generated...
-[10-05-2024 20:34:43] Grabbing started for 3 days
+[11-05-2024 20:34:26] Tempest Version : rv1.7.0.0-2405061442
+[11-05-2024 20:34:26] System Info : Linux fv-az822-600 6.5.0-1018-azure #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024 x86_64
+[11-05-2024 20:34:26] PHP Version : 8.1.2-1ubuntu2.15
+[11-05-2024 20:34:26] Server Info : Command Line Interface (Cli)
+[11-05-2024 20:34:26] Initializing...
+[11-05-2024 20:34:26] Checking required modules...
+[11-05-2024 20:34:26] Inverter mode enabled...
+[11-05-2024 20:34:26] Time converter enabled...
+[11-05-2024 20:34:26] Fusion mode (Level 0) enabled...
+[11-05-2024 20:34:26] jio_epg_original.xml generated...
+[11-05-2024 20:34:26] Grabbing started for 3 days
 [                   ]
-[10-05-2024 20:34:43] (1/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:34:43] Channel id: 732
-[10-05-2024 20:34:43] Xmltv id: 9XTashan.in
-[10-05-2024 20:34:51] 83 shows reloaded in 0.00 seconds
-[      Warning      ] 
-[10-05-2024 20:34:51] No show grabbed in 7.63 seconds
-[       Error       ] Request Error(url1): error:0A000126:SSL routines::unexpected eof while reading
-[       Error       ] Request Error(url1): error:0A000126:SSL routines::unexpected eof while reading
+[11-05-2024 20:34:26] (1/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:34:26] Channel id: 732
+[11-05-2024 20:34:26] Xmltv id: 9XTashan.in
+[11-05-2024 20:34:34] 36 shows reloaded in 0.00 seconds
+[11-05-2024 20:34:34] 111 shows grabbed in 7.41 seconds
 [                   ]
-[10-05-2024 20:34:51] (2/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:34:51] Channel id: 887
-[10-05-2024 20:34:51] Xmltv id: SwarShree.in
-[10-05-2024 20:34:56] 40 shows reloaded in 0.01 seconds
-[10-05-2024 20:34:56] 122 shows grabbed in 5.16 seconds
+[11-05-2024 20:34:34] (2/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:34:34] Channel id: 887
+[11-05-2024 20:34:34] Xmltv id: SwarShree.in
+[11-05-2024 20:34:37] 40 shows reloaded in 0.00 seconds
+[11-05-2024 20:34:37] 122 shows grabbed in 2.89 seconds
 [                   ]
-[10-05-2024 20:34:56] (3/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:34:56] Channel id: 1205
-[10-05-2024 20:34:56] Xmltv id: ABPGanga.in
-[10-05-2024 20:34:59] 37 shows reloaded in 0.00 seconds
-[10-05-2024 20:34:59] 114 shows grabbed in 3.47 seconds
+[11-05-2024 20:34:37] (3/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:34:37] Channel id: 1205
+[11-05-2024 20:34:37] Xmltv id: ABPGanga.in
+[11-05-2024 20:34:40] 37 shows reloaded in 0.00 seconds
+[11-05-2024 20:34:40] 114 shows grabbed in 3.54 seconds
 [                   ]
-[10-05-2024 20:34:59] (4/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:34:59] Channel id: 1248
-[10-05-2024 20:34:59] Xmltv id: BolHadippa.in
-[10-05-2024 20:35:02] 8 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:02] 20 shows grabbed in 3.20 seconds
+[11-05-2024 20:34:40] (4/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:34:40] Channel id: 1248
+[11-05-2024 20:34:40] Xmltv id: BolHadippa.in
+[11-05-2024 20:34:44] 8 shows reloaded in 0.00 seconds
+[11-05-2024 20:34:44] 20 shows grabbed in 3.88 seconds
 [                   ]
-[10-05-2024 20:35:02] (5/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:02] Channel id: 1249
-[10-05-2024 20:35:02] Xmltv id: KadakHits.in
-[10-05-2024 20:35:06] 9 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:06] 22 shows grabbed in 3.15 seconds
+[11-05-2024 20:34:44] (5/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:34:44] Channel id: 1249
+[11-05-2024 20:34:44] Xmltv id: KadakHits.in
+[11-05-2024 20:34:49] 9 shows reloaded in 0.00 seconds
+[11-05-2024 20:34:49] 22 shows grabbed in 4.71 seconds
 [                   ]
-[10-05-2024 20:35:06] (6/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:06] Channel id: 2036
-[10-05-2024 20:35:06] Xmltv id: DilSe.in
-[10-05-2024 20:35:10] 5 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:10] 14 shows grabbed in 4.63 seconds
+[11-05-2024 20:34:49] (6/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:34:49] Channel id: 2036
+[11-05-2024 20:34:49] Xmltv id: DilSe.in
+[11-05-2024 20:34:52] 5 shows reloaded in 0.00 seconds
+[11-05-2024 20:34:52] 14 shows grabbed in 3.61 seconds
 [                   ]
-[10-05-2024 20:35:10] (7/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:10] Channel id: 2037
-[10-05-2024 20:35:10] Xmltv id: PopPataka.in
-[10-05-2024 20:35:14] 10 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:14] 26 shows grabbed in 4.08 seconds
+[11-05-2024 20:34:52] (7/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:34:52] Channel id: 2037
+[11-05-2024 20:34:52] Xmltv id: PopPataka.in
+[11-05-2024 20:34:56] 10 shows reloaded in 0.00 seconds
+[11-05-2024 20:34:56] 26 shows grabbed in 4.00 seconds
 [                   ]
-[10-05-2024 20:35:14] (8/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:14] Channel id: 2041
-[10-05-2024 20:35:14] Xmltv id: BhaktiSagar.in
-[10-05-2024 20:35:19] 4 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:19] 12 shows grabbed in 4.40 seconds
+[11-05-2024 20:34:56] (8/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:34:56] Channel id: 2041
+[11-05-2024 20:34:56] Xmltv id: BhaktiSagar.in
+[11-05-2024 20:35:01] 4 shows reloaded in 0.00 seconds
+[11-05-2024 20:35:01] 12 shows grabbed in 4.63 seconds
 [                   ]
-[10-05-2024 20:35:19] (9/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:19] Channel id: 2043
-[10-05-2024 20:35:19] Xmltv id: ArtistAloud.in
-[10-05-2024 20:35:24] 5 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:24] 17 shows grabbed in 4.88 seconds
+[11-05-2024 20:35:01] (9/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:35:01] Channel id: 2043
+[11-05-2024 20:35:01] Xmltv id: ArtistAloud.in
+[11-05-2024 20:35:07] 5 shows reloaded in 0.00 seconds
+[11-05-2024 20:35:07] 17 shows grabbed in 5.96 seconds
 [                   ]
-[10-05-2024 20:35:24] (10/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:24] Channel id: 2064
-[10-05-2024 20:35:24] Xmltv id: MerchantRecords.in
-[10-05-2024 20:35:30] 18 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:30] 48 shows grabbed in 6.19 seconds
-[       Error       ] Request Error(url1): error:0A000126:SSL routines::unexpected eof while reading
-[       Error       ] Request Error(url1): error:0A000126:SSL routines::unexpected eof while reading
+[11-05-2024 20:35:07] (10/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:35:07] Channel id: 2064
+[11-05-2024 20:35:07] Xmltv id: MerchantRecords.in
+[11-05-2024 20:35:11] 18 shows reloaded in 0.00 seconds
+[11-05-2024 20:35:11] 57 shows grabbed in 3.60 seconds
 [                   ]
-[10-05-2024 20:35:30] (11/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:30] Channel id: 2065
-[10-05-2024 20:35:30] Xmltv id: SaregamaMusic.in
-[10-05-2024 20:35:34] 17 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:34] 54 shows grabbed in 4.15 seconds
+[11-05-2024 20:35:11] (11/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:35:11] Channel id: 2065
+[11-05-2024 20:35:11] Xmltv id: SaregamaMusic.in
+[11-05-2024 20:35:15] 17 shows reloaded in 0.00 seconds
+[11-05-2024 20:35:15] 54 shows grabbed in 4.09 seconds
 [                   ]
-[10-05-2024 20:35:34] (12/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:34] Channel id: 2252
-[10-05-2024 20:35:34] Xmltv id: DesiMusicStation.in
-[10-05-2024 20:35:37] 18 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:37] 57 shows grabbed in 3.15 seconds
+[11-05-2024 20:35:15] (12/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:35:15] Channel id: 2252
+[11-05-2024 20:35:15] Xmltv id: DesiMusicStation.in
+[11-05-2024 20:35:19] 18 shows reloaded in 0.00 seconds
+[11-05-2024 20:35:19] 57 shows grabbed in 4.45 seconds
 [                   ]
-[10-05-2024 20:35:37] (13/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:37] Channel id: 2753
-[10-05-2024 20:35:37] Xmltv id: YRFMusic.in
-[10-05-2024 20:35:41] 19 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:41] 49 shows grabbed in 4.12 seconds
+[11-05-2024 20:35:19] (13/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:35:19] Channel id: 2753
+[11-05-2024 20:35:19] Xmltv id: YRFMusic.in
+[11-05-2024 20:35:24] 14 shows reloaded in 0.00 seconds
+[11-05-2024 20:35:24] 52 shows grabbed in 4.43 seconds
 [                   ]
-[10-05-2024 20:35:41] (14/14) Site: [ENC][EX]jio.com[en]_1
-[10-05-2024 20:35:41] Channel id: 2762
-[10-05-2024 20:35:41] Xmltv id: NHStudioz.in
-[10-05-2024 20:35:47] 6 shows reloaded in 0.00 seconds
-[10-05-2024 20:35:47] 19 shows grabbed in 6.01 seconds
+[11-05-2024 20:35:24] (14/14) Site: [ENC][EX]jio.com[en]_1
+[11-05-2024 20:35:24] Channel id: 2762
+[11-05-2024 20:35:24] Xmltv id: NHStudioz.in
+[11-05-2024 20:35:27] 6 shows reloaded in 0.00 seconds
+[11-05-2024 20:35:27] 19 shows grabbed in 3.38 seconds
 [                   ]
-[10-05-2024 20:35:47] Grabbing completed...
-[10-05-2024 20:35:47] 853 shows grabbed in 1 minute 4.24 seconds (64.24 seconds)
+[11-05-2024 20:35:27] Grabbing completed...
+[11-05-2024 20:35:27] 924 shows grabbed in 1 minute 0.62 second (60.62 seconds)
 [     Completed     ]
-[10-05-2024 20:35:47] Tempest Overall Memory Usage: 5830KB
-[10-05-2024 20:35:47] Tempest Peak Memory Usage: 11748KB
+[11-05-2024 20:35:27] Tempest Overall Memory Usage: 5830KB
+[11-05-2024 20:35:27] Tempest Peak Memory Usage: 11748KB
