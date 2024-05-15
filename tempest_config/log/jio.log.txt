@@ -7,109 +7,155 @@
 [                   ]     by Kivanc Altug aka "Kvanc"
 [                   ]-------------------------------------
 [                   ]
-[15-05-2024 05:06:58] Tempest Version : rv1.7.0.0-2405061442
-[15-05-2024 05:06:58] System Info : Linux fv-az1499-511 6.5.0-1018-azure #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024 x86_64
-[15-05-2024 05:06:58] PHP Version : 8.0.30
-[15-05-2024 05:06:58] Server Info : Command Line Interface (Cli)
-[15-05-2024 05:06:58] Initializing...
-[15-05-2024 05:06:58] Checking required modules...
-[15-05-2024 05:06:58] Inverter mode enabled...
-[15-05-2024 05:06:58] Time converter enabled...
-[15-05-2024 05:06:58] Fusion mode (Level 0) enabled...
-[15-05-2024 05:06:58] jio_epg_original.xml generated...
-[15-05-2024 05:06:58] Grabbing started for 3 days
+[15-05-2024 05:34:04] Tempest Version : rv1.7.0.0-2405061442
+[15-05-2024 05:34:04] System Info : Linux fv-az1216-460 6.5.0-1018-azure #19~22.04.2-Ubuntu SMP Thu Mar 21 16:45:46 UTC 2024 x86_64
+[15-05-2024 05:34:04] PHP Version : 8.0.30
+[15-05-2024 05:34:04] Server Info : Command Line Interface (Cli)
+[15-05-2024 05:34:04] Initializing...
+[15-05-2024 05:34:04] Checking required modules...
+[15-05-2024 05:34:04] Inverter mode enabled...
+[15-05-2024 05:34:04] Time converter enabled...
+[15-05-2024 05:34:04] Fusion mode (Level 0) enabled...
+[15-05-2024 05:34:04] jio_epg_original.xml generated...
+[15-05-2024 05:34:04] Grabbing started for 3 days
 [                   ]
-[15-05-2024 05:06:58] (1/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:06:58] Channel id: 732
-[15-05-2024 05:06:58] Xmltv id: 9XTashan.in
-[15-05-2024 05:07:02] 36 shows reloaded in 0.00 seconds
+[15-05-2024 05:34:04] (1/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:04] Channel id: 732
+[15-05-2024 05:34:04] Xmltv id: 9XTashan.in
+[15-05-2024 05:34:06] 36 shows reloaded in 0.00 seconds
 [      Warning      ] 
-[15-05-2024 05:07:02] No show grabbed in 3.31 seconds
-[       Error       ] Request Error(url1): OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0
-[       Error       ] Request Error(url1): OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0
+[15-05-2024 05:34:06] No show grabbed in 2.46 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[15-05-2024 05:07:02] (2/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:02] Channel id: 887
-[15-05-2024 05:07:02] Xmltv id: SwarShree.in
-[15-05-2024 05:07:05] 9 shows reloaded in 0.00 seconds
+[15-05-2024 05:34:06] (2/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:06] Channel id: 887
+[15-05-2024 05:34:06] Xmltv id: SwarShree.in
+[15-05-2024 05:34:08] 9 shows reloaded in 0.00 seconds
 [      Warning      ] 
-[15-05-2024 05:07:05] No show grabbed in 3.14 seconds
-[       Error       ] Request Error(url1): OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0
-[       Error       ] Request Error(url1): OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0
+[15-05-2024 05:34:08] No show grabbed in 1.20 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[15-05-2024 05:07:05] (3/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:05] Channel id: 1192
-[15-05-2024 05:07:05] Xmltv id: BritAsiaTV.uk
-[15-05-2024 05:07:08] 72 shows grabbed in 3.25 seconds
-[                   ]
-[15-05-2024 05:07:08] (4/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:08] Channel id: 1205
-[15-05-2024 05:07:08] Xmltv id: ABPGanga.in
-[15-05-2024 05:07:13] 48 shows grabbed in 4.71 seconds
-[       Error       ] Request Error(url1): OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0
-[       Error       ] Request Error(url1): OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0
-[                   ]
-[15-05-2024 05:07:13] (5/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:13] Channel id: 1248
-[15-05-2024 05:07:13] Xmltv id: BolHadippa.in
-[15-05-2024 05:07:16] 27 shows grabbed in 3.36 seconds
-[                   ]
-[15-05-2024 05:07:16] (6/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:16] Channel id: 1249
-[15-05-2024 05:07:16] Xmltv id: KadakHits.in
-[15-05-2024 05:07:20] 30 shows grabbed in 4.04 seconds
-[                   ]
-[15-05-2024 05:07:20] (7/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:20] Channel id: 2036
-[15-05-2024 05:07:20] Xmltv id: DilSe.in
-[15-05-2024 05:07:23] 18 shows grabbed in 3.20 seconds
-[                   ]
-[15-05-2024 05:07:23] (8/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:23] Channel id: 2037
-[15-05-2024 05:07:23] Xmltv id: PopPataka.in
-[15-05-2024 05:07:26] 36 shows grabbed in 3.25 seconds
-[                   ]
-[15-05-2024 05:07:26] (9/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:26] Channel id: 2041
-[15-05-2024 05:07:26] Xmltv id: BhaktiSagar.in
-[15-05-2024 05:07:30] 15 shows grabbed in 3.25 seconds
-[                   ]
-[15-05-2024 05:07:30] (10/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:30] Channel id: 2043
-[15-05-2024 05:07:30] Xmltv id: ArtistAloud.in
-[15-05-2024 05:07:33] 21 shows grabbed in 3.19 seconds
-[                   ]
-[15-05-2024 05:07:33] (11/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:33] Channel id: 2064
-[15-05-2024 05:07:33] Xmltv id: MerchantRecords.in
-[15-05-2024 05:07:36] 72 shows grabbed in 3.33 seconds
-[                   ]
-[15-05-2024 05:07:36] (12/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:36] Channel id: 2065
-[15-05-2024 05:07:36] Xmltv id: SaregamaMusic.in
-[15-05-2024 05:07:39] 2 shows reloaded in 0.00 seconds
+[15-05-2024 05:34:08] (3/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:08] Channel id: 1192
+[15-05-2024 05:34:08] Xmltv id: BritAsiaTV.uk
+[15-05-2024 05:34:09] 66 shows reloaded in 0.00 seconds
 [      Warning      ] 
-[15-05-2024 05:07:39] No show grabbed in 2.92 seconds
-[       Error       ] Request Error(url1): OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0
-[       Error       ] Request Error(url1): OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0
+[15-05-2024 05:34:09] No show grabbed in 1.29 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[15-05-2024 05:07:39] (13/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:39] Channel id: 2252
-[15-05-2024 05:07:39] Xmltv id: DesiMusicStation.in
-[15-05-2024 05:07:43] 72 shows grabbed in 4.08 seconds
+[15-05-2024 05:34:09] (4/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:09] Channel id: 1205
+[15-05-2024 05:34:09] Xmltv id: ABPGanga.in
+[15-05-2024 05:34:10] 37 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:10] No show grabbed in 1.23 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[15-05-2024 05:07:43] (14/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:43] Channel id: 2753
-[15-05-2024 05:07:43] Xmltv id: YRFMusic.in
-[15-05-2024 05:07:47] 67 shows grabbed in 3.30 seconds
+[15-05-2024 05:34:10] (5/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:10] Channel id: 1248
+[15-05-2024 05:34:10] Xmltv id: BolHadippa.in
+[15-05-2024 05:34:11] 26 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:11] No show grabbed in 1.28 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[15-05-2024 05:07:47] (15/15) Site: [ENC][EX]jio.com[en]_1
-[15-05-2024 05:07:47] Channel id: 2762
-[15-05-2024 05:07:47] Xmltv id: NHStudioz.in
-[15-05-2024 05:07:50] 24 shows grabbed in 3.28 seconds
+[15-05-2024 05:34:11] (6/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:11] Channel id: 1249
+[15-05-2024 05:34:11] Xmltv id: KadakHits.in
+[15-05-2024 05:34:13] 29 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:13] No show grabbed in 1.20 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[15-05-2024 05:07:50] Grabbing completed...
-[15-05-2024 05:07:50] 549 shows grabbed in 51.62 seconds
+[15-05-2024 05:34:13] (7/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:13] Channel id: 2036
+[15-05-2024 05:34:13] Xmltv id: DilSe.in
+[15-05-2024 05:34:14] 17 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:14] No show grabbed in 1.29 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:14] (8/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:14] Channel id: 2037
+[15-05-2024 05:34:14] Xmltv id: PopPataka.in
+[15-05-2024 05:34:15] 34 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:15] No show grabbed in 1.31 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:15] (9/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:15] Channel id: 2041
+[15-05-2024 05:34:15] Xmltv id: BhaktiSagar.in
+[15-05-2024 05:34:17] 14 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:17] No show grabbed in 1.34 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:17] (10/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:17] Channel id: 2043
+[15-05-2024 05:34:17] Xmltv id: ArtistAloud.in
+[15-05-2024 05:34:18] 19 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:18] No show grabbed in 1.37 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:18] (11/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:18] Channel id: 2064
+[15-05-2024 05:34:18] Xmltv id: MerchantRecords.in
+[15-05-2024 05:34:19] 66 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:19] No show grabbed in 1.44 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:19] (12/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:19] Channel id: 2065
+[15-05-2024 05:34:19] Xmltv id: SaregamaMusic.in
+[15-05-2024 05:34:21] 2 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:21] No show grabbed in 1.17 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:21] (13/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:21] Channel id: 2252
+[15-05-2024 05:34:21] Xmltv id: DesiMusicStation.in
+[15-05-2024 05:34:22] 66 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:22] No show grabbed in 1.29 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:22] (14/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:22] Channel id: 2753
+[15-05-2024 05:34:22] Xmltv id: YRFMusic.in
+[15-05-2024 05:34:23] 62 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:23] No show grabbed in 1.22 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:23] (15/15) Site: [ENC][EX]jio.com[en]_1
+[15-05-2024 05:34:23] Channel id: 2762
+[15-05-2024 05:34:23] Xmltv id: NHStudioz.in
+[15-05-2024 05:34:24] 22 shows reloaded in 0.00 seconds
+[      Warning      ] 
+[15-05-2024 05:34:24] No show grabbed in 1.34 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[15-05-2024 05:34:24] Grabbing completed...
+[15-05-2024 05:34:24] 505 shows grabbed in 20.48 seconds
 [     Completed     ]
-[15-05-2024 05:07:50] Tempest Overall Memory Usage: 5603KB
-[15-05-2024 05:07:50] Tempest Peak Memory Usage: 12727KB
+[15-05-2024 05:34:24] Tempest Overall Memory Usage: 5599KB
+[15-05-2024 05:34:24] Tempest Peak Memory Usage: 12727KB
