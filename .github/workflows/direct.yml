@@ -17,6 +17,9 @@ jobs:
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
+        
+    - name: Start PHP Server
+      run: php -S localhost:8000 tempest.php
     
     - name: Automated commit
       run: |
