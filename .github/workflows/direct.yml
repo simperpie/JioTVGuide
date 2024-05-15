@@ -19,7 +19,7 @@ jobs:
         git config --global user.name "GitHub Action"
         
     - name: Start PHP Server
-      run: php -S 100.91.95.185:8777 tempest.php
+      run: http://100.91.95.185:8777/Projects/tempest/tempest.php
     
     - name: Automated commit
       run: |
