@@ -18,9 +18,6 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         
-    - name: Start PHP Server
-      run: http://100.91.95.185:8777/Projects/tempest/tempest.php
-    
     - name: Automated commit
       run: |
         php tempest.php --epg config=tempest.config.xml inv
