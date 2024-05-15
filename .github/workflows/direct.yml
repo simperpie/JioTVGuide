@@ -1,0 +1,33 @@
+name: direct
+
+on:
+  schedule:
+    - cron: '30 20 * * *'   # Runs at 02:00 AM IST
+  workflow_dispatch: # Allows manual triggering
+  
+jobs:
+  php-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Set up Git identity
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+    
+    - name: Start PHP server
+      run: curl -sSf http://100.91.95.185:8777
+
+    - name: Execute Script
+      run: |
+        php tempest.php --epg config=tempest.config.xml inv
+        php tempest.php --epg config=jio.config.xml inv
+        php tempest.php --xmlmerge xml=tempest_epg xml=jio_epg out=simper_epg gz
+        rm tempest_config/epg/tempest_epg_original.xml
+        rm tempest_config/epg/jio_epg_original.xml
+        git add .
+        git commit -m "Automated commit"
+        git push
