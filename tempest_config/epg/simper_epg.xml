@@ -318,9 +318,6 @@
   <channel id="KidsTVIndia.distro">
     <display-name lang="en">Kids India</display-name>
   </channel>
-  <channel id="HollywoodDesi.distro">
-    <display-name lang="en">Hollywood Desi</display-name>
-  </channel>
   <channel id="ColorsHindiHD.my">
     <display-name lang="en">Colors 🄼</display-name>
   </channel>
@@ -396,8 +393,8 @@
   <channel id="YRFMusic.in">
     <display-name lang="en">YRF Music</display-name>
   </channel>
-  <channel id="NHStudioz.in">
-    <display-name lang="en">NH Studioz</display-name>
+  <channel id="HollywoodDesi.distro">
+    <display-name lang="en">Hollywood Desi</display-name>
   </channel>
   <programme start="20240515225500 +0800" stop="20240516003000 +0800" channel="HBOSignatureHD.my">
     <title lang="en">MURDER ON MIDDLE BEACH S1</title>
@@ -35898,11 +35895,6 @@
     <icon src="https://d2w0puppdwdeoi.cloudfront.net/Mann_FUM_HD_SNP.jpg"/>
     <icon src="https://provider-static.plex.tv/epg/cms/production/04d401a5-5947-4ee9-81f2-310bef9b2c2a/Shemaroo_bollywood_2000X3000.jpg"/>
   </programme>
-  <programme start="20240516053906 +0000" stop="20240516063012 +0000" channel="Arré.distro">
-    <title lang="en">Tathaastu | Episode 2</title>
-    <desc lang="en">The Tathaastu dream team gets an SOS call from a maanglik bride-to-be. The grooms fam knows about the fault in her stars and wants to cancel the wedding</desc>
-    <icon src="https://d14c63magvk61v.cloudfront.net/hls/22982/tathaastu/tathaastu-episode-2_thumbh_20210824_000404.jpg"/>
-  </programme>
   <programme start="20240516063012 +0000" stop="20240516064219 +0000" channel="Arré.distro">
     <title lang="en">Episode 10 | This Week in Food</title>
     <desc lang="en">Watch the Damian and Gagan go behind the scenes at the whitest house in America and make Donald Trump, and his family, a filling breakfast on his first day at work.</desc>
@@ -36604,18 +36596,6 @@
   <programme start="20240518024337 +0000" stop="20240518054650 +0000" channel="BollywoodHD.distro">
     <title lang="en">Mere Baap Pehle Aap</title>
     <desc lang="en">As if running a mall is not enough, Gaurav Rane has also to bail out his widower dad, Janardhan, as well as Madhav Mathur, several times from police custody on multiple counts of eve-teasing. Romance enters his life in the attractive shape of U.S.</desc>
-  </programme>
-  <programme start="20240516062330 +0000" stop="20240516062558 +0000" channel="KidsTVIndia.distro">
-    <title lang="en">A Se Anaar Tamasha TV Hindi</title>
-    <icon src="https://d14c63magvk61v.cloudfront.net/hls/23088/vid/TamashaTVHindi_15-206500/thumbh.jpg"/>
-  </programme>
-  <programme start="20240516062558 +0000" stop="20240516062703 +0000" channel="KidsTVIndia.distro">
-    <title lang="en">Kaboochi Ladoo Kids Hindi</title>
-    <icon src="https://d14c63magvk61v.cloudfront.net/hls/23088/vid/TrendingRhymes1Hindi_1-205973/thumbh.jpg"/>
-  </programme>
-  <programme start="20240516062703 +0000" stop="20240516062842 +0000" channel="KidsTVIndia.distro">
-    <title lang="en">Upar Pankha Chalta Hai Ver3 Little TreeHouse Hindi</title>
-    <icon src="https://d14c63magvk61v.cloudfront.net/hls/23088/vid/LittleTreehouseHindi_82-206212/thumbh.jpg"/>
   </programme>
   <programme start="20240516062842 +0000" stop="20240516063240 +0000" channel="KidsTVIndia.distro">
     <title lang="en">Scooter Tamasha TV Hindi</title>
@@ -44910,67 +44890,67 @@
     <desc lang="en">Dive into the world of YRF Spy Universe with this power-packed playlist featuring all the chartbusters from the universe</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-17/2405172753023.jpg"/>
   </programme>
-  <programme start="20240516003000 +0000" stop="20240516033000 +0000" channel="NHStudioz.in">
+  <programme start="20240516003000 +0000" stop="20240516033000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-16/2405162762002.jpg"/>
   </programme>
-  <programme start="20240516033000 +0000" stop="20240516063000 +0000" channel="NHStudioz.in">
+  <programme start="20240516033000 +0000" stop="20240516063000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-16/2405162762003.jpg"/>
   </programme>
-  <programme start="20240516063000 +0000" stop="20240516093000 +0000" channel="NHStudioz.in">
+  <programme start="20240516063000 +0000" stop="20240516093000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-16/2405162762004.jpg"/>
   </programme>
-  <programme start="20240516093000 +0000" stop="20240516123000 +0000" channel="NHStudioz.in">
+  <programme start="20240516093000 +0000" stop="20240516123000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-16/2405162762005.jpg"/>
   </programme>
-  <programme start="20240516123000 +0000" stop="20240516153000 +0000" channel="NHStudioz.in">
+  <programme start="20240516123000 +0000" stop="20240516153000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-16/2405162762006.jpg"/>
   </programme>
-  <programme start="20240516153000 +0000" stop="20240516183000 +0000" channel="NHStudioz.in">
+  <programme start="20240516153000 +0000" stop="20240516183000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-16/2405162762007.jpg"/>
   </programme>
-  <programme start="20240516183000 +0000" stop="20240516213000 +0000" channel="NHStudioz.in">
+  <programme start="20240516183000 +0000" stop="20240516213000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-17/2405172762000.jpg"/>
   </programme>
-  <programme start="20240516213000 +0000" stop="20240517003000 +0000" channel="NHStudioz.in">
+  <programme start="20240516213000 +0000" stop="20240517003000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-17/2405172762001.jpg"/>
   </programme>
-  <programme start="20240517003000 +0000" stop="20240517033000 +0000" channel="NHStudioz.in">
+  <programme start="20240517003000 +0000" stop="20240517033000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-17/2405172762002.jpg"/>
   </programme>
-  <programme start="20240517033000 +0000" stop="20240517063000 +0000" channel="NHStudioz.in">
+  <programme start="20240517033000 +0000" stop="20240517063000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-17/2405172762003.jpg"/>
   </programme>
-  <programme start="20240517063000 +0000" stop="20240517093000 +0000" channel="NHStudioz.in">
+  <programme start="20240517063000 +0000" stop="20240517093000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-17/2405172762004.jpg"/>
   </programme>
-  <programme start="20240517093000 +0000" stop="20240517123000 +0000" channel="NHStudioz.in">
+  <programme start="20240517093000 +0000" stop="20240517123000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-17/2405172762005.jpg"/>
   </programme>
-  <programme start="20240517123000 +0000" stop="20240517153000 +0000" channel="NHStudioz.in">
+  <programme start="20240517123000 +0000" stop="20240517153000 +0000" channel="HollywoodDesi.distro">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-05-17/2405172762006.jpg"/>
