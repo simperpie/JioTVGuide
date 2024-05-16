@@ -6,8 +6,8 @@
   <logger>on</logger>
   <retry>2</retry>
   <time-out>15</time-out>
-  <timespan>2</timespan>
-  <proxy>http://117.250.3.58:8080</proxy>proxy/>
+  <timespan>1</timespan>
+  <proxy/>
   <index-only>on</index-only>
   <fusion>on</fusion>
   <fusion-level>0</fusion-level>
@@ -18,19 +18,1038 @@
   <inverter-filename>jio_epg.xml</inverter-filename>
   <inverter-path>["desc":"##subtitle##","##desc##": #rating##"]["subtitle":||#delete#]["episode":||#delete#]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["colour":||#delete#]["aspect":||#delete#]["quality":||#delete#]["producer":||#delete#]["writer":||#delete#]["rating":||#delete#]["keyword":||#delete#]["star-rating":||#delete#]["language":||#delete#]</inverter-path>
   <logname>jio.log</logname>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="732" xmltv_id="9XTashan.in">9X Tashan</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="887" xmltv_id="SwarShree.in">Swar Shree</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1192" xmltv_id="BritAsiaTV.uk">BritAsiaTV</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1205" xmltv_id="ABPGanga.in">ABP Ganga</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1248" xmltv_id="BolHadippa.in">Bol Hadippa</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="1249" xmltv_id="KadakHits.in">Kadak Hits</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2036" xmltv_id="DilSe.in">Dil Se</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2037" xmltv_id="PopPataka.in">Pop Pataka</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2041" xmltv_id="BhaktiSagar.in">Bhakti Sagar</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2043" xmltv_id="ArtistAloud.in">Artist Aloud</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2064" xmltv_id="MerchantRecords.in">Merchant Records</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2065" xmltv_id="SaregamaMusic.in">Saregama Music</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2252" xmltv_id="DesiMusicStation.in">Desi Music Station</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2753" xmltv_id="YRFMusic.in">YRF Music</channel>
-  <channel site="[ENC][EX]jio.com[en]_1" site_id="2762" xmltv_id="NHStudioz.in">NH Studioz</channel>  
+  <channel site="tobalan_0" site_id="153||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" xmltv_id="Zee Talkies">Zee Talkies</channel>
+  <channel site="tobalan_0" site_id="143||http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" xmltv_id="CNBC Tv18 Prime HD">CNBC Tv18 Prime HD</channel>
+  <channel site="tobalan_0" site_id="162||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" xmltv_id="Sony Ten 1 HD">Sony Ten 1 HD</channel>
+  <channel site="tobalan_0" site_id="155||http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" xmltv_id="Sony Ten 5 HD">Sony Ten 5 HD</channel>
+  <channel site="tobalan_0" site_id="144||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" xmltv_id="Colors HD">Colors HD</channel>
+  <channel site="tobalan_0" site_id="154||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" xmltv_id="Sony SAB">Sony SAB</channel>
+  <channel site="tobalan_0" site_id="164||http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" xmltv_id="Travelxp HD">Travelxp HD</channel>
+  <channel site="tobalan_0" site_id="146||http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" xmltv_id="History TV18 HD">History TV18 HD</channel>
+  <channel site="tobalan_0" site_id="167||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" xmltv_id="Zee TV HD">Zee TV HD</channel>
+  <channel site="tobalan_0" site_id="166||http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" xmltv_id="Cartoon Network Telugu">Cartoon Network Telugu</channel>
+  <channel site="tobalan_0" site_id="177||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" xmltv_id="ABP News India">ABP News India</channel>
+  <channel site="tobalan_0" site_id="175||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" xmltv_id="Aastha">Aastha</channel>
+  <channel site="tobalan_0" site_id="180||http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png" xmltv_id="Asianet News">Asianet News</channel>
+  <channel site="tobalan_0" site_id="182||http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" xmltv_id="B4U Movies">B4U Movies</channel>
+  <channel site="tobalan_0" site_id="183||http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" xmltv_id="B4U Music">B4U Music</channel>
+  <channel site="tobalan_0" site_id="193||http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" xmltv_id="CNN">CNN</channel>
+  <channel site="tobalan_0" site_id="190||http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" xmltv_id="CNBC Awaaz">CNBC Awaaz</channel>
+  <channel site="tobalan_0" site_id="196||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" xmltv_id="Colors Gujarati">Colors Gujarati</channel>
+  <channel site="tobalan_0" site_id="185||http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" xmltv_id="And Pictures HD">And Pictures HD</channel>
+  <channel site="tobalan_0" site_id="203||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" xmltv_id="DD News">DD News</channel>
+  <channel site="tobalan_0" site_id="212||http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" xmltv_id="ET Now">ET Now</channel>
+  <channel site="tobalan_0" site_id="204||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" xmltv_id="DD Sports">DD Sports</channel>
+  <channel site="tobalan_0" site_id="231||http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" xmltv_id="News 18 India">News 18 India</channel>
+  <channel site="tobalan_0" site_id="165||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+  <channel site="tobalan_0" site_id="235||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" xmltv_id="India TV">India TV</channel>
+  <channel site="tobalan_0" site_id="173||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" xmltv_id="Aaj Tak">Aaj Tak</channel>
+  <channel site="tobalan_0" site_id="242||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_English.png" xmltv_id="Discovery">Discovery</channel>
+  <channel site="tobalan_0" site_id="248||http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" xmltv_id="MTV">MTV</channel>
+  <channel site="tobalan_0" site_id="250||http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" xmltv_id="Music India">Music India</channel>
+  <channel site="tobalan_0" site_id="198||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" xmltv_id="Colors Oriya">Colors Oriya</channel>
+  <channel site="tobalan_0" site_id="252||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" xmltv_id="ETV Cinema">ETV Cinema</channel>
+  <channel site="tobalan_0" site_id="279||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" xmltv_id="Rishtey">Rishtey</channel>
+  <channel site="tobalan_0" site_id="258||http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" xmltv_id="NDTV India">NDTV India</channel>
+  <channel site="tobalan_0" site_id="232||http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" xmltv_id="News18 Lokmat">News18 Lokmat</channel>
+  <channel site="tobalan_0" site_id="202||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" xmltv_id="DD National">DD National</channel>
+  <channel site="tobalan_0" site_id="259||http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" xmltv_id="NDTV Profit">NDTV Profit</channel>
+  <channel site="tobalan_0" site_id="289||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" xmltv_id="Sony Max SD">Sony Max SD</channel>
+  <channel site="tobalan_0" site_id="291||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" xmltv_id="SET HD">SET HD</channel>
+  <channel site="tobalan_0" site_id="290||http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" xmltv_id="sonic Tamil">sonic Tamil</channel>
+  <channel site="tobalan_0" site_id="383||http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" xmltv_id="Times NOW">Times NOW</channel>
+  <channel site="tobalan_0" site_id="401||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png" xmltv_id="Swayam Prabha 19">Swayam Prabha 19</channel>
+  <channel site="tobalan_0" site_id="400||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_1.png" xmltv_id="PM e Vidya 01">PM e Vidya 01</channel>
+  <channel site="tobalan_0" site_id="403||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png" xmltv_id="Swayam Prabha 20">Swayam Prabha 20</channel>
+  <channel site="tobalan_0" site_id="405||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_3.png" xmltv_id="PM e Vidya 03">PM e Vidya 03</channel>
+  <channel site="tobalan_0" site_id="404||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_7.png" xmltv_id="PM e Vidya 07">PM e Vidya 07</channel>
+  <channel site="tobalan_0" site_id="406||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png" xmltv_id="PM e Vidya 04">PM e Vidya 04</channel>
+  <channel site="tobalan_0" site_id="407||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_5.png" xmltv_id="PM e Vidya 05">PM e Vidya 05</channel>
+  <channel site="tobalan_0" site_id="255||http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+  <channel site="tobalan_0" site_id="408||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_6.png" xmltv_id="PM e Vidya 06">PM e Vidya 06</channel>
+  <channel site="tobalan_0" site_id="409||http://jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_8.png" xmltv_id="PM e Vidya 08">PM e Vidya 08</channel>
+  <channel site="tobalan_0" site_id="410||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_9.png" xmltv_id="PM e Vidya 09">PM e Vidya 09</channel>
+  <channel site="tobalan_0" site_id="411||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_10.png" xmltv_id="PM e Vidya 10">PM e Vidya 10</channel>
+  <channel site="tobalan_0" site_id="286||http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" xmltv_id="Animal Planet HD World">Animal Planet HD World</channel>
+  <channel site="tobalan_0" site_id="413||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" xmltv_id="Zee Cinemalu">Zee Cinemalu</channel>
+  <channel site="tobalan_0" site_id="402||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png" xmltv_id="PM e Vidya 02">PM e Vidya 02</channel>
+  <channel site="tobalan_0" site_id="417||http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" xmltv_id="J Movies">J Movies</channel>
+  <channel site="tobalan_0" site_id="418||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" xmltv_id="Jaya Plus">Jaya Plus</channel>
+  <channel site="tobalan_0" site_id="414||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" xmltv_id="Zee Yuva">Zee Yuva</channel>
+  <channel site="tobalan_0" site_id="419||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" xmltv_id="Jaya TV HD">Jaya TV HD</channel>
+  <channel site="tobalan_0" site_id="420||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" xmltv_id="Jaya Max">Jaya Max</channel>
+  <channel site="tobalan_0" site_id="421||http://jiotv.catchup.cdn.jio.com/dare_images/images/Goa365.png" xmltv_id="GOA 365">GOA 365</channel>
+  <channel site="tobalan_0" site_id="412||http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" xmltv_id="Wion">Wion</channel>
+  <channel site="tobalan_0" site_id="422||http://jiotv.catchup.cdn.jio.com/dare_images/images/InGoa24x7.png" xmltv_id="In Goa 24x7">In Goa 24x7</channel>
+  <channel site="tobalan_0" site_id="288||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" xmltv_id="Sanskar">Sanskar</channel>
+  <channel site="tobalan_0" site_id="440||http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" xmltv_id="9X Jalwa">9X Jalwa</channel>
+  <channel site="tobalan_0" site_id="442||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" xmltv_id="Zee 24 Taas">Zee 24 Taas</channel>
+  <channel site="tobalan_0" site_id="445||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" xmltv_id="Zee Marathi">Zee Marathi</channel>
+  <channel site="tobalan_0" site_id="464||http://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" xmltv_id="24 Ghanta TV">24 Ghanta TV</channel>
+  <channel site="tobalan_0" site_id="429||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" xmltv_id="Colors Tamil HD">Colors Tamil HD</channel>
+  <channel site="tobalan_0" site_id="465||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" xmltv_id="Jaihind tv">Jaihind tv</channel>
+  <channel site="tobalan_0" site_id="441||http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" xmltv_id="9x Jhakaas">9x Jhakaas</channel>
+  <channel site="tobalan_0" site_id="466||http://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" xmltv_id="Arihant TV">Arihant TV</channel>
+  <channel site="tobalan_0" site_id="471||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" xmltv_id="Sony SAB HD">Sony SAB HD</channel>
+  <channel site="tobalan_0" site_id="473||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" xmltv_id="Zee Anmol">Zee Anmol</channel>
+  <channel site="tobalan_0" site_id="474||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" xmltv_id="Sony Pal">Sony Pal</channel>
+  <channel site="tobalan_0" site_id="415||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" xmltv_id="Zee Anmol Cinema">Zee Anmol Cinema</channel>
+  <channel site="tobalan_0" site_id="472||http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" xmltv_id="And TV HD">And TV HD</channel>
+  <channel site="tobalan_0" site_id="483||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" xmltv_id="Sony MAX2">Sony MAX2</channel>
+  <channel site="tobalan_0" site_id="479||http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" xmltv_id="TLC HD">TLC HD</channel>
+  <channel site="tobalan_0" site_id="484||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" xmltv_id="Zee Cinema">Zee Cinema</channel>
+  <channel site="tobalan_0" site_id="481||http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" xmltv_id="Epic">Epic</channel>
+  <channel site="tobalan_0" site_id="485||http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" xmltv_id="Enterr 10">Enterr 10</channel>
+  <channel site="tobalan_0" site_id="486||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" xmltv_id="Bhojpuri Cinema">Bhojpuri Cinema</channel>
+  <channel site="tobalan_0" site_id="476||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" xmltv_id="Sony Max HD">Sony Max HD</channel>
+  <channel site="tobalan_0" site_id="487||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" xmltv_id="Zee Bollywood">Zee Bollywood</channel>
+  <channel site="tobalan_0" site_id="488||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" xmltv_id="Zee Action">Zee Action</channel>
+  <channel site="tobalan_0" site_id="489||http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" xmltv_id="CNBC Tv 18">CNBC Tv 18</channel>
+  <channel site="tobalan_0" site_id="491||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Now.png" xmltv_id="Mirror Now">Mirror Now</channel>
+  <channel site="tobalan_0" site_id="490||http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" xmltv_id="CNBC Bazaar (MNO)">CNBC Bazaar (MNO)</channel>
+  <channel site="tobalan_0" site_id="492||http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" xmltv_id="CNN NEWS 18">CNN NEWS 18</channel>
+  <channel site="tobalan_0" site_id="463||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" xmltv_id="Discovery HD World">Discovery HD World</channel>
+  <channel site="tobalan_0" site_id="493||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" xmltv_id="India Today">India Today</channel>
+  <channel site="tobalan_0" site_id="482||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
+  <channel site="tobalan_0" site_id="496||http://jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" xmltv_id="dw">dw</channel>
+  <channel site="tobalan_0" site_id="494||http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" xmltv_id="AL Jazeera">AL Jazeera</channel>
+  <channel site="tobalan_0" site_id="498||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" xmltv_id="India news">India news</channel>
+  <channel site="tobalan_0" site_id="499||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" xmltv_id="News Nation">News Nation</channel>
+  <channel site="tobalan_0" site_id="495||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" xmltv_id="News X">News X</channel>
+  <channel site="tobalan_0" site_id="504||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" xmltv_id="Zee News">Zee News</channel>
+  <channel site="tobalan_0" site_id="501||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" xmltv_id="News 24">News 24</channel>
+  <channel site="tobalan_0" site_id="503||http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" xmltv_id="IBC24">IBC24</channel>
+  <channel site="tobalan_0" site_id="506||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" xmltv_id="Sahara Samay Rastriya">Sahara Samay Rastriya</channel>
+  <channel site="tobalan_0" site_id="509||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" xmltv_id="Sahara Samay Bihar">Sahara Samay Bihar</channel>
+  <channel site="tobalan_0" site_id="508||http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" xmltv_id="SAHARA SAMAY UP">SAHARA SAMAY UP</channel>
+  <channel site="tobalan_0" site_id="510||http://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png" xmltv_id="VIP News">VIP News</channel>
+  <channel site="tobalan_0" site_id="507||http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" xmltv_id="SAHARA SAMAY MP">SAHARA SAMAY MP</channel>
+  <channel site="tobalan_0" site_id="512||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" xmltv_id="India News UP">India News UP</channel>
+  <channel site="tobalan_0" site_id="513||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" xmltv_id="India News Rajasthan">India News Rajasthan</channel>
+  <channel site="tobalan_0" site_id="511||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" xmltv_id="Mh One News">Mh One News</channel>
+  <channel site="tobalan_0" site_id="516||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" xmltv_id="India News Haryana">India News Haryana</channel>
+  <channel site="tobalan_0" site_id="514||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" xmltv_id="Sony Ten 1">Sony Ten 1</channel>
+  <channel site="tobalan_0" site_id="515||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" xmltv_id="India News MP">India News MP</channel>
+  <channel site="tobalan_0" site_id="517||http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" xmltv_id="Chardikla Time TV">Chardikla Time TV</channel>
+  <channel site="tobalan_0" site_id="519||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" xmltv_id="Sadhna News Plus">Sadhna News Plus</channel>
+  <channel site="tobalan_0" site_id="518||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" xmltv_id="Sudarshan">Sudarshan</channel>
+  <channel site="tobalan_0" site_id="520||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" xmltv_id="Sansad TV HD">Sansad TV HD</channel>
+  <channel site="tobalan_0" site_id="524||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" xmltv_id="Sony Ten 3 Hindi">Sony Ten 3 Hindi</channel>
+  <channel site="tobalan_0" site_id="523||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" xmltv_id="Ten 2">Ten 2</channel>
+  <channel site="tobalan_0" site_id="502||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" xmltv_id="Good News Today">Good News Today</channel>
+  <channel site="tobalan_0" site_id="522||http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" xmltv_id="Sansad TV">Sansad TV</channel>
+  <channel site="tobalan_0" site_id="528||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" xmltv_id="DD India">DD India</channel>
+  <channel site="tobalan_0" site_id="527||http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+  <channel site="tobalan_0" site_id="529||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" xmltv_id="News18 MP">News18 MP</channel>
+  <channel site="tobalan_0" site_id="533||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" xmltv_id="Raj Pariwar">Raj Pariwar</channel>
+  <channel site="tobalan_0" site_id="532||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" xmltv_id="Dabangg">Dabangg</channel>
+  <channel site="tobalan_0" site_id="535||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" xmltv_id="Dhamaal TV">Dhamaal TV</channel>
+  <channel site="tobalan_0" site_id="530||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" xmltv_id="News18 UP">News18 UP</channel>
+  <channel site="tobalan_0" site_id="538||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" xmltv_id="DD Rajasthan (Jaipur)">DD Rajasthan (Jaipur)</channel>
+  <channel site="tobalan_0" site_id="531||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" xmltv_id="News18 RAJASTHAN">News18 RAJASTHAN</channel>
+  <channel site="tobalan_0" site_id="540||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" xmltv_id="DD Uttar Pradesh">DD Uttar Pradesh</channel>
+  <channel site="tobalan_0" site_id="536||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" xmltv_id="DD Madhya Pradesh">DD Madhya Pradesh</channel>
+  <channel site="tobalan_0" site_id="539||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" xmltv_id="DD Bihar">DD Bihar</channel>
+  <channel site="tobalan_0" site_id="525||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" xmltv_id="Sony Ten 5">Sony Ten 5</channel>
+  <channel site="tobalan_0" site_id="541||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+  <channel site="tobalan_0" site_id="543||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" xmltv_id="Nick Telugu">Nick Telugu</channel>
+  <channel site="tobalan_0" site_id="542||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" xmltv_id="Pogo Tamil">Pogo Tamil</channel>
+  <channel site="tobalan_0" site_id="544||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" xmltv_id="Nick Junior">Nick Junior</channel>
+  <channel site="tobalan_0" site_id="546||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" xmltv_id="Nick Tamil">Nick Tamil</channel>
+  <channel site="tobalan_0" site_id="545||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" xmltv_id="Nick Hindi">Nick Hindi</channel>
+  <channel site="tobalan_0" site_id="548||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" xmltv_id="Nickelodeon Jr.">Nickelodeon Jr.</channel>
+  <channel site="tobalan_0" site_id="551||http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST14_HD.png" xmltv_id="TEST14 HD">TEST14 HD</channel>
+  <channel site="tobalan_0" site_id="550||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" xmltv_id="Discovery Kids Tamil">Discovery Kids Tamil</channel>
+  <channel site="tobalan_0" site_id="556||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" xmltv_id="Kochu TV">Kochu TV</channel>
+  <channel site="tobalan_0" site_id="557||http://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" xmltv_id="Chutti TV">Chutti TV</channel>
+  <channel site="tobalan_0" site_id="554||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" xmltv_id="Discovery Kids 2">Discovery Kids 2</channel>
+  <channel site="tobalan_0" site_id="558||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png" xmltv_id="Kushi TV">Kushi TV</channel>
+  <channel site="tobalan_0" site_id="559||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" xmltv_id="Pogo Hindi">Pogo Hindi</channel>
+  <channel site="tobalan_0" site_id="561||http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" xmltv_id="Food Food">Food Food</channel>
+  <channel site="tobalan_0" site_id="560||http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" xmltv_id="GOOD TiMES">GOOD TiMES</channel>
+  <channel site="tobalan_0" site_id="563||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" xmltv_id="Kaumudy TV">Kaumudy TV</channel>
+  <channel site="tobalan_0" site_id="562||http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" xmltv_id="Travelxp HD Hindi">Travelxp HD Hindi</channel>
+  <channel site="tobalan_0" site_id="566||http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" xmltv_id="Animal Planet Hindi">Animal Planet Hindi</channel>
+  <channel site="tobalan_0" site_id="568||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" xmltv_id="Discovery Science">Discovery Science</channel>
+  <channel site="tobalan_0" site_id="569||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" xmltv_id="D Tamil">D Tamil</channel>
+  <channel site="tobalan_0" site_id="555||http://jiotv.catchup.cdn.jio.com/dare_images/images/Chintu_TV.png" xmltv_id="Chintu TV">Chintu TV</channel>
+  <channel site="tobalan_0" site_id="570||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" xmltv_id="ETV Life">ETV Life</channel>
+  <channel site="tobalan_0" site_id="572||http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" xmltv_id="Zee UP UK">Zee UP UK</channel>
+  <channel site="tobalan_0" site_id="571||http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" xmltv_id="TLC Hindi">TLC Hindi</channel>
+  <channel site="tobalan_0" site_id="574||http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" xmltv_id="TLC English">TLC English</channel>
+  <channel site="tobalan_0" site_id="573||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" xmltv_id="Discovery Channel Bengali">Discovery Channel Bengali</channel>
+  <channel site="tobalan_0" site_id="567||http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" xmltv_id="Animal Planet English">Animal Planet English</channel>
+  <channel site="tobalan_0" site_id="575||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" xmltv_id="Discovery Channel Hindi">Discovery Channel Hindi</channel>
+  <channel site="tobalan_0" site_id="578||http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" xmltv_id="History TV18 HD Hindi">History TV18 HD Hindi</channel>
+  <channel site="tobalan_0" site_id="579||http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" xmltv_id="History TV18 HD Tamil">History TV18 HD Tamil</channel>
+  <channel site="tobalan_0" site_id="576||http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" xmltv_id="Discovery Channel Telugu">Discovery Channel Telugu</channel>
+  <channel site="tobalan_0" site_id="584||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" xmltv_id="Mastiii">Mastiii</channel>
+  <channel site="tobalan_0" site_id="565||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" xmltv_id="ETV Abhiruchi">ETV Abhiruchi</channel>
+  <channel site="tobalan_0" site_id="583||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" xmltv_id="DD Kisan">DD Kisan</channel>
+  <channel site="tobalan_0" site_id="585||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" xmltv_id="Zing">Zing</channel>
+  <channel site="tobalan_0" site_id="580||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" xmltv_id="DD bharati">DD bharati</channel>
+  <channel site="tobalan_0" site_id="587||http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" xmltv_id="9XM">9XM</channel>
+  <channel site="tobalan_0" site_id="577||http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" xmltv_id="History TV18 HD Telugu">History TV18 HD Telugu</channel>
+  <channel site="tobalan_0" site_id="593||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" xmltv_id="Sadhna">Sadhna</channel>
+  <channel site="tobalan_0" site_id="592||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" xmltv_id="ZOOM">ZOOM</channel>
+  <channel site="tobalan_0" site_id="591||http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" xmltv_id="E 24">E 24</channel>
+  <channel site="tobalan_0" site_id="599||http://jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" xmltv_id="Disha tv">Disha tv</channel>
+  <channel site="tobalan_0" site_id="597||http://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" xmltv_id="Satsang TV">Satsang TV</channel>
+  <channel site="tobalan_0" site_id="601||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" xmltv_id="Ishwar TV">Ishwar TV</channel>
+  <channel site="tobalan_0" site_id="596||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" xmltv_id="Jinvani TV">Jinvani TV</channel>
+  <channel site="tobalan_0" site_id="598||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" xmltv_id="Sri Venkateshwar Bhakti">Sri Venkateshwar Bhakti</channel>
+  <channel site="tobalan_0" site_id="603||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" xmltv_id="Nambikkai">Nambikkai</channel>
+  <channel site="tobalan_0" site_id="602||http://jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" xmltv_id="Paras tv">Paras tv</channel>
+  <channel site="tobalan_0" site_id="606||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" xmltv_id="Shalom">Shalom</channel>
+  <channel site="tobalan_0" site_id="607||http://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" xmltv_id="Subhavartha TV">Subhavartha TV</channel>
+  <channel site="tobalan_0" site_id="605||http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" xmltv_id="Channel Win">Channel Win</channel>
+  <channel site="tobalan_0" site_id="609||http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" xmltv_id="mh1 Shraddha">mh1 Shraddha</channel>
+  <channel site="tobalan_0" site_id="615||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" xmltv_id="News 18 Tamilnadu">News 18 Tamilnadu</channel>
+  <channel site="tobalan_0" site_id="614||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" xmltv_id="ETV Andhra pradesh">ETV Andhra pradesh</channel>
+  <channel site="tobalan_0" site_id="612||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" xmltv_id="ABP Majha">ABP Majha</channel>
+  <channel site="tobalan_0" site_id="594||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" xmltv_id="Aastha Bhajan">Aastha Bhajan</channel>
+  <channel site="tobalan_0" site_id="611||http://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" xmltv_id="Darshan 24">Darshan 24</channel>
+  <channel site="tobalan_0" site_id="618||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" xmltv_id="TV9 Telugu News">TV9 Telugu News</channel>
+  <channel site="tobalan_0" site_id="619||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" xmltv_id="TV9 Karnataka">TV9 Karnataka</channel>
+  <channel site="tobalan_0" site_id="617||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" xmltv_id="TV9 Maharashtra">TV9 Maharashtra</channel>
+  <channel site="tobalan_0" site_id="620||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" xmltv_id="News18 Gujarati">News18 Gujarati</channel>
+  <channel site="tobalan_0" site_id="623||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" xmltv_id="Rang">Rang</channel>
+  <channel site="tobalan_0" site_id="613||http://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" xmltv_id="Newslive">Newslive</channel>
+  <channel site="tobalan_0" site_id="625||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" xmltv_id="Zee Bangla">Zee Bangla</channel>
+  <channel site="tobalan_0" site_id="624||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prag_News.png" xmltv_id="Prag News">Prag News</channel>
+  <channel site="tobalan_0" site_id="626||http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" xmltv_id="Suvarna News">Suvarna News</channel>
+  <channel site="tobalan_0" site_id="627||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" xmltv_id="News 18 Assam">News 18 Assam</channel>
+  <channel site="tobalan_0" site_id="628||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" xmltv_id="Zee Tamil">Zee Tamil</channel>
+  <channel site="tobalan_0" site_id="608||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" xmltv_id="Shubhsandesh TV">Shubhsandesh TV</channel>
+  <channel site="tobalan_0" site_id="630||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" xmltv_id="ETV Telangana">ETV Telangana</channel>
+  <channel site="tobalan_0" site_id="629||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" xmltv_id="ETV Telugu">ETV Telugu</channel>
+  <channel site="tobalan_0" site_id="631||http://jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" xmltv_id="MBC">MBC</channel>
+  <channel site="tobalan_0" site_id="633||http://jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png" xmltv_id="DY 365">DY 365</channel>
+  <channel site="tobalan_0" site_id="616||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" xmltv_id="Tv 9 Gujarat">Tv 9 Gujarat</channel>
+  <channel site="tobalan_0" site_id="632||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" xmltv_id="Sakshi tv">Sakshi tv</channel>
+  <channel site="tobalan_0" site_id="634||http://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" xmltv_id="Flower TV">Flower TV</channel>
+  <channel site="tobalan_0" site_id="636||http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" xmltv_id="Polimer News">Polimer News</channel>
+  <channel site="tobalan_0" site_id="635||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" xmltv_id="Rengoni">Rengoni</channel>
+  <channel site="tobalan_0" site_id="637||http://jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" xmltv_id="North East Live">North East Live</channel>
+  <channel site="tobalan_0" site_id="643||http://jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" xmltv_id="GS TV">GS TV</channel>
+  <channel site="tobalan_0" site_id="642||http://jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" xmltv_id="VTV Gujarati">VTV Gujarati</channel>
+  <channel site="tobalan_0" site_id="639||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" xmltv_id="Ramdhenu">Ramdhenu</channel>
+  <channel site="tobalan_0" site_id="650||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" xmltv_id="Raj News Malayalam">Raj News Malayalam</channel>
+  <channel site="tobalan_0" site_id="646||http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" xmltv_id="NTV">NTV</channel>
+  <channel site="tobalan_0" site_id="641||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" xmltv_id="ABP Asmita">ABP Asmita</channel>
+  <channel site="tobalan_0" site_id="648||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" xmltv_id="Mazhavil Manorama">Mazhavil Manorama</channel>
+  <channel site="tobalan_0" site_id="647||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png" xmltv_id="Pratidin Time">Pratidin Time</channel>
+  <channel site="tobalan_0" site_id="651||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" xmltv_id="Raj News Kannada">Raj News Kannada</channel>
+  <channel site="tobalan_0" site_id="652||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" xmltv_id="Zee Bharat">Zee Bharat</channel>
+  <channel site="tobalan_0" site_id="654||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" xmltv_id="Zee Punjabi HP Haryana">Zee Punjabi HP Haryana</channel>
+  <channel site="tobalan_0" site_id="655||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" xmltv_id="News18 Punjab Haryana">News18 Punjab Haryana</channel>
+  <channel site="tobalan_0" site_id="658||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" xmltv_id="Zee News MP Chattisgarh">Zee News MP Chattisgarh</channel>
+  <channel site="tobalan_0" site_id="659||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" xmltv_id="Zee Rajasthan">Zee Rajasthan</channel>
+  <channel site="tobalan_0" site_id="656||http://jiotv.catchup.cdn.jio.com/dare_images/images/News9.png" xmltv_id="News 9">News 9</channel>
+  <channel site="tobalan_0" site_id="657||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" xmltv_id="Zee Business">Zee Business</channel>
+  <channel site="tobalan_0" site_id="661||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" xmltv_id="Zee Bihar Jharkhand">Zee Bihar Jharkhand</channel>
+  <channel site="tobalan_0" site_id="653||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" xmltv_id="News18 Kannada News">News18 Kannada News</channel>
+  <channel site="tobalan_0" site_id="665||http://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" xmltv_id="HM TV">HM TV</channel>
+  <channel site="tobalan_0" site_id="662||http://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" xmltv_id="Manorama News">Manorama News</channel>
+  <channel site="tobalan_0" site_id="667||http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" xmltv_id="T News">T News</channel>
+  <channel site="tobalan_0" site_id="638||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" xmltv_id="Zee Telugu">Zee Telugu</channel>
+  <channel site="tobalan_0" site_id="668||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" xmltv_id="TV 5 News">TV 5 News</channel>
+  <channel site="tobalan_0" site_id="670||http://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png" xmltv_id="6 TV">6 TV</channel>
+  <channel site="tobalan_0" site_id="671||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" xmltv_id="Sathiyam TV">Sathiyam TV</channel>
+  <channel site="tobalan_0" site_id="666||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" xmltv_id="ABN Andhra Jyothi">ABN Andhra Jyothi</channel>
+  <channel site="tobalan_0" site_id="672||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" xmltv_id="ABP Ananda">ABP Ananda</channel>
+  <channel site="tobalan_0" site_id="673||http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" xmltv_id="News7 Tamil">News7 Tamil</channel>
+  <channel site="tobalan_0" site_id="676||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png" xmltv_id="Sun News">Sun News</channel>
+  <channel site="tobalan_0" site_id="677||http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" xmltv_id="Puthiya Thalimurai">Puthiya Thalimurai</channel>
+  <channel site="tobalan_0" site_id="675||http://jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" xmltv_id="Assam Talks">Assam Talks</channel>
+  <channel site="tobalan_0" site_id="682||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" xmltv_id="Sun Life">Sun Life</channel>
+  <channel site="tobalan_0" site_id="678||http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png" xmltv_id="Udaya Movies">Udaya Movies</channel>
+  <channel site="tobalan_0" site_id="684||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" xmltv_id="Gemini Life">Gemini Life</channel>
+  <channel site="tobalan_0" site_id="664||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" xmltv_id="Raj News Telugu">Raj News Telugu</channel>
+  <channel site="tobalan_0" site_id="683||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" xmltv_id="Raj Digital Plus">Raj Digital Plus</channel>
+  <channel site="tobalan_0" site_id="689||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" xmltv_id="Zee Kannada">Zee Kannada</channel>
+  <channel site="tobalan_0" site_id="694||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" xmltv_id="News18 JKLH">News18 JKLH</channel>
+  <channel site="tobalan_0" site_id="693||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" xmltv_id="News18 BIHAR">News18 BIHAR</channel>
+  <channel site="tobalan_0" site_id="695||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" xmltv_id="DD Sahayadri">DD Sahayadri</channel>
+  <channel site="tobalan_0" site_id="691||http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" xmltv_id="Saam Tv">Saam Tv</channel>
+  <channel site="tobalan_0" site_id="698||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" xmltv_id="Aakash Aath">Aakash Aath</channel>
+  <channel site="tobalan_0" site_id="687||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" xmltv_id="News Time TV">News Time TV</channel>
+  <channel site="tobalan_0" site_id="696||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" xmltv_id="News18 Oriya">News18 Oriya</channel>
+  <channel site="tobalan_0" site_id="702||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" xmltv_id="DD Oriya">DD Oriya</channel>
+  <channel site="tobalan_0" site_id="699||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" xmltv_id="DD Malayalam">DD Malayalam</channel>
+  <channel site="tobalan_0" site_id="701||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" xmltv_id="Dangal">Dangal</channel>
+  <channel site="tobalan_0" site_id="706||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" xmltv_id="DD Saptagiri">DD Saptagiri</channel>
+  <channel site="tobalan_0" site_id="707||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" xmltv_id="Raj TV">Raj TV</channel>
+  <channel site="tobalan_0" site_id="708||http://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" xmltv_id="Makkal TV">Makkal TV</channel>
+  <channel site="tobalan_0" site_id="697||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" xmltv_id="Sony aath">Sony aath</channel>
+  <channel site="tobalan_0" site_id="709||http://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" xmltv_id="Adithya TV">Adithya TV</channel>
+  <channel site="tobalan_0" site_id="705||http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" xmltv_id="Polimer TV">Polimer TV</channel>
+  <channel site="tobalan_0" site_id="712||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png" xmltv_id="DD urdu">DD urdu</channel>
+  <channel site="tobalan_0" site_id="692||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" xmltv_id="ETV Plus">ETV Plus</channel>
+  <channel site="tobalan_0" site_id="715||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" xmltv_id="DD Punjabi">DD Punjabi</channel>
+  <channel site="tobalan_0" site_id="690||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png" xmltv_id="DD Bangla">DD Bangla</channel>
+  <channel site="tobalan_0" site_id="716||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png" xmltv_id="DD Kashir">DD Kashir</channel>
+  <channel site="tobalan_0" site_id="710||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" xmltv_id="Kairali TV">Kairali TV</channel>
+  <channel site="tobalan_0" site_id="717||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" xmltv_id="News18 Bangla News">News18 Bangla News</channel>
+  <channel site="tobalan_0" site_id="718||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" xmltv_id="Kanak News">Kanak News</channel>
+  <channel site="tobalan_0" site_id="719||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" xmltv_id="Nepal one">Nepal one</channel>
+  <channel site="tobalan_0" site_id="723||http://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" xmltv_id="Amrita TV">Amrita TV</channel>
+  <channel site="tobalan_0" site_id="714||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" xmltv_id="DD Girnar">DD Girnar</channel>
+  <channel site="tobalan_0" site_id="685||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" xmltv_id="Zee Bangla Cinema">Zee Bangla Cinema</channel>
+  <channel site="tobalan_0" site_id="722||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" xmltv_id="Zee Sarthak">Zee Sarthak</channel>
+  <channel site="tobalan_0" site_id="720||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png" xmltv_id="DD13 Guwahati NE">DD13 Guwahati NE</channel>
+  <channel site="tobalan_0" site_id="725||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png" xmltv_id="Kairali News">Kairali News</channel>
+  <channel site="tobalan_0" site_id="726||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" xmltv_id="DD5 Podhigai">DD5 Podhigai</channel>
+  <channel site="tobalan_0" site_id="728||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" xmltv_id="Zee Salaam">Zee Salaam</channel>
+  <channel site="tobalan_0" site_id="727||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" xmltv_id="Vasanth TV">Vasanth TV</channel>
+  <channel site="tobalan_0" site_id="732||http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" xmltv_id="9X Tashan">9X Tashan</channel>
+  <channel site="tobalan_0" site_id="724||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" xmltv_id="Zee Delhi NCR Haryana">Zee Delhi NCR Haryana</channel>
+  <channel site="tobalan_0" site_id="731||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" xmltv_id="Kairali WE TV">Kairali WE TV</channel>
+  <channel site="tobalan_0" site_id="713||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" xmltv_id="DD9 chandana (kannada)">DD9 chandana (kannada)</channel>
+  <channel site="tobalan_0" site_id="734||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" xmltv_id="Vissa TV">Vissa TV</channel>
+  <channel site="tobalan_0" site_id="736||http://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" xmltv_id="Maiboli">Maiboli</channel>
+  <channel site="tobalan_0" site_id="738||http://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" xmltv_id="Fakt Marathi">Fakt Marathi</channel>
+  <channel site="tobalan_0" site_id="737||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" xmltv_id="Raj Music Telugu">Raj Music Telugu</channel>
+  <channel site="tobalan_0" site_id="735||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" xmltv_id="Sangeet Marathi">Sangeet Marathi</channel>
+  <channel site="tobalan_0" site_id="742||http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" xmltv_id="mh1 (Music)">mh1 (Music)</channel>
+  <channel site="tobalan_0" site_id="740||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" xmltv_id="Sangeet Bangla">Sangeet Bangla</channel>
+  <channel site="tobalan_0" site_id="743||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" xmltv_id="Raj Music Kannada">Raj Music Kannada</channel>
+  <channel site="tobalan_0" site_id="744||http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png" xmltv_id="Udaya Music">Udaya Music</channel>
+  <channel site="tobalan_0" site_id="729||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" xmltv_id="Gemini Comedy">Gemini Comedy</channel>
+  <channel site="tobalan_0" site_id="753||http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" xmltv_id="MTV Beats HD">MTV Beats HD</channel>
+  <channel site="tobalan_0" site_id="733||http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png" xmltv_id="Udaya Comedy">Udaya Comedy</channel>
+  <channel site="tobalan_0" site_id="747||http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png" xmltv_id="Surya Music">Surya Music</channel>
+  <channel site="tobalan_0" site_id="757||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" xmltv_id="Colors Kannada HD">Colors Kannada HD</channel>
+  <channel site="tobalan_0" site_id="764||http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" xmltv_id="Channel News Asia International">Channel News Asia International</channel>
+  <channel site="tobalan_0" site_id="739||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" xmltv_id="Raj Music Malayalam">Raj Music Malayalam</channel>
+  <channel site="tobalan_0" site_id="756||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" xmltv_id="Colors Bengali HD">Colors Bengali HD</channel>
+  <channel site="tobalan_0" site_id="765||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" xmltv_id="Jonack">Jonack</channel>
+  <channel site="tobalan_0" site_id="767||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" xmltv_id="Raj News 24x7">Raj News 24x7</channel>
+  <channel site="tobalan_0" site_id="768||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" xmltv_id="Jan TV">Jan TV</channel>
+  <channel site="tobalan_0" site_id="770||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" xmltv_id="Kashish News">Kashish News</channel>
+  <channel site="tobalan_0" site_id="741||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" xmltv_id="Sangeet Bhojpuri">Sangeet Bhojpuri</channel>
+  <channel site="tobalan_0" site_id="771||http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" xmltv_id="Live Today">Live Today</channel>
+  <channel site="tobalan_0" site_id="769||http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" xmltv_id="V6 News">V6 News</channel>
+  <channel site="tobalan_0" site_id="748||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" xmltv_id="Raj Musix">Raj Musix</channel>
+  <channel site="tobalan_0" site_id="755||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" xmltv_id="Colors Marathi HD">Colors Marathi HD</channel>
+  <channel site="tobalan_0" site_id="774||http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" xmltv_id="CVR Health">CVR Health</channel>
+  <channel site="tobalan_0" site_id="773||http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" xmltv_id="Public Music">Public Music</channel>
+  <channel site="tobalan_0" site_id="778||http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" xmltv_id="Public TV">Public TV</channel>
+  <channel site="tobalan_0" site_id="775||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" xmltv_id="Vanitha">Vanitha</channel>
+  <channel site="tobalan_0" site_id="779||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" xmltv_id="Prameya News 7">Prameya News 7</channel>
+  <channel site="tobalan_0" site_id="780||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" xmltv_id="Mathrubhumi News">Mathrubhumi News</channel>
+  <channel site="tobalan_0" site_id="782||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" xmltv_id="Sandesh News">Sandesh News</channel>
+  <channel site="tobalan_0" site_id="783||http://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" xmltv_id="K News India">K News India</channel>
+  <channel site="tobalan_0" site_id="781||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" xmltv_id="Kalinga TV">Kalinga TV</channel>
+  <channel site="tobalan_0" site_id="776||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" xmltv_id="Bhakti TV">Bhakti TV</channel>
+  <channel site="tobalan_0" site_id="785||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" xmltv_id="Colors Super">Colors Super</channel>
+  <channel site="tobalan_0" site_id="784||http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" xmltv_id="CVR News">CVR News</channel>
+  <channel site="tobalan_0" site_id="787||http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" xmltv_id="CVR English">CVR English</channel>
+  <channel site="tobalan_0" site_id="790||http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" xmltv_id="I News">I News</channel>
+  <channel site="tobalan_0" site_id="789||http://jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" xmltv_id="JK 24x7 News">JK 24x7 News</channel>
+  <channel site="tobalan_0" site_id="772||http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" xmltv_id="CVR OM Spiritual">CVR OM Spiritual</channel>
+  <channel site="tobalan_0" site_id="786||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" xmltv_id="Kappa TV">Kappa TV</channel>
+  <channel site="tobalan_0" site_id="795||http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness.png" xmltv_id="testa">testa</channel>
+  <channel site="tobalan_0" site_id="792||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" xmltv_id="News State UK UP">News State UK UP</channel>
+  <channel site="tobalan_0" site_id="777||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" xmltv_id="Aradhana TV">Aradhana TV</channel>
+  <channel site="tobalan_0" site_id="794||http://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" xmltv_id="Peace of Mind">Peace of Mind</channel>
+  <channel site="tobalan_0" site_id="791||http://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" xmltv_id="Taaza TV">Taaza TV</channel>
+  <channel site="tobalan_0" site_id="796||http://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" xmltv_id="Peppers TV">Peppers TV</channel>
+  <channel site="tobalan_0" site_id="797||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakhi_TV.png" xmltv_id="testii">testii</channel>
+  <channel site="tobalan_0" site_id="801||http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" xmltv_id="Divya TV">Divya TV</channel>
+  <channel site="tobalan_0" site_id="803||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" xmltv_id="Tunes 6">Tunes 6</channel>
+  <channel site="tobalan_0" site_id="793||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rajasthan.png" xmltv_id="Sahara Samay Rajasthan">Sahara Samay Rajasthan</channel>
+  <channel site="tobalan_0" site_id="804||http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus.png" xmltv_id="Samachar Plus">Samachar Plus</channel>
+  <channel site="tobalan_0" site_id="807||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png" xmltv_id="Gulistan News">Gulistan News</channel>
+  <channel site="tobalan_0" site_id="814||http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" xmltv_id="Travelxp Tamil">Travelxp Tamil</channel>
+  <channel site="tobalan_0" site_id="808||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" xmltv_id="Hindi Khabar">Hindi Khabar</channel>
+  <channel site="tobalan_0" site_id="810||http://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" xmltv_id="Janam TV">Janam TV</channel>
+  <channel site="tobalan_0" site_id="816||http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" xmltv_id="Cartoon Network Hindi">Cartoon Network Hindi</channel>
+  <channel site="tobalan_0" site_id="817||http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" xmltv_id="Cartoon Network Tamil">Cartoon Network Tamil</channel>
+  <channel site="tobalan_0" site_id="824||http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" xmltv_id="Puthu Yugam">Puthu Yugam</channel>
+  <channel site="tobalan_0" site_id="815||http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" xmltv_id="Sonic Hindi">Sonic Hindi</channel>
+  <channel site="tobalan_0" site_id="826||http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" xmltv_id="Malai Murasu">Malai Murasu</channel>
+  <channel site="tobalan_0" site_id="830||http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" xmltv_id="Thanthi TV">Thanthi TV</channel>
+  <channel site="tobalan_0" site_id="829||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" xmltv_id="Sri Sankara">Sri Sankara</channel>
+  <channel site="tobalan_0" site_id="831||http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" xmltv_id="Living India News">Living India News</channel>
+  <channel site="tobalan_0" site_id="837||http://jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" xmltv_id="Euro News">Euro News</channel>
+  <channel site="tobalan_0" site_id="842||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" xmltv_id="Jeevan TV">Jeevan TV</channel>
+  <channel site="tobalan_0" site_id="788||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" xmltv_id="India Voice">India Voice</channel>
+  <channel site="tobalan_0" site_id="809||http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" xmltv_id="Maha Movies">Maha Movies</channel>
+  <channel site="tobalan_0" site_id="843||http://jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" xmltv_id="Madhimugam TV">Madhimugam TV</channel>
+  <channel site="tobalan_0" site_id="844||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" xmltv_id="Mazavali Manorama HD">Mazavali Manorama HD</channel>
+  <channel site="tobalan_0" site_id="845||http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" xmltv_id="MK Music">MK Music</channel>
+  <channel site="tobalan_0" site_id="847||http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" xmltv_id="MK TV">MK TV</channel>
+  <channel site="tobalan_0" site_id="846||http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" xmltv_id="MKN News">MKN News</channel>
+  <channel site="tobalan_0" site_id="855||http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" xmltv_id="Total TV">Total TV</channel>
+  <channel site="tobalan_0" site_id="851||http://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" xmltv_id="SMBC TV">SMBC TV</channel>
+  <channel site="tobalan_0" site_id="856||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" xmltv_id="Vedic TV">Vedic TV</channel>
+  <channel site="tobalan_0" site_id="850||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" xmltv_id="News India 24x7">News India 24x7</channel>
+  <channel site="tobalan_0" site_id="828||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" xmltv_id="Shubh TV">Shubh TV</channel>
+  <channel site="tobalan_0" site_id="858||http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" xmltv_id="Republic TV">Republic TV</channel>
+  <channel site="tobalan_0" site_id="872||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" xmltv_id="Sony Yay Hindi">Sony Yay Hindi</channel>
+  <channel site="tobalan_0" site_id="875||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" xmltv_id="Eurosport HD">Eurosport HD</channel>
+  <channel site="tobalan_0" site_id="838||http://jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" xmltv_id="France 24">France 24</channel>
+  <channel site="tobalan_0" site_id="857||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" xmltv_id="Vendhar TV">Vendhar TV</channel>
+  <channel site="tobalan_0" site_id="876||http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" xmltv_id="Times Now World">Times Now World</channel>
+  <channel site="tobalan_0" site_id="832||http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" xmltv_id="10 TV">10 TV</channel>
+  <channel site="tobalan_0" site_id="874||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" xmltv_id="Sony Yay Telugu">Sony Yay Telugu</channel>
+  <channel site="tobalan_0" site_id="882||http://jiotv.catchup.cdn.jio.com/dare_images/images/News11.png" xmltv_id="News11">News11</channel>
+  <channel site="tobalan_0" site_id="873||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" xmltv_id="Sony Yay Tamil">Sony Yay Tamil</channel>
+  <channel site="tobalan_0" site_id="883||http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" xmltv_id="Oscar Movies">Oscar Movies</channel>
+  <channel site="tobalan_0" site_id="866||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" xmltv_id="Jio Exclusive HD">Jio Exclusive HD</channel>
+  <channel site="tobalan_0" site_id="886||http://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png" xmltv_id="Lakshya TV">Lakshya TV</channel>
+  <channel site="tobalan_0" site_id="887||http://jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Swaminarayan.png" xmltv_id="Swar Shree">Swar Shree</channel>
+  <channel site="tobalan_0" site_id="896||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" xmltv_id="Sun TV HD">Sun TV HD</channel>
+  <channel site="tobalan_0" site_id="880||http://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" xmltv_id="Janta TV">Janta TV</channel>
+  <channel site="tobalan_0" site_id="894||http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" xmltv_id="KTV HD">KTV HD</channel>
+  <channel site="tobalan_0" site_id="895||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" xmltv_id="Sun Music HD">Sun Music HD</channel>
+  <channel site="tobalan_0" site_id="898||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" xmltv_id="Gemini Music HD">Gemini Music HD</channel>
+  <channel site="tobalan_0" site_id="897||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" xmltv_id="Gemini TV HD">Gemini TV HD</channel>
+  <channel site="tobalan_0" site_id="892||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" xmltv_id="Sony Ten 3 HD Hindi">Sony Ten 3 HD Hindi</channel>
+  <channel site="tobalan_0" site_id="900||http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" xmltv_id="Surya HD">Surya HD</channel>
+  <channel site="tobalan_0" site_id="891||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" xmltv_id="Sony Ten 2 HD">Sony Ten 2 HD</channel>
+  <channel site="tobalan_0" site_id="904||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" xmltv_id="Sanjha TV">Sanjha TV</channel>
+  <channel site="tobalan_0" site_id="899||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" xmltv_id="Gemini Movies HD">Gemini Movies HD</channel>
+  <channel site="tobalan_0" site_id="901||http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png" xmltv_id="Udaya HD">Udaya HD</channel>
+  <channel site="tobalan_0" site_id="905||http://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" xmltv_id="PBN Music">PBN Music</channel>
+  <channel site="tobalan_0" site_id="879||http://jiotv.catchup.cdn.jio.com/dare_images/images/Harekrsna.png" xmltv_id="Hare krsna">Hare krsna</channel>
+  <channel site="tobalan_0" site_id="885||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" xmltv_id="TV5 Monde">TV5 Monde</channel>
+  <channel site="tobalan_0" site_id="907||http://jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" xmltv_id="GoodNews Channel">GoodNews Channel</channel>
+  <channel site="tobalan_0" site_id="910||http://jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png" xmltv_id="Media One TV">Media One TV</channel>
+  <channel site="tobalan_0" site_id="915||http://jiotv.catchup.cdn.jio.com/dare_images/images/Khabar_Fast.png" xmltv_id="Khabar Fast">Khabar Fast</channel>
+  <channel site="tobalan_0" site_id="916||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png" xmltv_id="TV 100">TV 100</channel>
+  <channel site="tobalan_0" site_id="908||http://jiotv.catchup.cdn.jio.com/dare_images/images/Indradhanu.png" xmltv_id="Indradhanu">Indradhanu</channel>
+  <channel site="tobalan_0" site_id="903||http://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png" xmltv_id="Only Music">Only Music</channel>
+  <channel site="tobalan_0" site_id="924||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rujumargam_TV.png" xmltv_id="Mercy TV">Mercy TV</channel>
+  <channel site="tobalan_0" site_id="921||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_News.png" xmltv_id="Prime News">Prime News</channel>
+  <channel site="tobalan_0" site_id="926||http://jiotv.catchup.cdn.jio.com/dare_images/images/A1_TV_Rajasthan.png" xmltv_id="A1 TV Rajasthan">A1 TV Rajasthan</channel>
+  <channel site="tobalan_0" site_id="929||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" xmltv_id="Zee 24 Kalak">Zee 24 Kalak</channel>
+  <channel site="tobalan_0" site_id="918||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" xmltv_id="Bharat Samachar">Bharat Samachar</channel>
+  <channel site="tobalan_0" site_id="934||http://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" xmltv_id="Divya Vani">Divya Vani</channel>
+  <channel site="tobalan_0" site_id="936||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_1_India.png" xmltv_id="News 1 India">News 1 India</channel>
+  <channel site="tobalan_0" site_id="917||http://jiotv.catchup.cdn.jio.com/dare_images/images/APN_News.png" xmltv_id="APN News">APN News</channel>
+  <channel site="tobalan_0" site_id="906||http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" xmltv_id="Desi Channel">Desi Channel</channel>
+  <channel site="tobalan_0" site_id="938||http://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" xmltv_id="BTV">BTV</channel>
+  <channel site="tobalan_0" site_id="944||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mantavya_News.png" xmltv_id="Mantavya News">Mantavya News</channel>
+  <channel site="tobalan_0" site_id="939||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaktisagar.png" xmltv_id="Bhaktisagar 2">Bhaktisagar 2</channel>
+  <channel site="tobalan_0" site_id="946||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" xmltv_id="Pitaara">Pitaara</channel>
+  <channel site="tobalan_0" site_id="950||http://jiotv.catchup.cdn.jio.com/dare_images/images/RPLUS.png" xmltv_id="R Plus">R Plus</channel>
+  <channel site="tobalan_0" site_id="923||http://jiotv.catchup.cdn.jio.com/dare_images/images/R.Kannada.png" xmltv_id="R.Kannada">R.Kannada</channel>
+  <channel site="tobalan_0" site_id="952||http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvGurbani.png" xmltv_id="Garv Punjabi Gurbani">Garv Punjabi Gurbani</channel>
+  <channel site="tobalan_0" site_id="953||http://jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png" xmltv_id="Propex TV">Propex TV</channel>
+  <channel site="tobalan_0" site_id="933||http://jiotv.catchup.cdn.jio.com/dare_images/images/4_TV.png" xmltv_id="4 TV">4 TV</channel>
+  <channel site="tobalan_0" site_id="951||http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Today.png" xmltv_id="Live Punjabi TV">Live Punjabi TV</channel>
+  <channel site="tobalan_0" site_id="927||http://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" xmltv_id="First India News">First India News</channel>
+  <channel site="tobalan_0" site_id="956||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png" xmltv_id="TV 5 Kannada">TV 5 Kannada</channel>
+  <channel site="tobalan_0" site_id="960||http://jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" xmltv_id="JUS 24x7">JUS 24x7</channel>
+  <channel site="tobalan_0" site_id="958||http://jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" xmltv_id="DNN">DNN</channel>
+  <channel site="tobalan_0" site_id="937||http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" xmltv_id="Sai TV">Sai TV</channel>
+  <channel site="tobalan_0" site_id="964||http://jiotv.catchup.cdn.jio.com/dare_images/images/Om_Shanti.png" xmltv_id="Om Shanti">Om Shanti</channel>
+  <channel site="tobalan_0" site_id="962||http://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" xmltv_id="Boogle Bollywood">Boogle Bollywood</channel>
+  <channel site="tobalan_0" site_id="959||http://jiotv.catchup.cdn.jio.com/dare_images/images/JUSPunjabi.png" xmltv_id="JUSPunjabi">JUSPunjabi</channel>
+  <channel site="tobalan_0" site_id="955||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" xmltv_id="Hindu Dharmam">Hindu Dharmam</channel>
+  <channel site="tobalan_0" site_id="971||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vaanavil_TV.png" xmltv_id="Vaanavil TV">Vaanavil TV</channel>
+  <channel site="tobalan_0" site_id="957||http://jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png" xmltv_id="INH 24x7">INH 24x7</channel>
+  <channel site="tobalan_0" site_id="972||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" xmltv_id="Sarv Dharam Sangam">Sarv Dharam Sangam</channel>
+  <channel site="tobalan_0" site_id="970||http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" xmltv_id="Win TV">Win TV</channel>
+  <channel site="tobalan_0" site_id="975||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png" xmltv_id="Jantantra">Jantantra</channel>
+  <channel site="tobalan_0" site_id="961||http://jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png" xmltv_id="JUSOne">JUSOne</channel>
+  <channel site="tobalan_0" site_id="977||http://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" xmltv_id="Calvary">Calvary</channel>
+  <channel site="tobalan_0" site_id="978||http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST1_HD.png" xmltv_id="TEST1 HD">TEST1 HD</channel>
+  <channel site="tobalan_0" site_id="965||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" xmltv_id="News 18 Kerala">News 18 Kerala</channel>
+  <channel site="tobalan_0" site_id="982||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png" xmltv_id="Swayam Prabha 03">Swayam Prabha 03</channel>
+  <channel site="tobalan_0" site_id="981||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png" xmltv_id="Swayam Prabha 02">Swayam Prabha 02</channel>
+  <channel site="tobalan_0" site_id="966||http://jiotv.catchup.cdn.jio.com/dare_images/images/PrudentHD.png" xmltv_id="Prudent">Prudent</channel>
+  <channel site="tobalan_0" site_id="963||http://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" xmltv_id="Arre HD">Arre HD</channel>
+  <channel site="tobalan_0" site_id="983||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_08.png" xmltv_id="Swayam Prabha 08">Swayam Prabha 08</channel>
+  <channel site="tobalan_0" site_id="984||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png" xmltv_id="Swayam Prabha 04">Swayam Prabha 04</channel>
+  <channel site="tobalan_0" site_id="985||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_07.png" xmltv_id="Swayam Prabha 07">Swayam Prabha 07</channel>
+  <channel site="tobalan_0" site_id="986||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png" xmltv_id="Swayam Prabha 05">Swayam Prabha 05</channel>
+  <channel site="tobalan_0" site_id="988||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_09.png" xmltv_id="Swayam Prabha 09">Swayam Prabha 09</channel>
+  <channel site="tobalan_0" site_id="992||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_13.png" xmltv_id="Swayam Prabha 13">Swayam Prabha 13</channel>
+  <channel site="tobalan_0" site_id="991||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png" xmltv_id="Swayam Prabha 12">Swayam Prabha 12</channel>
+  <channel site="tobalan_0" site_id="993||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_14.png" xmltv_id="Swayam Prabha 14">Swayam Prabha 14</channel>
+  <channel site="tobalan_0" site_id="979||http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST2_HD.png" xmltv_id="TEST2 HD">TEST2 HD</channel>
+  <channel site="tobalan_0" site_id="994||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png" xmltv_id="Swayam Prabha 16">Swayam Prabha 16</channel>
+  <channel site="tobalan_0" site_id="995||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png" xmltv_id="Swayam Prabha 15">Swayam Prabha 15</channel>
+  <channel site="tobalan_0" site_id="990||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_11.png" xmltv_id="Swayam Prabha 11">Swayam Prabha 11</channel>
+  <channel site="tobalan_0" site_id="996||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png" xmltv_id="Swayam Prabha 17">Swayam Prabha 17</channel>
+  <channel site="tobalan_0" site_id="980||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png" xmltv_id="Swayam Prabha 01">Swayam Prabha 01</channel>
+  <channel site="tobalan_0" site_id="997||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_21.png" xmltv_id="Swayam Prabha 21">Swayam Prabha 21</channel>
+  <channel site="tobalan_0" site_id="1059||http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST3_HD.png" xmltv_id="TEST3 HD">TEST3 HD</channel>
+  <channel site="tobalan_0" site_id="999||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png" xmltv_id="Swayam Prabha 18">Swayam Prabha 18</channel>
+  <channel site="tobalan_0" site_id="1066||http://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png" xmltv_id="The Q">The Q</channel>
+  <channel site="tobalan_0" site_id="987||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_06.png" xmltv_id="Swayam Prabha 06">Swayam Prabha 06</channel>
+  <channel site="tobalan_0" site_id="1069||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_1.png" xmltv_id="Vande Gujarat 1">Vande Gujarat 1</channel>
+  <channel site="tobalan_0" site_id="989||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_10.png" xmltv_id="Swayam Prabha 10">Swayam Prabha 10</channel>
+  <channel site="tobalan_0" site_id="1073||http://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png" xmltv_id="Samara News">Samara News</channel>
+  <channel site="tobalan_0" site_id="1071||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_4.png" xmltv_id="Vande Gujarat 4">Vande Gujarat 4</channel>
+  <channel site="tobalan_0" site_id="1075||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png" xmltv_id="Ayush TV">Ayush TV</channel>
+  <channel site="tobalan_0" site_id="1077||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sharnam_TV.png" xmltv_id="Sharnam TV">Sharnam TV</channel>
+  <channel site="tobalan_0" site_id="1078||http://jiotv.catchup.cdn.jio.com/dare_images/images/Soham_TV.png" xmltv_id="Soham TV">Soham TV</channel>
+  <channel site="tobalan_0" site_id="1079||http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" xmltv_id="CN HD+ English">CN HD+ English</channel>
+  <channel site="tobalan_0" site_id="998||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_22.png" xmltv_id="Swayam Prabha 22">Swayam Prabha 22</channel>
+  <channel site="tobalan_0" site_id="1081||http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" xmltv_id="CN HD+ Tamil">CN HD+ Tamil</channel>
+  <channel site="tobalan_0" site_id="1070||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_2.png" xmltv_id="Vande Gujarat 2">Vande Gujarat 2</channel>
+  <channel site="tobalan_0" site_id="1083||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_5.png" xmltv_id="Vande Gujarat 5">Vande Gujarat 5</channel>
+  <channel site="tobalan_0" site_id="1084||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_6.png" xmltv_id="Vande Gujarat 6">Vande Gujarat 6</channel>
+  <channel site="tobalan_0" site_id="1086||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_8.png" xmltv_id="Vande Gujarat 8">Vande Gujarat 8</channel>
+  <channel site="tobalan_0" site_id="1061||http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST5_HD.png" xmltv_id="TEST5 HD">TEST5 HD</channel>
+  <channel site="tobalan_0" site_id="1087||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_9.png" xmltv_id="Vande Gujarat 9">Vande Gujarat 9</channel>
+  <channel site="tobalan_0" site_id="1080||http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" xmltv_id="CN HD+ Telugu">CN HD+ Telugu</channel>
+  <channel site="tobalan_0" site_id="1088||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_10.png" xmltv_id="Vande Gujarat 10">Vande Gujarat 10</channel>
+  <channel site="tobalan_0" site_id="1085||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_7.png" xmltv_id="Vande Gujarat 7">Vande Gujarat 7</channel>
+  <channel site="tobalan_0" site_id="1089||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_11.png" xmltv_id="Vande Gujarat 11">Vande Gujarat 11</channel>
+  <channel site="tobalan_0" site_id="1091||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_13.png" xmltv_id="Vande Gujarat 13">Vande Gujarat 13</channel>
+  <channel site="tobalan_0" site_id="1093||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_15.png" xmltv_id="Vande Gujarat 15">Vande Gujarat 15</channel>
+  <channel site="tobalan_0" site_id="1099||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hamari_Sanskruti_TV.png" xmltv_id="Hamari Sanskruti">Hamari Sanskruti</channel>
+  <channel site="tobalan_0" site_id="1094||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_16.png" xmltv_id="Vande Gujarat 16">Vande Gujarat 16</channel>
+  <channel site="tobalan_0" site_id="1103||http://jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" xmltv_id="PEACE MUSIC">PEACE MUSIC</channel>
+  <channel site="tobalan_0" site_id="1092||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_14.png" xmltv_id="Vande Gujarat 14">Vande Gujarat 14</channel>
+  <channel site="tobalan_0" site_id="1102||http://jiotv.catchup.cdn.jio.com/dare_images/images/RDX_News.png" xmltv_id="RDX Goa">RDX Goa</channel>
+  <channel site="tobalan_0" site_id="1144||http://jiotv.catchup.cdn.jio.com/dare_images/images/Namma_TV.png" xmltv_id="Namma TV">Namma TV</channel>
+  <channel site="tobalan_0" site_id="1146||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" xmltv_id="Sony Marathi SD">Sony Marathi SD</channel>
+  <channel site="tobalan_0" site_id="1145||http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" xmltv_id="MTV HD Plus">MTV HD Plus</channel>
+  <channel site="tobalan_0" site_id="1082||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_3.png" xmltv_id="Vande Gujarat 3">Vande Gujarat 3</channel>
+  <channel site="tobalan_0" site_id="1151||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png" xmltv_id="Rangamanch">Rangamanch</channel>
+  <channel site="tobalan_0" site_id="1157||http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+  <channel site="tobalan_0" site_id="1159||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tulja_Bhavani.png" xmltv_id="Tulja Bhavani">Tulja Bhavani</channel>
+  <channel site="tobalan_0" site_id="1090||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_12.png" xmltv_id="Vande Gujarat 12">Vande Gujarat 12</channel>
+  <channel site="tobalan_0" site_id="1158||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" xmltv_id="Colors Infinity HD">Colors Infinity HD</channel>
+  <channel site="tobalan_0" site_id="1174||http://jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png" xmltv_id="Fateh TV">Fateh TV</channel>
+  <channel site="tobalan_0" site_id="1170||http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" xmltv_id="PTC News">PTC News</channel>
+  <channel site="tobalan_0" site_id="1175||http://jiotv.catchup.cdn.jio.com/dare_images/images/Awakening.png" xmltv_id="Awakening">Awakening</channel>
+  <channel site="tobalan_0" site_id="1171||http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" xmltv_id="PTC Punjabi">PTC Punjabi</channel>
+  <channel site="tobalan_0" site_id="1172||http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" xmltv_id="PTC Chak De">PTC Chak De</channel>
+  <channel site="tobalan_0" site_id="1184||http://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" xmltv_id="Steelbird Music">Steelbird Music</channel>
+  <channel site="tobalan_0" site_id="1185||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swadesh_News.png" xmltv_id="Swadesh News">Swadesh News</channel>
+  <channel site="tobalan_0" site_id="1186||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kartavya_Tv.png" xmltv_id="Kartavya TV">Kartavya TV</channel>
+  <channel site="tobalan_0" site_id="1187||http://jiotv.catchup.cdn.jio.com/dare_images/images/Valambhakti.png" xmltv_id="Valam TV">Valam TV</channel>
+  <channel site="tobalan_0" site_id="1163||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" xmltv_id="JioGames HD">JioGames HD</channel>
+  <channel site="tobalan_0" site_id="1189||http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" xmltv_id="PTC Music">PTC Music</channel>
+  <channel site="tobalan_0" site_id="1188||http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" xmltv_id="PTC DHOL TV">PTC DHOL TV</channel>
+  <channel site="tobalan_0" site_id="1190||http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" xmltv_id="PTC Punjabi Gold">PTC Punjabi Gold</channel>
+  <channel site="tobalan_0" site_id="1191||http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" xmltv_id="PTC Simran">PTC Simran</channel>
+  <channel site="tobalan_0" site_id="1193||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_music.png" xmltv_id="Hare Krsna Music">Hare Krsna Music</channel>
+  <channel site="tobalan_0" site_id="1201||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" xmltv_id="Sadhguru Television HD">Sadhguru Television HD</channel>
+  <channel site="tobalan_0" site_id="1192||http://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png" xmltv_id="Brit Asia">Brit Asia</channel>
+  <channel site="tobalan_0" site_id="1209||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" xmltv_id="Kalaignar TV">Kalaignar TV</channel>
+  <channel site="tobalan_0" site_id="1179||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" xmltv_id="Bansal News">Bansal News</channel>
+  <channel site="tobalan_0" site_id="1210||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" xmltv_id="Kalaignar Seithigal">Kalaignar Seithigal</channel>
+  <channel site="tobalan_0" site_id="1212||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_Pravachan.png" xmltv_id="Hare Krsna Pravachan">Hare Krsna Pravachan</channel>
+  <channel site="tobalan_0" site_id="1216||http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" xmltv_id="Highbrow">Highbrow</channel>
+  <channel site="tobalan_0" site_id="1219||http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" xmltv_id="Animal Planet HD Tamil">Animal Planet HD Tamil</channel>
+  <channel site="tobalan_0" site_id="1220||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_TV.png" xmltv_id="Rajyoga TV">Rajyoga TV</channel>
+  <channel site="tobalan_0" site_id="1223||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dagdusheth_Pune.png" xmltv_id="Dagdusheth Ganpati - Pune">Dagdusheth Ganpati - Pune</channel>
+  <channel site="tobalan_0" site_id="1222||http://jiotv.catchup.cdn.jio.com/dare_images/images/GovindDevji_Jaipur.png" xmltv_id="Mandir Shri Govinddevji-Jaipur">Mandir Shri Govinddevji-Jaipur</channel>
+  <channel site="tobalan_0" site_id="1224||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nimbark.png" xmltv_id="Nimbark TV">Nimbark TV</channel>
+  <channel site="tobalan_0" site_id="1176||http://jiotv.catchup.cdn.jio.com/dare_images/images/SRMD.png" xmltv_id="SRMD HD">SRMD HD</channel>
+  <channel site="tobalan_0" site_id="1226||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" xmltv_id="Nick HD+">Nick HD+</channel>
+  <channel site="tobalan_0" site_id="1205||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" xmltv_id="ABP Ganga">ABP Ganga</channel>
+  <channel site="tobalan_0" site_id="1230||http://jiotv.catchup.cdn.jio.com/dare_images/images/VR_360.png" xmltv_id="PTC VR">PTC VR</channel>
+  <channel site="tobalan_0" site_id="1221||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" xmltv_id="Rajyoga TV Kannada">Rajyoga TV Kannada</channel>
+  <channel site="tobalan_0" site_id="1240||http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST10_HD.png" xmltv_id="TEST10 HD">TEST10 HD</channel>
+  <channel site="tobalan_0" site_id="1241||http://jiotv.catchup.cdn.jio.com/dare_images/images/God_TV.png" xmltv_id="God TV">God TV</channel>
+  <channel site="tobalan_0" site_id="1242||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" xmltv_id="Sonic Telugu">Sonic Telugu</channel>
+  <channel site="tobalan_0" site_id="1243||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" xmltv_id="Sonic Kannada">Sonic Kannada</channel>
+  <channel site="tobalan_0" site_id="1227||http://jiotv.catchup.cdn.jio.com/dare_images/images/Digishala.png" xmltv_id="Digishala">Digishala</channel>
+  <channel site="tobalan_0" site_id="1244||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" xmltv_id="Nick Kannada">Nick Kannada</channel>
+  <channel site="tobalan_0" site_id="1232||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" xmltv_id="Hi Dost!">Hi Dost!</channel>
+  <channel site="tobalan_0" site_id="1245||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png" xmltv_id="Sakkat">Sakkat</channel>
+  <channel site="tobalan_0" site_id="1246||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tripura_News.png" xmltv_id="Headlines Tripura">Headlines Tripura</channel>
+  <channel site="tobalan_0" site_id="1225||http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png" xmltv_id="Click Life">Click Life</channel>
+  <channel site="tobalan_0" site_id="1249||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png" xmltv_id="Kadak Hits">Kadak Hits</channel>
+  <channel site="tobalan_0" site_id="1248||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png" xmltv_id="Bol Hadippa">Bol Hadippa</channel>
+  <channel site="tobalan_0" site_id="1251||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png" xmltv_id="TV9 Bharatvarsh">TV9 Bharatvarsh</channel>
+  <channel site="tobalan_0" site_id="1250||http://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" xmltv_id="Twenty Four News">Twenty Four News</channel>
+  <channel site="tobalan_0" site_id="1255||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" xmltv_id="Aastha Tamil">Aastha Tamil</channel>
+  <channel site="tobalan_0" site_id="1254||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" xmltv_id="Aastha Telugu">Aastha Telugu</channel>
+  <channel site="tobalan_0" site_id="1260||http://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" xmltv_id="Ctvn Akd Plus">Ctvn Akd Plus</channel>
+  <channel site="tobalan_0" site_id="1261||http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" xmltv_id="Calcutta News">Calcutta News</channel>
+  <channel site="tobalan_0" site_id="1263||http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" xmltv_id="Total Tv Haryana">Total Tv Haryana</channel>
+  <channel site="tobalan_0" site_id="1252||http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" xmltv_id="Tehzeeb TV">Tehzeeb TV</channel>
+  <channel site="tobalan_0" site_id="1271||http://jiotv.catchup.cdn.jio.com/dare_images/images/Udupi_Krishna_Temple.png" xmltv_id="Sri Krishna Matha Udupi">Sri Krishna Matha Udupi</channel>
+  <channel site="tobalan_0" site_id="1273||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sugran.png" xmltv_id="Sugran">Sugran</channel>
+  <channel site="tobalan_0" site_id="1265||http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Sanjh.png" xmltv_id="Global Sanjh">Global Sanjh</channel>
+  <channel site="tobalan_0" site_id="1274||http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" xmltv_id="Studio One">Studio One</channel>
+  <channel site="tobalan_0" site_id="1264||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" xmltv_id="Kolkata TV">Kolkata TV</channel>
+  <channel site="tobalan_0" site_id="1278||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" xmltv_id="Prarthana Bhawan">Prarthana Bhawan</channel>
+  <channel site="tobalan_0" site_id="1257||http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" xmltv_id="Surya Samachar">Surya Samachar</channel>
+  <channel site="tobalan_0" site_id="1279||http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" xmltv_id="Manoranjan Grand">Manoranjan Grand</channel>
+  <channel site="tobalan_0" site_id="1281||http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" xmltv_id="Manoranjan Movies">Manoranjan Movies</channel>
+  <channel site="tobalan_0" site_id="1256||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" xmltv_id="Aastha Kannada">Aastha Kannada</channel>
+  <channel site="tobalan_0" site_id="1280||http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" xmltv_id="Manoranjan TV">Manoranjan TV</channel>
+  <channel site="tobalan_0" site_id="1282||http://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" xmltv_id="Khushboo TV">Khushboo TV</channel>
+  <channel site="tobalan_0" site_id="1284||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vignesh_TV.PNG" xmltv_id="Vignesh TV">Vignesh TV</channel>
+  <channel site="tobalan_0" site_id="1286||http://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" xmltv_id="Insync">Insync</channel>
+  <channel site="tobalan_0" site_id="1287||http://jiotv.catchup.cdn.jio.com/dare_images/images/ANBNews.png" xmltv_id="ANB News">ANB News</channel>
+  <channel site="tobalan_0" site_id="1288||http://jiotv.catchup.cdn.jio.com/dare_images/images/Omkareshwar_Temple.png" xmltv_id="Shri Omkareshwar Mandir">Shri Omkareshwar Mandir</channel>
+  <channel site="tobalan_0" site_id="1290||http://jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png" xmltv_id="Stars Tell">Stars Tell</channel>
+  <channel site="tobalan_0" site_id="1291||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" xmltv_id="ABP Sanjha">ABP Sanjha</channel>
+  <channel site="tobalan_0" site_id="1283||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hanuman_Mahavir_Temple.png" xmltv_id="Mahavir Mandir Patna">Mahavir Mandir Patna</channel>
+  <channel site="tobalan_0" site_id="1293||http://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" xmltv_id="Lokshahi News">Lokshahi News</channel>
+  <channel site="tobalan_0" site_id="1294||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" xmltv_id="Eurosport">Eurosport</channel>
+  <channel site="tobalan_0" site_id="1295||http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" xmltv_id="B4U Kadak">B4U Kadak</channel>
+  <channel site="tobalan_0" site_id="1296||http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" xmltv_id="B4U Bhojpuri">B4U Bhojpuri</channel>
+  <channel site="tobalan_0" site_id="1299||http://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" xmltv_id="Manjari TV">Manjari TV</channel>
+  <channel site="tobalan_0" site_id="1320||http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png" xmltv_id="VH1 HD">VH1 HD</channel>
+  <channel site="tobalan_0" site_id="1322||http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" xmltv_id="&amp;Flix HD">&amp;Flix HD</channel>
+  <channel site="tobalan_0" site_id="1324||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" xmltv_id="Colors Gujarati Cinema">Colors Gujarati Cinema</channel>
+  <channel site="tobalan_0" site_id="1292||http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" xmltv_id="Wellness">Wellness</channel>
+  <channel site="tobalan_0" site_id="1326||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" xmltv_id="Colors Marathi SD">Colors Marathi SD</channel>
+  <channel site="tobalan_0" site_id="1319||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" xmltv_id="Zee Cafe HD">Zee Cafe HD</channel>
+  <channel site="tobalan_0" site_id="1327||http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" xmltv_id="Comedy Central SD">Comedy Central SD</channel>
+  <channel site="tobalan_0" site_id="1329||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Gyandarshan.png" xmltv_id="DD Gyandarshan">DD Gyandarshan</channel>
+  <channel site="tobalan_0" site_id="1340||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" xmltv_id="Nick Malayalam">Nick Malayalam</channel>
+  <channel site="tobalan_0" site_id="1338||http://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" xmltv_id="RT TV">RT TV</channel>
+  <channel site="tobalan_0" site_id="1337||http://jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" xmltv_id="Top Tutor">Top Tutor</channel>
+  <channel site="tobalan_0" site_id="1328||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Arunprabha.png" xmltv_id="DD Arunprabha">DD Arunprabha</channel>
+  <channel site="tobalan_0" site_id="1341||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" xmltv_id="Nick Bangla">Nick Bangla</channel>
+  <channel site="tobalan_0" site_id="1342||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" xmltv_id="Nick Marathi">Nick Marathi</channel>
+  <channel site="tobalan_0" site_id="1344||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" xmltv_id="Sonic Malayalam">Sonic Malayalam</channel>
+  <channel site="tobalan_0" site_id="1315||http://jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png" xmltv_id="HHDL">HHDL</channel>
+  <channel site="tobalan_0" site_id="1325||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" xmltv_id="Colors Infinity SD">Colors Infinity SD</channel>
+  <channel site="tobalan_0" site_id="1349||http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" xmltv_id="And Prive HD">And Prive HD</channel>
+  <channel site="tobalan_0" site_id="1346||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" xmltv_id="Sonic Marathi">Sonic Marathi</channel>
+  <channel site="tobalan_0" site_id="1345||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" xmltv_id="Sonic Bangla">Sonic Bangla</channel>
+  <channel site="tobalan_0" site_id="1351||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" xmltv_id="Zee TV">Zee TV</channel>
+  <channel site="tobalan_0" site_id="1354||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" xmltv_id="Zee Telugu HD">Zee Telugu HD</channel>
+  <channel site="tobalan_0" site_id="1359||http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" xmltv_id="Big Magic">Big Magic</channel>
+  <channel site="tobalan_0" site_id="1358||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" xmltv_id="Zee Talkies HD">Zee Talkies HD</channel>
+  <channel site="tobalan_0" site_id="1362||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png" xmltv_id="Zee Kannada HD">Zee Kannada HD</channel>
+  <channel site="tobalan_0" site_id="1368||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" xmltv_id="Colors SD">Colors SD</channel>
+  <channel site="tobalan_0" site_id="1363||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" xmltv_id="Zee Cinemalu HD">Zee Cinemalu HD</channel>
+  <channel site="tobalan_0" site_id="1369||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" xmltv_id="Colors Bangla SD">Colors Bangla SD</channel>
+  <channel site="tobalan_0" site_id="1356||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" xmltv_id="Zee Tamil HD">Zee Tamil HD</channel>
+  <channel site="tobalan_0" site_id="1371||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" xmltv_id="Colors Tamil">Colors Tamil</channel>
+  <channel site="tobalan_0" site_id="1388||http://jiotv.catchup.cdn.jio.com/dare_images/images/Goodness_TV.png" xmltv_id="Goodness">Goodness</channel>
+  <channel site="tobalan_0" site_id="1378||http://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" xmltv_id="VH1">VH1</channel>
+  <channel site="tobalan_0" site_id="1393||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" xmltv_id="Sony Wah">Sony Wah</channel>
+  <channel site="tobalan_0" site_id="1394||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" xmltv_id="Jai Maharashtra">Jai Maharashtra</channel>
+  <channel site="tobalan_0" site_id="1403||http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png" xmltv_id="Republic Bharat">Republic Bharat</channel>
+  <channel site="tobalan_0" site_id="1400||http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" xmltv_id="MTV Beats SD">MTV Beats SD</channel>
+  <channel site="tobalan_0" site_id="1162||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png" xmltv_id="Prime Asia TV HD">Prime Asia TV HD</channel>
+  <channel site="tobalan_0" site_id="1360||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" xmltv_id="Zee Marathi HD">Zee Marathi HD</channel>
+  <channel site="tobalan_0" site_id="1405||http://jiotv.catchup.cdn.jio.com/dare_images/images/NHK_World_Japan.png" xmltv_id="NHK World Japan">NHK World Japan</channel>
+  <channel site="tobalan_0" site_id="1411||http://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" xmltv_id="SongDew TV">SongDew TV</channel>
+  <channel site="tobalan_0" site_id="1412||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png" xmltv_id="Shani Shingnapur">Shani Shingnapur</channel>
+  <channel site="tobalan_0" site_id="1407||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png" xmltv_id="Sai Leela">Sai Leela</channel>
+  <channel site="tobalan_0" site_id="1410||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_11.png" xmltv_id="PM e Vidya 11">PM e Vidya 11</channel>
+  <channel site="tobalan_0" site_id="1414||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png" xmltv_id="Prati Shirdi Saibaba">Prati Shirdi Saibaba</channel>
+  <channel site="tobalan_0" site_id="1417||http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" xmltv_id="SVBC2">SVBC2</channel>
+  <channel site="tobalan_0" site_id="1370||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" xmltv_id="Colors Kannada SD">Colors Kannada SD</channel>
+  <channel site="tobalan_0" site_id="1418||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png" xmltv_id="Ichhapuran Balaji Rajasthan">Ichhapuran Balaji Rajasthan</channel>
+  <channel site="tobalan_0" site_id="1419||http://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png" xmltv_id="Iskon Girgaon">Iskon Girgaon</channel>
+  <channel site="tobalan_0" site_id="1420||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png" xmltv_id="Ashtavinayak Ranjangaon">Ashtavinayak Ranjangaon</channel>
+  <channel site="tobalan_0" site_id="1421||http://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" xmltv_id="Karani Mata Rajasthan">Karani Mata Rajasthan</channel>
+  <channel site="tobalan_0" site_id="1422||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png" xmltv_id="Mahalaxmi Mumbai">Mahalaxmi Mumbai</channel>
+  <channel site="tobalan_0" site_id="1423||http://jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png" xmltv_id="Babulnaath Mumbai">Babulnaath Mumbai</channel>
+  <channel site="tobalan_0" site_id="1426||http://jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" xmltv_id="Santvani">Santvani</channel>
+  <channel site="tobalan_0" site_id="1424||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png" xmltv_id="Mumbadevi Mumbai">Mumbadevi Mumbai</channel>
+  <channel site="tobalan_0" site_id="1429||http://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" xmltv_id="KITE VICTERS">KITE VICTERS</channel>
+  <channel site="tobalan_0" site_id="1427||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" xmltv_id="Nandighosha">Nandighosha</channel>
+  <channel site="tobalan_0" site_id="1432||http://jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png" xmltv_id="TIME8">TIME8</channel>
+  <channel site="tobalan_0" site_id="1430||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" xmltv_id="Jio KIDS">Jio KIDS</channel>
+  <channel site="tobalan_0" site_id="1396||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" xmltv_id="Set SD">Set SD</channel>
+  <channel site="tobalan_0" site_id="1428||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png" xmltv_id="Gyan Brikshya">Gyan Brikshya</channel>
+  <channel site="tobalan_0" site_id="1434||http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" xmltv_id="Utkarsh Primary">Utkarsh Primary</channel>
+  <channel site="tobalan_0" site_id="1435||http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" xmltv_id="Utkarsh HSBTE">Utkarsh HSBTE</channel>
+  <channel site="tobalan_0" site_id="1415||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png" xmltv_id="Ganga Darshan Varanasi">Ganga Darshan Varanasi</channel>
+  <channel site="tobalan_0" site_id="1436||http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" xmltv_id="Utkarsh Secondary">Utkarsh Secondary</channel>
+  <channel site="tobalan_0" site_id="1437||http://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" xmltv_id="Utkarsh Higher">Utkarsh Higher</channel>
+  <channel site="tobalan_0" site_id="1438||http://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" xmltv_id="Velukkudi Discourses">Velukkudi Discourses</channel>
+  <channel site="tobalan_0" site_id="1440||http://jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png" xmltv_id="Krishna Vani">Krishna Vani</channel>
+  <channel site="tobalan_0" site_id="1447||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" xmltv_id="TV Teacher">TV Teacher</channel>
+  <channel site="tobalan_0" site_id="1450||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" xmltv_id="Colors Cineplex Superhit">Colors Cineplex Superhit</channel>
+  <channel site="tobalan_0" site_id="1451||http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" xmltv_id="9 Bharat Samachar">9 Bharat Samachar</channel>
+  <channel site="tobalan_0" site_id="1441||http://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" xmltv_id="Wah Punjabi">Wah Punjabi</channel>
+  <channel site="tobalan_0" site_id="1433||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" xmltv_id="India Science">India Science</channel>
+  <channel site="tobalan_0" site_id="1454||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png" xmltv_id="Shiksha TV">Shiksha TV</channel>
+  <channel site="tobalan_0" site_id="1456||http://jiotv.catchup.cdn.jio.com/dare_images/images/Manipur_Educational_Channel.png" xmltv_id="Lairik">Lairik</channel>
+  <channel site="tobalan_0" site_id="1458||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gurkebaani.png" xmltv_id="Gurkibani">Gurkibani</channel>
+  <channel site="tobalan_0" site_id="1457||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Only.png" xmltv_id="News Only">News Only</channel>
+  <channel site="tobalan_0" site_id="1452||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" xmltv_id="Shemaroo MarathiBana">Shemaroo MarathiBana</channel>
+  <channel site="tobalan_0" site_id="1463||http://jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png" xmltv_id="Shree Ganesh - Moti Doongri Jaipur">Shree Ganesh - Moti Doongri Jaipur</channel>
+  <channel site="tobalan_0" site_id="1455||http://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" xmltv_id="Janapriyam">Janapriyam</channel>
+  <channel site="tobalan_0" site_id="1453||http://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" xmltv_id="Balle Balle TV">Balle Balle TV</channel>
+  <channel site="tobalan_0" site_id="1481||http://jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" xmltv_id="Argus News">Argus News</channel>
+  <channel site="tobalan_0" site_id="1479||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakoda_Temple.png" xmltv_id="Shri Jain Nakoda Parshwanath Tirth">Shri Jain Nakoda Parshwanath Tirth</channel>
+  <channel site="tobalan_0" site_id="1482||http://jiotv.catchup.cdn.jio.com/dare_images/images/Amma.png" xmltv_id="AMMA TV">AMMA TV</channel>
+  <channel site="tobalan_0" site_id="1471||http://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" xmltv_id="History TV18 SD">History TV18 SD</channel>
+  <channel site="tobalan_0" site_id="1518||http://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" xmltv_id="Moon TV">Moon TV</channel>
+  <channel site="tobalan_0" site_id="1515||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" xmltv_id="News J">News J</channel>
+  <channel site="tobalan_0" site_id="1494||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png" xmltv_id="BHOOMI 24x7">BHOOMI 24x7</channel>
+  <channel site="tobalan_0" site_id="1521||http://jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" xmltv_id="Birla Brainiacs">Birla Brainiacs</channel>
+  <channel site="tobalan_0" site_id="1527||http://jiotv.catchup.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" xmltv_id="Haryanvi Hits">Haryanvi Hits</channel>
+  <channel site="tobalan_0" site_id="1525||http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png" xmltv_id="TEST13 HD">TEST13 HD</channel>
+  <channel site="tobalan_0" site_id="1528||http://jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" xmltv_id="Network 10">Network 10</channel>
+  <channel site="tobalan_0" site_id="1532||http://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" xmltv_id="PM e Vidya 12">PM e Vidya 12</channel>
+  <channel site="tobalan_0" site_id="1529||http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" xmltv_id="MI TV">MI TV</channel>
+  <channel site="tobalan_0" site_id="1534||http://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png" xmltv_id="World Punjabi">World Punjabi</channel>
+  <channel site="tobalan_0" site_id="1464||http://jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png" xmltv_id="Daijiworld TV 24x7">Daijiworld TV 24x7</channel>
+  <channel site="tobalan_0" site_id="1531||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" xmltv_id="Gyanvani 1">Gyanvani 1</channel>
+  <channel site="tobalan_0" site_id="1539||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png" xmltv_id="Sangat TV">Sangat TV</channel>
+  <channel site="tobalan_0" site_id="1542||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" xmltv_id="Tute">Tute</channel>
+  <channel site="tobalan_0" site_id="1537||http://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" xmltv_id="RadheKrishna TV">RadheKrishna TV</channel>
+  <channel site="tobalan_0" site_id="1477||http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" xmltv_id="Colors Cineplex HD">Colors Cineplex HD</channel>
+  <channel site="tobalan_0" site_id="1548||http://jiotv.catchup.cdn.jio.com/dare_images/images/Khandoba_Majha_Jejuri.png" xmltv_id="Khandoba Majha, Jejuri">Khandoba Majha, Jejuri</channel>
+  <channel site="tobalan_0" site_id="1543||http://jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" xmltv_id="Subharti">Subharti</channel>
+  <channel site="tobalan_0" site_id="1552||http://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" xmltv_id="Malanadu TV">Malanadu TV</channel>
+  <channel site="tobalan_0" site_id="1549||http://jiotv.catchup.cdn.jio.com/dare_images/images/DharmaGranth_TV.png" xmltv_id="Dharm Granth TV">Dharm Granth TV</channel>
+  <channel site="tobalan_0" site_id="1551||http://jiotv.catchup.cdn.jio.com/dare_images/images/P_News.png" xmltv_id="P News">P News</channel>
+  <channel site="tobalan_0" site_id="1557||http://jiotv.catchup.cdn.jio.com/dare_images/images/Express_TV.png" xmltv_id="Express TV">Express TV</channel>
+  <channel site="tobalan_0" site_id="1555||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png" xmltv_id="News First">News First</channel>
+  <channel site="tobalan_0" site_id="1554||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanatan_TV.png" xmltv_id="Sanatan TV">Sanatan TV</channel>
+  <channel site="tobalan_0" site_id="1514||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" xmltv_id="Kannur One">Kannur One</channel>
+  <channel site="tobalan_0" site_id="1559||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jigyasa_TV.png" xmltv_id="Jigyasa TV">Jigyasa TV</channel>
+  <channel site="tobalan_0" site_id="1560||http://jiotv.catchup.cdn.jio.com/dare_images/images/35mm.png" xmltv_id="35mm">35mm</channel>
+  <channel site="tobalan_0" site_id="1562||http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" xmltv_id="Himshiksha Elementary">Himshiksha Elementary</channel>
+  <channel site="tobalan_0" site_id="1563||http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" xmltv_id="Himshiksha Higher">Himshiksha Higher</channel>
+  <channel site="tobalan_0" site_id="1561||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sristi_TV.png" xmltv_id="Sristi TV">Sristi TV</channel>
+  <channel site="tobalan_0" site_id="1565||http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" xmltv_id="AP-BIE-ARTS">AP-BIE-ARTS</channel>
+  <channel site="tobalan_0" site_id="1564||http://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" xmltv_id="Himshiksha Vocational">Himshiksha Vocational</channel>
+  <channel site="tobalan_0" site_id="1566||http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" xmltv_id="AP-BIE-SCIENCE">AP-BIE-SCIENCE</channel>
+  <channel site="tobalan_0" site_id="1567||http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" xmltv_id="AP-CIE-SIVE">AP-CIE-SIVE</channel>
+  <channel site="tobalan_0" site_id="1550||http://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" xmltv_id="AB News">AB News</channel>
+  <channel site="tobalan_0" site_id="1545||http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png" xmltv_id="Punjab School TV">Punjab School TV</channel>
+  <channel site="tobalan_0" site_id="1568||http://jiotv.catchup.cdn.jio.com/dare_images/images/Atmadarshan_TV.png" xmltv_id="Atmadarshan TV">Atmadarshan TV</channel>
+  <channel site="tobalan_0" site_id="1592||http://jiotv.catchup.cdn.jio.com/dare_images/images/Lokmanch_News.png" xmltv_id="Lokmanch News">Lokmanch News</channel>
+  <channel site="tobalan_0" site_id="1590||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png" xmltv_id="Sanskrit">Sanskrit</channel>
+  <channel site="tobalan_0" site_id="1605||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bangla_Bhakti.png" xmltv_id="Bangla Bhakti">Bangla Bhakti</channel>
+  <channel site="tobalan_0" site_id="1594||http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_24.png" xmltv_id="Samachar 24">Samachar 24</channel>
+  <channel site="tobalan_0" site_id="1607||http://jiotv.catchup.cdn.jio.com/dare_images/images/Manav_Dharam.png" xmltv_id="Manav Dharam">Manav Dharam</channel>
+  <channel site="tobalan_0" site_id="1593||http://jiotv.catchup.cdn.jio.com/dare_images/images/Lifology.png" xmltv_id="Lifology">Lifology</channel>
+  <channel site="tobalan_0" site_id="1553||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABSTAR_News.png" xmltv_id="AB Star News">AB Star News</channel>
+  <channel site="tobalan_0" site_id="1612||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tara_TV.png" xmltv_id="Tara TV">Tara TV</channel>
+  <channel site="tobalan_0" site_id="1613||http://jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png" xmltv_id="Medha Secondary">Medha Secondary</channel>
+  <channel site="tobalan_0" site_id="1609||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ishvani_TV.png" xmltv_id="Ishvani TV">Ishvani TV</channel>
+  <channel site="tobalan_0" site_id="1632||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" xmltv_id="Colors Kannada Cinema">Colors Kannada Cinema</channel>
+  <channel site="tobalan_0" site_id="1614||http://jiotv.catchup.cdn.jio.com/dare_images/images/Omnicuris.png" xmltv_id="Omnicuris">Omnicuris</channel>
+  <channel site="tobalan_0" site_id="1618||http://jiotv.catchup.cdn.jio.com/dare_images/images/Real_News_Kerala.png" xmltv_id="Real News Kerala">Real News Kerala</channel>
+  <channel site="tobalan_0" site_id="1633||http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Movies.png" xmltv_id="Public Movies">Public Movies</channel>
+  <channel site="tobalan_0" site_id="1634||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sirikannada.png" xmltv_id="Siri Kannada">Siri Kannada</channel>
+  <channel site="tobalan_0" site_id="1635||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_MPCG.png" xmltv_id="News State MPCG">News State MPCG</channel>
+  <channel site="tobalan_0" site_id="1641||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png" xmltv_id="Zee Keralam HD">Zee Keralam HD</channel>
+  <channel site="tobalan_0" site_id="1643||http://jiotv.catchup.cdn.jio.com/dare_images/images/Harvest_TV_24x7.png" xmltv_id="Harvest TV 24x7">Harvest TV 24x7</channel>
+  <channel site="tobalan_0" site_id="1644||http://jiotv.catchup.cdn.jio.com/dare_images/images/Powervision_TV.png" xmltv_id="Powervision TV">Powervision TV</channel>
+  <channel site="tobalan_0" site_id="1647||http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Six.png" xmltv_id="MK Six">MK Six</channel>
+  <channel site="tobalan_0" site_id="1608||http://jiotv.catchup.cdn.jio.com/dare_images/images/MP_News.png" xmltv_id="MP News">MP News</channel>
+  <channel site="tobalan_0" site_id="1610||http://jiotv.catchup.cdn.jio.com/dare_images/images/Divyang_News.png" xmltv_id="Divyang News">Divyang News</channel>
+  <channel site="tobalan_0" site_id="1606||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png" xmltv_id="Ken TV Keralam">Ken TV Keralam</channel>
+  <channel site="tobalan_0" site_id="1658||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aalami_Samay.png" xmltv_id="Aalami Samay">Aalami Samay</channel>
+  <channel site="tobalan_0" site_id="1666||http://jiotv.catchup.cdn.jio.com/dare_images/images/Safari_TV.png" xmltv_id="Safari TV">Safari TV</channel>
+  <channel site="tobalan_0" site_id="1665||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" xmltv_id="ETV Cinema HD">ETV Cinema HD</channel>
+  <channel site="tobalan_0" site_id="1598||http://jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png" xmltv_id="FTV HD">FTV HD</channel>
+  <channel site="tobalan_0" site_id="1667||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rongeen_TV.png" xmltv_id="Rongeen TV">Rongeen TV</channel>
+  <channel site="tobalan_0" site_id="1662||http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png" xmltv_id="Surya Comedy">Surya Comedy</channel>
+  <channel site="tobalan_0" site_id="1670||http://jiotv.catchup.cdn.jio.com/dare_images/images/C_News_Bharat.png" xmltv_id="C News Bharat">C News Bharat</channel>
+  <channel site="tobalan_0" site_id="1672||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_2.png" xmltv_id="Gyanvani 2">Gyanvani 2</channel>
+  <channel site="tobalan_0" site_id="1673||http://jiotv.catchup.cdn.jio.com/dare_images/images/PTD_Chhattisgarrh.png" xmltv_id="PTD Chhattisgarrh">PTD Chhattisgarrh</channel>
+  <channel site="tobalan_0" site_id="1669||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" xmltv_id="Sun Bangla">Sun Bangla</channel>
+  <channel site="tobalan_0" site_id="1691||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" xmltv_id="Zee Classic">Zee Classic</channel>
+  <channel site="tobalan_0" site_id="1655||http://jiotv.catchup.cdn.jio.com/dare_images/images/Madha_TV.png" xmltv_id="Madha TV">Madha TV</channel>
+  <channel site="tobalan_0" site_id="1694||http://jiotv.catchup.cdn.jio.com/dare_images/images/Haryana_Beats.png" xmltv_id="Haryana Beats">Haryana Beats</channel>
+  <channel site="tobalan_0" site_id="1675||http://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" xmltv_id="ESG TV">ESG TV</channel>
+  <channel site="tobalan_0" site_id="1696||http://jiotv.catchup.cdn.jio.com/dare_images/images/SSV_TV.png" xmltv_id="SSV TV">SSV TV</channel>
+  <channel site="tobalan_0" site_id="1695||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_TV.png" xmltv_id="Prime TV">Prime TV</channel>
+  <channel site="tobalan_0" site_id="1690||http://jiotv.catchup.cdn.jio.com/dare_images/images/BVTV.png" xmltv_id="BVTV">BVTV</channel>
+  <channel site="tobalan_0" site_id="1705||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Hingulambika_Devi_Temple.png" xmltv_id="Shri Hingulambika Devi Temple">Shri Hingulambika Devi Temple</channel>
+  <channel site="tobalan_0" site_id="1706||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Mangal_Dev_Grah_Temple.png" xmltv_id="Shri Mangal Dev Grah Temple">Shri Mangal Dev Grah Temple</channel>
+  <channel site="tobalan_0" site_id="1698||http://jiotv.catchup.cdn.jio.com/dare_images/images/IND_24.png" xmltv_id="IND 24">IND 24</channel>
+  <channel site="tobalan_0" site_id="1725||http://jiotv.catchup.cdn.jio.com/dare_images/images/24hrs_TV.png" xmltv_id="24Hrs TV">24Hrs TV</channel>
+  <channel site="tobalan_0" site_id="1708||http://jiotv.catchup.cdn.jio.com/dare_images/images/SKY_12.png" xmltv_id="SKY 12">SKY 12</channel>
+  <channel site="tobalan_0" site_id="1692||http://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" xmltv_id="Badakhabar">Badakhabar</channel>
+  <channel site="tobalan_0" site_id="1730||http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab1_TV.png" xmltv_id="Luv Punjab TV">Luv Punjab TV</channel>
+  <channel site="tobalan_0" site_id="1699||http://jiotv.catchup.cdn.jio.com/dare_images/images/ANN_News.png" xmltv_id="ANN News">ANN News</channel>
+  <channel site="tobalan_0" site_id="1733||http://jiotv.catchup.cdn.jio.com/dare_images/images/ND24.png" xmltv_id="ND 24">ND 24</channel>
+  <channel site="tobalan_0" site_id="1734||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ek_Onkar.png" xmltv_id="Ek Onkar">Ek Onkar</channel>
+  <channel site="tobalan_0" site_id="1697||http://jiotv.catchup.cdn.jio.com/dare_images/images/FM_News.png" xmltv_id="FM News">FM News</channel>
+  <channel site="tobalan_0" site_id="1740||http://jiotv.catchup.cdn.jio.com/dare_images/images/Purnima_TV.png" xmltv_id="Purnima TV">Purnima TV</channel>
+  <channel site="tobalan_0" site_id="1738||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hosanna_TV.png" xmltv_id="Hosanna TV">Hosanna TV</channel>
+  <channel site="tobalan_0" site_id="1735||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png" xmltv_id="TV9 Bangla">TV9 Bangla</channel>
+  <channel site="tobalan_0" site_id="1728||http://jiotv.catchup.cdn.jio.com/dare_images/images/Anaadi_TV.png" xmltv_id="Anaadi TV">Anaadi TV</channel>
+  <channel site="tobalan_0" site_id="1742||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskrit_Ganga_TV.png" xmltv_id="Sanskrit Ganga">Sanskrit Ganga</channel>
+  <channel site="tobalan_0" site_id="1746||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Picchar_HD.png" xmltv_id="Zee Picchar HD">Zee Picchar HD</channel>
+  <channel site="tobalan_0" site_id="1747||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Gujarat.png" xmltv_id="India News Gujarat">India News Gujarat</channel>
+  <channel site="tobalan_0" site_id="1743||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hornbill_TV.png" xmltv_id="Hornbill TV">Hornbill TV</channel>
+  <channel site="tobalan_0" site_id="1739||http://jiotv.catchup.cdn.jio.com/dare_images/images/V24_TV.png" xmltv_id="JKAC News">JKAC News</channel>
+  <channel site="tobalan_0" site_id="1754||http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png" xmltv_id="Surya Movies">Surya Movies</channel>
+  <channel site="tobalan_0" site_id="1757||http://jiotv.catchup.cdn.jio.com/dare_images/images/NK_TV.png" xmltv_id="NK TV Plus">NK TV Plus</channel>
+  <channel site="tobalan_0" site_id="1759||http://jiotv.catchup.cdn.jio.com/dare_images/images/Buletin_India.png" xmltv_id="Buletin India">Buletin India</channel>
+  <channel site="tobalan_0" site_id="1761||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aryan_TV_National.png" xmltv_id="Aryan TV National">Aryan TV National</channel>
+  <channel site="tobalan_0" site_id="1751||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi.png" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+  <channel site="tobalan_0" site_id="1731||http://jiotv.catchup.cdn.jio.com/dare_images/images/N5TV.png" xmltv_id="N5TV">N5TV</channel>
+  <channel site="tobalan_0" site_id="1758||http://jiotv.catchup.cdn.jio.com/dare_images/images/DPK_News.png" xmltv_id="DPK News">DPK News</channel>
+  <channel site="tobalan_0" site_id="1763||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" xmltv_id="Colors Cineplex Bollywood">Colors Cineplex Bollywood</channel>
+  <channel site="tobalan_0" site_id="1762||http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Vision.png" xmltv_id="Channel Vision">Channel Vision</channel>
+  <channel site="tobalan_0" site_id="1768||http://jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol.png" xmltv_id="Naaptol">Naaptol</channel>
+  <channel site="tobalan_0" site_id="1774||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" xmltv_id="Sony Ten 4 Tamil">Sony Ten 4 Tamil</channel>
+  <channel site="tobalan_0" site_id="1773||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" xmltv_id="Sony Ten 4 HD Telugu">Sony Ten 4 HD Telugu</channel>
+  <channel site="tobalan_0" site_id="1772||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" xmltv_id="Sony Ten 4 HD Tamil">Sony Ten 4 HD Tamil</channel>
+  <channel site="tobalan_0" site_id="1775||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" xmltv_id="Sony Ten 4 Telugu">Sony Ten 4 Telugu</channel>
+  <channel site="tobalan_0" site_id="1771||http://jiotv.catchup.cdn.jio.com/dare_images/images/Express_News.png" xmltv_id="Express News">Express News</channel>
+  <channel site="tobalan_0" site_id="1777||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_News.png" xmltv_id="Bharat News TV">Bharat News TV</channel>
+  <channel site="tobalan_0" site_id="1787||http://jiotv.catchup.cdn.jio.com/dare_images/images/VISVAS.png" xmltv_id="VISVAS">VISVAS</channel>
+  <channel site="tobalan_0" site_id="1788||http://jiotv.catchup.cdn.jio.com/dare_images/images/Yeshuaa.png" xmltv_id="Yeshuaa TV">Yeshuaa TV</channel>
+  <channel site="tobalan_0" site_id="1789||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dada_Bhagwan_Foundation_Gujarati.png" xmltv_id="Dada Bhagwan Foundation Gujarati">Dada Bhagwan Foundation Gujarati</channel>
+  <channel site="tobalan_0" site_id="1790||http://jiotv.catchup.cdn.jio.com/dare_images/images/VRLive.png" xmltv_id="VR Live">VR Live</channel>
+  <channel site="tobalan_0" site_id="1791||http://jiotv.catchup.cdn.jio.com/dare_images/images/KPNews.png" xmltv_id="KP News 24x7">KP News 24x7</channel>
+  <channel site="tobalan_0" site_id="1780||http://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png" xmltv_id="HooplaKidz TV">HooplaKidz TV</channel>
+  <channel site="tobalan_0" site_id="1794||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mangalmaylive.png" xmltv_id="Mangalmay Live">Mangalmay Live</channel>
+  <channel site="tobalan_0" site_id="1795||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Amarnath_Shrine_Board.png" xmltv_id="Shri Amarnathji Shrine Board">Shri Amarnathji Shrine Board</channel>
+  <channel site="tobalan_0" site_id="1793||http://jiotv.catchup.cdn.jio.com/dare_images/images/National_News_Sattaxpress.png" xmltv_id="National News Sattaxpress">National News Sattaxpress</channel>
+  <channel site="tobalan_0" site_id="1799||http://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" xmltv_id="Studio Yuva Alpha">Studio Yuva Alpha</channel>
+  <channel site="tobalan_0" site_id="1798||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" xmltv_id="Pasand">Pasand</channel>
+  <channel site="tobalan_0" site_id="1804||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_Setu_TV.png" xmltv_id="Jan Setu News">Jan Setu News</channel>
+  <channel site="tobalan_0" site_id="1802||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_World_India.png" xmltv_id="News World India">News World India</channel>
+  <channel site="tobalan_0" site_id="1796||http://jiotv.catchup.cdn.jio.com/dare_images/images/Anand_Barta.png" xmltv_id="Ananda Barta">Ananda Barta</channel>
+  <channel site="tobalan_0" site_id="1764||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dadabhagwan.png" xmltv_id="Dada Bhagwan Foundation">Dada Bhagwan Foundation</channel>
+  <channel site="tobalan_0" site_id="1817||http://jiotv.catchup.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" xmltv_id="NEWS 24 MPCG">NEWS 24 MPCG</channel>
+  <channel site="tobalan_0" site_id="1816||http://jiotv.catchup.cdn.jio.com/dare_images/images/DTV_Bharat.png" xmltv_id="DTV Bharat">DTV Bharat</channel>
+  <channel site="tobalan_0" site_id="1834||http://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" xmltv_id="Green Chillies">Green Chillies</channel>
+  <channel site="tobalan_0" site_id="1827||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_NEET.png" xmltv_id="Aakash EduTV NEET">Aakash EduTV NEET</channel>
+  <channel site="tobalan_0" site_id="1847||http://jiotv.catchup.cdn.jio.com/dare_images/images/Harpal_TV.png" xmltv_id="Z10 TV">Z10 TV</channel>
+  <channel site="tobalan_0" site_id="1826||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swarlasika.png" xmltv_id="Swaralasika Sangeetalaya">Swaralasika Sangeetalaya</channel>
+  <channel site="tobalan_0" site_id="1851||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png" xmltv_id="Aakash EduTV JEE">Aakash EduTV JEE</channel>
+  <channel site="tobalan_0" site_id="1850||http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" xmltv_id="SVBC">SVBC</channel>
+  <channel site="tobalan_0" site_id="1853||http://jiotv.catchup.cdn.jio.com/dare_images/images/News11_Bharat.png" xmltv_id="News11 Bharat">News11 Bharat</channel>
+  <channel site="tobalan_0" site_id="1854||http://jiotv.catchup.cdn.jio.com/dare_images/images/STV_Haryana_News.png" xmltv_id="STV Haryana News">STV Haryana News</channel>
+  <channel site="tobalan_0" site_id="1855||http://jiotv.catchup.cdn.jio.com/dare_images/images/NL_TV.png" xmltv_id="NL TV">NL TV</channel>
+  <channel site="tobalan_0" site_id="1859||http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC4.png" xmltv_id="SVBC4">SVBC4</channel>
+  <channel site="tobalan_0" site_id="1868||http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png" xmltv_id="Punjab Plus">Punjab Plus</channel>
+  <channel site="tobalan_0" site_id="1858||http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC3.png" xmltv_id="SVBC3">SVBC3</channel>
+  <channel site="tobalan_0" site_id="1856||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_Assam.png" xmltv_id="Pratham Khabar 24x7">Pratham Khabar 24x7</channel>
+  <channel site="tobalan_0" site_id="1883||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" xmltv_id="Pogo Telugu">Pogo Telugu</channel>
+  <channel site="tobalan_0" site_id="1886||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" xmltv_id="Sansad TV Rajya Sabha">Sansad TV Rajya Sabha</channel>
+  <channel site="tobalan_0" site_id="1885||http://jiotv.catchup.cdn.jio.com/dare_images/images/Kripa_TV.png" xmltv_id="Kripa TV">Kripa TV</channel>
+  <channel site="tobalan_0" site_id="1891||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png" xmltv_id="Tribe TV">Tribe TV</channel>
+  <channel site="tobalan_0" site_id="1895||http://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png" xmltv_id="Today 24 News">Today 24 News</channel>
+  <channel site="tobalan_0" site_id="1896||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Flash.png" xmltv_id="News Flash">News Flash</channel>
+  <channel site="tobalan_0" site_id="1900||http://jiotv.catchup.cdn.jio.com/dare_images/images/ENB.png" xmltv_id="Express News Bharat">Express News Bharat</channel>
+  <channel site="tobalan_0" site_id="1898||http://jiotv.catchup.cdn.jio.com/dare_images/images/GBN24.png" xmltv_id="GBN24">GBN24</channel>
+  <channel site="tobalan_0" site_id="1839||http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" xmltv_id="And Pictures">And Pictures</channel>
+  <channel site="tobalan_0" site_id="1907||http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png" xmltv_id="ET Now Swadesh">ET Now Swadesh</channel>
+  <channel site="tobalan_0" site_id="1918||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" xmltv_id="Jio Cricket English HD">Jio Cricket English HD</channel>
+  <channel site="tobalan_0" site_id="1906||http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png" xmltv_id="Times Now Navbharat">Times Now Navbharat</channel>
+  <channel site="tobalan_0" site_id="1920||http://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" xmltv_id="The Q Kahaniyan">The Q Kahaniyan</channel>
+  <channel site="tobalan_0" site_id="1933||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Trimbakeshwar_Devasthan.png" xmltv_id="Shri Trimbakeshwar Devasthan Trust">Shri Trimbakeshwar Devasthan Trust</channel>
+  <channel site="tobalan_0" site_id="1925||http://jiotv.catchup.cdn.jio.com/dare_images/images/MH1_DilSe.png" xmltv_id="MH1 Dil Se">MH1 Dil Se</channel>
+  <channel site="tobalan_0" site_id="1871||http://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png" xmltv_id="7X Music">7X Music</channel>
+  <channel site="tobalan_0" site_id="1926||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskriti_24x7.png" xmltv_id="Sanskriti 24x7">Sanskriti 24x7</channel>
+  <channel site="tobalan_0" site_id="1956||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" xmltv_id="Sidharth TV">Sidharth TV</channel>
+  <channel site="tobalan_0" site_id="1955||http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png" xmltv_id="Foodxp">Foodxp</channel>
+  <channel site="tobalan_0" site_id="1897||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pulse_24.png" xmltv_id="Pulse 24">Pulse 24</channel>
+  <channel site="tobalan_0" site_id="1901||http://jiotv.catchup.cdn.jio.com/dare_images/images/Adhyatam_TV.png" xmltv_id="Adhyatam TV">Adhyatam TV</channel>
+  <channel site="tobalan_0" site_id="1954||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" xmltv_id="News Tamil 24x7">News Tamil 24x7</channel>
+  <channel site="tobalan_0" site_id="1958||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Bhakti.png" xmltv_id="Sidharth Bhakti">Sidharth Bhakti</channel>
+  <channel site="tobalan_0" site_id="1959||http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_India.png" xmltv_id="Global India">Global India</channel>
+  <channel site="tobalan_0" site_id="1962||http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Bangla.png" xmltv_id="Amaar Bangla">Amaar Bangla</channel>
+  <channel site="tobalan_0" site_id="1963||http://jiotv.catchup.cdn.jio.com/dare_images/images/KVP_Bhaarat.png" xmltv_id="News 24 Express">News 24 Express</channel>
+  <channel site="tobalan_0" site_id="1964||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABC_News.png" xmltv_id="ABC News">ABC News</channel>
+  <channel site="tobalan_0" site_id="1966||http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_TV_Kerala.png" xmltv_id="Live TV Kerala">Live TV Kerala</channel>
+  <channel site="tobalan_0" site_id="1961||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" xmltv_id="Shemaroo TV">Shemaroo TV</channel>
+  <channel site="tobalan_0" site_id="1974||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" xmltv_id="Gujarat 1st 24x7">Gujarat 1st 24x7</channel>
+  <channel site="tobalan_0" site_id="1972||http://jiotv.catchup.cdn.jio.com/dare_images/images/Top_News_Marathi.png" xmltv_id="Top News Marathi">Top News Marathi</channel>
+  <channel site="tobalan_0" site_id="1957||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" xmltv_id="Sidharth Gold">Sidharth Gold</channel>
+  <channel site="tobalan_0" site_id="1975||http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png" xmltv_id="PMC Telugu">PMC Telugu</channel>
+  <channel site="tobalan_0" site_id="1967||http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Hindi.png" xmltv_id="PMC Hindi">PMC Hindi</channel>
+  <channel site="tobalan_0" site_id="1977||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" xmltv_id="Zee Bangla HD">Zee Bangla HD</channel>
+  <channel site="tobalan_0" site_id="1973||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" xmltv_id="ETV HD">ETV HD</channel>
+  <channel site="tobalan_0" site_id="1965||http://jiotv.catchup.cdn.jio.com/dare_images/images/VNM_News.png" xmltv_id="VNM TV">VNM TV</channel>
+  <channel site="tobalan_0" site_id="1998||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" xmltv_id="Sports18 Khel">Sports18 Khel</channel>
+  <channel site="tobalan_0" site_id="2001||http://jiotv.catchup.cdn.jio.com/dare_images/images/PlusTest2_HD.png" xmltv_id="PlusTest2 HD">PlusTest2 HD</channel>
+  <channel site="tobalan_0" site_id="1999||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raftaar_Media.png" xmltv_id="Raftaar Media">Raftaar Media</channel>
+  <channel site="tobalan_0" site_id="2002||http://jiotv.catchup.cdn.jio.com/dare_images/images/" xmltv_id="Aadinath TV">Aadinath TV</channel>
+  <channel site="tobalan_0" site_id="2004||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shekinah.png" xmltv_id="Shekinah TV">Shekinah TV</channel>
+  <channel site="tobalan_0" site_id="2005||http://jiotv.catchup.cdn.jio.com/dare_images/images/Virat_24.png" xmltv_id="IN 24 News">IN 24 News</channel>
+  <channel site="tobalan_0" site_id="2007||http://jiotv.catchup.cdn.jio.com/dare_images/images/BS9_News.png" xmltv_id="BS9 News">BS9 News</channel>
+  <channel site="tobalan_0" site_id="1985||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" xmltv_id="Sports18 1">Sports18 1</channel>
+  <channel site="tobalan_0" site_id="2008||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_21.png" xmltv_id="News 21">News 21</channel>
+  <channel site="tobalan_0" site_id="2010||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" xmltv_id="Ekamra Nilach akra">Ekamra Nilach akra</channel>
+  <channel site="tobalan_0" site_id="2000||http://jiotv.catchup.cdn.jio.com/dare_images/images/PlusTest1.png" xmltv_id="PlusTest1">PlusTest1</channel>
+  <channel site="tobalan_0" site_id="1657||http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" xmltv_id="Colors Bangla Cinema">Colors Bangla Cinema</channel>
+  <channel site="tobalan_0" site_id="2012||http://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" xmltv_id="Paramatma">Paramatma</channel>
+  <channel site="tobalan_0" site_id="2003||http://jiotv.catchup.cdn.jio.com/dare_images/images/Crypto_TV.0-TV" xmltv_id="3.0 TV">3.0 TV</channel>
+  <channel site="tobalan_0" site_id="2015||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" xmltv_id="Ekamra Musiq">Ekamra Musiq</channel>
+  <channel site="tobalan_0" site_id="2013||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_S_News.png" xmltv_id="Leaking Top Secret">Leaking Top Secret</channel>
+  <channel site="tobalan_0" site_id="2014||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rajpath_TV.png" xmltv_id="News India TV">News India TV</channel>
+  <channel site="tobalan_0" site_id="1984||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" xmltv_id="Sports18 1 HD">Sports18 1 HD</channel>
+  <channel site="tobalan_0" site_id="2018||http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Nation.png" xmltv_id="Samachar Nation">Samachar Nation</channel>
+  <channel site="tobalan_0" site_id="2016||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" xmltv_id="Ekamra Cinema">Ekamra Cinema</channel>
+  <channel site="tobalan_0" site_id="2022||http://jiotv.catchup.cdn.jio.com/dare_images/images/NB_News.png" xmltv_id="NB News">NB News</channel>
+  <channel site="tobalan_0" site_id="2021||http://jiotv.catchup.cdn.jio.com/dare_images/images/HNN24x7.png" xmltv_id="HNN 24x7">HNN 24x7</channel>
+  <channel site="tobalan_0" site_id="2017||http://jiotv.catchup.cdn.jio.com/dare_images/images/Munsif_TV.png" xmltv_id="Munsif TV">Munsif TV</channel>
+  <channel site="tobalan_0" site_id="2024||http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" xmltv_id="And TV">And TV</channel>
+  <channel site="tobalan_0" site_id="2020||http://jiotv.catchup.cdn.jio.com/dare_images/images/KKD_News.png" xmltv_id="KKD News">KKD News</channel>
+  <channel site="tobalan_0" site_id="2027||http://jiotv.catchup.cdn.jio.com/dare_images/images/Raatdin_News_Network.png" xmltv_id="Raatdin News Network">Raatdin News Network</channel>
+  <channel site="tobalan_0" site_id="2019||http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Punjab.png" xmltv_id="Global Punjab">Global Punjab</channel>
+  <channel site="tobalan_0" site_id="2011||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" xmltv_id="Ekamra Bharat Odia">Ekamra Bharat Odia</channel>
+  <channel site="tobalan_0" site_id="2030||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_News.png" xmltv_id="Aaryaa News">Aaryaa News</channel>
+  <channel site="tobalan_0" site_id="2035||http://jiotv.catchup.cdn.jio.com/dare_images/images/Amritwani.png" xmltv_id="Amritwani">Amritwani</channel>
+  <channel site="tobalan_0" site_id="2037||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png" xmltv_id="Pop Pataka">Pop Pataka</channel>
+  <channel site="tobalan_0" site_id="2038||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal.png" xmltv_id="Dhamaal">Dhamaal</channel>
+  <channel site="tobalan_0" site_id="2028||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadvidya_TV.png" xmltv_id="Sadvidya TV">Sadvidya TV</channel>
+  <channel site="tobalan_0" site_id="2039||http://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" xmltv_id="Adipolli">Adipolli</channel>
+  <channel site="tobalan_0" site_id="2029||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Bhakti.png" xmltv_id="Aaryaa Bhakti">Aaryaa Bhakti</channel>
+  <channel site="tobalan_0" site_id="2034||http://jiotv.catchup.cdn.jio.com/dare_images/images/NSDC_TV.png" xmltv_id="NSDC TV">NSDC TV</channel>
+  <channel site="tobalan_0" site_id="2041||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Sagar.png" xmltv_id="Bhakti Sagar">Bhakti Sagar</channel>
+  <channel site="tobalan_0" site_id="2043||http://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png" xmltv_id="Artist Aloud">Artist Aloud</channel>
+  <channel site="tobalan_0" site_id="2040||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" xmltv_id="Bollywood Hungama">Bollywood Hungama</channel>
+  <channel site="tobalan_0" site_id="2042||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nazraana.png" xmltv_id="Nazraana">Nazraana</channel>
+  <channel site="tobalan_0" site_id="2036||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png" xmltv_id="Dil Se">Dil Se</channel>
+  <channel site="tobalan_0" site_id="2063||http://jiotv.catchup.cdn.jio.com/dare_images/images/RS_Bharat.png" xmltv_id="RS Bharat">RS Bharat</channel>
+  <channel site="tobalan_0" site_id="2065||http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Music.png" xmltv_id="Saregama Music">Saregama Music</channel>
+  <channel site="tobalan_0" site_id="2064||http://jiotv.catchup.cdn.jio.com/dare_images/images/Merchant_Records.png" xmltv_id="Merchant Records">Merchant Records</channel>
+  <channel site="tobalan_0" site_id="2078||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" xmltv_id="Shemaroo Umang">Shemaroo Umang</channel>
+  <channel site="tobalan_0" site_id="2077||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png" xmltv_id="Gangaur">Gangaur</channel>
+  <channel site="tobalan_0" site_id="2074||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Media.png" xmltv_id="Prime Media Goa">Prime Media Goa</channel>
+  <channel site="tobalan_0" site_id="2081||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV27_News.png" xmltv_id="TV27 News">TV27 News</channel>
+  <channel site="tobalan_0" site_id="2082||http://jiotv.catchup.cdn.jio.com/dare_images/images/22Scope_News.png" xmltv_id="22Scope News">22Scope News</channel>
+  <channel site="tobalan_0" site_id="2149||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Prime_HD.png" xmltv_id="Jio Prime HD">Jio Prime HD</channel>
+  <channel site="tobalan_0" site_id="2177||http://jiotv.catchup.cdn.jio.com/dare_images/images/Arya_Sandesh_Tv.png" xmltv_id="Arya Sandesh TV">Arya Sandesh TV</channel>
+  <channel site="tobalan_0" site_id="2079||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_24.png" xmltv_id="Bharat 24">Bharat 24</channel>
+  <channel site="tobalan_0" site_id="2031||http://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png" xmltv_id="Fashion India">Fashion India</channel>
+  <channel site="tobalan_0" site_id="2176||http://jiotv.catchup.cdn.jio.com/dare_images/images/India24x7.png" xmltv_id="India 24x7">India 24x7</channel>
+  <channel site="tobalan_0" site_id="2183||http://jiotv.catchup.cdn.jio.com/dare_images/images/Q_GameX.png" xmltv_id="Q GameX">Q GameX</channel>
+  <channel site="tobalan_0" site_id="2184||http://jiotv.catchup.cdn.jio.com/dare_images/images/U_Bangla.png" xmltv_id="U Bangla">U Bangla</channel>
+  <channel site="tobalan_0" site_id="2189||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" xmltv_id="Aaryaa Cinema">Aaryaa Cinema</channel>
+  <channel site="tobalan_0" site_id="2205||http://jiotv.catchup.cdn.jio.com/dare_images/images/Guruvayur_Devaswom.png" xmltv_id="Guruvayur Devaswom">Guruvayur Devaswom</channel>
+  <channel site="tobalan_0" site_id="2224||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Punjab.png" xmltv_id="India News Punjab">India News Punjab</channel>
+  <channel site="tobalan_0" site_id="2187||http://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png" xmltv_id="Swatantra News">Swatantra News</channel>
+  <channel site="tobalan_0" site_id="2227||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" xmltv_id="Jatra Ekamra">Jatra Ekamra</channel>
+  <channel site="tobalan_0" site_id="2192||http://jiotv.catchup.cdn.jio.com/dare_images/images/Gurukul_Rajkot.png" xmltv_id="Gurukul">Gurukul</channel>
+  <channel site="tobalan_0" site_id="2228||http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Kolkata.png" xmltv_id="Samay Kolkata">Samay Kolkata</channel>
+  <channel site="tobalan_0" site_id="2233||http://jiotv.catchup.cdn.jio.com/dare_images/images/News80.png" xmltv_id="News 80">News 80</channel>
+  <channel site="tobalan_0" site_id="2229||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Junction.png" xmltv_id="Bhojpuri Junction">Bhojpuri Junction</channel>
+  <channel site="tobalan_0" site_id="2252||http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" xmltv_id="Desi Music Station">Desi Music Station</channel>
+  <channel site="tobalan_0" site_id="2254||http://jiotv.catchup.cdn.jio.com/dare_images/images/Media9.png" xmltv_id="Media9">Media9</channel>
+  <channel site="tobalan_0" site_id="2045||http://jiotv.catchup.cdn.jio.com/dare_images/images/Auroville_TV.png" xmltv_id="Auroville TV">Auroville TV</channel>
+  <channel site="tobalan_0" site_id="2253||http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" xmltv_id="Nakshatra Digital TV">Nakshatra Digital TV</channel>
+  <channel site="tobalan_0" site_id="2255||http://jiotv.catchup.cdn.jio.com/dare_images/images/RRN_News.png" xmltv_id="RRN News">RRN News</channel>
+  <channel site="tobalan_0" site_id="2256||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" xmltv_id="Zee Thirai">Zee Thirai</channel>
+  <channel site="tobalan_0" site_id="2188||http://jiotv.catchup.cdn.jio.com/dare_images/images/Globe_TV.png" xmltv_id="Globe TV">Globe TV</channel>
+  <channel site="tobalan_0" site_id="2325||http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" xmltv_id="Punjabi Melodies">Punjabi Melodies</channel>
+  <channel site="tobalan_0" site_id="2322||http://jiotv.catchup.cdn.jio.com/dare_images/images/Divyalok_TV.png" xmltv_id="Divyalok TV">Divyalok TV</channel>
+  <channel site="tobalan_0" site_id="2328||http://jiotv.catchup.cdn.jio.com/dare_images/images/CyberPeace_TV.png" xmltv_id="CyberPeace TV">CyberPeace TV</channel>
+  <channel site="tobalan_0" site_id="2326||http://jiotv.catchup.cdn.jio.com/dare_images/images/Firstpost.png" xmltv_id="Firstpost">Firstpost</channel>
+  <channel site="tobalan_0" site_id="2351||http://jiotv.catchup.cdn.jio.com/dare_images/images/SRS_Bhakti_TV.png" xmltv_id="SRS Bhakti TV">SRS Bhakti TV</channel>
+  <channel site="tobalan_0" site_id="2352||http://jiotv.catchup.cdn.jio.com/dare_images/images/Narikaa.png" xmltv_id="Narikaa">Narikaa</channel>
+  <channel site="tobalan_0" site_id="2353||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Express.png" xmltv_id="Bharat Express">Bharat Express</channel>
+  <channel site="tobalan_0" site_id="2355||http://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" xmltv_id="One Paschima">One Paschima</channel>
+  <channel site="tobalan_0" site_id="2433||http://jiotv.catchup.cdn.jio.com/dare_images/images/E_News79.png" xmltv_id="E News 79">E News 79</channel>
+  <channel site="tobalan_0" site_id="2423||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Bharat.png" xmltv_id="Vande Bharat News">Vande Bharat News</channel>
+  <channel site="tobalan_0" site_id="2424||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png" xmltv_id="Sun Marathi">Sun Marathi</channel>
+  <channel site="tobalan_0" site_id="2434||http://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png" xmltv_id="M Nadu">M Nadu</channel>
+  <channel site="tobalan_0" site_id="2258||http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" xmltv_id="Animax">Animax</channel>
+  <channel site="tobalan_0" site_id="2388||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television_SD.png" xmltv_id="Sadhguru Television SD">Sadhguru Television SD</channel>
+  <channel site="tobalan_0" site_id="2323||http://jiotv.catchup.cdn.jio.com/dare_images/images/TTN24.png" xmltv_id="TTN24">TTN24</channel>
+  <channel site="tobalan_0" site_id="2436||http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_9_News.png" xmltv_id="Prime 9 News">Prime 9 News</channel>
+  <channel site="tobalan_0" site_id="2435||http://jiotv.catchup.cdn.jio.com/dare_images/images/Spondon.png" xmltv_id="Spondon">Spondon</channel>
+  <channel site="tobalan_0" site_id="2437||http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" xmltv_id="Wild Earth">Wild Earth</channel>
+  <channel site="tobalan_0" site_id="2732||http://jiotv.catchup.cdn.jio.com/dare_images/images/Vistara_News.png" xmltv_id="Vistara News">Vistara News</channel>
+  <channel site="tobalan_0" site_id="2448||http://jiotv.catchup.cdn.jio.com/dare_images/images/Desika_daya.png" xmltv_id="Desika daya">Desika daya</channel>
+  <channel site="tobalan_0" site_id="2686||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jyothishavartha.png" xmltv_id="Jyothishavartha">Jyothishavartha</channel>
+  <channel site="tobalan_0" site_id="2687||http://jiotv.catchup.cdn.jio.com/dare_images/images/NTBD_Channel.png" xmltv_id="The Book Channel">The Book Channel</channel>
+  <channel site="tobalan_0" site_id="2742||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_News.png" xmltv_id="Zee Kannada News">Zee Kannada News</channel>
+  <channel site="tobalan_0" site_id="2354||http://jiotv.catchup.cdn.jio.com/dare_images/images/Friends_TV.png" xmltv_id="Friends TV">Friends TV</channel>
+  <channel site="tobalan_0" site_id="2743||http://jiotv.catchup.cdn.jio.com/dare_images/images/Power_TV.png" xmltv_id="Power TV">Power TV</channel>
+  <channel site="tobalan_0" site_id="2745||http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Telugu.png" xmltv_id="Saregama Telugu">Saregama Telugu</channel>
+  <channel site="tobalan_0" site_id="2750||http://jiotv.catchup.cdn.jio.com/dare_images/images/Saga_Music.png" xmltv_id="Saga Music">Saga Music</channel>
+  <channel site="tobalan_0" site_id="2751||http://jiotv.catchup.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" xmltv_id="Saga Music Haryanvi">Saga Music Haryanvi</channel>
+  <channel site="tobalan_0" site_id="2753||http://jiotv.catchup.cdn.jio.com/dare_images/images/YRF_Music.png" xmltv_id="YRF Music">YRF Music</channel>
+  <channel site="tobalan_0" site_id="2754||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sikh_Ratnavali.png" xmltv_id="Sikh Ratnavali">Sikh Ratnavali</channel>
+  <channel site="tobalan_0" site_id="2752||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ghaint_Punjab.png" xmltv_id="Ghaint Punjab">Ghaint Punjab</channel>
+  <channel site="tobalan_0" site_id="2755||http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png" xmltv_id="Saregama Hum Bhojpuri">Saregama Hum Bhojpuri</channel>
+  <channel site="tobalan_0" site_id="2756||http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Entertainment.png" xmltv_id="Star Entertainment">Star Entertainment</channel>
+  <channel site="tobalan_0" site_id="2734||http://jiotv.catchup.cdn.jio.com/dare_images/images/Popular_TV.png" xmltv_id="Popular TV">Popular TV</channel>
+  <channel site="tobalan_0" site_id="2757||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" xmltv_id="Zee Zest HD">Zee Zest HD</channel>
+  <channel site="tobalan_0" site_id="2758||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Chitramandir.png" xmltv_id="Zee Chitramandir">Zee Chitramandir</channel>
+  <channel site="tobalan_0" site_id="2759||http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_North_East.png" xmltv_id="DD North East">DD North East</channel>
+  <channel site="tobalan_0" site_id="2735||http://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus_Jh_Bihar.png" xmltv_id="Samachar Plus Jharkhand Bihar">Samachar Plus Jharkhand Bihar</channel>
+  <channel site="tobalan_0" site_id="2762||http://jiotv.catchup.cdn.jio.com/dare_images/images/NH_Studioz.png" xmltv_id="NH Studioz">NH Studioz</channel>
+  <channel site="tobalan_0" site_id="2764||http://jiotv.catchup.cdn.jio.com/dare_images/images/NewsState_Bihar_JH.png" xmltv_id="News State Bihar Jharkhand">News State Bihar Jharkhand</channel>
+  <channel site="tobalan_0" site_id="2761||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" xmltv_id="Zee Ganga">Zee Ganga</channel>
+  <channel site="tobalan_0" site_id="2760||http://jiotv.catchup.cdn.jio.com/dare_images/images/My_Bharat_News.png" xmltv_id="My Bharat News">My Bharat News</channel>
+  <channel site="tobalan_0" site_id="2768||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png" xmltv_id="Jothi TV">Jothi TV</channel>
+  <channel site="tobalan_0" site_id="2766||http://jiotv.catchup.cdn.jio.com/dare_images/images/Brave_TV.png" xmltv_id="BRAVE TV">BRAVE TV</channel>
+  <channel site="tobalan_0" site_id="2770||http://jiotv.catchup.cdn.jio.com/dare_images/images/Har_Khabar.png" xmltv_id="Har Khabar">Har Khabar</channel>
+  <channel site="tobalan_0" site_id="2767||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sacchi_Report.png" xmltv_id="Sacchi Report">Sacchi Report</channel>
+  <channel site="tobalan_0" site_id="2771||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_MP_CG.png" xmltv_id="Sadhna News MP CG">Sadhna News MP CG</channel>
+  <channel site="tobalan_0" site_id="2772||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Daily_Live.png" xmltv_id="India Daily Live">India Daily Live</channel>
+  <channel site="tobalan_0" site_id="2774||http://jiotv.catchup.cdn.jio.com/dare_images/images/Power_Kids_TV.png" xmltv_id="Power Kids TV">Power Kids TV</channel>
+  <channel site="tobalan_0" site_id="2773||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Ki_Khabar.png" xmltv_id="Aaj Ki Khabar">Aaj Ki Khabar</channel>
+  <channel site="tobalan_0" site_id="2776||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaka_Movies_B4U.png" xmltv_id="Dhamaka Movies B4U">Dhamaka Movies B4U</channel>
+  <channel site="tobalan_0" site_id="2775||http://jiotv.catchup.cdn.jio.com/dare_images/images/Grace_TV.png" xmltv_id="Grace TV">Grace TV</channel>
+  <channel site="tobalan_0" site_id="2777||http://jiotv.catchup.cdn.jio.com/dare_images/images/Asian_News.png" xmltv_id="Asian News">Asian News</channel>
+  <channel site="tobalan_0" site_id="2779||http://jiotv.catchup.cdn.jio.com/dare_images/images/Red_Bull_TV.png" xmltv_id="Red Bull TV">Red Bull TV</channel>
+  <channel site="tobalan_0" site_id="2781||http://jiotv.catchup.cdn.jio.com/dare_images/images/CENTA_TV.png" xmltv_id="CENTA TV">CENTA TV</channel>
+  <channel site="tobalan_0" site_id="2780||http://jiotv.catchup.cdn.jio.com/dare_images/images/R_Bangla.png" xmltv_id="R Bangla">R Bangla</channel>
+  <channel site="tobalan_0" site_id="2778||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tabbar_Hits.png" xmltv_id="Tabbar Hits">Tabbar Hits</channel>
+  <channel site="tobalan_0" site_id="2765||http://jiotv.catchup.cdn.jio.com/dare_images/images/BSTV.png" xmltv_id="BSTV">BSTV</channel>
+  <channel site="tobalan_0" site_id="2784||http://jiotv.catchup.cdn.jio.com/dare_images/images/ISKCON_Bangalore.png" xmltv_id="ISKCON Bangalore">ISKCON Bangalore</channel>
+  <channel site="tobalan_0" site_id="2827||http://jiotv.catchup.cdn.jio.com/dare_images/images/Headline_News.png" xmltv_id="Headline News">Headline News</channel>
+  <channel site="tobalan_0" site_id="2853||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_3.png" xmltv_id="Sports18 3">Sports18 3</channel>
+  <channel site="tobalan_0" site_id="2817||http://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bangla.png" xmltv_id="Boogle Bangla">Boogle Bangla</channel>
+  <channel site="tobalan_0" site_id="2851||http://jiotv.catchup.cdn.jio.com/dare_images/images/IN24_Live.png" xmltv_id="IN24 Live">IN24 Live</channel>
+  <channel site="tobalan_0" site_id="2854||http://jiotv.catchup.cdn.jio.com/dare_images/images/KCM.png" xmltv_id="KCM">KCM</channel>
+  <channel site="tobalan_0" site_id="2862||http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_News.png" xmltv_id="Mahaa News">Mahaa News</channel>
+  <channel site="tobalan_0" site_id="2860||http://jiotv.catchup.cdn.jio.com/dare_images/images/ICAI.png" xmltv_id="ICMAI-Delhi">ICMAI-Delhi</channel>
+  <channel site="tobalan_0" site_id="2914||http://jiotv.catchup.cdn.jio.com/dare_images/images/BHI_Channel.png" xmltv_id="BHI Channel">BHI Channel</channel>
+  <channel site="tobalan_0" site_id="2782||http://jiotv.catchup.cdn.jio.com/dare_images/images/ABC_Australia.png" xmltv_id="ABC Australia">ABC Australia</channel>
+  <channel site="tobalan_0" site_id="2915||http://jiotv.catchup.cdn.jio.com/dare_images/images/Praveg_TV.png" xmltv_id="Praveg TV">Praveg TV</channel>
+  <channel site="tobalan_0" site_id="2916||http://jiotv.catchup.cdn.jio.com/dare_images/images/Daily_Post_PHH.png" xmltv_id="Daily Post PHH">Daily Post PHH</channel>
+  <channel site="tobalan_0" site_id="2917||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_Gold.png" xmltv_id="Sadhna Gold">Sadhna Gold</channel>
+  <channel site="tobalan_0" site_id="2918||http://jiotv.catchup.cdn.jio.com/dare_images/images/WPN_World_Punjabi_News.png" xmltv_id="WPN World Punjabi News">WPN World Punjabi News</channel>
+  <channel site="tobalan_0" site_id="2934||http://jiotv.catchup.cdn.jio.com/dare_images/images/Punjabi_Hits.png" xmltv_id="Punjabi Hits">Punjabi Hits</channel>
+  <channel site="tobalan_0" site_id="2935||http://jiotv.catchup.cdn.jio.com/dare_images/images/Pudhari_News.png" xmltv_id="Pudhari News">Pudhari News</channel>
+  <channel site="tobalan_0" site_id="2932||http://jiotv.catchup.cdn.jio.com/dare_images/images/99TV.png" xmltv_id="99 TV">99 TV</channel>
+  <channel site="tobalan_0" site_id="2936||http://jiotv.catchup.cdn.jio.com/dare_images/images/Oye_Music.png" xmltv_id="Oye Music">Oye Music</channel>
+  <channel site="tobalan_0" site_id="2937||http://jiotv.catchup.cdn.jio.com/dare_images/images/Update_India.png" xmltv_id="Update India">Update India</channel>
+  <channel site="tobalan_0" site_id="2852||http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_2.png" xmltv_id="Sports18 2">Sports18 2</channel>
+  <channel site="tobalan_0" site_id="2783||http://jiotv.catchup.cdn.jio.com/dare_images/images/Big_TV.png" xmltv_id="Big TV">Big TV</channel>
+  <channel site="tobalan_0" site_id="2938||http://jiotv.catchup.cdn.jio.com/dare_images/images/Haryana_Buzz.png" xmltv_id="Haryana Buzz">Haryana Buzz</channel>
+  <channel site="tobalan_0" site_id="2939||http://jiotv.catchup.cdn.jio.com/dare_images/images/Coke_Studio_Tamil.png" xmltv_id="Coke Studio Tamil">Coke Studio Tamil</channel>
+  <channel site="tobalan_0" site_id="2944||http://jiotv.catchup.cdn.jio.com/dare_images/images/Coke_Studio_Bharat.png" xmltv_id="Coke Studio Bharat">Coke Studio Bharat</channel>
+  <channel site="tobalan_0" site_id="2945||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tar_TV.png" xmltv_id="Tar TV">Tar TV</channel>
+  <channel site="tobalan_0" site_id="2946||http://jiotv.catchup.cdn.jio.com/dare_images/images/National_News.png" xmltv_id="National News">National News</channel>
+  <channel site="tobalan_0" site_id="2933||http://jiotv.catchup.cdn.jio.com/dare_images/images/NKTV_Bangla.png" xmltv_id="NK TV Bangla">NK TV Bangla</channel>
+  <channel site="tobalan_0" site_id="2947||http://jiotv.catchup.cdn.jio.com/dare_images/images/Jeewan_Bhakti.png" xmltv_id="Jeewan Bhakti">Jeewan Bhakti</channel>
+  <channel site="tobalan_0" site_id="2953||http://jiotv.catchup.cdn.jio.com/dare_images/images/Enrich_TV.png" xmltv_id="Enrich TV">Enrich TV</channel>
+  <channel site="tobalan_0" site_id="2954||http://jiotv.catchup.cdn.jio.com/dare_images/images/TV45.png" xmltv_id="TV45">TV45</channel>
+  <channel site="tobalan_0" site_id="2956||http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" xmltv_id="ETV Plus HD">ETV Plus HD</channel>
+  <channel site="tobalan_0" site_id="2957||http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_First.png" xmltv_id="Public First">Public First</channel>
+  <channel site="tobalan_0" site_id="2959||http://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_Darbar_News.png" xmltv_id="Janta Darbar News">Janta Darbar News</channel>
+  <channel site="tobalan_0" site_id="2958||http://jiotv.catchup.cdn.jio.com/dare_images/images/Tamilan_Television.png" xmltv_id="Tamilan Television">Tamilan Television</channel>
+  <channel site="tobalan_0" site_id="2961||http://jiotv.catchup.cdn.jio.com/dare_images/images/Current_Trend_Assam.png" xmltv_id="Current Trend Assam">Current Trend Assam</channel>
+  <channel site="tobalan_0" site_id="2960||http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png" xmltv_id="Sony Ten 1 HD Malayalam">Sony Ten 1 HD Malayalam</channel>
+  <channel site="tobalan_0" site_id="2962||http://jiotv.catchup.cdn.jio.com/dare_images/images/No_Filter_Neha.png" xmltv_id="NoFilterNeha">NoFilterNeha</channel>
+  <channel site="tobalan_0" site_id="3003||http://jiotv.catchup.cdn.jio.com/dare_images/images/CokeStudio_Bharat_S1.png" xmltv_id="Coke Studio Bharat Season 1">Coke Studio Bharat Season 1</channel>
+  <channel site="tobalan_0" site_id="3004||http://jiotv.catchup.cdn.jio.com/dare_images/images/Velicham_Tv.png" xmltv_id="Velicham Tv">Velicham Tv</channel>
+  <channel site="tobalan_0" site_id="3006||http://jiotv.catchup.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png" xmltv_id="Dhoom Music Bangla">Dhoom Music Bangla</channel>
+  <channel site="tobalan_0" site_id="3008||http://jiotv.catchup.cdn.jio.com/dare_images/images/Maya_Tv.png" xmltv_id="Maya Tv">Maya Tv</channel>
+  <channel site="tobalan_0" site_id="2955||http://jiotv.catchup.cdn.jio.com/dare_images/images/Shrimad_Ramayan.png" xmltv_id="Shrimad Ramayan">Shrimad Ramayan</channel>
+  <channel site="tobalan_0" site_id="3009||http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Now.png" xmltv_id="India Now">India Now</channel>
+  <channel site="tobalan_0" site_id="2948||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_SD.png" xmltv_id="Zee Zest SD">Zee Zest SD</channel>
+  <channel site="tobalan_0" site_id="3007||http://jiotv.catchup.cdn.jio.com/dare_images/images/AMV.png" xmltv_id="AMV">AMV</channel>
+  <channel site="tobalan_0" site_id="3013||http://jiotv.catchup.cdn.jio.com/dare_images/images/Narayana_Health.png" xmltv_id="Narayana Health">Narayana Health</channel>
+  <channel site="tobalan_0" site_id="3014||http://jiotv.catchup.cdn.jio.com/dare_images/images/IPN_News.png" xmltv_id="IPN News">IPN News</channel>
+  <channel site="tobalan_0" site_id="3016||http://jiotv.catchup.cdn.jio.com/dare_images/images/TNI24.png" xmltv_id="TNI24">TNI24</channel>
+  <channel site="tobalan_0" site_id="3015||http://jiotv.catchup.cdn.jio.com/dare_images/images/CokeStudio_Tamil_S1.png" xmltv_id="Coke Studio Tamil Season 1">Coke Studio Tamil Season 1</channel>
+  <channel site="tobalan_0" site_id="3017||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Hour.png" xmltv_id="News Hour">News Hour</channel>
+  <channel site="tobalan_0" site_id="3018||http://jiotv.catchup.cdn.jio.com/dare_images/images/News_360.png" xmltv_id="News 360">News 360</channel>
+  <channel site="tobalan_0" site_id="3005||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" xmltv_id="Rupashi Bangla">Rupashi Bangla</channel>
+  <channel site="tobalan_0" site_id="3019||http://jiotv.catchup.cdn.jio.com/dare_images/images/Bangla_Jago.png" xmltv_id="Bangla Jago">Bangla Jago</channel>
+  <channel site="tobalan_0" site_id="3021||http://jiotv.catchup.cdn.jio.com/dare_images/images/RC_Studio.png" xmltv_id="RC Studio">RC Studio</channel>
+  <channel site="tobalan_0" site_id="3020||http://jiotv.catchup.cdn.jio.com/dare_images/images/Rai_Vs_Rai.png" xmltv_id="Raisinghani vs Raisinghani">Raisinghani vs Raisinghani</channel>
+  <channel site="tobalan_0" site_id="3022||http://jiotv.catchup.cdn.jio.com/dare_images/images/Unique_Tv.png" xmltv_id="Unique Tv">Unique Tv</channel>
+  <channel site="tobalan_0" site_id="3025||http://jiotv.catchup.cdn.jio.com/dare_images/images/Aap_Ki_Adalat.png" xmltv_id="India TV Aap Ki Adalat">India TV Aap Ki Adalat</channel>
+  <channel site="tobalan_0" site_id="3026||http://jiotv.catchup.cdn.jio.com/dare_images/images/Speed_News.png" xmltv_id="India TV Speed News">India TV Speed News</channel>
+  <channel site="tobalan_0" site_id="3023||http://jiotv.catchup.cdn.jio.com/dare_images/images/Janadesh_News.png" xmltv_id="Janadesh News">Janadesh News</channel>
+  <channel site="tobalan_0" site_id="3027||http://jiotv.catchup.cdn.jio.com/dare_images/images/Desh_News.png" xmltv_id="Desh News">Desh News</channel>
+  <channel site="tobalan_0" site_id="3028||http://jiotv.catchup.cdn.jio.com/dare_images/images/BHStyle_Icon.png" xmltv_id="BH Style Icons">BH Style Icons</channel>
+  <channel site="tobalan_0" site_id="3029||http://jiotv.catchup.cdn.jio.com/dare_images/images/bollywoodmasala.png" xmltv_id="Bollywood Masala">Bollywood Masala</channel>
+  <channel site="tobalan_0" site_id="3031||http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_News.png" xmltv_id="Zee Telugu News">Zee Telugu News</channel>
+  <channel site="tobalan_0" site_id="3011||http://jiotv.catchup.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" xmltv_id="Lancs TV HD">Lancs TV HD</channel>
+  <channel site="tobalan_0" site_id="3024||http://jiotv.catchup.cdn.jio.com/dare_images/images/IndiaTV_Yoga.png" xmltv_id="India TV Yoga Channel">India TV Yoga Channel</channel>
 </configuration>
