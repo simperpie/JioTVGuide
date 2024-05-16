@@ -1,8 +1,8 @@
-name: tvguide
+name: jiotata-grabber
 
 on:
   schedule:
-    - cron: '30 20 * * *'   # Runs at 02:00 AM IST
+    - cron: '30 17 * * *'   # Runs at 11:00 PM IST
   workflow_dispatch: # Allows manual triggering
   
 jobs:
@@ -17,30 +17,16 @@ jobs:
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-    
-    - name: Setup PHP
-      uses: shivammathur/setup-php@v2
-      with:
-        php-version: '8.0'
-
-    - name: Setup Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start PHP server
-      run: php -S localhost:8000 -t . &
-
+        
     - name: Execute Script
       run: |
-        php tempest.php --epg config=tempest.config.xml inv
-        php tempest.php --epg config=jio.config.xml inv
-        php tempest.php --xmlmerge xml=tempest_epg xml=jio_epg out=simper_epg gz
-        rm tempest_config/epg/tempest_epg_original.xml
+        php tempest.php --epg config=tataplay.config.xml invgz
+        php tempest.php --epg config=jio.config.xml invgz
+        php tempest.php --xmlmerge xml=tataplay_epg xml=jio_epg out=epg-online gz
+        rm tempest_config/epg/tataplay_epg_original.xml
+        rm tempest_config/epg/tataplay_epg.xml
         rm tempest_config/epg/jio_epg_original.xml
+        rm tempest_config/epg/jio_epg.xml
         git add .
         git commit -m "Automated commit"
         git push
