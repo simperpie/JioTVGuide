@@ -32,7 +32,7 @@ jobs:
         
     - name: Execute Script
       run: |
-        php tempest.php --epg config=tempest.config.xml invz
+        php tempest.php --epg config=tempest.config.xml invgz
         rm tempest_config/epg/simper_epg_original.xml
         git add .
         git commit -m "Automated commit"
