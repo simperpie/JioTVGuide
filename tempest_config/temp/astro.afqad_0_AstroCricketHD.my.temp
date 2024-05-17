@@ -3,96 +3,6 @@
   <channel id="AstroCricketHD.my">
     <display-name lang="en">Astro Cricket 🄼</display-name>
   </channel>
-  <programme start="20240516000000 +0000" stop="20240516003000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">Highlights IPL 2024: DC v SRH</title>
-    <desc lang="en">Highlights Indian Premier League 2023 Match 35.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFCU.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240516003000 +0000" stop="20240516043000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">IPL 2024: KKR v MI</title>
-    <desc lang="en">Indian Premier League 2024: Kolkata Knight Riders v Mumbai Indians from India.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_1280x720.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240516043000 +0000" stop="20240516050000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">Highlights IPL 2024: GT v DC</title>
-    <desc lang="en">Highlights Indian Premier League 2023 Match 32.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_1280x720.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240516050000 +0000" stop="20240516093000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">IPL 2024: DC v LSG</title>
-    <desc lang="en">Indian Premier League 2024: Delhi Capitals v Lucknow Super Giants from India.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMEXD.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240516093000 +0000" stop="20240516135000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">IPL 2024: RR v PBKS</title>
-    <desc lang="en">Indian Premier League 2024: Rajasthan Royals v Punjab Kings from India.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMEXD.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240516135000 +0000" stop="20240516183000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">(L) IPL 2024: SRH v GT</title>
-    <desc lang="en">LIVE: Indian Premier League 2024: Sunrisers Hyderabad v Gujarat Titans from India.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMEXD.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240516183000 +0000" stop="20240516190000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">Highlights IPL 2024: RR v GT</title>
-    <desc lang="en">Highlights Indian Premier League 2023 Match 24.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFCI.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240516190000 +0000" stop="20240516233000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">IPL 2024: MI v SRH</title>
-    <desc lang="en">Indian Premier League 2024: Mumbai Indians v Sunrisers Hyderabad from India.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMEXD.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240516233000 +0000" stop="20240517000000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">Highlights IPL 2024: KKR v RCB</title>
-    <desc lang="en">Highlights Indian Premier League 2023 Match 36.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFCV.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240517000000 +0000" stop="20240517003000 +0000" channel="AstroCricketHD.my">
     <title lang="en">Highlights IPL 2024: PBKS v GT</title>
     <desc lang="en">Highlights Indian Premier League 2023 Match 37.</desc>
@@ -189,6 +99,116 @@
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFAD.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240518050000 +0000" stop="20240518093000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">IPL 2024: SRH v GT</title>
+    <desc lang="en">Indian Premier League 2024: Sunrisers Hyderabad v Gujarat Titans from India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFAE.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240518093000 +0000" stop="20240518135000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">IPL 2024: MI v LSG</title>
+    <desc lang="en">Indian Premier League 2024: Mumbai Indians v Lucknow Super Giants from India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFAF.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240518135000 +0000" stop="20240518183000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">(L) IPL 2024: RCB v CSK</title>
+    <desc lang="en">LIVE: Indian Premier League 2024: Royal Challengers Bengaluru v Chennai Super Kings from India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFAG.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240518183000 +0000" stop="20240518190000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights IPL 2024: KKR v LSG</title>
+    <desc lang="en">Highlights Indian Premier League 2023 Match 28.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFCM.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240518190000 +0000" stop="20240518193000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights IPL 2024: MI v CSK</title>
+    <desc lang="en">Highlights Indian Premier League 2023 Match 29.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFCN.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240518193000 +0000" stop="20240518230000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">IPL 2024: SRH v LSG</title>
+    <desc lang="en">Indian Premier League 2024: Sunrisers Hyderabad v Lucknow Super Giants from India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMEZU.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240518230000 +0000" stop="20240518233000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights IPL 2024: KKR v RCB</title>
+    <desc lang="en">Highlights Indian Premier League 2023 Match 36.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240518233000 +0000" stop="20240519000000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights IPL 2024: PBKS v GT</title>
+    <desc lang="en">Highlights Indian Premier League 2023 Match 37.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240519000000 +0000" stop="20240519003000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights IPL 2024: RR v MI</title>
+    <desc lang="en">Highlights Indian Premier League 2023 Match 38.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFCX.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240519003000 +0000" stop="20240519010000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights IPL 2024: CSK v LSG</title>
+    <desc lang="en">Highlights Indian Premier League 2023 Match 39.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFCY.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240519010000 +0000" stop="20240519053000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">IPL 2024: MI v LSG</title>
+    <desc lang="en">Indian Premier League 2024: Mumbai Indians v Lucknow Super Giants from India.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMFAF.jpg"/>
     <rating system="MY">
       <value>U</value>
     </rating>
