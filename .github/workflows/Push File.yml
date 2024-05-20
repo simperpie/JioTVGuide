@@ -12,12 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Pushes test file
       uses: dmnemec/copy_file_to_another_repo_action@main
       env:
-        API_TOKEN_GITHUB: ${{ secrets.PUSH_TOKEN_FROM_PRIVATE_TO_MY_PAGE }}
+        API_TOKEN_GITHUB: ${{ secrets.Push_File }}
       with:
         source_file: 'tempest_config/epg/simper_epg.xml.gz'
         destination_repo: 'simperpie/simperpie.github.io'
