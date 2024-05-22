@@ -2,9 +2,9 @@
 /*     Tempest EPG Generator (made by Kvanc)
 https://github.com/K-vanc/Tempest-EPG-Generator.git  */
 return array (
-  'filename' => 'astro.afqad',
-  'creator_name' => 'Kivanc',
-  'creation_date' => '2023-09-04',
+  'filename' => 'astro.com',
+  'creator_name' => 'Simper',
+  'creation_date' => '2024-05-21',
   'rev_no' => 'R0',
   'remarks' => 'Edit Url paths based on your local file locations | Edit Timezone based on your file | Edit culture info based on your files',
   'timezone' => 'UTC',
