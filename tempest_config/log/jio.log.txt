@@ -1,0 +1,100 @@
+﻿[                   ]
+[                   ]-------------------------------------
+[                   ]        Tempest EPG Generator
+[                   ]
+[                   ]   The Most Advanced Programmable
+[                   ]       GUI XMLTV EPG Generator
+[                   ]     by Kivanc Altug aka "Kvanc"
+[                   ]-------------------------------------
+[                   ]
+[24-05-2024 06:41:00] Tempest Version : rv1.7.0.0-2405061442
+[24-05-2024 06:41:00] System Info : Linux fv-az953-147 6.5.0-1021-azure #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024 x86_64
+[24-05-2024 06:41:00] PHP Version : 8.1.2-1ubuntu2.17
+[24-05-2024 06:41:00] Server Info : Command Line Interface (Cli)
+[24-05-2024 06:41:01] Initializing...
+[24-05-2024 06:41:01] Checking required modules...
+[24-05-2024 06:41:01] Inverter mode enabled...
+[24-05-2024 06:41:01] Time converter enabled...
+[24-05-2024 06:41:01] Fusion mode (Level 0) enabled...
+[24-05-2024 06:41:01] jio_epg_original.xml generated...
+[24-05-2024 06:41:01] Grabbing started for 2 days
+[                   ]
+[24-05-2024 06:41:01] (1/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:01] Channel id: 143
+[24-05-2024 06:41:01] Xmltv id: CNBC Tv18 Prime HD
+[      Warning      ] 
+[24-05-2024 06:41:03] No show grabbed in 1.89 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:03] (2/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:03] Channel id: 144
+[24-05-2024 06:41:03] Xmltv id: Colors HD
+[      Warning      ] 
+[24-05-2024 06:41:04] No show grabbed in 1.72 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:04] (3/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:04] Channel id: 146
+[24-05-2024 06:41:04] Xmltv id: History TV18 HD
+[      Warning      ] 
+[24-05-2024 06:41:06] No show grabbed in 2.17 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:06] (4/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:06] Channel id: 153
+[24-05-2024 06:41:06] Xmltv id: Zee Talkies
+[      Warning      ] 
+[24-05-2024 06:41:08] No show grabbed in 1.37 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:08] (5/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:08] Channel id: 154
+[24-05-2024 06:41:08] Xmltv id: Sony SAB
+[      Warning      ] 
+[24-05-2024 06:41:10] No show grabbed in 2.16 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:10] (6/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:10] Channel id: 155
+[24-05-2024 06:41:10] Xmltv id: Sony Ten 5 HD
+[      Warning      ] 
+[24-05-2024 06:41:12] No show grabbed in 2.32 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:12] (7/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:12] Channel id: 162
+[24-05-2024 06:41:12] Xmltv id: Sony Ten 1 HD
+[      Warning      ] 
+[24-05-2024 06:41:14] No show grabbed in 1.69 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:14] (8/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:14] Channel id: 164
+[24-05-2024 06:41:14] Xmltv id: Travelxp HD
+[      Warning      ] 
+[24-05-2024 06:41:16] No show grabbed in 1.78 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:16] (9/9) Site: [ENC][EX]jio.com[en]_1
+[24-05-2024 06:41:16] Channel id: 165
+[24-05-2024 06:41:16] Xmltv id: Zee Cinema HD
+[      Warning      ] 
+[24-05-2024 06:41:18] No show grabbed in 2.13 seconds
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[       Error       ] Request Error(url1): The requested URL returned error: 450
+[                   ]
+[24-05-2024 06:41:18] Grabbing completed...
+[24-05-2024 06:41:18] 0 show grabbed in 17.23 seconds
+[     Completed     ]
+[24-05-2024 06:41:18] Tempest Overall Memory Usage: 5815KB
+[24-05-2024 06:41:18] Tempest Peak Memory Usage: 11748KB
+[24-05-2024 06:41:18] 
+[24-05-2024 06:41:18] jio_epg.xml.gz file created
