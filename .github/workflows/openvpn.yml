@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '30 0 * * *'   # Runs at 06:00 AM IST
   workflow_dispatch: # Allows manual triggering
-  
+
 jobs:
   php-script:
     runs-on: ubuntu-latest
@@ -13,6 +13,13 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
     
+    - name: Debug VPN Config
+      env:
+        VPN_CONFIG: ${{ secrets.VPN_CONFIG }}
+      run: |
+        echo "Checking VPN_CONFIG environment variable..."
+        echo "$VPN_CONFIG"
+
     - name: Set up OpenVPN
       env:
         VPN_CONFIG: ${{ secrets.VPN_CONFIG }}
@@ -20,8 +27,8 @@ jobs:
         VPN_PASSWORD: ${{ secrets.VPN_PASSWORD }}
       run: |
         # Decode and save the VPN configuration file
-        echo $VPN_CONFIG | base64 --decode > vpn-config.ovpn
-    
+        echo "$VPN_CONFIG" | base64 --decode > vpn-config.ovpn || { echo "Base64 decode failed"; exit 1; }
+
         # Create a file for VPN credentials
         echo -e "$VPN_USERNAME\n$VPN_PASSWORD" > vpn-credentials.txt
 
