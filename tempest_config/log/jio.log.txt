@@ -7,94 +7,94 @@
 [                   ]     by Kivanc Altug aka "Kvanc"
 [                   ]-------------------------------------
 [                   ]
-[24-05-2024 06:41:00] Tempest Version : rv1.7.0.0-2405061442
-[24-05-2024 06:41:00] System Info : Linux fv-az953-147 6.5.0-1021-azure #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024 x86_64
-[24-05-2024 06:41:00] PHP Version : 8.1.2-1ubuntu2.17
-[24-05-2024 06:41:00] Server Info : Command Line Interface (Cli)
-[24-05-2024 06:41:01] Initializing...
-[24-05-2024 06:41:01] Checking required modules...
-[24-05-2024 06:41:01] Inverter mode enabled...
-[24-05-2024 06:41:01] Time converter enabled...
-[24-05-2024 06:41:01] Fusion mode (Level 0) enabled...
-[24-05-2024 06:41:01] jio_epg_original.xml generated...
-[24-05-2024 06:41:01] Grabbing started for 2 days
+[25-05-2024 03:08:46] Tempest Version : rv1.7.0.0-2405061442
+[25-05-2024 03:08:46] System Info : Linux fv-az1667-832 6.5.0-1021-azure #22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024 x86_64
+[25-05-2024 03:08:46] PHP Version : 8.1.2-1ubuntu2.17
+[25-05-2024 03:08:46] Server Info : Command Line Interface (Cli)
+[25-05-2024 03:08:46] Initializing...
+[25-05-2024 03:08:46] Checking required modules...
+[25-05-2024 03:08:46] Inverter mode enabled...
+[25-05-2024 03:08:46] Time converter enabled...
+[25-05-2024 03:08:46] Fusion mode (Level 0) enabled...
+[25-05-2024 03:08:46] jio_epg_original.xml generated...
+[25-05-2024 03:08:46] Grabbing started for 2 days
 [                   ]
-[24-05-2024 06:41:01] (1/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:01] Channel id: 143
-[24-05-2024 06:41:01] Xmltv id: CNBC Tv18 Prime HD
+[25-05-2024 03:08:46] (1/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:46] Channel id: 143
+[25-05-2024 03:08:46] Xmltv id: CNBC Tv18 Prime HD
 [      Warning      ] 
-[24-05-2024 06:41:03] No show grabbed in 1.89 seconds
+[25-05-2024 03:08:49] No show grabbed in 2.39 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:03] (2/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:03] Channel id: 144
-[24-05-2024 06:41:03] Xmltv id: Colors HD
+[25-05-2024 03:08:49] (2/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:49] Channel id: 144
+[25-05-2024 03:08:49] Xmltv id: Colors HD
 [      Warning      ] 
-[24-05-2024 06:41:04] No show grabbed in 1.72 seconds
+[25-05-2024 03:08:50] No show grabbed in 1.21 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:04] (3/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:04] Channel id: 146
-[24-05-2024 06:41:04] Xmltv id: History TV18 HD
+[25-05-2024 03:08:50] (3/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:50] Channel id: 146
+[25-05-2024 03:08:50] Xmltv id: History TV18 HD
 [      Warning      ] 
-[24-05-2024 06:41:06] No show grabbed in 2.17 seconds
+[25-05-2024 03:08:51] No show grabbed in 1.10 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:06] (4/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:06] Channel id: 153
-[24-05-2024 06:41:06] Xmltv id: Zee Talkies
+[25-05-2024 03:08:51] (4/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:51] Channel id: 153
+[25-05-2024 03:08:51] Xmltv id: Zee Talkies
 [      Warning      ] 
-[24-05-2024 06:41:08] No show grabbed in 1.37 seconds
+[25-05-2024 03:08:52] No show grabbed in 1.12 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:08] (5/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:08] Channel id: 154
-[24-05-2024 06:41:08] Xmltv id: Sony SAB
+[25-05-2024 03:08:52] (5/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:52] Channel id: 154
+[25-05-2024 03:08:52] Xmltv id: Sony SAB
 [      Warning      ] 
-[24-05-2024 06:41:10] No show grabbed in 2.16 seconds
+[25-05-2024 03:08:53] No show grabbed in 1.27 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:10] (6/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:10] Channel id: 155
-[24-05-2024 06:41:10] Xmltv id: Sony Ten 5 HD
+[25-05-2024 03:08:53] (6/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:53] Channel id: 155
+[25-05-2024 03:08:53] Xmltv id: Sony Ten 5 HD
 [      Warning      ] 
-[24-05-2024 06:41:12] No show grabbed in 2.32 seconds
+[25-05-2024 03:08:55] No show grabbed in 1.20 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:12] (7/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:12] Channel id: 162
-[24-05-2024 06:41:12] Xmltv id: Sony Ten 1 HD
+[25-05-2024 03:08:55] (7/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:55] Channel id: 162
+[25-05-2024 03:08:55] Xmltv id: Sony Ten 1 HD
 [      Warning      ] 
-[24-05-2024 06:41:14] No show grabbed in 1.69 seconds
+[25-05-2024 03:08:56] No show grabbed in 1.08 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:14] (8/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:14] Channel id: 164
-[24-05-2024 06:41:14] Xmltv id: Travelxp HD
+[25-05-2024 03:08:56] (8/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:56] Channel id: 164
+[25-05-2024 03:08:56] Xmltv id: Travelxp HD
 [      Warning      ] 
-[24-05-2024 06:41:16] No show grabbed in 1.78 seconds
+[25-05-2024 03:08:57] No show grabbed in 1.10 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:16] (9/9) Site: [ENC][EX]jio.com[en]_1
-[24-05-2024 06:41:16] Channel id: 165
-[24-05-2024 06:41:16] Xmltv id: Zee Cinema HD
+[25-05-2024 03:08:57] (9/9) Site: [ENC][EX]jio.com[en]_1
+[25-05-2024 03:08:57] Channel id: 165
+[25-05-2024 03:08:57] Xmltv id: Zee Cinema HD
 [      Warning      ] 
-[24-05-2024 06:41:18] No show grabbed in 2.13 seconds
+[25-05-2024 03:08:58] No show grabbed in 1.09 seconds
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [       Error       ] Request Error(url1): The requested URL returned error: 450
 [                   ]
-[24-05-2024 06:41:18] Grabbing completed...
-[24-05-2024 06:41:18] 0 show grabbed in 17.23 seconds
+[25-05-2024 03:08:58] Grabbing completed...
+[25-05-2024 03:08:58] 0 show grabbed in 11.68 seconds
 [     Completed     ]
-[24-05-2024 06:41:18] Tempest Overall Memory Usage: 5815KB
-[24-05-2024 06:41:18] Tempest Peak Memory Usage: 11748KB
-[24-05-2024 06:41:18] 
-[24-05-2024 06:41:18] jio_epg.xml.gz file created
+[25-05-2024 03:08:58] Tempest Overall Memory Usage: 5819KB
+[25-05-2024 03:08:58] Tempest Peak Memory Usage: 11748KB
+[25-05-2024 03:08:58] 
+[25-05-2024 03:08:58] jio_epg.xml.gz file created
