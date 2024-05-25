@@ -29,11 +29,11 @@ jobs:
     - name: Fetch proxy
       id: fetch_proxy
       run: |
-        python get_proxy.py
-        echo "::set-output name=proxy::$(cat proxy.txt)"  # Assuming the proxy is saved in proxy.txt
+        python get_proxy.py > proxy.txt
+        echo "PROXY=${{ steps.fetch_proxy.outputs.proxy }}" >> $GITHUB_ENV
       
     - name: Run PHP script with proxy
-      run: php tempest.php --epg config=jio.config.xml invgz ${{ steps.fetch_proxy.outputs.proxy }}
+      run: php tempest.php --epg config=jio.config.xml invgz $PROXY
       
     - name: pull latest
       run: |
