@@ -8,11 +8,12 @@ on:
 jobs:
   php-script:
     runs-on: ubuntu-latest
-    
+
+    steps:
     - name: Checkout code
       uses: actions/checkout@v4
     
-     name: Set up OpenVPN
+    - name: Set up OpenVPN
       env:
         VPN_CONFIG: ${{ secrets.VPN_CONFIG }}
         VPN_USERNAME: ${{ secrets.VPN_USERNAME }}
@@ -52,11 +53,11 @@ jobs:
         rm tempest_config/epg/jio_epg_original.xml
         rm tempest_config/epg/jio_epg.xml
     
-    - name: pull latest
-        run: |
-          git pull
-        # Commit all changed files back to the repository
+    - name: Pull latest
+      run: |
+        git pull
+        
     - name: Commit updated epg.xml
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Automated EPG
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Automated EPG
