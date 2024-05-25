@@ -11,7 +11,7 @@ jobs:
     
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2 # Checkout the repository in the Codespace
+      uses: actions/checkout@v4 # Checkout the repository in the Codespace
 
     - name: Set up Git identity
       run: |

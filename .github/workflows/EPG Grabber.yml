@@ -2,7 +2,7 @@ name: EPG Grabber
 
 on:
   schedule:
-    - cron: '30 0 * * *'   # Runs at 06:00 AM IST
+    - cron: '30 21 * * *'   # Runs at 03:00 AM IST
   workflow_dispatch: # Allows manual triggering
   
 jobs:
@@ -23,6 +23,12 @@ jobs:
         php tempest.php --epg config=tempest.config.xml invgz
         rm tempest_config/epg/simper_epg_original.xml
         rm tempest_config/epg/simper_epg.xml
-        git add .
-        git commit -m "Automated commit"
-        git push
+    
+    - name: Pull latest
+      run: |
+        git pull
+    
+    - name: Commit updated epg.xml
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Automated EPG
