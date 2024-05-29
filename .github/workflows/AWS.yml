@@ -34,7 +34,7 @@ jobs:
         rm -rf repo
 
         # Clone the repository
-        git clone https://github.com/${{ github.repository }} repo
+        git clone https://github.com/SimperTVGuide/SimperTVGuide repo
         cd repo
 
         # Run the PHP script
