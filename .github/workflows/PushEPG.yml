@@ -16,7 +16,7 @@ jobs:
 
       - name: Copy files to temporary directory
         run: |
-          find epg/ -type f -exec cp {} /tmp/ \ # Copy all files within epg directory to /tmp
+          find epg/ -type f -exec cp {} /tmp/ \; # Copy all files within epg directory to /tmp
 
       - name: Clone destination repository
         run: |
