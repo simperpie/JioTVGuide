@@ -21,7 +21,7 @@ jobs:
       with:
         source_file: 'epg/'
         destination_repo: 'simperpie/simperpie.github.io'
-        destination_folder: 'TVGuie'
+        destination_folder: 'TVGuide'
         user_email: '91105635+simperpie@users.noreply.github.com'
         user_name: 'simperpie'
         commit_message: 'Automated EPG'
