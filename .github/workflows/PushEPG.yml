@@ -1,10 +1,10 @@
-name: Push Simper TV Guide
+name: PushEPG
 
 on:
   workflow_run:
-    workflows: ["Simper TV Guide"]
+    workflows: ["EPGPython", "EPGShell"]
     types:
-      - completed
+      - completed   
   workflow_dispatch:
   
 jobs:
@@ -19,10 +19,9 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.Push_File }}
       with:
-        source_file: 'tempest_config/epg/simper_epg.xml.gz'
+        source_file: 'epg/'
         destination_repo: 'simperpie/simperpie.github.io'
         destination_folder: 'TVGuide'
-        user_email: '91105635+simperpie@users.noreply.github.com'
-        user_name: 'simperpie'
-        commit_message: 'Automated TVGuide'
-        
+        user_email: '171112618+s0ndeep@users.noreply.github.com'
+        user_name: 's0ndeep'
+        commit_message: 'Automated EPG'

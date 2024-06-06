@@ -1,8 +1,8 @@
-name: Simper TV Guide
+name: EPGShell
 
 on:
   schedule:
-    - cron: '30 21 * * *'   # Runs at 03:00 AM IST
+    - cron: '30 0 * * *'   # Runs at 06:00 AM IST
   workflow_dispatch: # Allows manual triggering
   
 jobs:
@@ -18,12 +18,18 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         
-    - name: Execute Script
-      run: |
-        php tempest.php --epg config=tempest.config.xml invgz
-        rm tempest_config/epg/simper_epg_original.xml
-        rm tempest_config/epg/simper_epg.xml
-    
+    - name: Make the script executable
+      run: chmod +x epg.sh
+
+    - name: Setup PHP with PECL extension
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.3'
+        extensions: imagick, swoole
+        
+    - name: Run Tempest script
+      run: ./epg.sh
+      
     - name: Pull latest
       run: |
         git pull

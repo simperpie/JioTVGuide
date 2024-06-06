@@ -1,67 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Tempest EPG Generator (made by Kvanc) -->
 <configuration>
-  <filename>simper_epg_original.xml</filename>
+  <filename>youtube_original.xml</filename>
   <user-agent/>
   <logger>on</logger>
   <retry>2</retry>
   <time-out>15</time-out>
-  <timespan>2</timespan>
+  <timespan>1</timespan>
   <proxy/>
   <index-only>on</index-only>
   <fusion>on</fusion>
   <fusion-level>0</fusion-level>
-  <time-converter/>
+  <time-converter>+05:30</time-converter>
   <delay channel="" index="" detail=""/>
   <channel-lister>on</channel-lister>
   <inverter>on</inverter>
-  <inverter-filename>simper_epg.xml</inverter-filename>
+  <inverter-filename>youtube.xml</inverter-filename>
   <inverter-path>["desc":"##subtitle##","##desc##": #rating##"]["subtitle":||#delete#]["episode":||#delete#]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["colour":||#delete#]["aspect":||#delete#]["quality":||#delete#]["producer":||#delete#]["writer":||#delete#]["rating":||#delete#]["keyword":||#delete#]["star-rating":||#delete#]["language":||#delete#]</inverter-path>
-  <logname>tempest.log</logname>
-  <channel site="[ENC][EX]singtel.com_0" site_id="6421" xmltv_id="HBOSignatureHD.my">HBO Signature 🄼</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="8" xmltv_id="STARPlusHD.in">STAR Plus HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="244" xmltv_id="StarBharatHD.in">Star Bharat HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="15" xmltv_id="SETHD.in">SET HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="48" xmltv_id="SONYSABHD.in">SONY SAB HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="40" xmltv_id="&amp;tvHD.in">&amp;tv HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="63" xmltv_id="ZeeTVHD.in">Zee TV HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="52" xmltv_id="ColorsHD.in">Colors HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="633" xmltv_id="InvestigationDiscovery.in">Investigation Discovery</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="438" xmltv_id="ColorsRishtey.in">Colors Rishtey</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="554" xmltv_id="SonyPal.in">Sony Pal</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="1184" xmltv_id="NAZARA.in">NAZARA</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="502" xmltv_id="ZeeCafeHD.in">Zee Cafe HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="187" xmltv_id="ColorsInfinityHD.in">Colors Infinity HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="307" xmltv_id="ComedyCentralHD.in">Comedy Central HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="486" xmltv_id="TataPlayBollywoodPremiere.in">Tata Play Bollywood Premiere</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="245" xmltv_id="STARGOLDHD.in">STAR GOLD HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="80" xmltv_id="SONYMAXHD.in">SONY MAX HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="503" xmltv_id="ZeeCinemaHD.in">Zee Cinema HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="666" xmltv_id="TataPlayTheatreHD.in">Tata Play Theatre HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="267" xmltv_id="&amp;picturesHD.in">&amp;pictures HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="1183" xmltv_id="&amp;XplorHD.in">&amp;Xplor HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="61" xmltv_id="ColorsCineplexHD.in">Colors Cineplex HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="56" xmltv_id="SonyWah.in">Sony Wah</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="120" xmltv_id="SONYMAX2.in">SONY MAX 2</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="1025" xmltv_id="ColorsCineplexSuperhits.in">Colors Cineplex Superhits</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="1000" xmltv_id="ColorsCineplexBollywood.in">Colors Cineplex Bollywood</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="32" xmltv_id="SONYPIXHD.in">SONY PIX HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="506" xmltv_id="&amp;FlixHD.in">&amp;Flix HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="562" xmltv_id="MoviesNowHD.in">Movies Now HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="210" xmltv_id="MN+HD.in">MN+ HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="599" xmltv_id="MNXHD.in">MNX HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="530" xmltv_id="&amp;PriveHD.in">&amp;Prive HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="78" xmltv_id="StarSports1HD.in">Star Sports 1 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="235" xmltv_id="StarSports2HD.in">Star Sports 2 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="24" xmltv_id="StarSports1HindiHD.in">Star Sports 1 Hindi HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="246" xmltv_id="StarSportsSelect1HD.in">Star Sports Select 1 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="463" xmltv_id="StarSportsSelect2HD.in">Star Sports Select 2 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="81" xmltv_id="SONYSPORTSTEN1HD.in">SONY SPORTS TEN 1 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="462" xmltv_id="SONYSPORTSTEN2HD.in">SONY SPORTS TEN 2 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="464" xmltv_id="SONYSPORTSTEN3HD.in">SONY SPORTS TEN 3 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="35" xmltv_id="SONYSPORTSTEN5HD.in">SONY SPORTS TEN 5 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="1033" xmltv_id="Sports18-1HD.in">Sports 18 - 1 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="812" xmltv_id="EurosportHD.in">Eurosport HD</channel>
+  <logname>youtube.log</logname>
   <channel site="[ENC][EX]tataplay.com_0" site_id="691" xmltv_id="DDNewsHD.in">DD News HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="177" xmltv_id="ABPNews.in">ABP News</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="179" xmltv_id="NDTVIndia.in">NDTV India</channel>
@@ -82,73 +38,7 @@
   <channel site="[ENC][EX]tataplay.com_0" site_id="255" xmltv_id="WION.in">WION</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="72" xmltv_id="REPUBLICTV.in">REPUBLIC TV</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="324" xmltv_id="DDIndia.in">DD India</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="587" xmltv_id="SuperHungama.in">Super Hungama</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="114" xmltv_id="Disney.in">Disney</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="433" xmltv_id="NickHD+.in">Nick HD+</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="138" xmltv_id="Nick.in">Nick</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="681" xmltv_id="CartoonNetworkHD+.in">Cartoon Network HD+</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="238" xmltv_id="CartoonNetwork.in">Cartoon Network</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="239" xmltv_id="Pogo.in">Pogo</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="119" xmltv_id="DiscoveryKids.in">Discovery Kids</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="127" xmltv_id="SonicNickelodeon.in">Sonic Nickelodeon</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="45" xmltv_id="SONYYAY!.in">SONY YAY!</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="867" xmltv_id="Gubbare.in">Gubbare</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="1181" xmltv_id="NickJr.in">Nick Jr</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="144" xmltv_id="DisneyJunior.in">Disney Junior</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="605" xmltv_id="NationalGeographicHD.in">National Geographic HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="413" xmltv_id="NatGeoWildHD.in">Nat Geo Wild HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="341" xmltv_id="DiscoveryHDWorld.in">Discovery HD World</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="287" xmltv_id="AnimalPlanetHDWorld.in">Animal Planet HD World</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="616" xmltv_id="HistoryTV18HD.in">History TV18 HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="460" xmltv_id="SONYBBCEarthHD.in">SONY BBC Earth HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="126" xmltv_id="EPIC.in">EPIC</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="367" xmltv_id="FOXLifeHD.in">FOX Life HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="480" xmltv_id="TLCHD.in">TLC HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="484" xmltv_id="TravelxpHD.in">Travelxp HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="382" xmltv_id="ZeeZestHD.in">Zee Zest HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="406" xmltv_id="MTVHD.in">MTV HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="139" xmltv_id="9XM.in">9XM</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="405" xmltv_id="MTVBeatsHD.in">MTV Beats HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="39" xmltv_id="9XJalwa.in">9X Jalwa</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="733" xmltv_id="Showbox.in">Showbox</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="38" xmltv_id="Aastha.in">Aastha</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="43" xmltv_id="Sanskar.in">Sanskar</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="456" xmltv_id="SatsangTV.in">Satsang TV</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="458" xmltv_id="ShubhTV.in">Shubh TV</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="283" xmltv_id="AasthaBhajan.in">Aastha Bhajan</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="500" xmltv_id="Vedic.in">Vedic</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="837" xmltv_id="HareKrsna.in">Hare Krsna</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="79" xmltv_id="News18UttarPradeshUttarakhand.in">News18 Uttar Pradesh Uttarakhand</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="637" xmltv_id="ZeeUttarPradeshUttarakhand.in">Zee Uttar Pradesh Uttarakhand</channel>
-  <channel site="[ENC]distro.tv_0" site_id="64138" xmltv_id="Arré.distro">Arré</channel>
-  <channel site="[ENC]distro.tv_0" site_id="87417" xmltv_id="BollywoodClassicHD.distro">Bollywood Classic HD</channel>
-  <channel site="[ENC]distro.tv_0" site_id="87418" xmltv_id="BollywoodHD.distro">Bollywood HD</channel>
-  <channel site="[ENC]distro.tv_0" site_id="105576" xmltv_id="KidsTVIndia.distro">Kids India</channel>
-  <channel site="[ENC]distro.tv_0" site_id="123695" xmltv_id="ShemarooBollywood.us">Shemaroo Bollywood</channel>
-  <channel site="astro.afqad_0" site_id="ColorsHD" xmltv_id="ColorsHindiHD.my">Colors 🄼</channel>
-  <channel site="astro.afqad_0" site_id="ZeeCinema" xmltv_id="ZeeCinema.my">Zee Cinema 🄼</channel>
-  <channel site="astro.afqad_0" site_id="HITSMovies" xmltv_id="HITSMoviesHD.my">HITS Movies 🄼</channel>
-  <channel site="astro.afqad_0" site_id="BOO" xmltv_id="BOOHD.my">BOO 🄼</channel>
-  <channel site="astro.afqad_0" site_id="HBO" xmltv_id="HBOHD.my">HBO 🄼</channel>
-  <channel site="astro.afqad_0" site_id="Cinemax" xmltv_id="CINEMAXHD.my">CINEMAX 🄼</channel>
-  <channel site="astro.afqad_0" site_id="Showcase" xmltv_id="SHOWCASE.my">SHOWCASE 🄼</channel>
-  <channel site="astro.afqad_0" site_id="HBOHits" xmltv_id="HBOHits.my">HBO Hits 🄼</channel>
-  <channel site="astro.afqad_0" site_id="AXN" xmltv_id="AXNHD.my">AXN 🄼</channel>
-  <channel site="astro.afqad_0" site_id="WarnerTV" xmltv_id="WarnerTVHD.my">Warner TV 🄼</channel>
-  <channel site="astro.afqad_0" site_id="AstroCricket" xmltv_id="AstroCricketHD.my">Astro Cricket 🄼</channel>
-  <channel site="jio.simper_0" site_id="732" xmltv_id="9XTashan.in">9X Tashan</channel>
-  <channel site="jio.simper_0" site_id="887" xmltv_id="SwarShree.in">Swar Shree</channel>
-  <channel site="jio.simper_0" site_id="1192" xmltv_id="BritAsiaTV.uk">BritAsiaTV</channel>
   <channel site="jio.simper_0" site_id="1205" xmltv_id="ABPGanga.in">ABP Ganga</channel>
-  <channel site="jio.simper_0" site_id="1248" xmltv_id="BolHadippa.in">Bol Hadippa</channel>
-  <channel site="jio.simper_0" site_id="1249" xmltv_id="KadakHits.in">Kadak Hits</channel>
-  <channel site="jio.simper_0" site_id="2036" xmltv_id="DilSe.in">Dil Se</channel>
-  <channel site="jio.simper_0" site_id="2037" xmltv_id="PopPataka.in">Pop Pataka</channel>
-  <channel site="jio.simper_0" site_id="2041" xmltv_id="BhaktiSagar.in">Bhakti Sagar</channel>
-  <channel site="jio.simper_0" site_id="2043" xmltv_id="ArtistAloud.in">Artist Aloud</channel>
-  <channel site="jio.simper_0" site_id="2064" xmltv_id="MerchantRecords.in">Merchant Records</channel>
-  <channel site="jio.simper_0" site_id="2065" xmltv_id="SaregamaMusic.in">Saregama Music</channel>
-  <channel site="jio.simper_0" site_id="2252" xmltv_id="DesiMusicStation.in">Desi Music Station</channel>
-  <channel site="jio.simper_0" site_id="2753" xmltv_id="YRFMusic.in">YRF Music</channel>
-  <channel site="jio.simper_0" site_id="2762" xmltv_id="HollywoodDesi.distro">Hollywood Desi</channel>
 </configuration>
