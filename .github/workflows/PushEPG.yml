@@ -1,4 +1,4 @@
-name: PushEPG
+name: Update TV Guide
 
 on:
   workflow_run:
@@ -11,21 +11,23 @@ jobs:
   copy-file:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    - name: Prepare destination repository
-      run: |
-        run: git clone https://github.com/simperpie/simperpie.github.io.git
-        mkdir -p simperpie.github.io/TVGuide
-
-    - name: Copy files
-      run: cp -R epg/* simperpie.github.io/TVGuide
-
-    - name: pull latest
+      - name: Prepare destination repository
         run: |
+          git clone https://github.com/simperpie/simperpie.github.io.git
+          mkdir -p simperpie.github.io/TVGuide
+
+      - name: Copy files
+        run: cp -R epg/* simperpie.github.io/TVGuide
+
+      - name: Pull latest changes
+        run: |
+          cd simperpie.github.io
           git pull
+
       - name: Commit updated epg.xml
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Automated EPG
+          commit_message: "Update EPG: $(date +%Y-%m-%d)"
