@@ -25,9 +25,9 @@ jobs:
 
       - name: Copy files to destination repository
         run: |
-          cd /tmp/destination-repo
-          mkdir -p TVGuide
-          cp -R /tmp/* TVGuide/ # Copy all files from /tmp to TVGuide folder in destination repo
+          cd /tmp/
+          mkdir -p destination-repo/TVGuide
+          find /tmp/ -mindepth 1 -maxdepth 1 -not -name 'destination-repo' -exec cp -R {} destination-repo/TVGuide/ \;
 
       - name: Commit and push changes
         run: |
