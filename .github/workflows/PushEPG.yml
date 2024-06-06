@@ -13,16 +13,15 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-      
-    - name: Configure Git
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
 
     - name: Pushes test file
       uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.Push_File }}
       with:
         source_file: 'epg/*'
-        destination_repo: 'simperpie/s0ndeep.github.io'
-        destination_folder: '.'
+        destination_repo: 'simperpie/simperpie.github.io'
+        destination_folder: 'TVGuide'
+        user_email: '91105635+simperpie@users.noreply.github.com'
+        user_name: 'simperpie'
         commit_message: 'Automated EPG'
