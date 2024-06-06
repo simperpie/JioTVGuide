@@ -4,7 +4,7 @@
 php tempest.php --epg config=jiotv.config.xml invgz
 php tempest.php --epg config=tataplay.config.xml invgz
 php tempest.php --epg config=simperpie.config.xml invgz
-php tempest.php --epg config=tempest.config.xml invgz
+php tempest.php --epg config=youtube.config.xml invgz
 php tempest.php --xmlmerge xml=jiotv xml=tataplay out=merged gz
 
 # Remove the specified XML files
