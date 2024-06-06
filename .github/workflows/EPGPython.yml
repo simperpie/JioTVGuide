@@ -27,7 +27,7 @@ jobs:
         run: python epg.py epg.xml.gz
    
       - name: Move epg.xml.gz to another folder
-        run: mv epg.xml.gz epg/epg.xml.gz
+        run: mv epg.xml.gz tempest_config/epg.xml.gz
       - name: pull latest
         run: |
           git pull

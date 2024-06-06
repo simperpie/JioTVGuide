@@ -19,7 +19,7 @@ jobs:
         git clone https://x-access-token:${{ secrets.Push_File }}@github.com/simperpie/simperpie.github.io.git
         mkdir -p simperpie.github.io/TVGuide
     - name: Copy files
-      run: cp -R epg/* simperpie.github.io/TVGuide
+      run: cp -R tempest_config/epg/* simperpie.github.io/TVGuide
 
     - name: Commit and push changes
       run: |
