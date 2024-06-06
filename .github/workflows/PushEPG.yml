@@ -19,7 +19,7 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.Push_File }}
       with:
-        source_file: 'epg/*'
+        source_file: epg/*
         destination_repo: 'simperpie/simperpie.github.io'
         destination_folder: 'TVGuide'
         user_email: '91105635+simperpie@users.noreply.github.com'
