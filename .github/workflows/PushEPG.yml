@@ -18,10 +18,13 @@ jobs:
       uses: dmnemec/copy_file_to_another_repo_action@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.Push_File }}
-      with:
-        source_file: 'epg/*' # Use wildcard to select all files within the epg folder
-        destination_repo: 'simperpie/simperpie.github.io'
-        destination_folder: 'TVGuide'
-        user_email: '91105635+simperpie@users.noreply.github.com'
-        user_name: 'simperpie'
-        commit_message: 'Automated EPG'
+      run: |
+        find epg/ -type f -exec cp {} /tmp/ \; # Copy all files within epg directory to /tmp
+        cd /tmp/
+        git clone --single-branch --branch main ***github.com/simperpie/simperpie.github.io.git destination-repo # Clone destination repo
+        cd destination-repo
+        mkdir -p TVGuide
+        cp -R /tmp/* TVGuide/ # Copy all files from /tmp to TVGuide folder in destination repo
+        git add .
+        git commit -m 'Automated EPG'
+        git push
