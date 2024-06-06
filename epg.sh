@@ -3,7 +3,7 @@
 # Run the PHP commands
 php tempest.php --epg config=jiotv.config.xml invgz
 php tempest.php --epg config=tataplay.config.xml invgz
-php tempest.php --epg config=simperpie.config.xml invgz
+php tempest.php --epg config=simper.config.xml invgz
 php tempest.php --epg config=youtube.config.xml invgz
 php tempest.php --xmlmerge xml=jiotv xml=tataplay out=merged gz
 
@@ -12,8 +12,8 @@ rm tempest_config/epg/jiotv_original.xml
 rm tempest_config/epg/jiotv.xml
 rm tempest_config/epg/tataplay_original.xml
 rm tempest_config/epg/tataplay.xml
-rm tempest_config/epg/simperpie_epg_original.xml
-rm tempest_config/epg/s0ndeep_epg.xml
+rm tempest_config/epg/simper_epg_original.xml
+rm tempest_config/epg/simper_epg.xml
 rm tempest_config/epg/youtube_original.xml
 rm tempest_config/epg/youtube.xml
 rm tempest_config/epg/merged.xml
