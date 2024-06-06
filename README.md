@@ -1,6 +1,9 @@
 
 <h1 align="center"> TV Guide for Indian TV Channels </h1>
 
+[![EPGPython](https://github.com/simperpie/TVGuide/actions/workflows/EPGPython.yml/badge.svg)](https://github.com/simperpie/TVGuide/actions/workflows/EPGPython.yml)
+[![EPGShell](https://github.com/simperpie/TVGuide/actions/workflows/EPGShell.yml/badge.svg)](https://github.com/simperpie/TVGuide/actions/workflows/EPGShell.yml)
+
 <h2 align='center'>✯ Indian Channel EPG Guide ✯</h2>
 Welcome to the comprehensive Electronic Program Guide (EPG) for Indian television channels. This guide is designed to help you navigate through the diverse and rich content available on various Indian TV channels. Here, you will find a detailed schedule of programs, including TV shows, movies, news, sports, and more.
 
