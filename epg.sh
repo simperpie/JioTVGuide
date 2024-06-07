@@ -18,14 +18,5 @@ rm tempest_config/epg/youtube_original.xml
 rm tempest_config/epg/youtube.xml
 rm tempest_config/epg/merged.xml
 
-# Define the source folder and the destination folder
-SOURCE_FOLDER="tempest_config/epg/"
-
-# Define destination folder path
-DEST_FOLDER="."
-
-# Copy the folder to the destination folder
-cp -rf "$SOURCE_FOLDER" "$DEST_FOLDER"
-
 # Optional: print a message indicating the script has finished
 echo "Script execution completed and specified files have been removed."
