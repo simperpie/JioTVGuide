@@ -3,9 +3,18 @@
   <channel id="ts137">
     <display-name lang="en">National Geographic</display-name>
   </channel>
-  <programme start="20240607000000 +0530" stop="20240607010000 +0530" channel="ts137">
+  <programme start="20240608004300 +0530" stop="20240608012800 +0530" channel="ts137">
+    <title lang="en">Mysteries From Above</title>
+    <desc lang="en">Submerged: An aerial investigation of the planet's most significant, historic and mysterious sites.</desc>
+    <credits>
+      <actor>Todd Schick</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B34CC42FD8BA35B7FEE2D4CC0760A0C40B990C5BZ.jpg"/>
+  </programme>
+  <programme start="20240608012800 +0530" stop="20240608021000 +0530" channel="ts137">
     <title lang="en">Air Crash Investigation</title>
-    <desc lang="en">A bold plan to save a hijacked airliner hinges on deceiving the violent hijackers.</desc>
+    <desc lang="en">Runway Breakup: Caught in a major tropical storm, Aires Flight 8250 crashes just short of the runway.</desc>
     <credits>
       <actor>Stephen Bogaert</actor>
       <actor>Jonathan Aris</actor>
@@ -13,20 +22,59 @@
     <category lang="en">Investigation</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/01D24C3C067F6E34660A95EF06F562E0EC105F9DJ.jpg"/>
   </programme>
-  <programme start="20240607010000 +0530" stop="20240607020000 +0530" channel="ts137">
-    <title lang="en">Wicked Tuna</title>
-    <desc lang="en">Flashback : Top fishermen battle each other to catch the elusive North Atlantic bluefin tuna.</desc>
+  <programme start="20240608021000 +0530" stop="20240608025400 +0530" channel="ts137">
+    <title lang="en">Trafficked</title>
+    <desc lang="en">Cocaine Queens: Mariana investigates a new breed of narco that is starting to gain power in the shadows.</desc>
     <credits>
-      <actor>Mike Rowe</actor>
-      <actor>Dave Carraro</actor>
-      <actor>Sandro Maniaci</actor>
+      <actor>Mariana van Zeller</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3956BF7AA079BD74708541E625E0C7E094C862456.jpg"/>
+  </programme>
+  <programme start="20240608025400 +0530" stop="20240608034400 +0530" channel="ts137">
+    <title lang="en">Trafficked</title>
+    <desc lang="en">Amazon Mafia: Mariana reveals the criminal networks behind the destruction of the Amazon rainforest.</desc>
+    <credits>
+      <actor>Mariana van Zeller</actor>
+    </credits>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3956BF7AA079BD74708541E625E0C7E094C862456.jpg"/>
+  </programme>
+  <programme start="20240608034400 +0530" stop="20240608042900 +0530" channel="ts137">
+    <title lang="en">Never Say Never With Jeff Jenkins</title>
+    <desc lang="en">Man Of The Mountain: Jeff pushes himself like never before to prepare for a mammoth testclimbing a mountain.</desc>
+    <credits>
+      <actor>Jeff Jenkins</actor>
+      <actor>Ikumi Yoshimatsu</actor>
+      <actor>Chuck Johnson</actor>
+      <actor>Jessica Minh Anh</actor>
+      <actor>Shohozan</actor>
     </credits>
     <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C539CBC89D6E5F397F90DCFFD784B8CC6B2E9746N.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DE00F27CD5CF93109DC50B293D75AD0747558988G.jpg"/>
   </programme>
-  <programme start="20240607020000 +0530" stop="20240607030000 +0530" channel="ts137">
+  <programme start="20240608042900 +0530" stop="20240608051800 +0530" channel="ts137">
+    <title lang="en">Around The World With Manu Feildel</title>
+    <desc lang="en">India: Follow Manu Feildel's 30-day culinary voyage inspired by Jules Vern's famous novel.</desc>
+    <credits>
+      <actor>Manu Feildel</actor>
+    </credits>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EF1103EF6CE15AFF52C981311F6564B6FFE1974DX.jpg"/>
+  </programme>
+  <programme start="20240608051800 +0530" stop="20240608060000 +0530" channel="ts137">
+    <title lang="en">Last Of The Giants: Wild Fish</title>
+    <desc lang="en">Fresh Bait: Cyril and his team face a perilous journey to finish their Nicaraguan quest for tarpon.</desc>
+    <credits>
+      <actor>Cyril Chauquet</actor>
+      <actor>Geoffrey Uloth</actor>
+    </credits>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2B476901FBCD9E3308232734D229DDA126BAA932.jpg"/>
+  </programme>
+  <programme start="20240608060000 +0530" stop="20240608070000 +0530" channel="ts137">
     <title lang="en">Gordon Ramsay: Uncharted</title>
-    <desc lang="en">Chef Ramsay discovers the purity of local ingredients on the isolated island of Tasmania.</desc>
+    <desc lang="en">Sumatra's Stunning Highlands: Gordon takes daring risks in his quest to master Sumatra's unique and complex cuisine.</desc>
     <credits>
       <actor>Gordon Ramsay</actor>
       <actor>Sheldon Simeon</actor>
@@ -37,174 +85,216 @@
     <category lang="en">Food</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C4319EC6C719A24C87C5D35DD83ECCC4ABF772CK.jpg"/>
   </programme>
-  <programme start="20240607030000 +0530" stop="20240607040000 +0530" channel="ts137">
-    <title lang="en">Primal Survivor</title>
-    <desc lang="en">Hazen Audel reveals what it takes to survive in the planet's most extreme environments.</desc>
-    <credits>
-      <actor>Hazen Audel</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
-  </programme>
-  <programme start="20240607040000 +0530" stop="20240607050000 +0530" channel="ts137">
-    <title lang="en">Airport Security: Madrid</title>
-    <desc lang="en">The airport Antinarcotics team flags an elderly man who claims to be in Spain for surgery.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98B51727CFE11B125A2CF65AABD23B7514AC49F9W.jpg"/>
-  </programme>
-  <programme start="20240607050000 +0530" stop="20240607060000 +0530" channel="ts137">
-    <title lang="en">Airport Security: Rome</title>
-    <desc lang="en">Security and anti-narcotics units at Rome Airport work 24/7 to stop illegal activities.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6186164F0AE313210B918CA20B1992023F9B22543.jpg"/>
-  </programme>
-  <programme start="20240607060000 +0530" stop="20240607063000 +0530" channel="ts137">
-    <title lang="en">Science Of Stupid</title>
-    <desc lang="en">A look at the physics, chemistry, biology and the forensic details at play that explain the stupidity that resulted in failure.</desc>
-    <credits>
-      <actor>Manish Paul</actor>
-      <actor>Richard Hammond</actor>
-      <actor>Dallas Campbell</actor>
-      <actor>Seth Herzog</actor>
-      <actor>Ramon Bautista</actor>
-      <actor>Ymke Wieringa</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A13140F066C1FFF670CF1781BD23C818D0874AC2W.jpg"/>
-  </programme>
-  <programme start="20240607063000 +0530" stop="20240607070000 +0530" channel="ts137">
-    <title lang="en">Science Of Stupid</title>
-    <desc lang="en">A look at the physics, chemistry, biology and the forensic details at play that explain the stupidity that resulted in failure.</desc>
-    <credits>
-      <actor>Manish Paul</actor>
-      <actor>Richard Hammond</actor>
-      <actor>Dallas Campbell</actor>
-      <actor>Seth Herzog</actor>
-      <actor>Ramon Bautista</actor>
-      <actor>Ymke Wieringa</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A13140F066C1FFF670CF1781BD23C818D0874AC2W.jpg"/>
-  </programme>
-  <programme start="20240607070000 +0530" stop="20240607080000 +0530" channel="ts137">
-    <title lang="en">Filthy Riches</title>
-    <desc lang="en">Follow the American mavericks as they battle the elements to make a living off the land.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB75B2A88E63382C6794841463D6F511130C1797X.jpg"/>
-  </programme>
-  <programme start="20240607080000 +0530" stop="20240607090000 +0530" channel="ts137">
-    <title lang="en">Wicked Tuna</title>
-    <desc lang="en">Flashback : Top fishermen battle each other to catch the elusive North Atlantic bluefin tuna.</desc>
-    <credits>
-      <actor>Mike Rowe</actor>
-      <actor>Dave Carraro</actor>
-      <actor>Sandro Maniaci</actor>
-    </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C539CBC89D6E5F397F90DCFFD784B8CC6B2E9746N.jpg"/>
-  </programme>
-  <programme start="20240607090000 +0530" stop="20240607100000 +0530" channel="ts137">
-    <title lang="en">The Legend Of Jagannath</title>
-    <desc lang="en">Experience the frenzy of the epic Lord Jagannath Yatra in Puri, Odisha.</desc>
-    <credits>
-      <actor>Rajeev Khandelwal</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/08F1936F85BC364F431A959BE693656737C59DD9L.jpg"/>
-  </programme>
-  <programme start="20240607100000 +0530" stop="20240607110000 +0530" channel="ts137">
-    <title lang="en">Primal Survivor</title>
-    <desc lang="en">Hazen Audel reveals what it takes to survive in the planet's most extreme environments.</desc>
-    <credits>
-      <actor>Hazen Audel</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
-  </programme>
-  <programme start="20240607110000 +0530" stop="20240607120000 +0530" channel="ts137">
-    <title lang="en">Airport Security: Madrid</title>
-    <desc lang="en">The airport Antinarcotics team flags an elderly man who claims to be in Spain for surgery.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98B51727CFE11B125A2CF65AABD23B7514AC49F9W.jpg"/>
-  </programme>
-  <programme start="20240607120000 +0530" stop="20240607130000 +0530" channel="ts137">
-    <title lang="en">India's Mega Kitchens</title>
-    <desc lang="en">Charitable ideals of 19th century mystic Sai Baba meet 21st century solar technology, one of the largest solar-powered mega kitchens in India.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4B974E386DF18E3850BEA06A9B5C686B118FB4F93.jpg"/>
-  </programme>
-  <programme start="20240607130000 +0530" stop="20240607140000 +0530" channel="ts137">
-    <title lang="en">Unknown Waters With Jeremy Wade</title>
-    <desc lang="en">Amazon River Shark : Intrepid angler Jeremy Wade looks for the elusive bull shark at the mouth of the Amazon.</desc>
-    <credits>
-      <actor>Jeremy Wade</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F63D04ABE7FD40A461F20A5B3A83344D49333C16V.jpg"/>
-  </programme>
-  <programme start="20240607140000 +0530" stop="20240607150000 +0530" channel="ts137">
-    <title lang="en">Primal Survivor</title>
-    <desc lang="en">Hazen Audel reveals what it takes to survive in the planet's most extreme environments.</desc>
-    <credits>
-      <actor>Hazen Audel</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
-  </programme>
-  <programme start="20240607150000 +0530" stop="20240607160000 +0530" channel="ts137">
-    <title lang="en">Snakes In The City</title>
-    <desc lang="en">Bed of Snakes : Simon and Siouxsie are swamped with calls as people are encountering dangerous snakes.</desc>
-    <credits>
-      <actor>Simon Keys</actor>
-      <actor>Siouxsie Gillett</actor>
-      <actor>Nadine Keys</actor>
-      <actor>Abdi Hussein</actor>
-    </credits>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C4C730194299C2D118E4353906C1B7449575C3DX.jpg"/>
-  </programme>
-  <programme start="20240607160000 +0530" stop="20240607170000 +0530" channel="ts137">
-    <title lang="en">Snakes In The City</title>
-    <desc lang="en">Bed of Snakes : Simon and Siouxsie are swamped with calls as people are encountering dangerous snakes.</desc>
-    <credits>
-      <actor>Simon Keys</actor>
-      <actor>Siouxsie Gillett</actor>
-      <actor>Nadine Keys</actor>
-      <actor>Abdi Hussein</actor>
-    </credits>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C4C730194299C2D118E4353906C1B7449575C3DX.jpg"/>
-  </programme>
-  <programme start="20240607170000 +0530" stop="20240607180000 +0530" channel="ts137">
-    <title lang="en">Primal Survivor</title>
-    <desc lang="en">Hazen Audel reveals what it takes to survive in the planet's most extreme environments.</desc>
-    <credits>
-      <actor>Hazen Audel</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
-  </programme>
-  <programme start="20240607180000 +0530" stop="20240607190000 +0530" channel="ts137">
+  <programme start="20240608070000 +0530" stop="20240608080000 +0530" channel="ts137">
     <title lang="en">India's Jungle Heroes</title>
-    <desc lang="en">A team of conservationists and vets are on a mission to rescue animals in distress.</desc>
+    <desc lang="en">Bear Necessities: A team of conservationists and vets are on a mission to rescue animals in distress.</desc>
     <credits>
       <actor>Dan Nachtrab</actor>
     </credits>
     <category lang="en">Nature</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77DB2E25FF9114BB95425F0833BEFBDFBF899069O.jpg"/>
   </programme>
-  <programme start="20240607190000 +0530" stop="20240607200000 +0530" channel="ts137">
-    <title lang="en">Wicked Tuna</title>
-    <desc lang="en">Flashback : Top fishermen battle each other to catch the elusive North Atlantic bluefin tuna.</desc>
+  <programme start="20240608080000 +0530" stop="20240608090000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor: Escape the Amazon</title>
+    <desc lang="en">Amazon Adventures: Survivalist Hazen Audel uses ingenuity to traverse nearly 500 miles of unexplored Amazon.</desc>
     <credits>
-      <actor>Mike Rowe</actor>
-      <actor>Dave Carraro</actor>
-      <actor>Sandro Maniaci</actor>
+      <actor>Hazen Audel</actor>
     </credits>
-    <category lang="en">Reality Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C539CBC89D6E5F397F90DCFFD784B8CC6B2E9746N.jpg"/>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FE675FEA983B8FB451C8478369F2EE0969A3239BL.jpg"/>
   </programme>
-  <programme start="20240607200000 +0530" stop="20240607210000 +0530" channel="ts137">
+  <programme start="20240608090000 +0530" stop="20240608100000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor: Extreme African Safari</title>
+    <desc lang="en">Desert Nomads: Hazen Audel battles the arid Chalbi desert on a mission to find a migrating camel train.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56AEB6E60BF2CCE89E725225ABF0CE45B41EF3148.jpg"/>
+  </programme>
+  <programme start="20240608100000 +0530" stop="20240608110000 +0530" channel="ts137">
+    <title lang="en">Last Of The Giants: Wild Fish</title>
+    <desc lang="en">Edge Of Disaster: Cyril and the team battle hidden dangers in their quest for the elusive giant Piraiba.</desc>
+    <credits>
+      <actor>Cyril Chauquet</actor>
+      <actor>Geoffrey Uloth</actor>
+    </credits>
+    <category lang="en">Environment</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B2B476901FBCD9E3308232734D229DDA126BAA932.jpg"/>
+  </programme>
+  <programme start="20240608110000 +0530" stop="20240608120000 +0530" channel="ts137">
+    <title lang="en">The Living Edens</title>
+    <desc lang="en">Tiger Wars: The story of the Tigress Bacchi and the rivalry between her son and his grandfather.</desc>
+    <credits>
+      <actor>Sally Kellerman</actor>
+      <actor>Peter Coyote</actor>
+      <actor>Linda Hunt</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E7756C6F89D59F14A833312328B6448302E35B2K.jpg"/>
+  </programme>
+  <programme start="20240608120000 +0530" stop="20240608130000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor</title>
+    <desc lang="en">Extreme Tribal Tools: Hazen looks back at some of the most extreme tribal tools he's used on his expeditions.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
+  </programme>
+  <programme start="20240608130000 +0530" stop="20240608140000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor</title>
+    <desc lang="en">Hostile Canyon: Hazen Audel goes on a deadly solo run into the deepest canyon in North America.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
+  </programme>
+  <programme start="20240608140000 +0530" stop="20240608143000 +0530" channel="ts137">
+    <title lang="en">Snakes SOS: Goa's Wildest</title>
+    <desc lang="en">Double Trouble: Ben and Louise chase a cobra in a temple, all the while managing another agitated caller.</desc>
+    <credits>
+      <actor>Benhail Antao</actor>
+      <actor>Louise Remedios</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BD8C8AB25F2C19864742ADC1DF5D6E6635D457A8.jpg"/>
+  </programme>
+  <programme start="20240608143000 +0530" stop="20240608150000 +0530" channel="ts137">
+    <title lang="en">Snakes SOS: Goa's Wildest</title>
+    <desc lang="en">Knotty Corners: A rat snake in a colony, a keelback in a kitchen and a snake stuck in a net need rescuing!</desc>
+    <credits>
+      <actor>Benhail Antao</actor>
+      <actor>Louise Remedios</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8BD8C8AB25F2C19864742ADC1DF5D6E6635D457A8.jpg"/>
+  </programme>
+  <programme start="20240608150000 +0530" stop="20240608160000 +0530" channel="ts137">
+    <title lang="en">Snakes In The City</title>
+    <desc lang="en">Cobra Chaos: Snake handlers Simon Keys and Siouxsie Gillett are in Mysore to rescue some deadly snakes.</desc>
+    <credits>
+      <actor>Simon Keys</actor>
+      <actor>Siouxsie Gillett</actor>
+      <actor>Nadine Keys</actor>
+      <actor>Abdi Hussein</actor>
+    </credits>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C4C730194299C2D118E4353906C1B7449575C3DX.jpg"/>
+  </programme>
+  <programme start="20240608160000 +0530" stop="20240608170000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor: Extreme African Safari</title>
+    <desc lang="en">Rhino Mountain: Survival expert Hazen Audel hits Hell's Gate gorge on a quest to find rare black rhino.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56AEB6E60BF2CCE89E725225ABF0CE45B41EF3148.jpg"/>
+  </programme>
+  <programme start="20240608170000 +0530" stop="20240608180000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor: Over The Andes</title>
+    <desc lang="en">Deadly Desert: Survivalist Hazen Audel tackles the waterless wilderness of the deadly Atacama Desert.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0DB8272F566B8B1A8D36492AE555441A50E704B0E.jpg"/>
+  </programme>
+  <programme start="20240608180000 +0530" stop="20240608190000 +0530" channel="ts137">
+    <title lang="en">Ice Road Rescue: Highway Havoc!</title>
+    <desc lang="en">Resourceful Rescues: Resourceful Rescues : Quick thinking and ingenuity help rescue teams save the day on Norway's mountain roads.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D7C9161A54350DFD788999AA942FE68054FA455B2.jpg"/>
+  </programme>
+  <programme start="20240608190000 +0530" stop="20240608193000 +0530" channel="ts137">
+    <title lang="en">David Rocco's Dolce India</title>
+    <desc lang="en">Beach And Jungle: David heads deep into the rainforest of Goa to visit the 200 year old Savoi Plantations.</desc>
+    <credits>
+      <actor>David Rocco</actor>
+    </credits>
+    <category lang="en">Cookery Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25FB1F9AFAEC736FC3FCFD751D5B6E2725C4323F9.jpg"/>
+  </programme>
+  <programme start="20240608193000 +0530" stop="20240608200000 +0530" channel="ts137">
+    <title lang="en">Luke Nguyen's India</title>
+    <desc lang="en">Chettinad 1: Chef Luke Nguyen explores Chettinad's spice-rich history and savours its famous cuisine.</desc>
+    <credits>
+      <actor>Luke Nguyen</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A48AF5EC6BA2AF2660624E137076376A902DCFD8Y.jpg"/>
+  </programme>
+  <programme start="20240608200000 +0530" stop="20240608203000 +0530" channel="ts137">
+    <title lang="en">Luke Nguyen's India</title>
+    <desc lang="en">Thekkady: Luke explores Thekkady's lush spice plantations high up in the stunning Western Ghats.</desc>
+    <credits>
+      <actor>Luke Nguyen</actor>
+    </credits>
+    <category lang="en">Travel</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A48AF5EC6BA2AF2660624E137076376A902DCFD8Y.jpg"/>
+  </programme>
+  <programme start="20240608203000 +0530" stop="20240608210000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor</title>
+    <desc lang="en">Killer Blizzard: Hazen goes on a gruelling journey through the deadly frozen wilds of Northern Canada.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
+  </programme>
+  <programme start="20240608210000 +0530" stop="20240608220000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor: Extreme African Safari</title>
+    <desc lang="en">Valley of Giants: Hazen descends the sheer face of the Great Rift Valley in search of a herd of elephants.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/56AEB6E60BF2CCE89E725225ABF0CE45B41EF3148.jpg"/>
+  </programme>
+  <programme start="20240608220000 +0530" stop="20240608230000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor</title>
+    <desc lang="en">Hidden Village: Hazen Audel seeks out a village hidden deep in the jungles of the Mekong Basin.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
+  </programme>
+  <programme start="20240608230000 +0530" stop="20240609000000 +0530" channel="ts137">
+    <title lang="en">Unknown Waters With Jeremy Wade</title>
+    <desc lang="en">African Lake Giants: Extreme angler Jeremy Wade is in Kenya to search for the disappearing giant Nile perch.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F63D04ABE7FD40A461F20A5B3A83344D49333C16V.jpg"/>
+  </programme>
+  <programme start="20240609000000 +0530" stop="20240609010000 +0530" channel="ts137">
+    <title lang="en">Inside North Korea</title>
+    <desc lang="en">The Kim Dynasty : A look inside the regime of the Democratic People's Republic of Korea under Kim Jong-Un.</desc>
+    <credits>
+      <actor>Lisa Ling</actor>
+    </credits>
+    <category lang="en">Investigation</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/62DC5DB7EA3F882CC19AD6ABDD37C746F561CC6B0.jpg"/>
+  </programme>
+  <programme start="20240609010000 +0530" stop="20240609030000 +0530" channel="ts137">
+    <title lang="en">Airport Security: Rome</title>
+    <desc lang="en">Security and anti-narcotics units at Rome Airport work 24/7 to stop illegal activities.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6186164F0AE313210B918CA20B1992023F9B22543.jpg"/>
+  </programme>
+  <programme start="20240609030000 +0530" stop="20240609040000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor</title>
+    <desc lang="en">Hazen Audel reveals what it takes to survive in the planet's most extreme environments.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
+  </programme>
+  <programme start="20240609040000 +0530" stop="20240609050000 +0530" channel="ts137">
     <title lang="en">Gordon Ramsay: Uncharted</title>
     <desc lang="en">Chef Ramsay discovers the purity of local ingredients on the isolated island of Tasmania.</desc>
     <credits>
@@ -217,7 +307,128 @@
     <category lang="en">Food</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C4319EC6C719A24C87C5D35DD83ECCC4ABF772CK.jpg"/>
   </programme>
-  <programme start="20240607210000 +0530" stop="20240607220000 +0530" channel="ts137">
+  <programme start="20240609050000 +0530" stop="20240609060000 +0530" channel="ts137">
+    <title lang="en">Airport Security: First Class</title>
+    <desc lang="en">Officers tackle the top routes for drug trafficking at Latin America's busiest airports.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D9135EAFFEFEEB383EAA4931C75A2FFB76BE0A0O.jpg"/>
+  </programme>
+  <programme start="20240609060000 +0530" stop="20240609070000 +0530" channel="ts137">
+    <title lang="en">Britain's Biggest With Bear Grylls</title>
+    <desc lang="en">Bear Grylls heads out on an epic journey of discovery across the Scottish highlands.</desc>
+    <credits>
+      <actor>Bear Grylls</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/723457D8DC9F2EFA8C8B1B4524F0870992CA2721Z.jpg"/>
+  </programme>
+  <programme start="20240609070000 +0530" stop="20240609080000 +0530" channel="ts137">
+    <title lang="en">Dirty Rotten Survival</title>
+    <desc lang="en">The guys head to the mountains of Oregon for a gold rush adventure.</desc>
+    <credits>
+      <actor>Dave Canterbury</actor>
+      <actor>Johnny Liittlefield</actor>
+      <actor>Dick Strawbridge</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4597A5A58F6D2DC440257B9C22B86F04E1779ED8O.jpg"/>
+  </programme>
+  <programme start="20240609080000 +0530" stop="20240609090000 +0530" channel="ts137">
+    <title lang="en">Wicked Tuna</title>
+    <desc lang="en">Flashback : Top fishermen battle each other to catch the elusive North Atlantic bluefin tuna.</desc>
+    <credits>
+      <actor>Mike Rowe</actor>
+      <actor>Dave Carraro</actor>
+      <actor>Sandro Maniaci</actor>
+    </credits>
+    <category lang="en">Reality Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C539CBC89D6E5F397F90DCFFD784B8CC6B2E9746N.jpg"/>
+  </programme>
+  <programme start="20240609090000 +0530" stop="20240609093000 +0530" channel="ts137">
+    <title lang="en">Science Of Stupid</title>
+    <desc lang="en">A look at the physics, chemistry, biology and the forensic details at play that explain the stupidity that resulted in failure.</desc>
+    <credits>
+      <actor>Manish Paul</actor>
+      <actor>Richard Hammond</actor>
+      <actor>Dallas Campbell</actor>
+      <actor>Seth Herzog</actor>
+      <actor>Ramon Bautista</actor>
+      <actor>Ymke Wieringa</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A13140F066C1FFF670CF1781BD23C818D0874AC2W.jpg"/>
+  </programme>
+  <programme start="20240609093000 +0530" stop="20240609100000 +0530" channel="ts137">
+    <title lang="en">Science Of Stupid</title>
+    <desc lang="en">A look at the physics, chemistry, biology and the forensic details at play that explain the stupidity that resulted in failure.</desc>
+    <credits>
+      <actor>Manish Paul</actor>
+      <actor>Richard Hammond</actor>
+      <actor>Dallas Campbell</actor>
+      <actor>Seth Herzog</actor>
+      <actor>Ramon Bautista</actor>
+      <actor>Ymke Wieringa</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A13140F066C1FFF670CF1781BD23C818D0874AC2W.jpg"/>
+  </programme>
+  <programme start="20240609100000 +0530" stop="20240609103000 +0530" channel="ts137">
+    <title lang="en">Science Of Stupid</title>
+    <desc lang="en">A look at the physics, chemistry, biology and the forensic details at play that explain the stupidity that resulted in failure.</desc>
+    <credits>
+      <actor>Manish Paul</actor>
+      <actor>Richard Hammond</actor>
+      <actor>Dallas Campbell</actor>
+      <actor>Seth Herzog</actor>
+      <actor>Ramon Bautista</actor>
+      <actor>Ymke Wieringa</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A13140F066C1FFF670CF1781BD23C818D0874AC2W.jpg"/>
+  </programme>
+  <programme start="20240609103000 +0530" stop="20240609110000 +0530" channel="ts137">
+    <title lang="en">Science Of Stupid</title>
+    <desc lang="en">A look at the physics, chemistry, biology and the forensic details at play that explain the stupidity that resulted in failure.</desc>
+    <credits>
+      <actor>Manish Paul</actor>
+      <actor>Richard Hammond</actor>
+      <actor>Dallas Campbell</actor>
+      <actor>Seth Herzog</actor>
+      <actor>Ramon Bautista</actor>
+      <actor>Ymke Wieringa</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A13140F066C1FFF670CF1781BD23C818D0874AC2W.jpg"/>
+  </programme>
+  <programme start="20240609110000 +0530" stop="20240609113000 +0530" channel="ts137">
+    <title lang="en">Science Of Stupid</title>
+    <desc lang="en">A look at the physics, chemistry, biology and the forensic details at play that explain the stupidity that resulted in failure.</desc>
+    <credits>
+      <actor>Manish Paul</actor>
+      <actor>Richard Hammond</actor>
+      <actor>Dallas Campbell</actor>
+      <actor>Seth Herzog</actor>
+      <actor>Ramon Bautista</actor>
+      <actor>Ymke Wieringa</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A13140F066C1FFF670CF1781BD23C818D0874AC2W.jpg"/>
+  </programme>
+  <programme start="20240609113000 +0530" stop="20240609120000 +0530" channel="ts137">
+    <title lang="en">Science Of Stupid</title>
+    <desc lang="en">A look at the physics, chemistry, biology and the forensic details at play that explain the stupidity that resulted in failure.</desc>
+    <credits>
+      <actor>Manish Paul</actor>
+      <actor>Richard Hammond</actor>
+      <actor>Dallas Campbell</actor>
+      <actor>Seth Herzog</actor>
+      <actor>Ramon Bautista</actor>
+      <actor>Ymke Wieringa</actor>
+    </credits>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A13140F066C1FFF670CF1781BD23C818D0874AC2W.jpg"/>
+  </programme>
+  <programme start="20240609120000 +0530" stop="20240609130000 +0530" channel="ts137">
     <title lang="en">Primal Survivor</title>
     <desc lang="en">Hazen Audel reveals what it takes to survive in the planet's most extreme environments.</desc>
     <credits>
@@ -226,265 +437,118 @@
     <category lang="en">Adventure</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
   </programme>
-  <programme start="20240607220000 +0530" stop="20240607230000 +0530" channel="ts137">
-    <title lang="en">Airport Security: Brazil</title>
-    <desc lang="en">Federal Police at Sao Paolo International Airport work 24-7 to stop illegal activity.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C881BD01812E5F5140DB83F4EB9AB01D0C58FFF16.jpg"/>
-  </programme>
-  <programme start="20240607230000 +0530" stop="20240608000000 +0530" channel="ts137">
-    <title lang="en">Airport Security: Madrid</title>
-    <desc lang="en">The airport Antinarcotics team flags an elderly man who claims to be in Spain for surgery.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/98B51727CFE11B125A2CF65AABD23B7514AC49F9W.jpg"/>
-  </programme>
-  <programme start="20240608000000 +0530" stop="20240608010000 +0530" channel="ts137">
-    <title lang="en">Lockdown: India Fights Coronavirus</title>
-    <desc lang="en">Witness the heroic efforts of India's frontline warriors during the Covid-19 pandemic.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F1C54849DDA87C23376ABC2672BC9C7E58A9D328C.jpg"/>
-  </programme>
-  <programme start="20240608010000 +0530" stop="20240608030000 +0530" channel="ts137">
-    <title lang="en">Investigates: Hell On Earth</title>
-    <desc lang="en">Sebastian Junger and Nick Quested investigate the fall of the government and the rise of terrorism in Syria while highlighting the plight of the innocent people caught in the crossfire.</desc>
-    <category lang="en">Investigation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDD38D3DCEAA4F07FEB4161AC28D230618D195CFP.jpg"/>
-  </programme>
-  <programme start="20240608030000 +0530" stop="20240608050000 +0530" channel="ts137">
-    <title lang="en">Investigates: Free Solo</title>
-    <desc lang="en">A stunning portrait of Alex Honnold, as he climbs the 3,200ft El Capitan. without a rope.</desc>
+  <programme start="20240609130000 +0530" stop="20240609140000 +0530" channel="ts137">
+    <title lang="en">The Great Human Race</title>
+    <desc lang="en">Bill Schindler and Cat Bigney attempt to live as Homo habilis did 2.6 million years ago.</desc>
     <credits>
-      <actor>Alex Honnold</actor>
-      <actor>Tommy Caldwell</actor>
-    </credits>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5BAA0B605812E5EC5626D285A78F8FD206D682C84.jpg"/>
-  </programme>
-  <programme start="20240608050000 +0530" stop="20240608060000 +0530" channel="ts137">
-    <title lang="en">Adventure: Primal Survivor</title>
-    <desc lang="en">Tropics : Hazen reveals the unique tribal methods that can help survive a tropical rainforest.</desc>
-    <credits>
-      <actor>Hazen Audel</actor>
+      <actor>Bill Schindler</actor>
+      <actor>Cat Bigney</actor>
     </credits>
     <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B67B690C8CBB0299F1C5000E7D8DC95D6838B44.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D2340437FEA683B24AAC5D97C6D9C4AF25480A5E3.jpg"/>
   </programme>
-  <programme start="20240608060000 +0530" stop="20240608070000 +0530" channel="ts137">
-    <title lang="en">Adventure: Snakes in The City</title>
-    <desc lang="en">Storm of Snakes : Simon and Siouxsie brave a storm to rescue a black mamba - one slip and they're dead!</desc>
+  <programme start="20240609140000 +0530" stop="20240609150000 +0530" channel="ts137">
+    <title lang="en">Dirty Rotten Survival</title>
+    <desc lang="en">The guys head to the mountains of Oregon for a gold rush adventure.</desc>
+    <credits>
+      <actor>Dave Canterbury</actor>
+      <actor>Johnny Liittlefield</actor>
+      <actor>Dick Strawbridge</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4597A5A58F6D2DC440257B9C22B86F04E1779ED8O.jpg"/>
+  </programme>
+  <programme start="20240609150000 +0530" stop="20240609160000 +0530" channel="ts137">
+    <title lang="en">Snakes In The City</title>
+    <desc lang="en">Bed of Snakes : Simon and Siouxsie are swamped with calls as people are encountering dangerous snakes.</desc>
     <credits>
       <actor>Simon Keys</actor>
       <actor>Siouxsie Gillett</actor>
       <actor>Nadine Keys</actor>
       <actor>Abdi Hussein</actor>
     </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9591EF7C8242ED42229F0B59C8FBDE818EF9C6A4B.jpg"/>
-  </programme>
-  <programme start="20240608070000 +0530" stop="20240608080000 +0530" channel="ts137">
-    <title lang="en">Adventure: Out There With Jack Randall</title>
-    <desc lang="en">Chasing Giants : Jack Randall dives in to help green sea turtles survive Australia's Great Barrier Reef.</desc>
-    <credits>
-      <actor>Jack Randall</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F868BEC545EF9B0BBB3C7CED80DAD86F32EFA541C.jpg"/>
-  </programme>
-  <programme start="20240608080000 +0530" stop="20240608090000 +0530" channel="ts137">
-    <title lang="en">Science: Deadly Drops</title>
-    <desc lang="en">Experts analyse horrifying incidents of elevators and escalators spiralling out of control and putting innocent people in danger.</desc>
     <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/87FAEB9442543EB45814A489E011773D3992B338E.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C4C730194299C2D118E4353906C1B7449575C3DX.jpg"/>
   </programme>
-  <programme start="20240608090000 +0530" stop="20240608093000 +0530" channel="ts137">
-    <title lang="en">Brain Boosters</title>
-    <desc lang="en">Science lovers Charlie and Kirby explore the weird and fascinating world of arthropods.</desc>
-    <credits>
-      <actor>Manish Paul</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8547BE334EE63052B4FECC77D6FFA55E546986B7V.jpg"/>
-  </programme>
-  <programme start="20240608093000 +0530" stop="20240608100000 +0530" channel="ts137">
-    <title lang="en">Brain Boosters</title>
-    <desc lang="en">Science lovers Charlie and Kirby explore the weird and fascinating world of arthropods.</desc>
-    <credits>
-      <actor>Manish Paul</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8547BE334EE63052B4FECC77D6FFA55E546986B7V.jpg"/>
-  </programme>
-  <programme start="20240608100000 +0530" stop="20240608103000 +0530" channel="ts137">
-    <title lang="en">Brain Boosters</title>
-    <desc lang="en">Science lovers Charlie and Kirby explore the weird and fascinating world of arthropods.</desc>
-    <credits>
-      <actor>Manish Paul</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8547BE334EE63052B4FECC77D6FFA55E546986B7V.jpg"/>
-  </programme>
-  <programme start="20240608103000 +0530" stop="20240608110000 +0530" channel="ts137">
-    <title lang="en">Brain Boosters</title>
-    <desc lang="en">Science lovers Charlie and Kirby explore the weird and fascinating world of arthropods.</desc>
-    <credits>
-      <actor>Manish Paul</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8547BE334EE63052B4FECC77D6FFA55E546986B7V.jpg"/>
-  </programme>
-  <programme start="20240608110000 +0530" stop="20240608113000 +0530" channel="ts137">
-    <title lang="en">Brain Boosters</title>
-    <desc lang="en">Science lovers Charlie and Kirby explore the weird and fascinating world of arthropods.</desc>
-    <credits>
-      <actor>Manish Paul</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8547BE334EE63052B4FECC77D6FFA55E546986B7V.jpg"/>
-  </programme>
-  <programme start="20240608113000 +0530" stop="20240608120000 +0530" channel="ts137">
-    <title lang="en">Brain Boosters</title>
-    <desc lang="en">Science lovers Charlie and Kirby explore the weird and fascinating world of arthropods.</desc>
-    <credits>
-      <actor>Manish Paul</actor>
-    </credits>
-    <category lang="en">Science &amp; Tech</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8547BE334EE63052B4FECC77D6FFA55E546986B7V.jpg"/>
-  </programme>
-  <programme start="20240608120000 +0530" stop="20240608130000 +0530" channel="ts137">
-    <title lang="en">Adventure: Running Wild With Bear Grylls</title>
-    <desc lang="en">Dave Bautista in Glen Canyon, Arizona : Bear takes action star Dave Bautista on a super-sized adventure in the Arizona desert.</desc>
-    <credits>
-      <actor>Bear Grylls</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7EF7E39267C831A3E024814C7021819951B7314F.jpg"/>
-  </programme>
-  <programme start="20240608130000 +0530" stop="20240608133000 +0530" channel="ts137">
-    <title lang="en">Adventure: Outback Wrangler</title>
-    <desc lang="en">Wildlife expert Matt Wright has a flair for handling fearsome animals. He helps in ecosystem conservation by tracking down intimidating creatures like snakes and crocodiles in order to relocate them.</desc>
-    <credits>
-      <actor>Matt Wright</actor>
-      <actor>Chris Wilson</actor>
-      <actor>John Brown</actor>
-      <actor>Michael Wright</actor>
-      <actor>Jono Brown</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8B95639E7D206633B45C76F29260B3702B236701I.jpg"/>
-  </programme>
-  <programme start="20240608133000 +0530" stop="20240608143000 +0530" channel="ts137">
-    <title lang="en">Adventure: Primal Survivor</title>
-    <desc lang="en">Tropics : Hazen reveals the unique tribal methods that can help survive a tropical rainforest.</desc>
-    <credits>
-      <actor>Hazen Audel</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B67B690C8CBB0299F1C5000E7D8DC95D6838B44.jpg"/>
-  </programme>
-  <programme start="20240608143000 +0530" stop="20240608153000 +0530" channel="ts137">
-    <title lang="en">Adventure: Out There With Jack Randall</title>
-    <desc lang="en">Chasing Giants : Jack Randall dives in to help green sea turtles survive Australia's Great Barrier Reef.</desc>
-    <credits>
-      <actor>Jack Randall</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F868BEC545EF9B0BBB3C7CED80DAD86F32EFA541C.jpg"/>
-  </programme>
-  <programme start="20240608153000 +0530" stop="20240608163000 +0530" channel="ts137">
-    <title lang="en">Adventure: Snakes in The City</title>
-    <desc lang="en">Storm of Snakes : Simon and Siouxsie brave a storm to rescue a black mamba - one slip and they're dead!</desc>
-    <credits>
-      <actor>Simon Keys</actor>
-      <actor>Siouxsie Gillett</actor>
-      <actor>Nadine Keys</actor>
-      <actor>Abdi Hussein</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9591EF7C8242ED42229F0B59C8FBDE818EF9C6A4B.jpg"/>
-  </programme>
-  <programme start="20240608163000 +0530" stop="20240608170000 +0530" channel="ts137">
-    <title lang="en">Adventure: Monster Croc Wrangler</title>
-    <desc lang="en">Croc Stalker : Matt and the boys are called in to capture the aggressive Saltwater Crocs in Lizzie Downs.</desc>
-    <credits>
-      <actor>Matthew Wright</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51BE63BEC7F239BD0598F78CE6A307650B7B4937Y.jpg"/>
-  </programme>
-  <programme start="20240608170000 +0530" stop="20240608180000 +0530" channel="ts137">
-    <title lang="en">Adventure - Gordon Ramsay: Uncharted</title>
-    <desc lang="en">Gordon Ramsay travels to Maui, to explore the exotic ingredients of Hawaiian cuisine.</desc>
+  <programme start="20240609160000 +0530" stop="20240609170000 +0530" channel="ts137">
+    <title lang="en">Gordon Ramsay: Uncharted</title>
+    <desc lang="en">Chef Ramsay discovers the purity of local ingredients on the isolated island of Tasmania.</desc>
     <credits>
       <actor>Gordon Ramsay</actor>
+      <actor>Sheldon Simeon</actor>
+      <actor>Monique Fiso</actor>
+      <actor>Michelle Costello</actor>
+      <actor>Virgilio Martinez Veliz</actor>
     </credits>
     <category lang="en">Food</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E78F73C17A2BF6C4A38C1D0BD54ACF317B9913599.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C4319EC6C719A24C87C5D35DD83ECCC4ABF772CK.jpg"/>
   </programme>
-  <programme start="20240608180000 +0530" stop="20240608190000 +0530" channel="ts137">
-    <title lang="en">Science: Deadly Drops</title>
-    <desc lang="en">Experts analyse horrifying incidents of elevators and escalators spiralling out of control and putting innocent people in danger.</desc>
-    <category lang="en">Educational</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/87FAEB9442543EB45814A489E011773D3992B338E.jpg"/>
+  <programme start="20240609170000 +0530" stop="20240609180000 +0530" channel="ts137">
+    <title lang="en">To Catch A Smuggler</title>
+    <desc lang="en">Coke In The Coat : Watch as customs officers at JFK airport intercept a family with heroin in their luggage.</desc>
+    <category lang="en">Crime</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03C4F20579A96C87DB1D4A4C89D48E9002CB69EBW.jpg"/>
   </programme>
-  <programme start="20240608190000 +0530" stop="20240608200000 +0530" channel="ts137">
-    <title lang="en">Adventure: Snakes in The City</title>
-    <desc lang="en">Storm of Snakes : Simon and Siouxsie brave a storm to rescue a black mamba - one slip and they're dead!</desc>
-    <credits>
-      <actor>Simon Keys</actor>
-      <actor>Siouxsie Gillett</actor>
-      <actor>Nadine Keys</actor>
-      <actor>Abdi Hussein</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9591EF7C8242ED42229F0B59C8FBDE818EF9C6A4B.jpg"/>
-  </programme>
-  <programme start="20240608200000 +0530" stop="20240608210000 +0530" channel="ts137">
-    <title lang="en">Wildlife: Monster Fish</title>
-    <desc lang="en">Zeb Hogan, a biologist, sets out on a quest to explore different waterbodies in search of some of the world's largest fish with the help of fishermen, locals and scientists.</desc>
-    <credits>
-      <actor>Zeb Hogan</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/86CEAB9FF70DE41F4E64E1E7CE24EE2E4943D309L.jpg"/>
-  </programme>
-  <programme start="20240608210000 +0530" stop="20240608220000 +0530" channel="ts137">
-    <title lang="en">Adventure: Primal Survivor</title>
-    <desc lang="en">Tropics : Hazen reveals the unique tribal methods that can help survive a tropical rainforest.</desc>
-    <credits>
-      <actor>Hazen Audel</actor>
-    </credits>
-    <category lang="en">Adventure</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44B67B690C8CBB0299F1C5000E7D8DC95D6838B44.jpg"/>
-  </programme>
-  <programme start="20240608220000 +0530" stop="20240608223000 +0530" channel="ts137">
-    <title lang="en">Adventure: Monster Croc Wrangler</title>
-    <desc lang="en">Croc Stalker : Matt and the boys are called in to capture the aggressive Saltwater Crocs in Lizzie Downs.</desc>
-    <credits>
-      <actor>Matthew Wright</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51BE63BEC7F239BD0598F78CE6A307650B7B4937Y.jpg"/>
-  </programme>
-  <programme start="20240608223000 +0530" stop="20240608230000 +0530" channel="ts137">
-    <title lang="en">Adventure: Monster Croc Wrangler</title>
-    <desc lang="en">Croc Stalker : Matt and the boys are called in to capture the aggressive Saltwater Crocs in Lizzie Downs.</desc>
-    <credits>
-      <actor>Matthew Wright</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/51BE63BEC7F239BD0598F78CE6A307650B7B4937Y.jpg"/>
-  </programme>
-  <programme start="20240608230000 +0530" stop="20240609000000 +0530" channel="ts137">
-    <title lang="en">Investigates: Banged up Abroad</title>
-    <desc lang="en">An on-the-run drug dealer lands in trouble when he dares to organise one final shipment.</desc>
+  <programme start="20240609180000 +0530" stop="20240609190000 +0530" channel="ts137">
+    <title lang="en">Banged Up Abroad</title>
+    <desc lang="en">From kidnapping to drug smuggling, this series tells stories of people who have been locked up abroad.</desc>
     <credits>
       <actor>Youssef Tounzi</actor>
       <actor>Manuel Villasenor</actor>
       <actor>Tato Alexander</actor>
       <actor>Leon Clingman</actor>
       <actor>Dominic Colenso</actor>
+      <actor>Glen Heggstad</actor>
     </credits>
-    <category lang="en">Investigation</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/46299B4D1370B1A10C90C0EC947435873C0EA789W.jpg"/>
+    <category lang="en">Documentary</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14A61404A228358D6989C9B8AE5B26932F906BF87.jpg"/>
+  </programme>
+  <programme start="20240609190000 +0530" stop="20240609200000 +0530" channel="ts137">
+    <title lang="en">Airport Security: Rome</title>
+    <desc lang="en">Security and anti-narcotics units at Rome Airport work 24/7 to stop illegal activities.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6186164F0AE313210B918CA20B1992023F9B22543.jpg"/>
+  </programme>
+  <programme start="20240609200000 +0530" stop="20240609210000 +0530" channel="ts137">
+    <title lang="en">Primal Survivor</title>
+    <desc lang="en">Hazen Audel reveals what it takes to survive in the planet's most extreme environments.</desc>
+    <credits>
+      <actor>Hazen Audel</actor>
+    </credits>
+    <category lang="en">Adventure</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4D91B046830763F7D7E59E2AFB28BA4B5E6E00A7Z.jpg"/>
+  </programme>
+  <programme start="20240609210000 +0530" stop="20240609220000 +0530" channel="ts137">
+    <title lang="en">Gordon Ramsay: Uncharted</title>
+    <desc lang="en">Chef Ramsay discovers the purity of local ingredients on the isolated island of Tasmania.</desc>
+    <credits>
+      <actor>Gordon Ramsay</actor>
+      <actor>Sheldon Simeon</actor>
+      <actor>Monique Fiso</actor>
+      <actor>Michelle Costello</actor>
+      <actor>Virgilio Martinez Veliz</actor>
+    </credits>
+    <category lang="en">Food</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C4319EC6C719A24C87C5D35DD83ECCC4ABF772CK.jpg"/>
+  </programme>
+  <programme start="20240609220000 +0530" stop="20240609230000 +0530" channel="ts137">
+    <title lang="en">Airport Security: Brazil</title>
+    <desc lang="en">Federal Police at Sao Paolo International Airport work 24-7 to stop illegal activity.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C881BD01812E5F5140DB83F4EB9AB01D0C58FFF16.jpg"/>
+  </programme>
+  <programme start="20240609230000 +0530" stop="20240610000000 +0530" channel="ts137">
+    <title lang="en">Banged Up Abroad</title>
+    <desc lang="en">From kidnapping to drug smuggling, this series tells stories of people who have been locked up abroad.</desc>
+    <credits>
+      <actor>Youssef Tounzi</actor>
+      <actor>Manuel Villasenor</actor>
+      <actor>Tato Alexander</actor>
+      <actor>Leon Clingman</actor>
+      <actor>Dominic Colenso</actor>
+      <actor>Glen Heggstad</actor>
+    </credits>
+    <category lang="en">Documentary</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/14A61404A228358D6989C9B8AE5B26932F906BF87.jpg"/>
   </programme>
 </tv>

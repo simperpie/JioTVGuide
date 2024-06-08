@@ -3,206 +3,6 @@
   <channel id="SHOWCASE.my">
     <display-name lang="en">SHOWCASE 🄼</display-name>
   </channel>
-  <programme start="20240607010000 +0000" stop="20240607030000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Promising Young Woman</title>
-    <desc lang="en">A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.</desc>
-    <credits>
-      <director>Emerald Fennell</director>
-      <actor>Carey Mulligan</actor>
-      <actor>Bo Burnham</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KLRKC.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240607030000 +0000" stop="20240607050000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Back To The Future III</title>
-    <desc lang="en">Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and must travel back in time to save him.</desc>
-    <credits>
-      <director>Robert Zemeckis</director>
-      <actor>Michael J. Fox</actor>
-      <actor>Christopher Llyod</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IGEXV.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240607050000 +0000" stop="20240607070000 +0000" channel="SHOWCASE.my">
-    <title lang="en">The Girl On The Train</title>
-    <desc lang="en">A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.</desc>
-    <credits>
-      <director>Tate Taylor</director>
-      <actor>Emily Blunt</actor>
-      <actor>Haley Bennett</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_1280x720.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240607070000 +0000" stop="20240607080000 +0000" channel="SHOWCASE.my">
-    <title lang="en">The Best of Celebrity Family Feud</title>
-    <desc lang="en">The classic Family Feud format has entertained a generation, and this hilarious celebrity reboot sees Emmy-award winning host Steve Harley at the helm, as famous faces and their families play the game.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Game Show</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KIHSQ.jpg"/>
-    <episode-num system="onscreen">E20</episode-num>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240607080000 +0000" stop="20240607103000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Robin Hood: Prince Of Thieves</title>
-    <desc lang="en">Robin Hood decides to fight back as an outlaw when faced with the tyranny of the Sheriff of Nottingham.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMRDS.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240607103000 +0000" stop="20240607110000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Exhalation</title>
-    <desc lang="en">A young woman returns to her birthplace for an ex-classmate's funeral.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HCGMD.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240607110000 +0000" stop="20240607130000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Nezha</title>
-    <desc lang="en">A former top team racing driver wants to prove himself in a race but accidentally hurts his teammate Lily. A talented virtual car racing champion joins them to regain its glory.</desc>
-    <credits>
-      <director>Jem Chen</director>
-      <actor>Tsao Yu Ning</actor>
-      <actor>Hannah Quinlivan</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JXZPI.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240607130000 +0000" stop="20240607140000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Chicago Med Reality Leaves A Lot To The Imagination</title>
-    <desc lang="en">Dylan and Archer diagnose a pregnant woman with a serious infection. Maggie receives shocking news. Will and Charles question an elderly patient's Alzheimer's diagnosis.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>S. Epatha Merkerson</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KBQCB.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240607140000 +0000" stop="20240607155000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Grown Ups</title>
-    <desc lang="en">After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.</desc>
-    <credits>
-      <director>Dennis Dugan</director>
-      <actor>Adam Sandler</actor>
-      <actor>Salma Hayek</actor>
-      <actor>Kevin J.</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JCSVY.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240607155000 +0000" stop="20240607194500 +0000" channel="SHOWCASE.my">
-    <title lang="en">Passengers</title>
-    <desc lang="en">A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.</desc>
-    <credits>
-      <director>Morten Tydlum</director>
-      <actor>Jennifer Lawrence</actor>
-      <actor>Chris Patt</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IAYZC.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240607194500 +0000" stop="20240607200000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Tiny Pupil</title>
-    <desc lang="en">5-year-old Tong doesn't understand why her kindergarten teacher insists that 1 plus 1 equals 2. She also doesn't understand why people don't have fixed direction like houses.</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HFFKC.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240607200000 +0000" stop="20240607220000 +0000" channel="SHOWCASE.my">
-    <title lang="en">Rough Cut</title>
-    <desc lang="en">Directed by Jang Hun, Rough Cut's So Ji Sub and Kang Ji Hwan sharing the Best New Actor award at the 29th Blue Dragon Awards for their performances.</desc>
-    <credits>
-      <director>Jang Hun</director>
-      <actor>So Ji Seob</actor>
-      <actor>Kang Ji Hwan</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KIMUL.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240607220000 +0000" stop="20240607223000 +0000" channel="SHOWCASE.my">
-    <title lang="en">The Experts [Tayangan Perdana}</title>
-    <desc lang="en">The Experts [Tayangan Perdana}.</desc>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNEQH.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240607223000 +0000" stop="20240607232500 +0000" channel="SHOWCASE.my">
-    <title lang="en">Chicago Med Reality Leaves A Lot To The Imagination</title>
-    <desc lang="en">Dylan and Archer diagnose a pregnant woman with a serious infection. Maggie receives shocking news. Will and Charles question an elderly patient's Alzheimer's diagnosis.</desc>
-    <credits>
-      <actor>Oliver Platt</actor>
-      <actor>S. Epatha Merkerson</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KBQCB.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240607232500 +0000" stop="20240608012500 +0000" channel="SHOWCASE.my">
-    <title lang="en">Panic Room</title>
-    <desc lang="en">A divorced woman and her diabetic daughter take refuge in their newly-purchased house's safe room when three men break-in, searching for a missing fortune.</desc>
-    <credits>
-      <director>David Fincher</director>
-      <actor>Jodie Foster</actor>
-      <actor>Kirsten Stewart</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KIZRW.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
   <programme start="20240608012500 +0000" stop="20240608032500 +0000" channel="SHOWCASE.my">
     <title lang="en">Elysium</title>
     <desc lang="en">In the year 2154, the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth. A man takes on a mission that could bring equality to the polarized worlds.</desc>
@@ -412,6 +212,207 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMRDP.jpg"/>
     <rating system="MY">
       <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240609033500 +0000" stop="20240609050000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Open Season 3</title>
+    <desc lang="en">Boog's friends rally to bring him home from a Russian traveling circus.</desc>
+    <credits>
+      <director>Cody Cameron</director>
+      <actor>Matthew J. Munn</actor>
+      <actor>Nika Futterman</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Animation</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMRDQ.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240609050000 +0000" stop="20240609070000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Patch Adams</title>
+    <desc lang="en">The true story of a heroic man, Hunter 'Patch' Adams, determined to become a medical doctor because he enjoys helping people. He ventured where no doctor had ventured before, using humour and pathos.</desc>
+    <credits>
+      <director>Tom Shadyac</director>
+      <actor>Robin Williams</actor>
+      <actor>Daniel London</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JPRDW.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240609070000 +0000" stop="20240609085000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Grown Ups 2</title>
+    <desc lang="en">After moving his family back to his hometown to be with his friends and their kids, Lenny finds out that between old bullies, new bullies, schizo bus drivers and drunk cops sometimes crazy follows you.</desc>
+    <credits>
+      <director>Dennis Dugan</director>
+      <actor>Adam Sandler</actor>
+      <actor>Kevn James</actor>
+      <actor>Crhis Rock</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JCSWA.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240609085000 +0000" stop="20240609090000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Emergency Exit</title>
+    <desc lang="en">It's a story about an unusual escape from school. At the first day of school, a schoolboy is crying and wants to go home, but the principal wouldn't allow him to go, so he decides to run away.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HNKCQ.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240609090000 +0000" stop="20240609113000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Robin Hood: Prince Of Thieves</title>
+    <desc lang="en">Robin Hood decides to fight back as an outlaw when faced with the tyranny of the Sheriff of Nottingham.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMRDS.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240609113000 +0000" stop="20240609120000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Floating Sun</title>
+    <desc lang="en">This is the extended version of James Lee-produced Youtube horror omnibus 3 Doors of Horrors. Premiered in Rotterdam 2014, Kaohsiung 2014.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HCLGK.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240609120000 +0000" stop="20240609140000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Sir Alex Ferguson: Never Give In</title>
+    <desc lang="en">A look at the life and legend of Manchester United manager Alex Ferguson.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Biography</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMURO.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240609140000 +0000" stop="20240609190000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Waterworld</title>
+    <desc lang="en">In a future where the polar ice-caps have melted and Earth is almost submerged, a mutated mariner fights starvation and outlaw 'smokers,' reluctantly helps a woman and a young girl try to find dry land.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMRDV.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240609190000 +0000" stop="20240609210000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Passengers</title>
+    <desc lang="en">A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.</desc>
+    <credits>
+      <director>Morten Tydlum</director>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Chris Patt</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IAYZC.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240609210000 +0000" stop="20240609211500 +0000" channel="SHOWCASE.my">
+    <title lang="en">Emergency Exit</title>
+    <desc lang="en">It's a story about an unusual escape from school. At the first day of school, a schoolboy is crying and wants to go home, but the principal wouldn't allow him to go, so he decides to run away.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HNKCQ.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240609211500 +0000" stop="20240609213000 +0000" channel="SHOWCASE.my">
+    <title lang="en">The Hanger</title>
+    <desc lang="en">Like in fairy tale. A dreamy girl or young woman in a cottage. Cockroaches seem to be the only thing hampering her.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HTARH.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240609213000 +0000" stop="20240609220000 +0000" channel="SHOWCASE.my">
+    <title lang="en">The Experts [Tayangan Perdana}</title>
+    <desc lang="en">The Experts [Tayangan Perdana}.</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNEQH.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240609220000 +0000" stop="20240610000000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Panic Room</title>
+    <desc lang="en">A divorced woman and her diabetic daughter take refuge in their newly-purchased house's safe room when three men break-in, searching for a missing fortune.</desc>
+    <credits>
+      <director>David Fincher</director>
+      <actor>Jodie Foster</actor>
+      <actor>Kirsten Stewart</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KIZRW.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240610000000 +0000" stop="20240610013000 +0000" channel="SHOWCASE.my">
+    <title lang="en">Open Season 2</title>
+    <desc lang="en">After falling head over hooves in love with Giselle, Elliot's road to the altar takes a slight detour when Mr. Weenie is 'kidnapped' by his human owners.</desc>
+    <credits>
+      <director>Matthew O'Callaghan</director>
+      <actor>Joel McHale</actor>
+      <actor>Mike Epps</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Animation</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMRDP.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240610013000 +0000" stop="20240610025500 +0000" channel="SHOWCASE.my">
+    <title lang="en">Open Season 3</title>
+    <desc lang="en">Boog's friends rally to bring him home from a Russian traveling circus.</desc>
+    <credits>
+      <director>Cody Cameron</director>
+      <actor>Matthew J. Munn</actor>
+      <actor>Nika Futterman</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Animation</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KMRDQ.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240610025500 +0000" stop="20240610045500 +0000" channel="SHOWCASE.my">
+    <title lang="en">The Girl On The Train</title>
+    <desc lang="en">A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.</desc>
+    <credits>
+      <director>Tate Taylor</director>
+      <actor>Emily Blunt</actor>
+      <actor>Haley Bennett</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Showcase_2023_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>18</value>
     </rating>
   </programme>
 </tv>
