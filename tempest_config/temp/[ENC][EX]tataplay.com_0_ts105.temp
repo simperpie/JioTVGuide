@@ -3,278 +3,6 @@
   <channel id="ts105">
     <display-name lang="en">Australia TV</display-name>
   </channel>
-  <programme start="20240608000000 +0530" stop="20240608003000 +0530" channel="ts105">
-    <title lang="en">Planet America</title>
-    <desc lang="en">Fireside Chat: The host speaks about the history of America, the country's politics, customs and traditions and the life of the citizens.</desc>
-    <credits>
-      <actor>John Barron</actor>
-      <actor>Chas Licciardello</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2982D6A0C84A735D742944BB414EFFC34742AEC66.jpg"/>
-  </programme>
-  <programme start="20240608003000 +0530" stop="20240608010000 +0530" channel="ts105">
-    <title lang="en">The World</title>
-    <desc lang="en">The host presents a detailed analysis of various national as well as international news stories and events along with insights from experts and correspondents.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83A20812D6045ECA34A054F8BB7E093CD8D640D9R.jpg"/>
-  </programme>
-  <programme start="20240608010000 +0530" stop="20240608013000 +0530" channel="ts105">
-    <title lang="en">The World This Week</title>
-    <desc lang="en">The host provides an in-depth analysis of some of the most recent news stories and updates on the major developments from across the globe.</desc>
-    <credits>
-      <actor>Francois Picard</actor>
-      <actor>Laura Cellier</actor>
-      <actor>Beverly O Connor</actor>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7589D4B612B64E1213F627C02CD1BBB8C2C25BD6.jpg"/>
-  </programme>
-  <programme start="20240608013000 +0530" stop="20240608020000 +0530" channel="ts105">
-    <title lang="en">The Breakfast Couch</title>
-    <desc lang="en">Michael Rowland and Virginia Trioli strike a conversation with some of the famous celebrities from the entertainment industry.</desc>
-    <credits>
-      <actor>Virginia Trioli</actor>
-      <actor>Michael Rowland</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36512344BE75D98950ECA70B10D2F2EAFA244DE2A.jpg"/>
-  </programme>
-  <programme start="20240608020000 +0530" stop="20240608023000 +0530" channel="ts105">
-    <title lang="en">That Pacific Sports Show</title>
-    <desc lang="en">The hosts interview prominent athletes across the Pacific to discuss the most pressing issues facing the world of sports in the region.</desc>
-    <category lang="en">Talk Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/138D264A22915F50BD722D765816887734D2E260K.jpg"/>
-  </programme>
-  <programme start="20240608023000 +0530" stop="20240608033000 +0530" channel="ts105">
-    <title lang="en">Weekend Breakfast</title>
-    <desc lang="en">The hosts cover the latest news, current affairs and sporting events.</desc>
-    <credits>
-      <actor>Michael Rowland</actor>
-      <actor>Lisa Millar</actor>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95643C8677C2D5919E4545E3AE8A24FE42C6F4C6D.jpg"/>
-  </programme>
-  <programme start="20240608033000 +0530" stop="20240608063000 +0530" channel="ts105">
-    <title lang="en">Weekend Breakfast</title>
-    <desc lang="en">The hosts cover the latest news, current affairs and sporting events.</desc>
-    <credits>
-      <actor>Michael Rowland</actor>
-      <actor>Lisa Millar</actor>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/95643C8677C2D5919E4545E3AE8A24FE42C6F4C6D.jpg"/>
-  </programme>
-  <programme start="20240608063000 +0530" stop="20240608070000 +0530" channel="ts105">
-    <title lang="en">ABC News</title>
-    <desc lang="en">The host presents the latest developments from the world of politics, sports, business and entertainment, followed by interviews and analysis of trending topics.</desc>
-    <credits>
-      <actor>Ros Childs</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CA6A5F86D310BABA800381268F46BCA51332F23FC.jpg"/>
-  </programme>
-  <programme start="20240608070000 +0530" stop="20240608073000 +0530" channel="ts105">
-    <title lang="en">The World This Week</title>
-    <desc lang="en">The host provides an in-depth analysis of some of the most recent news stories and updates on the major developments from across the globe.</desc>
-    <credits>
-      <actor>Francois Picard</actor>
-      <actor>Laura Cellier</actor>
-      <actor>Beverly O Connor</actor>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7589D4B612B64E1213F627C02CD1BBB8C2C25BD6.jpg"/>
-  </programme>
-  <programme start="20240608073000 +0530" stop="20240608080000 +0530" channel="ts105">
-    <title lang="en">ABC News At Noon</title>
-    <desc lang="en">A coverage of the latest news from around the globe, including analysis and opinions from the experts on various issues.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D936403364A6980FEDB005970A45D18FF6744B1BG.jpg"/>
-  </programme>
-  <programme start="20240608080000 +0530" stop="20240608083000 +0530" channel="ts105">
-    <title lang="en">ABC News Regional</title>
-    <desc lang="en">The anchor sheds light on the most pressing political, economic and societal developments across different parts of Australia.</desc>
-    <credits>
-      <actor>Miriam Corowa</actor>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9661E1E7CF0FDACF45CA4AA668CA20E5766458D2W.jpg"/>
-  </programme>
-  <programme start="20240608083000 +0530" stop="20240608090000 +0530" channel="ts105">
-    <title lang="en">Australian Story</title>
-    <desc lang="en">Off Menu - Josh Niland: Australians from all walks of life with extraordinary lives share their personal stories and life journey with the world.</desc>
-    <credits>
-      <actor>Caroline Jones</actor>
-      <actor>Garry McDonald</actor>
-      <actor>Jason Donovan</actor>
-      <actor>Andrew Rule</actor>
-      <actor>Jimmy Barnes</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFE2265860C21632D5CE5A0C0FAC923CDD852847U.jpg"/>
-  </programme>
-  <programme start="20240608090000 +0530" stop="20240608093000 +0530" channel="ts105">
-    <title lang="en">The Breakfast Couch</title>
-    <desc lang="en">Michael Rowland and Virginia Trioli strike a conversation with some of the famous celebrities from the entertainment industry.</desc>
-    <credits>
-      <actor>Virginia Trioli</actor>
-      <actor>Michael Rowland</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36512344BE75D98950ECA70B10D2F2EAFA244DE2A.jpg"/>
-  </programme>
-  <programme start="20240608093000 +0530" stop="20240608102500 +0530" channel="ts105">
-    <title lang="en">Grand Designs Australia</title>
-    <desc lang="en">Stirling Glass Stone House: When a systems engineer blows the whistle on a dangerous technology, Charlie's Angels from across the globe are called into action.</desc>
-    <credits>
-      <actor>Peter Maddison</actor>
-      <actor>Duane Hatherly</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E5D4A53B61B483CBFD3AF4FA7FB41B330BADF4FO.jpg"/>
-  </programme>
-  <programme start="20240608102500 +0530" stop="20240608111000 +0530" channel="ts105">
-    <title lang="en">Planet America</title>
-    <desc lang="en">Fireside Chat: The host speaks about the history of America, the country's politics, customs and traditions and the life of the citizens.</desc>
-    <credits>
-      <actor>John Barron</actor>
-      <actor>Chas Licciardello</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2982D6A0C84A735D742944BB414EFFC34742AEC66.jpg"/>
-  </programme>
-  <programme start="20240608111000 +0530" stop="20240608113000 +0530" channel="ts105">
-    <title lang="en">If You're Listening</title>
-    <desc lang="en">Panda Diplomacy: Host Matt Bevan provides a detailed explanation of the latest and significant stories in world news to keep viewers informed.</desc>
-    <credits>
-      <actor>Matt Bevan</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E6CD3AF604A0060E303DF3E82142CEBA4E38B7AK.jpg"/>
-  </programme>
-  <programme start="20240608113000 +0530" stop="20240608120000 +0530" channel="ts105">
-    <title lang="en">Beyond Awesome</title>
-    <desc lang="en">Asia: Every changemaker's journey starts with a realisation that a problem exists. Eight such innovators talk about their stories, creating solutions and how they are building a better world.</desc>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D05B62A29F250B2620A017698F06DB7B454545C0J.jpg"/>
-  </programme>
-  <programme start="20240608120000 +0530" stop="20240608145000 +0530" channel="ts105">
-    <title lang="en">AFL Premiership Season</title>
-    <desc lang="en">West Coast Eagles vs North Melbourne, Round 13: Professional Australian football clubs compete against each other in the AFL Premiership Cup in order to emerge victorious.</desc>
-    <category lang="en">Football</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82424B56B02C6ED52275EC8F240E9FB1DF0B87411.jpg"/>
-  </programme>
-  <programme start="20240608145000 +0530" stop="20240608174500 +0530" channel="ts105">
-    <title lang="en">AFL Premiership Season</title>
-    <desc lang="en">St Kilda vs Gold Coast Suns, Round 13: Professional Australian football clubs compete against each other in the AFL Premiership Cup in order to emerge victorious.</desc>
-    <category lang="en">Football</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82424B56B02C6ED52275EC8F240E9FB1DF0B87411.jpg"/>
-  </programme>
-  <programme start="20240608174500 +0530" stop="20240608184500 +0530" channel="ts105">
-    <title lang="en">Gardening Australia</title>
-    <desc lang="en">Horticulture experts give advice and show gardeners across the nation practical and credible ways to garden.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1584FA45020C005D051637E636F591C6874789A00.jpg"/>
-  </programme>
-  <programme start="20240608184500 +0530" stop="20240608194000 +0530" channel="ts105">
-    <title lang="en">Tiger On The Rocks</title>
-    <desc lang="en">The filmmaker sheds light on the Tasmanian tiger, a carnivorous native Australian species which allegedly went extinct 80 years ago.</desc>
-    <credits>
-      <actor>Rachael Maza</actor>
-    </credits>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/519C6B5365ED70751F783204750F177A247B1888O.jpg"/>
-  </programme>
-  <programme start="20240608194000 +0530" stop="20240608201000 +0530" channel="ts105">
-    <title lang="en">Beyond Awesome</title>
-    <desc lang="en">Asia: Every changemaker's journey starts with a realisation that a problem exists. Eight such innovators talk about their stories, creating solutions and how they are building a better world.</desc>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D05B62A29F250B2620A017698F06DB7B454545C0J.jpg"/>
-  </programme>
-  <programme start="20240608201000 +0530" stop="20240608204000 +0530" channel="ts105">
-    <title lang="en">Compass</title>
-    <desc lang="en">Walk In My Shoes: The host explores the interrelationship between life and religion as experienced by individuals and communities.</desc>
-    <credits>
-      <actor>Geraldine Doogue</actor>
-    </credits>
-    <category lang="en">Devotional</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D01B7E8B5C6F440E4E7CE8D2D6EBCE3B8C47CA9D.jpg"/>
-  </programme>
-  <programme start="20240608204000 +0530" stop="20240608211000 +0530" channel="ts105">
-    <title lang="en">Australian Story</title>
-    <desc lang="en">Off Menu - Josh Niland: Australians from all walks of life with extraordinary lives share their personal stories and life journey with the world.</desc>
-    <credits>
-      <actor>Caroline Jones</actor>
-      <actor>Garry McDonald</actor>
-      <actor>Jason Donovan</actor>
-      <actor>Andrew Rule</actor>
-      <actor>Jimmy Barnes</actor>
-    </credits>
-    <category lang="en">Biography</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EFE2265860C21632D5CE5A0C0FAC923CDD852847U.jpg"/>
-  </programme>
-  <programme start="20240608211000 +0530" stop="20240608213000 +0530" channel="ts105">
-    <title lang="en">ABC News Overnight</title>
-    <desc lang="en">The host presents a compilation of the latest social, economic and political news updates and developments from around the world.</desc>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/77FFF228B58118618980B81C3AFE04782CFA2C2DZ.jpg"/>
-  </programme>
-  <programme start="20240608213000 +0530" stop="20240608220000 +0530" channel="ts105">
-    <title lang="en">ABC News Regional</title>
-    <desc lang="en">The anchor sheds light on the most pressing political, economic and societal developments across different parts of Australia.</desc>
-    <credits>
-      <actor>Miriam Corowa</actor>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9661E1E7CF0FDACF45CA4AA668CA20E5766458D2W.jpg"/>
-  </programme>
-  <programme start="20240608220000 +0530" stop="20240608223000 +0530" channel="ts105">
-    <title lang="en">The Breakfast Couch</title>
-    <desc lang="en">Michael Rowland and Virginia Trioli strike a conversation with some of the famous celebrities from the entertainment industry.</desc>
-    <credits>
-      <actor>Virginia Trioli</actor>
-      <actor>Michael Rowland</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/36512344BE75D98950ECA70B10D2F2EAFA244DE2A.jpg"/>
-  </programme>
-  <programme start="20240608223000 +0530" stop="20240608230000 +0530" channel="ts105">
-    <title lang="en">The World This Week</title>
-    <desc lang="en">The host provides an in-depth analysis of some of the most recent news stories and updates on the major developments from across the globe.</desc>
-    <credits>
-      <actor>Francois Picard</actor>
-      <actor>Laura Cellier</actor>
-      <actor>Beverly O Connor</actor>
-    </credits>
-    <category lang="en">News</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E7589D4B612B64E1213F627C02CD1BBB8C2C25BD6.jpg"/>
-  </programme>
-  <programme start="20240608230000 +0530" stop="20240608234500 +0530" channel="ts105">
-    <title lang="en">Planet America</title>
-    <desc lang="en">Fireside Chat: The host speaks about the history of America, the country's politics, customs and traditions and the life of the citizens.</desc>
-    <credits>
-      <actor>John Barron</actor>
-      <actor>Chas Licciardello</actor>
-    </credits>
-    <category lang="en">Special Report</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2982D6A0C84A735D742944BB414EFFC34742AEC66.jpg"/>
-  </programme>
-  <programme start="20240608234500 +0530" stop="20240608235000 +0530" channel="ts105">
-    <title lang="en">Gardening Australia</title>
-    <desc lang="en">Phoebe Stevens: Horticulture experts give advice and show gardeners across the nation practical and credible ways to garden.</desc>
-    <category lang="en">Nature</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1584FA45020C005D051637E636F591C6874789A00.jpg"/>
-  </programme>
-  <programme start="20240608235000 +0530" stop="20240609010000 +0530" channel="ts105">
-    <title lang="en">National Press Club Address</title>
-    <desc lang="en">Dr Christos Christou - Medecins Sans Frontieres International President: Renowned personalities from different paths of life talk about various social issues and how one can find solutions to these problems.</desc>
-    <credits>
-      <actor>Scott Morrison</actor>
-    </credits>
-    <category lang="en">Chat Show</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7C147D92414E98612F75B18A4124594E9230C0A38.jpg"/>
-  </programme>
   <programme start="20240609010000 +0530" stop="20240609013000 +0530" channel="ts105">
     <title lang="en">Landline</title>
     <desc lang="en">The host provides information pertaining to the rural areas in Australia and the commodities produced there, including the insight into the weather forecast.</desc>
@@ -392,7 +120,7 @@
   </programme>
   <programme start="20240609103000 +0530" stop="20240609133000 +0530" channel="ts105">
     <title lang="en">AFL Premiership Season</title>
-    <desc lang="en">Round 13 - Sydney Swans v Geelong Cats: Professional Australian football clubs compete against each other in the AFL Premiership Cup in order to emerge victorious.</desc>
+    <desc lang="en">Sydney Swans vs Geelong Cats, Round 13: Professional Australian football clubs compete against each other in the AFL Premiership Cup in order to emerge victorious.</desc>
     <category lang="en">Football</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82424B56B02C6ED52275EC8F240E9FB1DF0B87411.jpg"/>
   </programme>
@@ -426,25 +154,45 @@
     <category lang="en">Cookery Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/358C47E7D447C3917E623B7F4FB5C528A7F041850.jpg"/>
   </programme>
-  <programme start="20240609153000 +0530" stop="20240609163000 +0530" channel="ts105">
+  <programme start="20240609153000 +0530" stop="20240609162500 +0530" channel="ts105">
     <title lang="en">Who The Bloody Hell Are We?</title>
-    <desc lang="en">John Safran</desc>
+    <desc lang="en">John Safran: The filmmaker delves into the multicultural aspects in Australian history and unearths various facts and contributions made by diverse communities.</desc>
+    <credits>
+      <actor>Cal Wilson</actor>
+      <actor>Adam Liaw</actor>
+      <actor>John Safran</actor>
+      <actor>Jing Xuan Chan</actor>
+      <actor>Kirsty Webeck</actor>
+      <actor>Dave Thornton</actor>
+    </credits>
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ADE4CA15C66507FD11482FF9D9563129FF720C2U.jpg"/>
   </programme>
-  <programme start="20240609163000 +0530" stop="20240609172500 +0530" channel="ts105">
+  <programme start="20240609162500 +0530" stop="20240609172000 +0530" channel="ts105">
     <title lang="en">The Whiteley Art Scandal</title>
-    <desc lang="en">The Whiteley Art Scandal</desc>
+    <desc lang="en">The filmmaker sheds light on an art fraud case concerning the works of Brett Whiteley in Australia while focusing on the intricacies.</desc>
+    <credits>
+      <actor>Owen Dyson</actor>
+      <actor>Rebecca Montalti</actor>
+    </credits>
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C1D1DBAA084F4D318DF4C694201C4D60F7B65DER.jpg"/>
   </programme>
-  <programme start="20240609172500 +0530" stop="20240609175500 +0530" channel="ts105">
+  <programme start="20240609172000 +0530" stop="20240609175000 +0530" channel="ts105">
     <title lang="en">Creative Types With Virginia Trioli</title>
-    <desc lang="en">Trent Dalton</desc>
-    <category lang="en">Special Report</category>
+    <desc lang="en">Trent Dalton: Virginia Trioli invites popular personalities from creative fields in Australia to discuss their favourite moments from the world of art and coaxes them to share their experiences.</desc>
+    <credits>
+      <actor>Virginia Trioli</actor>
+      <actor>Marta Dusseldorp</actor>
+      <actor>Warwick Thornton</actor>
+      <actor>Tom Gleeson</actor>
+      <actor>Trent Dalton</actor>
+      <actor>Patricia Piccinini</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9A02C5E6EC708DA75B8437563EFBB27016DE580DS.jpg"/>
   </programme>
-  <programme start="20240609175500 +0530" stop="20240609182500 +0530" channel="ts105">
+  <programme start="20240609175000 +0530" stop="20240609182000 +0530" channel="ts105">
     <title lang="en">Compass</title>
     <desc lang="en">The host explores the interrelationship between life and religion as experienced by individuals and communities.</desc>
     <credits>
@@ -453,11 +201,20 @@
     <category lang="en">Devotional</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D01B7E8B5C6F440E4E7CE8D2D6EBCE3B8C47CA9D.jpg"/>
   </programme>
-  <programme start="20240609182500 +0530" stop="20240609193000 +0530" channel="ts105">
+  <programme start="20240609182000 +0530" stop="20240609191000 +0530" channel="ts105">
     <title lang="en">Inside Central Station</title>
     <desc lang="en">Experts shed light on Australia's Central Station as they share insights into its complex sprawling rail networks and everyday challenges.</desc>
     <category lang="en">Educational</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/DEDEEBF9C669222A0375BEE7B6CE30089FF1C519N.jpg"/>
+  </programme>
+  <programme start="20240609191000 +0530" stop="20240609193000 +0530" channel="ts105">
+    <title lang="en">If You're Listening</title>
+    <desc lang="en">Is Hosting The Olympics Too Expensive?: Host Matt Bevan provides a detailed explanation of the latest and significant stories in world news to keep viewers informed.</desc>
+    <credits>
+      <actor>Matt Bevan</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E6CD3AF604A0060E303DF3E82142CEBA4E38B7AK.jpg"/>
   </programme>
   <programme start="20240609193000 +0530" stop="20240609194500 +0530" channel="ts105">
     <title lang="en">ABC News Overnight</title>
@@ -519,5 +276,182 @@
     <desc lang="en">The host and the business team take a look at the week's major stories in finance.</desc>
     <category lang="en">Special Report</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B47FB841EFC25FA8140CA9D596C12F98F14344FD7.jpg"/>
+  </programme>
+  <programme start="20240610000000 +0530" stop="20240610003000 +0530" channel="ts105">
+    <title lang="en">ABC News Regional</title>
+    <desc lang="en">The anchor sheds light on the most pressing political, economic and societal developments across different parts of Australia.</desc>
+    <credits>
+      <actor>Miriam Corowa</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9661E1E7CF0FDACF45CA4AA668CA20E5766458D2W.jpg"/>
+  </programme>
+  <programme start="20240610003000 +0530" stop="20240610013000 +0530" channel="ts105">
+    <title lang="en">Landline</title>
+    <desc lang="en">The host provides information pertaining to the rural areas in Australia and the commodities produced there, including the insight into the weather forecast.</desc>
+    <credits>
+      <actor>Deborah Knight</actor>
+      <actor>Ticky Fullerton</actor>
+      <actor>Pip Courtney</actor>
+      <actor>Anne Kruger</actor>
+      <actor>Sally Sara</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6EB263D9A8099517C009D7AEB572531B666EC73DQ.jpg"/>
+  </programme>
+  <programme start="20240610013000 +0530" stop="20240610043000 +0530" channel="ts105">
+    <title lang="en">News Breakfast</title>
+    <desc lang="en">The hosts present coverage of recent happenings in Australia, international news, finance, sports and weather forecast. They also hold engaging analysis and debates on topics of concern.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E1F047CF4A569FFE6201E46791182BC478B731EA.jpg"/>
+  </programme>
+  <programme start="20240610043000 +0530" stop="20240610073000 +0530" channel="ts105">
+    <title lang="en">ABC News Mornings</title>
+    <desc lang="en">The host provides the latest socio-economic and political updates and developments along with sports, weather and finance-related news from various parts of the world.</desc>
+    <credits>
+      <actor>Joe O Brien</actor>
+      <actor>Michael Rowland</actor>
+      <actor>Virginia Trioli</actor>
+    </credits>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2DB33B8C1D08AFEFF1580EA8673374E587080798L.jpg"/>
+  </programme>
+  <programme start="20240610073000 +0530" stop="20240610083000 +0530" channel="ts105">
+    <title lang="en">ABC News At Noon</title>
+    <desc lang="en">A coverage of the latest news from around the globe, including analysis and opinions from the experts on various issues.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D936403364A6980FEDB005970A45D18FF6744B1BG.jpg"/>
+  </programme>
+  <programme start="20240610083000 +0530" stop="20240610093000 +0530" channel="ts105">
+    <title lang="en">Gardening Australia</title>
+    <desc lang="en">Horticulture experts give advice and show gardeners across the nation practical and credible ways to garden.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1584FA45020C005D051637E636F591C6874789A00.jpg"/>
+  </programme>
+  <programme start="20240610093000 +0530" stop="20240610103000 +0530" channel="ts105">
+    <title lang="en">Who The Bloody Hell Are We?</title>
+    <desc lang="en">John Safran</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9ADE4CA15C66507FD11482FF9D9563129FF720C2U.jpg"/>
+  </programme>
+  <programme start="20240610103000 +0530" stop="20240610133000 +0530" channel="ts105">
+    <title lang="en">AFL Premiership Season</title>
+    <desc lang="en">Round 13 - Collingwood v Melbourne Demons: Professional Australian football clubs compete against each other in the AFL Premiership Cup in order to emerge victorious.</desc>
+    <category lang="en">Football</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/82424B56B02C6ED52275EC8F240E9FB1DF0B87411.jpg"/>
+  </programme>
+  <programme start="20240610133000 +0530" stop="20240610143000 +0530" channel="ts105">
+    <title lang="en">Restoration Australia</title>
+    <desc lang="en">Milton Terrace, NSW: The host follows the efforts taken by eight families to renovate old crumbling buildings which were left untouched for years.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2553A507F16F074B898B82DCC5B51B7B6E5C1767M.jpg"/>
+  </programme>
+  <programme start="20240610143000 +0530" stop="20240610150000 +0530" channel="ts105">
+    <title lang="en">ABC National News</title>
+    <desc lang="en">The anchor presents the latest updates, stories and developments from the fields of politics, sports and business in Australia.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B0C15C0110D6307E27EE79E53AAFA663905FD5C04.jpg"/>
+  </programme>
+  <programme start="20240610150000 +0530" stop="20240610153000 +0530" channel="ts105">
+    <title lang="en">7.30</title>
+    <desc lang="en">The host analyses the local and international stories making headlines, and their impact on Australia.</desc>
+    <credits>
+      <actor>Leigh Sales</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B481DAA096F8E112F0B39BDDB6F77197167E072D.jpg"/>
+  </programme>
+  <programme start="20240610153000 +0530" stop="20240610161500 +0530" channel="ts105">
+    <title lang="en">ABC News Tonight</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments based on the social, political and economic issues from around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8E1D919DB2B1B095079CAF32C84D7F055089C27B1.jpg"/>
+  </programme>
+  <programme start="20240610161500 +0530" stop="20240610163000 +0530" channel="ts105">
+    <title lang="en">The Business</title>
+    <desc lang="en">The host, along with experts, analyses the recent developments in business and finance.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1037D6688B80F9D71BF95ADB19815AA2CAA97B23N.jpg"/>
+  </programme>
+  <programme start="20240610163000 +0530" stop="20240610173000 +0530" channel="ts105">
+    <title lang="en">The World</title>
+    <desc lang="en">The host presents a detailed analysis of various national as well as international news stories and events along with insights from experts and correspondents.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/83A20812D6045ECA34A054F8BB7E093CD8D640D9R.jpg"/>
+  </programme>
+  <programme start="20240610173000 +0530" stop="20240610180000 +0530" channel="ts105">
+    <title lang="en">Beyond Awesome</title>
+    <desc lang="en">The Pacific: Every changemaker's journey starts with a realisation that a problem exists. Eight such innovators talk about their stories, creating solutions and how they are building a better world.</desc>
+    <category lang="en">Biography</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D05B62A29F250B2620A017698F06DB7B454545C0J.jpg"/>
+  </programme>
+  <programme start="20240610180000 +0530" stop="20240610183000 +0530" channel="ts105">
+    <title lang="en">The Pacific</title>
+    <desc lang="en">Arts and Culture Special: The presenter provides a better understanding of the Pacific region by covering its stories and issues and hearing directly from its people.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/30A038E04A49BEC46709AC617D2AFCD0753EB257R.jpg"/>
+  </programme>
+  <programme start="20240610183000 +0530" stop="20240610191500 +0530" channel="ts105">
+    <title lang="en">Invincible Modi</title>
+    <desc lang="en">Invincible Modi</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/635F175EC6D68FC820E40F3FD7977FBDD81168209.jpg"/>
+  </programme>
+  <programme start="20240610191500 +0530" stop="20240610193000 +0530" channel="ts105">
+    <title lang="en">ABC News Video Lab</title>
+    <desc lang="en">India and China's border battle: The host discusses various social, economic and political issues that make it to the news around the world and provides updates on current events.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC4A8D5AA40ABA9A5525DE0F7AA4DD72559C781AT.jpg"/>
+  </programme>
+  <programme start="20240610193000 +0530" stop="20240610194500 +0530" channel="ts105">
+    <title lang="en">ABC Late News</title>
+    <desc lang="en">In a late night edition, the host sheds light on the latest news, updates and developments making headlines around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6AA89238B7A862FF42A02ACA4B51C6753DEDC7A7P.jpg"/>
+  </programme>
+  <programme start="20240610194500 +0530" stop="20240610200000 +0530" channel="ts105">
+    <title lang="en">The Business</title>
+    <desc lang="en">The host, along with experts, analyses the recent developments in business and finance.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1037D6688B80F9D71BF95ADB19815AA2CAA97B23N.jpg"/>
+  </programme>
+  <programme start="20240610200000 +0530" stop="20240610203000 +0530" channel="ts105">
+    <title lang="en">7.30</title>
+    <desc lang="en">The host analyses the local and international stories making headlines, and their impact on Australia.</desc>
+    <credits>
+      <actor>Leigh Sales</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B481DAA096F8E112F0B39BDDB6F77197167E072D.jpg"/>
+  </programme>
+  <programme start="20240610203000 +0530" stop="20240610212500 +0530" channel="ts105">
+    <title lang="en">The Whiteley Art Scandal</title>
+    <desc lang="en">The Whiteley Art Scandal</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6C1D1DBAA084F4D318DF4C694201C4D60F7B65DER.jpg"/>
+  </programme>
+  <programme start="20240610212500 +0530" stop="20240610222500 +0530" channel="ts105">
+    <title lang="en">Restoration Australia</title>
+    <desc lang="en">Milton Terrace, NSW: The host follows the efforts taken by eight families to renovate old crumbling buildings which were left untouched for years.</desc>
+    <category lang="en">Educational</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2553A507F16F074B898B82DCC5B51B7B6E5C1767M.jpg"/>
+  </programme>
+  <programme start="20240610222500 +0530" stop="20240610232500 +0530" channel="ts105">
+    <title lang="en">Gardening Australia</title>
+    <desc lang="en">Horticulture experts give advice and show gardeners across the nation practical and credible ways to garden.</desc>
+    <category lang="en">Nature</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1584FA45020C005D051637E636F591C6874789A00.jpg"/>
+  </programme>
+  <programme start="20240610232500 +0530" stop="20240610234000 +0530" channel="ts105">
+    <title lang="en">ABC Late News</title>
+    <desc lang="en">In a late night edition, the host sheds light on the latest news, updates and developments making headlines around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6AA89238B7A862FF42A02ACA4B51C6753DEDC7A7P.jpg"/>
+  </programme>
+  <programme start="20240610234000 +0530" stop="20240611000000 +0530" channel="ts105">
+    <title lang="en">The Business</title>
+    <desc lang="en">The host, along with experts, analyses the recent developments in business and finance.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1037D6688B80F9D71BF95ADB19815AA2CAA97B23N.jpg"/>
   </programme>
 </tv>
