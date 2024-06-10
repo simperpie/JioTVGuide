@@ -3,82 +3,22 @@
   <channel id="AstroCricketHD.my">
     <display-name lang="en">Astro Cricket 🄼</display-name>
   </channel>
-  <programme start="20240609000000 +0000" stop="20240609053000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">(L) ICC Men's T20 WC 2024: WI v UGA</title>
-    <desc lang="en">LIVE: ICC Men's T20 World Cup 2024: West Indies v Uganda from Providence, USA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKVS.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240609053000 +0000" stop="20240609090500 +0000" channel="AstroCricketHD.my">
-    <title lang="en">ICC Men's T20 WC 2024: AFG v NZ</title>
-    <desc lang="en">ICC Men's T20 World Cup 2024: Afghanistan v New Zealand from Providence, USA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKWH.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240609090500 +0000" stop="20240609093000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">Highlights ICC T20 WC 2024: PNG v UGA</title>
-    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 9.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_1280x720.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240609093000 +0000" stop="20240609132500 +0000" channel="AstroCricketHD.my">
-    <title lang="en">ICC Men's T20 WC 2024: BAN v SL</title>
-    <desc lang="en">ICC Men's T20 World Cup 2024: Bangladesh v Sri Lanka from Dallas, USA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKWI.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240609132500 +0000" stop="20240609140000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">Highlights ICC T20 WC 2024: AUS v OMA</title>
-    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 10.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_1280x720.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240609140000 +0000" stop="20240609233000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">(L) ICC Men's T20 WC 2024: IND v PAK</title>
-    <desc lang="en">LIVE: ICC Men's T20 World Cup 2024: India v Pakistan from New York, USA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKVS.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240609233000 +0000" stop="20240610000000 +0000" channel="AstroCricketHD.my">
-    <title lang="en">Highlights ICC T20 WC 2024: NAM v SCOT</title>
-    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 12.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYI.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240610000000 +0000" stop="20240610043000 +0000" channel="AstroCricketHD.my">
+  <programme start="20240610000000 +0000" stop="20240610040000 +0000" channel="AstroCricketHD.my">
     <title lang="en">ICC Men's T20 WC 2024: AUS v ENG</title>
     <desc lang="en">ICC Men's T20 World Cup 2024: Australia v England from Bridgetown, West Indies.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKVS.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240610040000 +0000" stop="20240610043000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: CAN v IRE</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/Astro-Cricket_2024_IVP_LAND_1280x720.jpg"/>
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -136,6 +76,126 @@
   <programme start="20240611000000 +0000" stop="20240611043000 +0000" channel="AstroCricketHD.my">
     <title lang="en">ICC Men's T20 WC 2024: IND v PAK</title>
     <desc lang="en">ICC Men's T20 World Cup 2024: India v Pakistan from New York, USA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKVS.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611043000 +0000" stop="20240611050000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: NAM v SCOT</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 12.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYI.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611050000 +0000" stop="20240611093000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">ICC Men's T20 WC 2024: OMA v SCOT</title>
+    <desc lang="en">ICC Men's T20 World Cup 2024: Oman v Scotland from North Sound, USA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKVS.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611093000 +0000" stop="20240611140000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">ICC Men's T20 WC 2024: BAN v SA</title>
+    <desc lang="en">ICC Men's T20 World Cup 2024: Bangladesh v South Africa from New York, USA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKVS.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611140000 +0000" stop="20240611193000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">(L) ICC Men's T20 WC 2024: CAN v PAK</title>
+    <desc lang="en">LIVE: ICC Men's T20 World Cup 2024: Canada v Pakistan from New York, USA.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKVS.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611193000 +0000" stop="20240611200000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: PNG v UGA</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 9.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYF.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611200000 +0000" stop="20240611203000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: AUS v OMA</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 10.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYG.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611203000 +0000" stop="20240611210000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: USA v PAK</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 11.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYH.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611210000 +0000" stop="20240611213000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: NAM v SCOT</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 12.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYI.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611213000 +0000" stop="20240611220000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: CAN v IRE</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYJ.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611220000 +0000" stop="20240611223000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: AFG v NZ</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 14.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYK.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611223000 +0000" stop="20240611230000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">Highlights ICC T20 WC 2024: BAN v SL</title>
+    <desc lang="en">Highlights ICC Men's T20 World Cup 2024 Match 15.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKYL.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240611230000 +0000" stop="20240612040000 +0000" channel="AstroCricketHD.my">
+    <title lang="en">(L) ICC Men's T20 WC 2024: NEP v SL</title>
+    <desc lang="en">LIVE: ICC Men's T20 World Cup 2024: Nepal v Sri Lanka from Lauderhill, USA.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KNKVS.jpg"/>

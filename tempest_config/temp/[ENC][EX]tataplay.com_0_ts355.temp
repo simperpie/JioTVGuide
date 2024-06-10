@@ -3,79 +3,6 @@
   <channel id="ts355">
     <display-name lang="en">Gemini TV HD</display-name>
   </channel>
-  <programme start="20240609000000 +0530" stop="20240609060000 +0530" channel="ts355">
-    <title lang="en">Gemini Kotha Paatalu</title>
-    <desc lang="en">A comprehensive collection of melodious songs recorded by talented singers, artists and musicians for popular Telugu movies.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC682E24597440AC9A0329E0FC27A0EF838A71CCS.jpg"/>
-  </programme>
-  <programme start="20240609060000 +0530" stop="20240609061500 +0530" channel="ts355">
-    <title lang="en">Naatu Vaidhyam</title>
-    <desc lang="en">An expert in natural health and well-being presents simple and effective home remedies to various diseases, injuries and ailments.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBF13BBFE43EA5FBA3C03471C111F65BE32EE69EC.jpg"/>
-    <episode-num system="xmltv_ns">.455.</episode-num>
-  </programme>
-  <programme start="20240609061500 +0530" stop="20240609063000 +0530" channel="ts355">
-    <title lang="en">Naatu Vaidhyam</title>
-    <desc lang="en">An expert in natural health and well-being presents simple and effective home remedies to various diseases, injuries and ailments.</desc>
-    <category lang="en">Health &amp; Fitness</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BBF13BBFE43EA5FBA3C03471C111F65BE32EE69EC.jpg"/>
-    <episode-num system="xmltv_ns">.456.</episode-num>
-  </programme>
-  <programme start="20240609063000 +0530" stop="20240609070000 +0530" channel="ts355">
-    <title lang="en">Gemini Kotha Paatalu</title>
-    <desc lang="en">A comprehensive collection of melodious songs recorded by talented singers, artists and musicians for popular Telugu movies.</desc>
-    <category lang="en">Music</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC682E24597440AC9A0329E0FC27A0EF838A71CCS.jpg"/>
-  </programme>
-  <programme start="20240609070000 +0530" stop="20240609080000 +0530" channel="ts355">
-    <title lang="en">Divya Jyothishyam</title>
-    <desc lang="en">A renowned astrologer enlightens viewers on planetary movements and their impact on mortals.</desc>
-    <credits>
-      <actor>Ravishankar Guruji</actor>
-    </credits>
-    <category lang="en">Astrology</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80F0109EF07D049E62C86DC5A12D12C73FC531C56.jpg"/>
-    <episode-num system="xmltv_ns">.440.</episode-num>
-  </programme>
-  <programme start="20240609080000 +0530" stop="20240609083000 +0530" channel="ts355">
-    <title lang="en">Gemini Sunrise</title>
-    <desc lang="en">The host sheds light on the latest information regarding trending topics, movie updates and birthday wishes during the early morning hours.</desc>
-    <category lang="en">Others</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/314DDECA14E3B17A9B9D36A2D155EFCD0D3651742.jpg"/>
-    <episode-num system="xmltv_ns">.267.</episode-num>
-  </programme>
-  <programme start="20240609083000 +0530" stop="20240609120000 +0530" channel="ts355">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240609120000 +0530" stop="20240609150000 +0530" channel="ts355">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240609150000 +0530" stop="20240609180000 +0530" channel="ts355">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240609180000 +0530" stop="20240609213000 +0530" channel="ts355">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
-  <programme start="20240609213000 +0530" stop="20240610010000 +0530" channel="ts355">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
-  </programme>
   <programme start="20240610010000 +0530" stop="20240610060000 +0530" channel="ts355">
     <title lang="en">Gemini Kotha Paatalu</title>
     <desc lang="en">A comprehensive collection of melodious songs recorded by talented singers, artists and musicians for popular Telugu movies.</desc>
@@ -96,18 +23,28 @@
     </credits>
     <category lang="en">Astrology</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80F0109EF07D049E62C86DC5A12D12C73FC531C56.jpg"/>
+    <episode-num system="xmltv_ns">.441.</episode-num>
   </programme>
   <programme start="20240610080000 +0530" stop="20240610083000 +0530" channel="ts355">
     <title lang="en">Gemini Sunrise</title>
     <desc lang="en">The host sheds light on the latest information regarding trending topics, movie updates and birthday wishes during the early morning hours.</desc>
     <category lang="en">Others</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/314DDECA14E3B17A9B9D36A2D155EFCD0D3651742.jpg"/>
+    <episode-num system="xmltv_ns">.268.</episode-num>
   </programme>
   <programme start="20240610083000 +0530" stop="20240610120000 +0530" channel="ts355">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <title lang="en">Movie - Gabbar Singh</title>
+    <desc lang="en">Inspired by a film character, Venkataratnam, a policeman, calls himself Gabbar Singh. He is posted in a village where a local thug wants to join politics and also lures his stepbrother to join him.</desc>
+    <credits>
+      <actor>Pawan Kalyan</actor>
+      <actor>Shruti Haasan</actor>
+      <actor>Abhimanyu Singh</actor>
+      <actor>Ajay</actor>
+      <actor>Suhasini Maniratnam</actor>
+      <actor>Prabhas Sreenu</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CC67023C91464142E3D791D7DC6C703C3601C1D4A.jpg"/>
   </programme>
   <programme start="20240610120000 +0530" stop="20240610123000 +0530" channel="ts355">
     <title lang="en">Sravanthi</title>
@@ -120,7 +57,8 @@
       <actor>Meena Vasu</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/345986D8A9F8C52612C2C09C6AEAF245FEF2B3EAF.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/452DF7B4BB09F8E8C0F49F9F681E8FDF84C5D589U.jpg"/>
+    <episode-num system="xmltv_ns">.141.</episode-num>
   </programme>
   <programme start="20240610123000 +0530" stop="20240610130000 +0530" channel="ts355">
     <title lang="en">Uppena</title>
@@ -133,7 +71,8 @@
       <actor>Madhu Krishnan</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E4EB4A4304DAA525ABBA4384DA8AE81EF936F916K.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B39DCB4FCC4808C5B4EDCB8E2205907CCA09A15DF.jpg"/>
+    <episode-num system="xmltv_ns">.676.</episode-num>
   </programme>
   <programme start="20240610130000 +0530" stop="20240610133000 +0530" channel="ts355">
     <title lang="en">Vontari Gulabi</title>
@@ -147,31 +86,51 @@
       <actor>Priyanka</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DC613B0AB887C88CD58082F21EE610EFF794EE3U.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15CC5302B323D8FD910A662F0C66BFE53EDA7AFAU.jpg"/>
+    <episode-num system="xmltv_ns">.430.</episode-num>
   </programme>
   <programme start="20240610133000 +0530" stop="20240610140000 +0530" channel="ts355">
-    <title lang="en">Yevandoy Srimathigaru</title>
-    <desc lang="en">A couple lives a happily married life with two children until each of them receives a phone call from an unknown number, ruining their peace indefinitely.</desc>
+    <title lang="en">Evandoi Sreemathigaru</title>
+    <desc lang="en">Mithuna and Goutham, single parents, get off to a rough start but gradually their discord subsides and they are drawn to each other. But their love life is in jeopardy when their history reappears.</desc>
+    <credits>
+      <actor>Pallavi Gowda</actor>
+      <actor>Harshith Shetty</actor>
+      <actor>Srinivas</actor>
+      <actor>Shanthi</actor>
+      <actor>Gutti Konda Bhargava</actor>
+      <actor>Devi Sri</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8F4D0851369BA0B785F479BF9F65F64443D5C79K.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61EEF4097FBB31E283B80049B52B94FBD6D6647DL.jpg"/>
+    <episode-num system="xmltv_ns">.120.</episode-num>
   </programme>
   <programme start="20240610140000 +0530" stop="20240610143000 +0530" channel="ts355">
     <title lang="en">Aa Okkati Adakku</title>
     <desc lang="en">Two young women are determined to become the daughters-in-law of the Pilli family even though the men of the family are against the concept of marriage. Repeat - Mon - Sat 11:30 pm.</desc>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/074F32BFC30910EA63A1D21CDCFF0420594E8745C.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6622E642717E056553EEFF7A50C546F38F297B11T.jpg"/>
+    <episode-num system="xmltv_ns">.868.</episode-num>
   </programme>
   <programme start="20240610143000 +0530" stop="20240610150000 +0530" channel="ts355">
     <title lang="en">Sravana Sandhya</title>
     <desc lang="en">Sravani wants to find a suitable partner for her sister Sandhya, who aspires to live a luxurious lifestyle. Meanwhile, love blossoms between Sravani and Akshay.</desc>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/818E24D95EBFD01215EEFF63D0461D6CC9BB5D11L.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B66653F527448F9EFF1100E84B74BD57EECBB4BCM.jpg"/>
+    <episode-num system="xmltv_ns">.389.</episode-num>
   </programme>
   <programme start="20240610150000 +0530" stop="20240610180000 +0530" channel="ts355">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie</desc>
-    <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+    <title lang="en">Movie - Chennakesava Reddy</title>
+    <desc lang="en">Dhanunjay Reddy tortures the people of a village and they miss the noble Chenna Kesava Reddy who disappeared 22 years ago. On being freed from jail, Chenna fights against Dhanunjay.</desc>
+    <credits>
+      <actor>Nandamuri Balakrishna</actor>
+      <actor>Shriya Saran</actor>
+      <actor>Tabu</actor>
+      <actor>Jayaprakash Reddy</actor>
+      <actor>Anand Raj</actor>
+      <actor>Mohan Raj</actor>
+    </credits>
+    <category lang="en">Action</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1513FCC360A5DD71EB1CB6A6CA2D6CEFF7F44BA0.jpg"/>
   </programme>
   <programme start="20240610180000 +0530" stop="20240610183000 +0530" channel="ts355">
     <title lang="en">Kottaga Rekkalochenna</title>
@@ -184,7 +143,8 @@
       <actor>Kavya</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DE7C1D035E96966469004A13EFDAC93F8C5DD35S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCAECEEFB155D45D8783EA65415AFDC28F2921D6S.jpg"/>
+    <episode-num system="xmltv_ns">.131.</episode-num>
   </programme>
   <programme start="20240610183000 +0530" stop="20240610193000 +0530" channel="ts355">
     <title lang="en">Sri Mad Ramayanam</title>
@@ -198,19 +158,22 @@
       <actor>Tarun Khanna</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152E34FE166DA660B9601F2402509B75ACD00AC2Q.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/68E0532B54FFF5CC371EDD71C5A4C752403C0D5CO.jpg"/>
+    <episode-num system="xmltv_ns">.12.</episode-num>
   </programme>
   <programme start="20240610193000 +0530" stop="20240610200000 +0530" channel="ts355">
     <title lang="en">Sivangi</title>
     <desc lang="en">A village belle with a strong character takes care of her family members. Furthermore, she embarks on a journey alone to overcome financial issues and provide a good lifestyle for her dear ones.</desc>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81CB47EFFC16F2A812DFA1CAC3C2361379953EFBS.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AA98E143C402B780F0E7D1AAA753FEE058E8C6F82.jpg"/>
+    <episode-num system="xmltv_ns">.66.</episode-num>
   </programme>
   <programme start="20240610200000 +0530" stop="20240610203000 +0530" channel="ts355">
     <title lang="en">Bhairavi</title>
     <desc lang="en">The dealings of a criminal organisation leave a city reeling in the aftermath of wanton destruction and brutality. However, they soon cross paths with a reincarnated deity out for vengeance.</desc>
     <category lang="en">Drama</category>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44CA53B4631EC258554602457CA1D3941D4612BCP.jpg"/>
+    <episode-num system="xmltv_ns">.72.</episode-num>
   </programme>
   <programme start="20240610203000 +0530" stop="20240610210000 +0530" channel="ts355">
     <title lang="en">Arthangi</title>
@@ -223,7 +186,8 @@
       <actor>Aaradhya Arukula</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1745BC79BD2CB9546BCAEAE9502704BBB94CB96AU.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7AD2CC4A18DF64E335A1BD2CDDBBEA6F39AADFB8M.jpg"/>
+    <episode-num system="xmltv_ns">.375.</episode-num>
   </programme>
   <programme start="20240610210000 +0530" stop="20240610213000 +0530" channel="ts355">
     <title lang="en">Sravanthi</title>
@@ -236,7 +200,8 @@
       <actor>Meena Vasu</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/345986D8A9F8C52612C2C09C6AEAF245FEF2B3EAF.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D66131638EE372C841D4D8A86FCF114B416B2FFES.jpg"/>
+    <episode-num system="xmltv_ns">.142.</episode-num>
   </programme>
   <programme start="20240610213000 +0530" stop="20240610220000 +0530" channel="ts355">
     <title lang="en">Sundari</title>
@@ -247,7 +212,8 @@
       <actor>Raga Madhuri</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E4F16746F79A09AF22D2664DC2A1C6A005B3333.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/79AE895F4D00E6765FBA4C77258BDD7DA3B1D2B8Y.jpg"/>
+    <episode-num system="xmltv_ns">.910.</episode-num>
   </programme>
   <programme start="20240610220000 +0530" stop="20240610223000 +0530" channel="ts355">
     <title lang="en">Kottaga Rekkalochenna</title>
@@ -260,13 +226,23 @@
       <actor>Kavya</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DE7C1D035E96966469004A13EFDAC93F8C5DD35S.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FCAECEEFB155D45D8783EA65415AFDC28F2921D6S.jpg"/>
+    <episode-num system="xmltv_ns">.131.</episode-num>
   </programme>
   <programme start="20240610223000 +0530" stop="20240610230000 +0530" channel="ts355">
-    <title lang="en">Yevandoy Srimathigaru</title>
-    <desc lang="en">A couple lives a happily married life with two children until each of them receives a phone call from an unknown number, ruining their peace indefinitely.</desc>
+    <title lang="en">Evandoi Sreemathigaru</title>
+    <desc lang="en">Mithuna and Goutham, single parents, get off to a rough start but gradually their discord subsides and they are drawn to each other. But their love life is in jeopardy when their history reappears.</desc>
+    <credits>
+      <actor>Pallavi Gowda</actor>
+      <actor>Harshith Shetty</actor>
+      <actor>Srinivas</actor>
+      <actor>Shanthi</actor>
+      <actor>Gutti Konda Bhargava</actor>
+      <actor>Devi Sri</actor>
+    </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8F4D0851369BA0B785F479BF9F65F64443D5C79K.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/61EEF4097FBB31E283B80049B52B94FBD6D6647DL.jpg"/>
+    <episode-num system="xmltv_ns">.120.</episode-num>
   </programme>
   <programme start="20240610230000 +0530" stop="20240610233000 +0530" channel="ts355">
     <title lang="en">Vontari Gulabi</title>
@@ -280,9 +256,223 @@
       <actor>Priyanka</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DC613B0AB887C88CD58082F21EE610EFF794EE3U.jpg"/>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/33753C8EE6652F59BEC3ACFD6A7721233754D1C3Y.jpg"/>
+    <episode-num system="xmltv_ns">.374.</episode-num>
   </programme>
   <programme start="20240610233000 +0530" stop="20240611000000 +0530" channel="ts355">
+    <title lang="en">Aa Okkati Adakku</title>
+    <desc lang="en">Two young women are determined to become the daughters-in-law of the Pilli family even though the men of the family are against the concept of marriage.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/21CB23B4E101234F9C9B64E08A2D423471A017B3P.jpg"/>
+    <episode-num system="xmltv_ns">.852.</episode-num>
+  </programme>
+  <programme start="20240611000000 +0530" stop="20240611060000 +0530" channel="ts355">
+    <title lang="en">Gemini Kotha Paatalu</title>
+    <desc lang="en">A comprehensive collection of melodious songs recorded by talented singers, artists and musicians for popular Telugu movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC682E24597440AC9A0329E0FC27A0EF838A71CCS.jpg"/>
+  </programme>
+  <programme start="20240611060000 +0530" stop="20240611070000 +0530" channel="ts355">
+    <title lang="en">Gemini Kotha Paatalu</title>
+    <desc lang="en">A comprehensive collection of melodious songs recorded by talented singers, artists and musicians for popular Telugu movies.</desc>
+    <category lang="en">Music</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BC682E24597440AC9A0329E0FC27A0EF838A71CCS.jpg"/>
+  </programme>
+  <programme start="20240611070000 +0530" stop="20240611080000 +0530" channel="ts355">
+    <title lang="en">Divya Jyothishyam</title>
+    <desc lang="en">A renowned astrologer enlightens viewers on planetary movements and their impact on mortals.</desc>
+    <credits>
+      <actor>Ravishankar Guruji</actor>
+    </credits>
+    <category lang="en">Astrology</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/80F0109EF07D049E62C86DC5A12D12C73FC531C56.jpg"/>
+  </programme>
+  <programme start="20240611080000 +0530" stop="20240611083000 +0530" channel="ts355">
+    <title lang="en">Gemini Sunrise</title>
+    <desc lang="en">The host sheds light on the latest information regarding trending topics, movie updates and birthday wishes during the early morning hours.</desc>
+    <category lang="en">Others</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/314DDECA14E3B17A9B9D36A2D155EFCD0D3651742.jpg"/>
+  </programme>
+  <programme start="20240611083000 +0530" stop="20240611120000 +0530" channel="ts355">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240611120000 +0530" stop="20240611123000 +0530" channel="ts355">
+    <title lang="en">Sravanthi</title>
+    <desc lang="en">Sravanthi, a young middle-class girl, faces challenges in her marriage life. She bravely strives to overcome each obstacle.</desc>
+    <credits>
+      <actor>Mounika Ghanta</actor>
+      <actor>Nikhil Maliyakaa</actor>
+      <actor>Nandakishore Dhulipala</actor>
+      <actor>Bharani Shankar</actor>
+      <actor>Meena Vasu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/345986D8A9F8C52612C2C09C6AEAF245FEF2B3EAF.jpg"/>
+  </programme>
+  <programme start="20240611123000 +0530" stop="20240611130000 +0530" channel="ts355">
+    <title lang="en">Uppena</title>
+    <desc lang="en">Brought up in a strict environment, a young girl wishes to pursue her dreams while her parents do not let her waver from her education.</desc>
+    <credits>
+      <actor>Soniya Suresh</actor>
+      <actor>Raj Kumar</actor>
+      <actor>Sheela Singh</actor>
+      <actor>Swatha</actor>
+      <actor>Madhu Krishnan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E4EB4A4304DAA525ABBA4384DA8AE81EF936F916K.jpg"/>
+  </programme>
+  <programme start="20240611130000 +0530" stop="20240611133000 +0530" channel="ts355">
+    <title lang="en">Vontari Gulabi</title>
+    <desc lang="en">A young woman who has been alone for most of her life attempts to find love as she traverses through distrust and betrayal. Repeat - Mon - Sat 11:00 pm.</desc>
+    <credits>
+      <actor>Supritha Satyanarayan</actor>
+      <actor>Rahul Ravi</actor>
+      <actor>Pooja Durganna</actor>
+      <actor>Kalyan</actor>
+      <actor>Manjula Paritala</actor>
+      <actor>Priyanka</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DC613B0AB887C88CD58082F21EE610EFF794EE3U.jpg"/>
+  </programme>
+  <programme start="20240611133000 +0530" stop="20240611140000 +0530" channel="ts355">
+    <title lang="en">Yevandoy Srimathigaru</title>
+    <desc lang="en">A couple lives a happily married life with two children until each of them receives a phone call from an unknown number, ruining their peace indefinitely.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8F4D0851369BA0B785F479BF9F65F64443D5C79K.jpg"/>
+  </programme>
+  <programme start="20240611140000 +0530" stop="20240611143000 +0530" channel="ts355">
+    <title lang="en">Aa Okkati Adakku</title>
+    <desc lang="en">Two young women are determined to become the daughters-in-law of the Pilli family even though the men of the family are against the concept of marriage. Repeat - Mon - Sat 11:30 pm.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/074F32BFC30910EA63A1D21CDCFF0420594E8745C.jpg"/>
+  </programme>
+  <programme start="20240611143000 +0530" stop="20240611150000 +0530" channel="ts355">
+    <title lang="en">Sravana Sandhya</title>
+    <desc lang="en">Sravani wants to find a suitable partner for her sister Sandhya, who aspires to live a luxurious lifestyle. Meanwhile, love blossoms between Sravani and Akshay.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/818E24D95EBFD01215EEFF63D0461D6CC9BB5D11L.jpg"/>
+  </programme>
+  <programme start="20240611150000 +0530" stop="20240611180000 +0530" channel="ts355">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/D4EDEE3F6A293CC68216A674DFE13994C0068801A.jpg"/>
+  </programme>
+  <programme start="20240611180000 +0530" stop="20240611183000 +0530" channel="ts355">
+    <title lang="en">Kottaga Rekkalochenna</title>
+    <desc lang="en">To support her family, Kaveri leaves her village and travels to the city, where she finds work in a plant nursery. However, this transition lays many challenges she must overcome.</desc>
+    <credits>
+      <actor>Nitya Gowda</actor>
+      <actor>Amani</actor>
+      <actor>Selvaraj</actor>
+      <actor>Ajay</actor>
+      <actor>Kavya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DE7C1D035E96966469004A13EFDAC93F8C5DD35S.jpg"/>
+  </programme>
+  <programme start="20240611183000 +0530" stop="20240611193000 +0530" channel="ts355">
+    <title lang="en">Sri Mad Ramayanam</title>
+    <desc lang="en">When an exiled prince's beloved wife is abducted by a powerful monarch, he allies himself with armies of magical beings to launch an epic crusade against the forces of evil.</desc>
+    <credits>
+      <actor>Sujay Reu</actor>
+      <actor>Prachi Bansal</actor>
+      <actor>Basant Bhatt</actor>
+      <actor>Nikitin Dheer</actor>
+      <actor>Nirbhay Wadhwa</actor>
+      <actor>Tarun Khanna</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/152E34FE166DA660B9601F2402509B75ACD00AC2Q.jpg"/>
+  </programme>
+  <programme start="20240611193000 +0530" stop="20240611200000 +0530" channel="ts355">
+    <title lang="en">Sivangi</title>
+    <desc lang="en">A village belle with a strong character takes care of her family members. Furthermore, she embarks on a journey alone to overcome financial issues and provide a good lifestyle for her dear ones.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/81CB47EFFC16F2A812DFA1CAC3C2361379953EFBS.jpg"/>
+  </programme>
+  <programme start="20240611200000 +0530" stop="20240611203000 +0530" channel="ts355">
+    <title lang="en">Bhairavi</title>
+    <desc lang="en">The dealings of a criminal organisation leave a city reeling in the aftermath of wanton destruction and brutality. However, they soon cross paths with a reincarnated deity out for vengeance.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/44CA53B4631EC258554602457CA1D3941D4612BCP.jpg"/>
+  </programme>
+  <programme start="20240611203000 +0530" stop="20240611210000 +0530" channel="ts355">
+    <title lang="en">Arthangi</title>
+    <desc lang="en">Under unforeseen circumstances, Eshwari gets married to a man from a wealthy family and tries to adjust to her new life.</desc>
+    <credits>
+      <actor>Durgashree</actor>
+      <actor>Haritha Thota</actor>
+      <actor>Alankrita Shah</actor>
+      <actor>Niharika Harshu</actor>
+      <actor>Aaradhya Arukula</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1745BC79BD2CB9546BCAEAE9502704BBB94CB96AU.jpg"/>
+  </programme>
+  <programme start="20240611210000 +0530" stop="20240611213000 +0530" channel="ts355">
+    <title lang="en">Sravanthi</title>
+    <desc lang="en">Sravanthi, a young middle-class girl, faces challenges in her marriage life. She bravely strives to overcome each obstacle.</desc>
+    <credits>
+      <actor>Mounika Ghanta</actor>
+      <actor>Nikhil Maliyakaa</actor>
+      <actor>Nandakishore Dhulipala</actor>
+      <actor>Bharani Shankar</actor>
+      <actor>Meena Vasu</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/345986D8A9F8C52612C2C09C6AEAF245FEF2B3EAF.jpg"/>
+  </programme>
+  <programme start="20240611213000 +0530" stop="20240611220000 +0530" channel="ts355">
+    <title lang="en">Sundari</title>
+    <desc lang="en">A young woman is judged and looked down upon due to her dark complexion. However, things take a turn when a rich man falls in love with her.</desc>
+    <credits>
+      <actor>Triveni Yadhav</actor>
+      <actor>Maneesh Reddy</actor>
+      <actor>Raga Madhuri</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A7E4F16746F79A09AF22D2664DC2A1C6A005B3333.jpg"/>
+  </programme>
+  <programme start="20240611220000 +0530" stop="20240611223000 +0530" channel="ts355">
+    <title lang="en">Kottaga Rekkalochenna</title>
+    <desc lang="en">To support her family, Kaveri leaves her village and travels to the city, where she finds work in a plant nursery. However, this transition lays many challenges she must overcome.</desc>
+    <credits>
+      <actor>Nitya Gowda</actor>
+      <actor>Amani</actor>
+      <actor>Selvaraj</actor>
+      <actor>Ajay</actor>
+      <actor>Kavya</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7DE7C1D035E96966469004A13EFDAC93F8C5DD35S.jpg"/>
+  </programme>
+  <programme start="20240611223000 +0530" stop="20240611230000 +0530" channel="ts355">
+    <title lang="en">Yevandoy Srimathigaru</title>
+    <desc lang="en">A couple lives a happily married life with two children until each of them receives a phone call from an unknown number, ruining their peace indefinitely.</desc>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F8F4D0851369BA0B785F479BF9F65F64443D5C79K.jpg"/>
+  </programme>
+  <programme start="20240611230000 +0530" stop="20240611233000 +0530" channel="ts355">
+    <title lang="en">Vontari Gulabi</title>
+    <desc lang="en">A young woman who has been alone for most of her life attempts to find love as she traverses through distrust and betrayal.</desc>
+    <credits>
+      <actor>Supritha Satyanarayan</actor>
+      <actor>Rahul Ravi</actor>
+      <actor>Pooja Durganna</actor>
+      <actor>Kalyan</actor>
+      <actor>Manjula Paritala</actor>
+      <actor>Priyanka</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4DC613B0AB887C88CD58082F21EE610EFF794EE3U.jpg"/>
+  </programme>
+  <programme start="20240611233000 +0530" stop="20240612000000 +0530" channel="ts355">
     <title lang="en">Aa Okkati Adakku</title>
     <desc lang="en">Two young women are determined to become the daughters-in-law of the Pilli family even though the men of the family are against the concept of marriage.</desc>
     <category lang="en">Drama</category>
