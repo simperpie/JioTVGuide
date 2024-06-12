@@ -1,5 +1,5 @@
 
-<h1 align="center"> TV Guide for Indian TV Channels </h1>
+<h1 align="center"> Jio TV Guide </h1>
 
 [![EPG_Grabber](https://github.com/simperpie/TVGuide/actions/workflows/EPG_Grabber.yml/badge.svg)](https://github.com/simperpie/TVGuide/actions/workflows/EPG_Grabber.yml)
 
@@ -9,28 +9,12 @@ Welcome to the comprehensive Electronic Program Guide (EPG) for Indian televisio
 <h4 align='center'>To Use this EPG Guide<br>Add Folowing Link in Your Playlist.<br><br></h4>
 <br>
 
-<h2 style="color: #1E90FF;"> 1. TataPlay 2 Days (Present and Future) EPG</h2>
+<h2 style="color: #1E90FF;"> JioTV EPG</h2>
 
 ```py
-https://simper.github.io/TVGuide/tataplay.xml.gz
-
+https://raw.githubusercontent.com/simperpie/JioTVGuide/main/epg.xml.gz
 ```
-<h2 style="color: #1E90FF;"> 2. JioTV 2 Days (Present and Future) EPG</h2>
-
-```py
-https://simperpie.github.io/TVGuide/jiotv.xml.gz
-
-```
-<h2 style="color: #1E90FF;"> 3. Combined 2 Days (Present and Future) EPG</h2>
-
-```py
-https://simperpie.github.io/TVGuide/merged.xml.gz
-
-```
-
 __Credit__ : 
-
-https://github.com/K-vanc/Tempest-EPG-Generator : The Most Advanced Programmable GUI XMLTV EPG Generator
 
 https://github.com/tobalan/tobalan.github.io : To Grab Jio EPG Data
 
