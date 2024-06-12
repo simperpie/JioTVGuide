@@ -3,18 +3,6 @@
   <channel id="1633">
     <display-name lang="en">Public Movies</display-name>
   </channel>
-  <programme start="20240612000000 +0530" stop="20240612030000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-12/2406121633000.jpg"/>
-  </programme>
-  <programme start="20240612030000 +0530" stop="20240612060000 +0530" channel="1633">
-    <title lang="en">Movie</title>
-    <desc lang="en">Movie.</desc>
-    <category lang="en">Film</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-12/2406121633001.jpg"/>
-  </programme>
   <programme start="20240612060000 +0530" stop="20240612090000 +0530" channel="1633">
     <title lang="en">Movie</title>
     <desc lang="en">Movie.</desc>
@@ -50,5 +38,23 @@
     <desc lang="en">Movie.</desc>
     <category lang="en">Film</category>
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-12/2406121633007.jpg"/>
+  </programme>
+  <programme start="20240614000000 +0530" stop="20240614030000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-14/2406141633000.jpg"/>
+  </programme>
+  <programme start="20240614030000 +0530" stop="20240614060000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-14/2406141633001.jpg"/>
+  </programme>
+  <programme start="20240614060000 +0530" stop="20240614090000 +0530" channel="1633">
+    <title lang="en">Movie</title>
+    <desc lang="en">Movie.</desc>
+    <category lang="en">Film</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/2024-06-14/2406141633002.jpg"/>
   </programme>
 </tv>
