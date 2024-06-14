@@ -1,9 +1,9 @@
 
 <h1 align="center"> EPG </h1>
 
-[![zio_epg](https://github.com/simperpie/epg/actions/workflows/zio_epg.yml/badge.svg)](https://github.com/simperpie/epg/actions/workflows/zio_epg.yml)
+[![jio_epg](https://github.com/simperpie/epg/actions/workflows/jio_epg.yml/badge.svg)](https://github.com/simperpie/epg/actions/workflows/jio_epg.yml)
 [![tempest_epg](https://github.com/simperpie/epg/actions/workflows/tempest_epg.yml/badge.svg)](https://github.com/simperpie/epg/actions/workflows/tempest_epg.yml)
-[![push_epg](https://github.com/simperpie/epg/actions/workflows/push_tempest_epg.yml/badge.svg)](https://github.com/simperpie/epg/actions/workflows/push_tempest_epg.yml)
+[![push_epg](https://github.com/simperpie/epg/actions/workflows/push_epg.yml/badge.svg)](https://github.com/simperpie/epg/actions/workflows/push_epg.yml)
 
 <h2 align='center'>✯ Indian Channel EPG Guide ✯</h2>
 Welcome to the comprehensive Electronic Program Guide (EPG) for Indian television channels. This guide is designed to help you navigate through the diverse and rich content available on various Indian TV channels. Here, you will find a detailed schedule of programs, including TV shows, movies, news, sports, and more.
@@ -11,7 +11,7 @@ Welcome to the comprehensive Electronic Program Guide (EPG) for Indian televisio
 <h4 align='center'>To Use this EPG Guide<br>Add Folowing Link in Your Playlist.<br><br></h4>
 <br>
 
-<h2 style="color: #1E90FF;"> Zio EPG</h2>
+<h2 style="color: #1E90FF;"> jio EPG</h2>
 
 ```py
 https://simperpie.github.io/epg/epg.xml.gz
