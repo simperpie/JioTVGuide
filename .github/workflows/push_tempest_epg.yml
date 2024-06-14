@@ -1,8 +1,8 @@
-name: Push_Tempest_EPG_Grabber
+name: push_tempest_epg
 
 on:
   workflow_run:
-    workflows: ["Tempest_EPG_Grabber"]
+    workflows: ["tempest_epg"]
     types:
       - completed   
   workflow_dispatch:
