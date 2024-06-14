@@ -2,7 +2,7 @@ name: Tempest_EPG_Grabber
 
 on:
   schedule:
-    - cron: '00 22 * * *'   # Runs at 03:30 AM IST
+    - cron: '30 0 * * *'   # Runs at 06:00 AM IST
   workflow_dispatch: # Allows manual triggering
   
 jobs:
