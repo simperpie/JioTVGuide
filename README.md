@@ -11,10 +11,15 @@ Welcome to the comprehensive Electronic Program Guide (EPG) for Indian televisio
 <h4 align='center'>To Use this EPG Guide<br>Add Folowing Link in Your Playlist.<br><br></h4>
 <br>
 
-<h2 style="color: #1E90FF;"> jio EPG</h2>
+<h2 style="color: #1E90FF;"> JioTV EPG</h2>
 
 ```py
-https://simperpie.github.io/epg/epg.xml.gz
+https://simperpie.github.io/epg/jiotv.xml.gz
+```
+<h2 style="color: #1E90FF;"> Tataplay EPG</h2>
+
+```py
+https://simperpie.github.io/epg/tataplay.xml.gz
 ```
 __Credit__ : 
 
