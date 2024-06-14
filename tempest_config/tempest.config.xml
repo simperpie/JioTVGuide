@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Tempest EPG Generator (made by Kvanc) -->
 <configuration>
-  <filename>simper_epg_original.xml</filename>
+  <filename>simper_original.xml</filename>
   <user-agent/>
   <logger>on</logger>
   <retry>2</retry>
@@ -15,7 +15,7 @@
   <delay channel="" index="" detail=""/>
   <channel-lister>on</channel-lister>
   <inverter>on</inverter>
-  <inverter-filename>simper_epg.xml</inverter-filename>
+  <inverter-filename>simper.xml</inverter-filename>
   <inverter-path>["desc":"##subtitle##","##desc##": #rating##"]["subtitle":||#delete#]["episode":||#delete#]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["colour":||#delete#]["aspect":||#delete#]["quality":||#delete#]["producer":||#delete#]["writer":||#delete#]["rating":||#delete#]["keyword":||#delete#]["star-rating":||#delete#]["language":||#delete#]</inverter-path>
   <logname>simper.log</logname>
   <channel site="[ENC][EX]singtel.com_0" site_id="6421" xmltv_id="HBOSignatureHD.my">HBO Signature 🄼</channel>

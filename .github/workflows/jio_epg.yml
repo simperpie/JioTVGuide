@@ -1,9 +1,9 @@
-name: zio_epg
+name: jio_epg
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 2 * * *" # every day at 08:00 AM IST
+    - cron: "30 20 * * *" # every day at 02:00 AM IST
 
 jobs:
   epg:

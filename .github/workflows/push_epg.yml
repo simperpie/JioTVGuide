@@ -2,7 +2,7 @@ name: push_epg
 
 on:
   workflow_run:
-    workflows: ["tempest_epg", "zio_epg"]
+    workflows: ["tempest_epg", "jio_epg"]
     types:
       - completed   
   workflow_dispatch:
