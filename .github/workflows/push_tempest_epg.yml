@@ -6,22 +6,34 @@ on:
     types:
       - completed   
   workflow_dispatch:
-  
+
 jobs:
-  copy-file:
+  copy-files:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+    - name: Checkout source repository
       uses: actions/checkout@v4
-
-    - name: Pushes test file
-      uses: dmnemec/copy_file_to_another_repo_action@main
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.Push_File }}
       with:
-        source_file: 'tempest_config/epg/simper_epg.xml.gz'
-        destination_repo: 'simperpie/simperpie.github.io'
-        destination_folder: 'TVGuide'
-        user_email: '91105635+simperpie@users.noreply.github.com'
-        user_name: 'simperpie'
-        commit_message: 'Automated M3u'
+        path: source_repo
+
+    - name: Checkout destination repository
+      uses: actions/checkout@v4
+      with:
+        repository: simperpie/simperpie.github.io
+        path: destination_repo
+        token: ${{ secrets.Push_File }}
+
+    - name: Copy files
+      run: |
+        cp -r source_repo/tempest_config/epg/* simperpie.github.io/epg/
+
+    - name: Commit and push changes
+      run: |
+        cd destination_repo
+        git config --global user.email "91105635+simperpie@users.noreply.github.com"
+        git config --global user.name "simperpie"
+        git add .
+        git commit -m "Automated EPG update"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.Push_File }}
