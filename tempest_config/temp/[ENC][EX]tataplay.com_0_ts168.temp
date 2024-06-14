@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ts168">
+    <display-name lang="en">CNBC-TV18</display-name>
+  </channel>
+  <programme start="20240613183000 +0000" stop="20240613190000 +0000" channel="ts168">
+    <title lang="en">The Exchange</title>
+    <desc lang="en">Host Kelly Evans presents the latest financial and economic headlines around the world.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D46075C26F4922829525E343094F12CC54C065C1.jpg"/>
+  </programme>
+  <programme start="20240613190000 +0000" stop="20240613200000 +0000" channel="ts168">
+    <title lang="en">Power Lunch</title>
+    <desc lang="en">Experts discuss how money can be made in the fields of real estate and stock market.</desc>
+    <credits>
+      <actor>Bill Griffeth</actor>
+      <actor>Sue Herera</actor>
+      <actor>Tyler Mathisen</actor>
+      <actor>Dennis Kneale</actor>
+      <actor>Amanda Drury</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDD3496ECA1C832C69589BACE5DF76ADDB6E01F2A.jpg"/>
+  </programme>
+  <programme start="20240613200000 +0000" stop="20240613220000 +0000" channel="ts168">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+      <actor>Bill Griffeth</actor>
+      <actor>Maria Bartiromo</actor>
+      <actor>Kelly Chang Rickert</actor>
+      <actor>Gemma Godfrey</actor>
+      <actor>Lauren Fix</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEB5403DC44606185FE8ABF5D05381FF28F78CCB7.jpg"/>
+  </programme>
+  <programme start="20240613220000 +0000" stop="20240613230000 +0000" channel="ts168">
+    <title lang="en">The Rundown</title>
+    <desc lang="en">The host speaks about the current trends from Wall Street and offers tips for investments.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E2390281F6D43D19A6EC7604E450CC72D43C31ADX.jpg"/>
+  </programme>
+  <programme start="20240613230000 +0000" stop="20240614003000 +0000" channel="ts168">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Experts provide pre-market updates useful for investors and professional traders.</desc>
+    <credits>
+      <actor>Becky Quick</actor>
+      <actor>Joe Kernen</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9072A91DA9B4E000457C6B9A4C8EB4CCF34921C38.jpg"/>
+  </programme>
+  <programme start="20240614003000 +0000" stop="20240614013000 +0000" channel="ts168">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+      <actor>Bill Griffeth</actor>
+      <actor>Maria Bartiromo</actor>
+      <actor>Kelly Chang Rickert</actor>
+      <actor>Gemma Godfrey</actor>
+      <actor>Lauren Fix</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEB5403DC44606185FE8ABF5D05381FF28F78CCB7.jpg"/>
+  </programme>
+  <programme start="20240614013000 +0000" stop="20240614020000 +0000" channel="ts168">
+    <title lang="en">Squawk Box</title>
+    <desc lang="en">Experts provide pre-market updates useful for investors and professional traders.</desc>
+    <credits>
+      <actor>Becky Quick</actor>
+      <actor>Joe Kernen</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9072A91DA9B4E000457C6B9A4C8EB4CCF34921C38.jpg"/>
+  </programme>
+  <programme start="20240614020000 +0000" stop="20240614023000 +0000" channel="ts168">
+    <title lang="en">Power Breakfast</title>
+    <desc lang="en">The hosts analyse the current state and trends of the stock market.</desc>
+    <credits>
+      <actor>Reema Tendulkar</actor>
+      <actor>Nigel Dsouza</actor>
+      <actor>Ekta Batra</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3F61F67E74F58BEF5CD8A53C7CCD65A3B6845B4CA.jpg"/>
+  </programme>
+  <programme start="20240614023000 +0000" stop="20240614033000 +0000" channel="ts168">
+    <title lang="en">Bazaar Morning Call</title>
+    <desc lang="en">The hosts shed light on the condition of the stock market prior to its opening.</desc>
+    <credits>
+      <actor>Udayan Mukherjee</actor>
+      <actor>Mitali Mukherjee</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4E2B8D431DB195354C13CA597B1446F146FDA26CN.jpg"/>
+  </programme>
+  <programme start="20240614033000 +0000" stop="20240614043000 +0000" channel="ts168">
+    <title lang="en">Bazaar Open Exchange</title>
+    <desc lang="en">The hosts analyse the current state and trends of the stock market.</desc>
+    <credits>
+      <actor>Latha Venkatesh</actor>
+      <actor>Anuj Singhal</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BE1AC8DBBEE964FF1FC3EE93C3EAB6C4A192A7CCG.jpg"/>
+  </programme>
+  <programme start="20240614043000 +0000" stop="20240614050000 +0000" channel="ts168">
+    <title lang="en">Bazaar Corporate Radar</title>
+    <desc lang="en">Take a look at how CEOs and global economists go about their business.</desc>
+    <credits>
+      <actor>Udayan Mukherjee</actor>
+      <actor>Mitali Mukherjee</actor>
+    </credits>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CE423D62379E64FFCB0A4151F8235C255C43F668Y.jpg"/>
+  </programme>
+  <programme start="20240614050000 +0000" stop="20240614053000 +0000" channel="ts168">
+    <title lang="en">Chartbusters</title>
+    <desc lang="en">Financial experts give tips to the viewers and guide them to invest in the stock market.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C4B326D28734EB9F35B8B4BE11949866D251BA374.jpg"/>
+  </programme>
+  <programme start="20240614053000 +0000" stop="20240614063000 +0000" channel="ts168">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">Financial analysts present news and updates regarding trading of shares and stock.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2C15363EEBA55D4066C1E7E2CD90D41EC8DD26CFN.jpg"/>
+  </programme>
+  <programme start="20240614063000 +0000" stop="20240614073000 +0000" channel="ts168">
+    <title lang="en">Half Time Report</title>
+    <desc lang="en">Financial experts and analysts discuss the latest stock market news and economic updates.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3613C6551FD5EEAC748343429B4DE1A0D941CA00B.jpg"/>
+  </programme>
+  <programme start="20240614073000 +0000" stop="20240614080000 +0000" channel="ts168">
+    <title lang="en">Business Lunch</title>
+    <desc lang="en">The host presents the latest updates from the corporate and finance world.</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E5A5D54CB8A7622986F3EACC072D8A9E0A44F7219.jpg"/>
+  </programme>
+  <programme start="20240614080000 +0000" stop="20240614083000 +0000" channel="ts168">
+    <title lang="en">Midcap Radar</title>
+    <desc lang="en">The host chats with an expert about the current situation of the stock market.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/631597943A10A3F7C49AEE4E8F08798253AFB500D.jpg"/>
+  </programme>
+  <programme start="20240614083000 +0000" stop="20240614090000 +0000" channel="ts168">
+    <title lang="en">Your Stocks</title>
+    <desc lang="en">The hosts review, analyse and predict the stock market trends of the country.</desc>
+    <credits>
+      <actor>Sumaira Abidi</actor>
+      <actor>Reema Tendulkar</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/48A976E2C8623CF80975D8F1B047F963BBCD2AE0R.jpg"/>
+  </programme>
+  <programme start="20240614090000 +0000" stop="20240614100000 +0000" channel="ts168">
+    <title lang="en">NSE Closing Bell</title>
+    <desc lang="en">The host presents the status of the stocks at the time of the closing bell.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA7F62C2A0E2FDE2F6D4F7E44804D0CABCF3233BJ.jpg"/>
+  </programme>
+  <programme start="20240614100000 +0000" stop="20240614103000 +0000" channel="ts168">
+    <title lang="en">Smart Money</title>
+    <desc lang="en">The host offers tips on smart investments in various sectors.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBDC373CD62F856716C1EB1AAB9190237370B335D.jpg"/>
+  </programme>
+  <programme start="20240614103000 +0000" stop="20240614110000 +0000" channel="ts168">
+    <title lang="en">After The Bell</title>
+    <desc lang="en">Experts from various fields share their views on the status of the share market.</desc>
+    <credits>
+      <actor>Elan Dutta</actor>
+      <actor>Nayantara Rai</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E1A3A93E494A7F3E26D1AAE741AE0DA6A0BD2D2EX.jpg"/>
+  </programme>
+  <programme start="20240614110000 +0000" stop="20240614113000 +0000" channel="ts168">
+    <title lang="en">Taking Stock</title>
+    <desc lang="en">The hosts provide market news along with key stock movements of the week.</desc>
+    <credits>
+      <actor>Sonia Shenoy</actor>
+      <actor>Anuj Singhal</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2066F951164B91CF9994A9A3EA8F1E25B1CC4502G.jpg"/>
+  </programme>
+  <programme start="20240614113000 +0000" stop="20240614120000 +0000" channel="ts168">
+    <title lang="en">Reporter's Diary</title>
+    <desc lang="en">The host presents some of the latest bulletins with a special focus on exclusive reports from across the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE7E0A546C9B9F994CDC5560E2CAE07DF63025562.jpg"/>
+  </programme>
+  <programme start="20240614120000 +0000" stop="20240614123000 +0000" channel="ts168">
+    <title lang="en">Commodity Champions</title>
+    <desc lang="en">Trading experts choose the best commodities that have fared well in the market.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/434778C8C6C4EEF510BDBA81019F9016386ECE4AN.jpg"/>
+  </programme>
+  <programme start="20240614123000 +0000" stop="20240614130000 +0000" channel="ts168">
+    <title lang="en">Reporter's Diary</title>
+    <desc lang="en">The host presents some of the latest bulletins with a special focus on exclusive reports from across the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/AE7E0A546C9B9F994CDC5560E2CAE07DF63025562.jpg"/>
+  </programme>
+  <programme start="20240614130000 +0000" stop="20240614133000 +0000" channel="ts168">
+    <title lang="en">Start Up Street</title>
+    <desc lang="en">The host talks to various experts about their views on the future of start-ups in India.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5764B04B2EE230F2780A09A5E0046235522E9836V.jpg"/>
+  </programme>
+  <programme start="20240614133000 +0000" stop="20240614140000 +0000" channel="ts168">
+    <title lang="en">U.S Markets Opening Bell</title>
+    <desc lang="en">The host announces the name of the person who is given the honour of ringing the opening bell at the New York Stock Exchange.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F643B37A303905BB636CE44E2A66F3D2F09C576B5.jpg"/>
+  </programme>
+  <programme start="20240614140000 +0000" stop="20240614143000 +0000" channel="ts168">
+    <title lang="en">The Global Eye</title>
+    <desc lang="en">The host interacts with various international dignitaries and leaders to discuss their plans to boost socio-economic and political ties with India.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4C0A93B2A7377252C84F02D29A25452230779EF.jpg"/>
+  </programme>
+  <programme start="20240614143000 +0000" stop="20240614150000 +0000" channel="ts168">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">The hosts take a look at the biggest business news stories of the day.</desc>
+    <credits>
+      <actor>Shereen Bhan</actor>
+      <actor>Harsha Subramaniam</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E39EDA861A3133FAE6321ECB2E465A642B58B5FFU.jpg"/>
+  </programme>
+  <programme start="20240614150000 +0000" stop="20240614153000 +0000" channel="ts168">
+    <title lang="en">Taking Stock</title>
+    <desc lang="en">The hosts provide market news along with key stock movements of the week.</desc>
+    <credits>
+      <actor>Sonia Shenoy</actor>
+      <actor>Anuj Singhal</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2066F951164B91CF9994A9A3EA8F1E25B1CC4502G.jpg"/>
+  </programme>
+  <programme start="20240614153000 +0000" stop="20240614160000 +0000" channel="ts168">
+    <title lang="en">India Business Hour</title>
+    <desc lang="en">The hosts take a look at the biggest business news stories of the day.</desc>
+    <credits>
+      <actor>Shereen Bhan</actor>
+      <actor>Harsha Subramaniam</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E39EDA861A3133FAE6321ECB2E465A642B58B5FFU.jpg"/>
+  </programme>
+  <programme start="20240614160000 +0000" stop="20240614163000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2EF0ADE1DDD264A342DF20B8A0EE343D35FF9F99L.jpg"/>
+  </programme>
+  <programme start="20240614163000 +0000" stop="20240614170000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2EF0ADE1DDD264A342DF20B8A0EE343D35FF9F99L.jpg"/>
+  </programme>
+  <programme start="20240614170000 +0000" stop="20240614173000 +0000" channel="ts168">
+    <title lang="en">Kiska Brand Bajega: Home Edition</title>
+    <desc lang="en">The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.</desc>
+    <credits>
+      <actor>Aditya Bhat</actor>
+      <actor>Abhay Deol</actor>
+      <actor>Ali Fazal</actor>
+      <actor>Neha Sharma</actor>
+      <actor>Ashish Chanchlani</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13FE2798C191A41B0D91BD171DCCE7B84E016201N.jpg"/>
+  </programme>
+  <programme start="20240614173000 +0000" stop="20240614180000 +0000" channel="ts168">
+    <title lang="en">Kiska Brand Bajega: Home Edition</title>
+    <desc lang="en">The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.</desc>
+    <credits>
+      <actor>Aditya Bhat</actor>
+      <actor>Abhay Deol</actor>
+      <actor>Ali Fazal</actor>
+      <actor>Neha Sharma</actor>
+      <actor>Ashish Chanchlani</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13FE2798C191A41B0D91BD171DCCE7B84E016201N.jpg"/>
+  </programme>
+  <programme start="20240614180000 +0000" stop="20240614183000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Special</title>
+    <desc lang="en">The host sheds light on the latest updates and developments from various spheres including business, politics and social issues.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/2EF0ADE1DDD264A342DF20B8A0EE343D35FF9F99L.jpg"/>
+  </programme>
+  <programme start="20240614183000 +0000" stop="20240614190000 +0000" channel="ts168">
+    <title lang="en">The Exchange</title>
+    <desc lang="en">Host Kelly Evans presents the latest financial and economic headlines around the world.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+    </credits>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/8D46075C26F4922829525E343094F12CC54C065C1.jpg"/>
+  </programme>
+  <programme start="20240614190000 +0000" stop="20240614200000 +0000" channel="ts168">
+    <title lang="en">Power Lunch</title>
+    <desc lang="en">Experts discuss how money can be made in the fields of real estate and stock market.</desc>
+    <credits>
+      <actor>Bill Griffeth</actor>
+      <actor>Sue Herera</actor>
+      <actor>Tyler Mathisen</actor>
+      <actor>Dennis Kneale</actor>
+      <actor>Amanda Drury</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/EDD3496ECA1C832C69589BACE5DF76ADDB6E01F2A.jpg"/>
+  </programme>
+  <programme start="20240614200000 +0000" stop="20240614220000 +0000" channel="ts168">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+      <actor>Bill Griffeth</actor>
+      <actor>Maria Bartiromo</actor>
+      <actor>Kelly Chang Rickert</actor>
+      <actor>Gemma Godfrey</actor>
+      <actor>Lauren Fix</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEB5403DC44606185FE8ABF5D05381FF28F78CCB7.jpg"/>
+  </programme>
+  <programme start="20240614220000 +0000" stop="20240614223000 +0000" channel="ts168">
+    <title lang="en">Fast Money</title>
+    <desc lang="en">A group of panelist discuss business-related stories and economic development.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3D57537921966E8690C72A5F6F695FB6FA1304D4V.jpg"/>
+  </programme>
+  <programme start="20240614223000 +0000" stop="20240614230000 +0000" channel="ts168">
+    <title lang="en">Option Exchange</title>
+    <desc lang="en">Financial experts put forward their views on the trends in options exchange.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CB5AC8C5F55717EF8D331BF11E21F3439A140ACBJ.jpg"/>
+  </programme>
+  <programme start="20240614230000 +0000" stop="20240615010000 +0000" channel="ts168">
+    <title lang="en">Closing Bell</title>
+    <desc lang="en">Experts guide viewers through the most vital hour of the trading day.</desc>
+    <credits>
+      <actor>Kelly Evans</actor>
+      <actor>Bill Griffeth</actor>
+      <actor>Maria Bartiromo</actor>
+      <actor>Kelly Chang Rickert</actor>
+      <actor>Gemma Godfrey</actor>
+      <actor>Lauren Fix</actor>
+    </credits>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FEB5403DC44606185FE8ABF5D05381FF28F78CCB7.jpg"/>
+  </programme>
+  <programme start="20240615010000 +0000" stop="20240615013000 +0000" channel="ts168">
+    <title lang="en">CNBC Special</title>
+    <desc lang="en">The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3E141B916813822489F6643F9C5316D40A9F2C68Z.jpg"/>
+  </programme>
+  <programme start="20240615013000 +0000" stop="20240615020000 +0000" channel="ts168">
+    <title lang="en">CNBC Special</title>
+    <desc lang="en">The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3E141B916813822489F6643F9C5316D40A9F2C68Z.jpg"/>
+  </programme>
+  <programme start="20240615020000 +0000" stop="20240615023000 +0000" channel="ts168">
+    <title lang="en">CNBC Special</title>
+    <desc lang="en">The anchor brings to the forefront important events and top stories that have taken place both nationally and internationally.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3E141B916813822489F6643F9C5316D40A9F2C68Z.jpg"/>
+  </programme>
+  <programme start="20240615023000 +0000" stop="20240615030000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Editorial</title>
+    <desc lang="en">The host presents updates concerning business and finance from around the world.</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6F2CEF255847478A86E006B1207C9899EFFA8A.jpg"/>
+  </programme>
+  <programme start="20240615030000 +0000" stop="20240615033000 +0000" channel="ts168">
+    <title lang="en">Storyboard</title>
+    <desc lang="en">The host interacts with various influential personalities on a wide array of topics.</desc>
+    <credits>
+      <actor>Shibani Gharat</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E335DD5647A1AF2D33105C6222C0D0388D033F4U.jpg"/>
+  </programme>
+  <programme start="20240615033000 +0000" stop="20240615040000 +0000" channel="ts168">
+    <title lang="en">CNN News18 News Bulletin</title>
+    <desc lang="en">The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25CB9586E9500DC280727D62E014932D43B9F9E5V.jpg"/>
+  </programme>
+  <programme start="20240615040000 +0000" stop="20240615043000 +0000" channel="ts168">
+    <title lang="en">Investment Guide</title>
+    <desc lang="en">The hosts talk to eminent experts about various facets of the stock market.</desc>
+    <credits>
+      <actor>Anuj Singhal</actor>
+      <actor>Surabhi Upadhyay</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D3A901C173B016FE9C8E7B54B40926B835CEC158.jpg"/>
+  </programme>
+  <programme start="20240615043000 +0000" stop="20240615050000 +0000" channel="ts168">
+    <title lang="en">Smart Money</title>
+    <desc lang="en">The host offers tips on smart investments in various sectors.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBDC373CD62F856716C1EB1AAB9190237370B335D.jpg"/>
+  </programme>
+  <programme start="20240615050000 +0000" stop="20240615053000 +0000" channel="ts168">
+    <title lang="en">Indianomics</title>
+    <desc lang="en">Veteran economists analyse, inspect and decode the latest economic trends.</desc>
+    <credits>
+      <actor>Latha Venkatesh</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6465AA6454003A867793367BCA2608A4F346AFDB.jpg"/>
+  </programme>
+  <programme start="20240615053000 +0000" stop="20240615060000 +0000" channel="ts168">
+    <title lang="en">Young Turks</title>
+    <desc lang="en">Young achievers, who are poised to become future leaders, talk about their past experiences, the challenges they faced and their vision for the future.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73E7FE9432443C8C2C6995B20774970AEEE0790FD.jpg"/>
+  </programme>
+  <programme start="20240615060000 +0000" stop="20240615063000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Editorial</title>
+    <desc lang="en">The host presents updates concerning business and finance from around the world.</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6F2CEF255847478A86E006B1207C9899EFFA8A.jpg"/>
+  </programme>
+  <programme start="20240615063000 +0000" stop="20240615070000 +0000" channel="ts168">
+    <title lang="en">CNN News18 News Bulletin</title>
+    <desc lang="en">The host presents the latest updates and key developments from the fields of politics, society, economy and sports from all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/25CB9586E9500DC280727D62E014932D43B9F9E5V.jpg"/>
+  </programme>
+  <programme start="20240615070000 +0000" stop="20240615073000 +0000" channel="ts168">
+    <title lang="en">Commodity Champions</title>
+    <desc lang="en">Trading experts choose the best commodities that have fared well in the market.</desc>
+    <category lang="en">Investments &amp; Market</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/434778C8C6C4EEF510BDBA81019F9016386ECE4AN.jpg"/>
+  </programme>
+  <programme start="20240615073000 +0000" stop="20240615080000 +0000" channel="ts168">
+    <title lang="en">Overdrive</title>
+    <desc lang="en">The host presents the latest news stories, major updates and top developments about automobiles and bikes, including their price range and performance reviews.</desc>
+    <category lang="en">Science &amp; Tech</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/74AE02ECE4DA3AB2964FB239B6DAB9CC65FDEFC2M.jpg"/>
+  </programme>
+  <programme start="20240615080000 +0000" stop="20240615083000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Editorial</title>
+    <desc lang="en">The host presents updates concerning business and finance from around the world.</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6F2CEF255847478A86E006B1207C9899EFFA8A.jpg"/>
+  </programme>
+  <programme start="20240615083000 +0000" stop="20240615090000 +0000" channel="ts168">
+    <title lang="en">Kiska Brand Bajega: Home Edition</title>
+    <desc lang="en">The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.</desc>
+    <credits>
+      <actor>Aditya Bhat</actor>
+      <actor>Abhay Deol</actor>
+      <actor>Ali Fazal</actor>
+      <actor>Neha Sharma</actor>
+      <actor>Ashish Chanchlani</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13FE2798C191A41B0D91BD171DCCE7B84E016201N.jpg"/>
+  </programme>
+  <programme start="20240615090000 +0000" stop="20240615093000 +0000" channel="ts168">
+    <title lang="en">The Media Dialogues</title>
+    <desc lang="en">The anchor invites various personalities to discuss the ever-changing media landscape.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/741530A1CBCCB1BDBE10ED8C0C185733E95986E7F.jpg"/>
+  </programme>
+  <programme start="20240615093000 +0000" stop="20240615100000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Focus</title>
+    <desc lang="en">Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D95A27F8CF1ACD819312D45EEF13A06FEE51D73H.jpg"/>
+  </programme>
+  <programme start="20240615100000 +0000" stop="20240615103000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Focus</title>
+    <desc lang="en">Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D95A27F8CF1ACD819312D45EEF13A06FEE51D73H.jpg"/>
+  </programme>
+  <programme start="20240615103000 +0000" stop="20240615110000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Focus</title>
+    <desc lang="en">Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D95A27F8CF1ACD819312D45EEF13A06FEE51D73H.jpg"/>
+  </programme>
+  <programme start="20240615110000 +0000" stop="20240615113000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Focus</title>
+    <desc lang="en">Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D95A27F8CF1ACD819312D45EEF13A06FEE51D73H.jpg"/>
+  </programme>
+  <programme start="20240615113000 +0000" stop="20240615120000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Focus</title>
+    <desc lang="en">Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D95A27F8CF1ACD819312D45EEF13A06FEE51D73H.jpg"/>
+  </programme>
+  <programme start="20240615120000 +0000" stop="20240615123000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Focus</title>
+    <desc lang="en">Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D95A27F8CF1ACD819312D45EEF13A06FEE51D73H.jpg"/>
+  </programme>
+  <programme start="20240615123000 +0000" stop="20240615130000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Focus</title>
+    <desc lang="en">Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D95A27F8CF1ACD819312D45EEF13A06FEE51D73H.jpg"/>
+  </programme>
+  <programme start="20240615130000 +0000" stop="20240615133000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Focus</title>
+    <desc lang="en">Numerous media events aim to find new and innovative ways to help various organisations connect with their target customers.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9D95A27F8CF1ACD819312D45EEF13A06FEE51D73H.jpg"/>
+  </programme>
+  <programme start="20240615133000 +0000" stop="20240615140000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Editorial</title>
+    <desc lang="en">The host presents updates concerning business and finance from around the world.</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6F2CEF255847478A86E006B1207C9899EFFA8A.jpg"/>
+  </programme>
+  <programme start="20240615140000 +0000" stop="20240615143000 +0000" channel="ts168">
+    <title lang="en">Big Deal</title>
+    <desc lang="en">The host discusses the latest updates in the financial sector and business markets.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/0EDF6DF1C0BB57ABCC9A8C57CD7BAE4B753A3306X.jpg"/>
+  </programme>
+  <programme start="20240615143000 +0000" stop="20240615150000 +0000" channel="ts168">
+    <title lang="en">Indianomics</title>
+    <desc lang="en">Veteran economists analyse, inspect and decode the latest economic trends.</desc>
+    <credits>
+      <actor>Latha Venkatesh</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B6465AA6454003A867793367BCA2608A4F346AFDB.jpg"/>
+  </programme>
+  <programme start="20240615150000 +0000" stop="20240615153000 +0000" channel="ts168">
+    <title lang="en">Young Turks</title>
+    <desc lang="en">Young achievers, who are poised to become future leaders, talk about their past experiences, the challenges they faced and their vision for the future.</desc>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/73E7FE9432443C8C2C6995B20774970AEEE0790FD.jpg"/>
+  </programme>
+  <programme start="20240615153000 +0000" stop="20240615160000 +0000" channel="ts168">
+    <title lang="en">Investment Guide</title>
+    <desc lang="en">The hosts talk to eminent experts about various facets of the stock market.</desc>
+    <credits>
+      <actor>Anuj Singhal</actor>
+      <actor>Surabhi Upadhyay</actor>
+    </credits>
+    <category lang="en">Talk Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/7D3A901C173B016FE9C8E7B54B40926B835CEC158.jpg"/>
+  </programme>
+  <programme start="20240615160000 +0000" stop="20240615163000 +0000" channel="ts168">
+    <title lang="en">Smart Money</title>
+    <desc lang="en">The host offers tips on smart investments in various sectors.</desc>
+    <category lang="en">Special Report</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/CBDC373CD62F856716C1EB1AAB9190237370B335D.jpg"/>
+  </programme>
+  <programme start="20240615163000 +0000" stop="20240615170000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Editorial</title>
+    <desc lang="en">The host presents updates concerning business and finance from around the world.</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6F2CEF255847478A86E006B1207C9899EFFA8A.jpg"/>
+  </programme>
+  <programme start="20240615170000 +0000" stop="20240615173000 +0000" channel="ts168">
+    <title lang="en">CNBC-TV18 Editorial</title>
+    <desc lang="en">The host presents updates concerning business and finance from around the world.</desc>
+    <category lang="en">Business</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E0A6F2CEF255847478A86E006B1207C9899EFFA8A.jpg"/>
+  </programme>
+  <programme start="20240615173000 +0000" stop="20240615183000 +0000" channel="ts168">
+    <title lang="en">Kiska Brand Bajega: Home Edition</title>
+    <desc lang="en">The host invites prominent personalities from various fields and discusses matters ranging from technology to entertainment.</desc>
+    <credits>
+      <actor>Aditya Bhat</actor>
+      <actor>Abhay Deol</actor>
+      <actor>Ali Fazal</actor>
+      <actor>Neha Sharma</actor>
+      <actor>Ashish Chanchlani</actor>
+    </credits>
+    <category lang="en">Chat Show</category>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/13FE2798C191A41B0D91BD171DCCE7B84E016201N.jpg"/>
+  </programme>
+</tv>
