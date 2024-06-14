@@ -1,7 +1,5 @@
 
-<h1 align="center"> Jio TV Guide </h1>
-
-[![EPG_Grabber](https://github.com/simperpie/TVGuide/actions/workflows/EPG_Grabber.yml/badge.svg)](https://github.com/simperpie/TVGuide/actions/workflows/EPG_Grabber.yml)
+<h1 align="center"> TV Guide </h1>
 
 <h2 align='center'>✯ Indian Channel EPG Guide ✯</h2>
 Welcome to the comprehensive Electronic Program Guide (EPG) for Indian television channels. This guide is designed to help you navigate through the diverse and rich content available on various Indian TV channels. Here, you will find a detailed schedule of programs, including TV shows, movies, news, sports, and more.
@@ -12,11 +10,13 @@ Welcome to the comprehensive Electronic Program Guide (EPG) for Indian televisio
 <h2 style="color: #1E90FF;"> JioTV EPG</h2>
 
 ```py
-https://raw.githubusercontent.com/simperpie/JioTVGuide/main/epg.xml.gz
+https://raw.githubusercontent.com/simperpie/JioTVGuide/main/tempest_config/epg/epg.xml.gz
 ```
 __Credit__ : 
 
-https://github.com/tobalan/tobalan.github.io : To Grab Jio EPG Data
+https://github.com/tobalan/tobalan.github.io : To Grab Gio EPG Data
+
+https://github.com/K-vanc/Tempest-EPG-Generator : The Most Advanced Programmable GUI XMLTV EPG Generator
 
 <h2>🚸 Warnings :</h2>
 
