@@ -1,5 +1,5 @@
 
-<h1 align="center"> TV Guide </h1>
+<h1 align="center"> EPG </h1>
 
 <h2 align='center'>✯ Indian Channel EPG Guide ✯</h2>
 Welcome to the comprehensive Electronic Program Guide (EPG) for Indian television channels. This guide is designed to help you navigate through the diverse and rich content available on various Indian TV channels. Here, you will find a detailed schedule of programs, including TV shows, movies, news, sports, and more.
@@ -7,10 +7,10 @@ Welcome to the comprehensive Electronic Program Guide (EPG) for Indian televisio
 <h4 align='center'>To Use this EPG Guide<br>Add Folowing Link in Your Playlist.<br><br></h4>
 <br>
 
-<h2 style="color: #1E90FF;"> JioTV EPG</h2>
+<h2 style="color: #1E90FF;"> Zio EPG</h2>
 
 ```py
-https://raw.githubusercontent.com/simperpie/JioTVGuide/main/tempest_config/epg/epg.xml.gz
+https://simperpie.github.io/epg/epg.xml.gz
 ```
 __Credit__ : 
 
