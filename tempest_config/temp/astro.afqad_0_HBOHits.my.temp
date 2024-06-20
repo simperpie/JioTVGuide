@@ -3,208 +3,6 @@
   <channel id="HBOHits.my">
     <display-name lang="en">HBO Hits 🄼</display-name>
   </channel>
-  <programme start="20240619001500 +0000" stop="20240619021500 +0000" channel="HBOHits.my">
-    <title lang="en">SHAKESPEARE IN LOVE</title>
-    <desc lang="en">A young Shakespeare is suffering from writer's block until he meets an actress and falls madly in love with her.</desc>
-    <credits>
-      <director>John Madden</director>
-      <actor>Gwyneth Paltrow</actor>
-      <actor>Joseph Fiennes</actor>
-      <actor>Judi Dench</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000150X100191.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240619021500 +0000" stop="20240619040000 +0000" channel="HBOHits.my">
-    <title lang="en">The Lego Movie 2: the Second Part</title>
-    <desc lang="en">A new threat from outer space sends heroes of Bricksburg, Emmet, Lucy and Batman on a mission to previously unknown worlds where their brain and brawn are tested.</desc>
-    <credits>
-      <director>Mike Mitchell</director>
-      <actor>Chris Pratt</actor>
-      <actor>Elizabeth Banks</actor>
-      <actor>Will Arnett</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X414371.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240619040000 +0000" stop="20240619061500 +0000" channel="HBOHits.my">
-    <title lang="en">FANTASTIC BEASTS: CRIMES of GRINDELWALD</title>
-    <desc lang="en">Grindelwald escapes custody and Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead.</desc>
-    <credits>
-      <director>David Yates</director>
-      <actor>Eddie Redmayne</actor>
-      <actor>Katherine Waterston</actor>
-      <actor>Dan Fogler</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Family</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X404055.jpg"/>
-    <rating system="MY">
-      <value>P12</value>
-    </rating>
-  </programme>
-  <programme start="20240619061500 +0000" stop="20240619075000 +0000" channel="HBOHits.my">
-    <title lang="en">The Angry Birds Movie 2</title>
-    <desc lang="en">When a threat emerges that puts Bird and Pig Islands in danger, Red, Chuck, Bomb and Mighty Eagle recruit Chuck's sister and team up with pigs to forge an unsteady truce to save their homes.</desc>
-    <credits>
-      <director>Thurop Van Orman</director>
-      <actor>Jason Sudeikis</actor>
-      <actor>Josh Gad</actor>
-      <actor>Leslie Jones</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X556969.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240619075000 +0000" stop="20240619100000 +0000" channel="HBOHits.my">
-    <title lang="en">TRANSFORMERS: RISE OF THE BEASTS</title>
-    <desc lang="en">The Autobots team up with a powerful faction of Transformers known as the Maximals to save Earth.</desc>
-    <credits>
-      <director>Steven Caple, Jr.</director>
-      <actor>Anthony Ramos</actor>
-      <actor>Dominique Fishback</actor>
-      <actor>Michelle Yeoh</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X774928.jpg"/>
-    <rating system="MY">
-      <value>P12</value>
-    </rating>
-  </programme>
-  <programme start="20240619100000 +0000" stop="20240619103000 +0000" channel="HBOHits.my">
-    <title lang="en">HOLLYWOOD on SET</title>
-    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
-    <credits>
-      <director>Paul Wynne</director>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X517807.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240619103000 +0000" stop="20240619122000 +0000" channel="HBOHits.my">
-    <title lang="en">The Lego Movie 2: the Second Part</title>
-    <desc lang="en">A new threat from outer space sends heroes of Bricksburg, Emmet, Lucy and Batman on a mission to previously unknown worlds where their brain and brawn are tested.</desc>
-    <credits>
-      <director>Mike Mitchell</director>
-      <actor>Chris Pratt</actor>
-      <actor>Elizabeth Banks</actor>
-      <actor>Will Arnett</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X414371.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240619122000 +0000" stop="20240619142000 +0000" channel="HBOHits.my">
-    <title lang="en">S.W.A.T.</title>
-    <desc lang="en">An explosive remake of the famous police television series.</desc>
-    <credits>
-      <director>Clark Johnson</director>
-      <actor>Samuel L Jackson</actor>
-      <actor>Colin Farrell</actor>
-      <actor>Michelle Rodriguez</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/HBO_Hits_IVP_LAND_1280x720.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240619142000 +0000" stop="20240619181500 +0000" channel="HBOHits.my">
-    <title lang="en">The Angry Birds Movie 2</title>
-    <desc lang="en">When a threat emerges that puts Bird and Pig Islands in danger, Red, Chuck, Bomb and Mighty Eagle recruit Chuck's sister and team up with pigs to forge an unsteady truce to save their homes.</desc>
-    <credits>
-      <director>Thurop Van Orman</director>
-      <actor>Jason Sudeikis</actor>
-      <actor>Josh Gad</actor>
-      <actor>Leslie Jones</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X556969.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240619181500 +0000" stop="20240619203500 +0000" channel="HBOHits.my">
-    <title lang="en">EVERYTHING EVERYWHERE ALL at ONCE</title>
-    <desc lang="en">A hilarious and big-hearted sci-fi action adventure about a Chinese American woman who can't seem to finish her taxes and finds out that she is the key to saving the entire multiverse.</desc>
-    <credits>
-      <director>Daniel Kwan</director>
-      <actor>Michelle Yeoh</actor>
-      <actor>Stephanie Hsu</actor>
-      <actor>Ke Huy Quan</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X673223.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240619203500 +0000" stop="20240619223500 +0000" channel="HBOHits.my">
-    <title lang="en">KANDAHAR</title>
-    <desc lang="en">A CIA agent and his Afghan interpreter evade deadly forces as they escape Iran after a whistleblower reveals the agent destroyed a nuclear facility.</desc>
-    <credits>
-      <director>Ric Roman Waugh</director>
-      <actor>Gerard Butler</actor>
-      <actor>Ali Fazal</actor>
-      <actor>Navid Negahban</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X806866.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240619223500 +0000" stop="20240619230500 +0000" channel="HBOHits.my">
-    <title lang="en">HOLLYWOOD on SET</title>
-    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
-    <credits>
-      <director>Paul Wynne</director>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X517807.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240619230500 +0000" stop="20240620011000 +0000" channel="HBOHits.my">
-    <title lang="en">TRANSFORMERS: RISE OF THE BEASTS</title>
-    <desc lang="en">The Autobots team up with a powerful faction of Transformers known as the Maximals to save Earth.</desc>
-    <credits>
-      <director>Steven Caple, Jr.</director>
-      <actor>Anthony Ramos</actor>
-      <actor>Dominique Fishback</actor>
-      <actor>Michelle Yeoh</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X774928.jpg"/>
-    <rating system="MY">
-      <value>P12</value>
-    </rating>
-  </programme>
   <programme start="20240620011000 +0000" stop="20240620034000 +0000" channel="HBOHits.my">
     <title lang="en">THE DA VINCI CODE</title>
     <desc lang="en">An American professor and a French cryptologist must put their heads together to solve the mystery of an ancient relic and stop a mass murderer.</desc>
@@ -415,6 +213,189 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X792292.jpg"/>
     <rating system="MY">
       <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240621044500 +0000" stop="20240621071000 +0000" channel="HBOHits.my">
+    <title lang="en">THE DA VINCI CODE</title>
+    <desc lang="en">An American professor and a French cryptologist must put their heads together to solve the mystery of an ancient relic and stop a mass murderer.</desc>
+    <credits>
+      <director>Ron Howard</director>
+      <actor>Tom Hanks</actor>
+      <actor>Audrey Tautou</actor>
+      <actor>Jean Reno</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/The-Da-Vinci-Code.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240621071000 +0000" stop="20240621090000 +0000" channel="HBOHits.my">
+    <title lang="en">MISS CONGENIALITY</title>
+    <desc lang="en">A loud-mouth FBI agent goes undercover as a beauty contestant to capture a terrorist in this hilarious action-comedy.</desc>
+    <credits>
+      <director>Ray Prado</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Kimberly Crawford</actor>
+      <actor>Benjamin Bratt</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X205914.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240621090000 +0000" stop="20240621103000 +0000" channel="HBOHits.my">
+    <title lang="en">PAW PATROL: THE MIGHTY MOVIE</title>
+    <desc lang="en">A magical meteor lands in Adventure City and transforms the PAW Patrol pups into The MIGHTY PUPS.</desc>
+    <credits>
+      <director>Cal Brunker</director>
+      <actor>McKenna Grace</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Marsai Martin</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Animation</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X806868.jpg"/>
+    <rating system="MY">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20240621103000 +0000" stop="20240621123000 +0000" channel="HBOHits.my">
+    <title lang="en">BLINDED BY THE LIGHT (2019)</title>
+    <desc lang="en">A British teen of Pakistani descent rebels against parental and cultural expectations with the help of Bruce Springsteen's music.</desc>
+    <credits>
+      <director>Gurinder Chadha</director>
+      <actor>Viveik Kalra</actor>
+      <actor>Kulvinder Ghir</actor>
+      <actor>Meere Ganatra</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X482668.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240621123000 +0000" stop="20240621141500 +0000" channel="HBOHits.my">
+    <title lang="en">R.I.P.D. 2: RISE OF THE DAMNED</title>
+    <desc lang="en">A supernatural action-comedy origin story about how Roy becomes an officer in the Rest In Peace Department (R.I.P.D.).</desc>
+    <credits>
+      <director>Paul Leyden</director>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Penelope Mitchell</actor>
+      <actor>Jake Choi</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X792292.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240621141500 +0000" stop="20240621175000 +0000" channel="HBOHits.my">
+    <title lang="en">Bernard And Doris</title>
+    <desc lang="en">An HBO Original which explores a relationship that took place behind closed doors between a rich heiress and her butler.</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JXEZS.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240621175000 +0000" stop="20240621192000 +0000" channel="HBOHits.my">
+    <title lang="en">Into the Storm</title>
+    <desc lang="en">As the deadly twisters ravage the city of Silverton, storm chasers run towards danger to study the phenomenon.</desc>
+    <credits>
+      <director>Steven Quale</director>
+      <actor>Richard Armitage</actor>
+      <actor>Sarah Wayne Callies</actor>
+      <actor>Matt Walsh</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X1603.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240621192000 +0000" stop="20240621211500 +0000" channel="HBOHits.my">
+    <title lang="en">DAYLIGHT</title>
+    <desc lang="en">Kit Latura, a disgraced emergency services worker, is given his chance at redemption when a New York City commuter tunnel begins to collapse.</desc>
+    <credits>
+      <director>Rob Cohen</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Viggo Mortenson</actor>
+      <actor>Amy Brenneman</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000033X165628.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240621211500 +0000" stop="20240622001000 +0000" channel="HBOHits.my">
+    <title lang="en">MEET JOE BLACK</title>
+    <desc lang="en">The Grim Reaper delays a man's death in exchange for a tour of life. Now in human form, Death's plan hits a snag when he falls for the man's daughter.</desc>
+    <credits>
+      <director>Martin Brest</director>
+      <actor>Brad Pitt</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Claire Forlani</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000150X1022.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240622001000 +0000" stop="20240622014000 +0000" channel="HBOHits.my">
+    <title lang="en">PAW PATROL: THE MIGHTY MOVIE</title>
+    <desc lang="en">A magical meteor lands in Adventure City and transforms the PAW Patrol pups into The MIGHTY PUPS.</desc>
+    <credits>
+      <director>Cal Brunker</director>
+      <actor>McKenna Grace</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Marsai Martin</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Animation</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X806868.jpg"/>
+    <rating system="MY">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20240622014000 +0000" stop="20240622021000 +0000" channel="HBOHits.my">
+    <title lang="en">HOLLYWOOD on SET</title>
+    <desc lang="en">Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+    <credits>
+      <director>Paul Wynne</director>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X517807.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240622021000 +0000" stop="20240622040000 +0000" channel="HBOHits.my">
+    <title lang="en">MISS CONGENIALITY</title>
+    <desc lang="en">A loud-mouth FBI agent goes undercover as a beauty contestant to capture a terrorist in this hilarious action-comedy.</desc>
+    <credits>
+      <director>Ray Prado</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Kimberly Crawford</actor>
+      <actor>Benjamin Bratt</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X205914.jpg"/>
+    <rating system="MY">
+      <value>18</value>
     </rating>
   </programme>
 </tv>
