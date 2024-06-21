@@ -3,166 +3,6 @@
   <channel id="HBOHD.my">
     <display-name lang="en">HBO 🄼</display-name>
   </channel>
-  <programme start="20240620011000 +0000" stop="20240620024000 +0000" channel="HBOHD.my">
-    <title lang="en">Bee Movie</title>
-    <desc lang="en">Disillusioned with making honey, Barry the Bee, voiced by Jerry Seinfeld, takes a trip out of the hive to discover a world of possibilities out there.</desc>
-    <credits>
-      <director>Steven Hickner</director>
-      <actor>Jerry Seinfeld</actor>
-      <actor>Renee Zellweger</actor>
-      <actor>Matthew Broderick</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000151X29588.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20240620024000 +0000" stop="20240620045500 +0000" channel="HBOHD.my">
-    <title lang="en">UNBROKEN</title>
-    <desc lang="en">Directed by Angelina Jolie, the movie tells the incredible story of Louis Zamperini, who survived on a raft in the ocean for 47 days.</desc>
-    <credits>
-      <director>Angelina Jolie</director>
-      <actor>Jack O'Connell</actor>
-      <actor>Domhnall Gleeson</actor>
-      <actor>Garrett Hedlund</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X32676.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240620045500 +0000" stop="20240620064000 +0000" channel="HBOHD.my">
-    <title lang="en">I AM LEGEND</title>
-    <desc lang="en">A lone survivor in New York fights a horde of mutant humans as he tries to find a cure for the deadly virus that has decimated humanity.</desc>
-    <credits>
-      <director>Francis Lawrence</director>
-      <actor>Will Smith</actor>
-      <actor>Alice Braga</actor>
-      <actor>Charlie Tahan</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X571506.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240620064000 +0000" stop="20240620082000 +0000" channel="HBOHD.my">
-    <title lang="en">80 for Brady</title>
-    <desc lang="en">Inspired by the true story of four pals living life to the fullest when they take a wild trip to the 2017 Super Bowl LI to see Tom Brady play.</desc>
-    <credits>
-      <director>Kyle Marvin</director>
-      <actor>Lily Tomlin</actor>
-      <actor>Jane Fonda</actor>
-      <actor>Rita Moreno</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X766806.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240620082000 +0000" stop="20240620112000 +0000" channel="HBOHD.my">
-    <title lang="en">LOTR: The Two Towers</title>
-    <desc lang="en">In their parallel journeys, the Fellowship will stand against the powerful forces spreading from the Two Towers.</desc>
-    <credits>
-      <director>Peter Jackson</director>
-      <actor>Elijah Wood</actor>
-      <actor>Viggo Mortensen</actor>
-      <actor>Ian McKellen</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Family</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X157807.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240620112000 +0000" stop="20240620130000 +0000" channel="HBOHD.my">
-    <title lang="en">Faster</title>
-    <desc lang="en">An ex-con sets out to avenge his brother's death after they were double-crossed during a heist years ago.</desc>
-    <credits>
-      <director>, Jr.</director>
-      <actor>Dwayne "the Rock" Johnson</actor>
-      <actor>Billy Bob Thornton</actor>
-      <actor>Carla Gugino</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000150X34179.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240620130000 +0000" stop="20240620150500 +0000" channel="HBOHD.my">
-    <title lang="en">CHAMPIONS</title>
-    <desc lang="en">The journey of a former minor-league basketball coach who, after a series of mishaps, is ordered by court to coach a Special Olympics team.</desc>
-    <credits>
-      <director>Bobby Farrelly</director>
-      <actor>Woody Harrelson</actor>
-      <actor>Kaitlin Olson</actor>
-      <actor>Matt Cook</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X787074.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240620150500 +0000" stop="20240620210000 +0000" channel="HBOHD.my">
-    <title lang="en">LOTR: THE RETURN OF THE KING</title>
-    <desc lang="en">The fate of Middle Earth draws to a close in this long-awaited final chapter of the epic trilogy.</desc>
-    <credits>
-      <director>Peter Jackson</director>
-      <actor>Elijah Wood</actor>
-      <actor>Viggo Mortensen</actor>
-      <actor>Orlando Bloom</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X159509.jpg"/>
-    <rating system="MY">
-      <value>P12</value>
-    </rating>
-  </programme>
-  <programme start="20240620210000 +0000" stop="20240620222500 +0000" channel="HBOHD.my">
-    <title lang="en">MUST LOVE CHRISTMAS</title>
-    <desc lang="en">A renowned romance novelist famous becomes involved in a love triangle between her childhood crush and a reporter.</desc>
-    <credits>
-      <director>Martin Wood</director>
-      <actor>Liza Lapira</actor>
-      <actor>Neal Bledsoe</actor>
-      <actor>Nathan Witte</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Romance</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X799825.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240620222500 +0000" stop="20240621000000 +0000" channel="HBOHD.my">
-    <title lang="en">Bee Movie</title>
-    <desc lang="en">Disillusioned with making honey, Barry the Bee, voiced by Jerry Seinfeld, takes a trip out of the hive to discover a world of possibilities out there.</desc>
-    <credits>
-      <director>Steven Hickner</director>
-      <actor>Jerry Seinfeld</actor>
-      <actor>Renee Zellweger</actor>
-      <actor>Matthew Broderick</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000151X29588.jpg"/>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20240621000000 +0000" stop="20240621014000 +0000" channel="HBOHD.my">
     <title lang="en">80 for Brady</title>
     <desc lang="en">Inspired by the true story of four pals living life to the fullest when they take a wild trip to the 2017 Super Bowl LI to see Tom Brady play.</desc>
@@ -382,6 +222,198 @@
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000043X67007.jpg"/>
     <rating system="MY">
       <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240622043000 +0000" stop="20240622063500 +0000" channel="HBOHD.my">
+    <title lang="en">Mission: Impossible II</title>
+    <desc lang="en">Tom Cruise returns to his role as Ethan Hunt in the second installment of MISSION: IMPOSSIBLE.</desc>
+    <credits>
+      <director>John Woo</director>
+      <actor>Tom Cruise</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Ving Rhames</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X35860.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240622063500 +0000" stop="20240622090500 +0000" channel="HBOHD.my">
+    <title lang="en">WONDER WOMAN 1984</title>
+    <desc lang="en">Wonder Woman squares off against the Cheetah, a villainess who possesses superhuman strength and agility.</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <actor>Gal Gadot</actor>
+      <actor>Chris Pine</actor>
+      <actor>Kristen Wiig</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X588701.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240622090500 +0000" stop="20240622104000 +0000" channel="HBOHD.my">
+    <title lang="en">THE SUPER MARIO BROS. MOVIE</title>
+    <desc lang="en">The adventure about a mustachioed plumber Mario and his lanky brother, Luigi, in their quest to save Princess Peach from villain Bowser.</desc>
+    <credits>
+      <director>Aaron Horvath</director>
+      <actor>Chris Pratt</actor>
+      <actor>Anya Taylor Joy</actor>
+      <actor>Charlie Day</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Animation</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X778980.jpg"/>
+    <rating system="MY">
+      <value>P12</value>
+    </rating>
+  </programme>
+  <programme start="20240622104000 +0000" stop="20240622130000 +0000" channel="HBOHD.my">
+    <title lang="en">FAST X</title>
+    <desc lang="en">Dom Toretto and his family confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past.</desc>
+    <credits>
+      <director>Louis Leterrier</director>
+      <actor>Vin Diesel</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Tyrese Gibson</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X787076.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240622130000 +0000" stop="20240622150000 +0000" channel="HBOHD.my">
+    <title lang="en">THE LAST VOYAGE OF THE DEMETER</title>
+    <desc lang="en">Strange events befall on the doomed crew of the merchant ship Demeter, stalked each night by a merciless presence that causes their numbers to dwindle night after night.</desc>
+    <credits>
+      <director>Andr Vredal</director>
+      <actor>Corey Hawkins</actor>
+      <actor>Aisling Franciosi</actor>
+      <actor>Liam Cunningham</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X814165.jpg"/>
+    <rating system="MY">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20240622150000 +0000" stop="20240622181000 +0000" channel="HBOHD.my">
+    <title lang="en">HOUSE OF THE DRAGON</title>
+    <desc lang="en">Westeros is on the brink of a bloody civil war with the Green and Black Councils fighting for King Aegon and Queen Rhaenyra, respectively.</desc>
+    <credits>
+      <actor>Emma D'arcy</actor>
+      <actor>Matt Smith</actor>
+      <actor>Fabien Frankel</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X814160.jpg"/>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240622181000 +0000" stop="20240622201000 +0000" channel="HBOHD.my">
+    <title lang="en">The Social Network</title>
+    <desc lang="en">This film focuses on the evolution of Facebook, and how overnight success and wealth changed the lives of the classmates who created it.</desc>
+    <credits>
+      <director>David Fincher</director>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Andrew Garfield</actor>
+      <actor>Justin Timberlake</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X458969.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240622201000 +0000" stop="20240622214000 +0000" channel="HBOHD.my">
+    <title lang="en">MARCEL THE SHELL WITH SHOES ON</title>
+    <desc lang="en">Marcel, an adorable sea snail who lives alone with his grandmother, seeks to find his lost community with the help of a documentary filmmaker.</desc>
+    <credits>
+      <director>Dean Fleischer Camp</director>
+      <actor>Jenny Slate</actor>
+      <actor>Rosa Salazar</actor>
+      <actor>Thomas Mann</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Animation</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X787078.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240622214000 +0000" stop="20240622233500 +0000" channel="HBOHD.my">
+    <title lang="en">A THOUSAND AND ONE</title>
+    <desc lang="en">Convinced that she has one last shot on the path to redemption, Ines kidnaps six-year-old Terry from the foster care system.</desc>
+    <credits>
+      <director>A.v. Rockwell</director>
+      <actor>Teyana Taylor</actor>
+      <actor>Aaron Kingsley Adetola</actor>
+      <actor>Aven Courtney</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X792298.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240622233500 +0000" stop="20240623005500 +0000" channel="HBOHD.my">
+    <title lang="en">A Waltons' Thanksgiving</title>
+    <desc lang="en">The Walton family prepares for the Harvest Festival Fair in town. But this year, a young boy arrives that will dramatically change the Waltons' lives.</desc>
+    <credits>
+      <director>Joe Lazarov</director>
+      <actor>Bellamy Young</actor>
+      <actor>Logan Shroyer</actor>
+      <actor>Teddy Sears</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Family</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X766808.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240623005500 +0000" stop="20240623022500 +0000" channel="HBOHD.my">
+    <title lang="en">Minions</title>
+    <desc lang="en">Follow the minion trio as they venture out into the world to find a new evil boss for their brethren to follow.</desc>
+    <credits>
+      <director>Pierre Coffin</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Michael Keaton</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000043X67007.jpg"/>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20240623022500 +0000" stop="20240623041000 +0000" channel="HBOHD.my">
+    <title lang="en">THE LEGO BATMAN MOVIE</title>
+    <desc lang="en">Big changes are brewing in Gotham City and lone vigilante Batman may have to try to work with others to save the city from The Joker.</desc>
+    <credits>
+      <director>Chris McKay</director>
+      <actor>Will Arnett</actor>
+      <actor>Michael Cera</actor>
+      <actor>Rosario Dawson</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X243993.jpg"/>
+    <rating system="MY">
+      <value>13</value>
     </rating>
   </programme>
 </tv>
