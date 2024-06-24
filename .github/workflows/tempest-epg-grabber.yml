@@ -1,0 +1,40 @@
+name: tempest-epg-grabber
+
+on:
+  schedule:
+    - cron: '30 0 * * *'   # Runs at 06:00 AM IST
+  workflow_dispatch: # Allows manual triggering
+  
+jobs:
+  php-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Git identity
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        
+    - name: Make the script executable
+      run: chmod +x epg.sh
+
+    - name: Setup PHP with PECL extension
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.3'
+        extensions: imagick, swoole
+        
+    - name: Run Tempest script
+      run: ./epg.sh
+      
+    - name: Pull latest
+      run: |
+        git pull
+    
+    - name: Commit updated epg.xml
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Automated EPG

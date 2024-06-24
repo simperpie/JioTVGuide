@@ -1,0 +1,31 @@
+name: push-merged-epg-files
+
+on:
+  workflow_run:
+    workflows: ["merge-epg-files"]
+    types:
+      - completed   
+  workflow_dispatch:
+  
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Prepare destination repository
+      run: |
+        git clone https://x-access-token:${{ secrets.Push_File }}@github.com/simperpie/simperpie.github.io.git
+        cd simperpie.github.io
+    - name: Copy files
+      run: cp epg.xml.gz simperpie.github.io/
+
+    - name: Commit and push changes
+      run: |
+        cd simperpie.github.io
+        git config user.name "simperpie"
+        git config user.email "91105635+simperpie@users.noreply.github.com"
+        git add epg
+        git commit -m "Updated epg link"
+        git push
