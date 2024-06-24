@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="TNTSports3HD.uk">
+    <display-name lang="en">TNT Sports 3 HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb3629.png"/>
+  </channel>
+  <programme start="20240623210000 +0000" stop="20240623220000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Story of the Champions Cup</title>
+    <desc lang="en">We look back at the story of the 2023/24 Investec Champions Cup. The season would culminate in a thrilling final between two European powerhouses.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5f64fda2-4d88-3d50-8d3a-408928f076ef/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240623220000 +0000" stop="20240624000000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Ultimate Pool action from session one of the WEPF World Team Shootout.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1f4bfd0a-45bd-3fd9-9527-3cf086a95250/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624000000 +0000" stop="20240624020000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Ultimate Pool action from session two of the WEPF World Team Shootout.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fa471491-4ff1-303b-92d2-82fef628f68f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624020000 +0000" stop="20240624030000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">PSA Squash: World Tour Finals</title>
+    <desc lang="en">Action from the PSA World Tour Finals at the Hidden Valley Fieldhouse in Bellevue, Washington.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/41d4f187-52b5-32e6-85ff-d5b4d822f083/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624030000 +0000" stop="20240624050000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Badminton: Australia Open</title>
+    <desc lang="en">Badminton action from the Australia Open finals, part of the HSBC BWF World Tour.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/96ebebf7-7cc4-3f64-9fe8-34a0b332432f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624050000 +0000" stop="20240624070000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">AFL: Carlton v Geelong Cats</title>
+    <desc lang="en">Action from the Australian Football League as Carlton face Geelong Cats at the MCG.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a7e665a8-ebfd-36d8-ba5d-33b8234b89c3/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624070000 +0000" stop="20240624090000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">AFL: Port Adelaide v Brisbane L</title>
+    <desc lang="en">Action from the Australian Football League as Port Adelaide and Brisbane Lions go head-to-head at Adelaide Oval.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d9fb1f02-71cd-3a85-8732-4069b24ca832/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624090000 +0000" stop="20240624110000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">AFL: GWS Giants v Sydney Swans</title>
+    <desc lang="en">Action from the Australian Football League as GWS Giants take on Sydney Swans at ENGIE Stadium.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f9b64ce2-d28d-3a6d-b629-18752231f1c3/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624110000 +0000" stop="20240624113000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Classic Premier League</title>
+    <desc lang="en">A look back at the 2005/06 clash between Manchester City and Manchester United at the Etihad Stadium. United star Cristiano Ronaldo saw red in this tense derby.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/31a41567-7397-31ad-8530-ea7760125e78/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624113000 +0000" stop="20240624120000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Classic Premier League</title>
+    <desc lang="en">Revisit the classic 2005/06 Premier League clash between Arsenal and West Ham United. Nigel Reo-Coker gave the visitors a shock lead.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a0101e1a-39f1-3916-afbb-934bb59df515/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624120000 +0000" stop="20240624123000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Classic Premier League</title>
+    <desc lang="en">A look back at the thrilling match between Sheffield United and Arsenal from the 2006/07 season. Defender Phil Jagielka would end the game in goal for the hosts.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c41ab70-788c-3bf5-8227-c4d26e33a79d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624123000 +0000" stop="20240624130000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Classic Premier League</title>
+    <desc lang="en">We rewind to this classic from 2006/07 as Tottenham Hotspur faced Newcastle United at White Hart Lane. Two quickfire goals for Newcastle turned the tie on it's head in this 5-goal thriller.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b9e46c09-060e-3eca-b225-dd139621df03/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624130000 +0000" stop="20240624133000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Classic Premier League</title>
+    <desc lang="en">We revisit the end of season clash at Old Trafford between Manchester United and West Ham United from 2006/07. In this high-stakes match, West Ham needed to win to avoid relegation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5c7d388f-139c-3b37-b589-28e56aeea77d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624133000 +0000" stop="20240624140000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Classic Premier League</title>
+    <desc lang="en">Relive this classic Premier League clash between Tottenham and Aston Villa at White Hart Lane. The visitors led 4-1 after 60 minutes but Tottenham staged a remarkable comeback.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8f7e15d0-accc-315e-885e-cf2d25f7d614/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624140000 +0000" stop="20240624143000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Classic Premier League</title>
+    <desc lang="en">Relive this classic Premier League clash between Burnley and Manchester United at Turf Moor. Burnley's first ever Premier League home game would be a memorable one.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a7b4f919-d1a6-3061-b655-9f84be5ca0a7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624143000 +0000" stop="20240624150000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">What I Wore: Paul Scholes</title>
+    <desc lang="en">Manchester United legend Paul Scholes describes his passion for football via the shirts which have defined his life.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f89e1588-a9d9-49aa-8018-de32b01d97a2/16-9"/>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624150000 +0000" stop="20240624153000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Brighton v AEK Athens</title>
+    <desc lang="en">Action from the UEFA Europa League as Brighton host AEK Athens at American Express Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/93603945-6a02-3199-9313-86929bc137b5/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624153000 +0000" stop="20240624160000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Marseille v Brighton</title>
+    <desc lang="en">Action from the UEFA Europa League as Marseille face Brighton at Orange Velodrome.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/04ca53ee-fb12-3396-b751-60ae9ce14536/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624160000 +0000" stop="20240624163000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Brighton v Ajax</title>
+    <desc lang="en">Action from the UEFA Europa League as Brighton host Ajax at American Express Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0f7b0e1c-9f04-367e-ab02-0bc8538eaf95/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624163000 +0000" stop="20240624170000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Ajax v Brighton</title>
+    <desc lang="en">Action from the UEFA Europa League as Ajax face Brighton at Johan Cruyff Arena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7613ca22-ff3e-30b6-8c96-33a05cfabe6f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624170000 +0000" stop="20240624173000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">AEK Athens v Brighton</title>
+    <desc lang="en">Action from the UEFA Europa League as AEK Athens meet Brighton at OPAP Arena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a894fa20-c75f-3c64-944e-cfe0d532c3ee/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624173000 +0000" stop="20240624180000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Brighton v Marseille</title>
+    <desc lang="en">Action from the UEFA Europa League as Brighton face Marseille at American Express Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5a7e835-e526-3566-bf35-e9d1c417e07f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624180000 +0000" stop="20240624183000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Roma v Brighton</title>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Roma meet Brighton at Stadio Olimpico.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f324bdfc-ce50-32d5-ba40-0a79d32659f8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624183000 +0000" stop="20240624190000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Brighton v Roma</title>
+    <desc lang="en">Action from the UEFA Europa League Round of 16 as Brighton welcome Roma to the Amex Stadium. Can Brighton fight back after suffering a 4-0 defeat in the first leg?</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/35d42a18-e9b0-3342-889f-e6901f12aa06/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624190000 +0000" stop="20240624200000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">World Rugby SEVENS Repechage</title>
+    <desc lang="en">Action from the Men's and Women's Final of the World Rugby SEVENS Repechage. Who will claim a spot at the 2024 Olympic Games in Paris?</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c72319b9-c6ba-36ee-ac99-6ce8db04fb07/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240624200000 +0000" stop="20240624210000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Fishing: On The Bank - 2023</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring action from the Cornish Lure Fishing Festival 2023.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fe6b557e-9af6-3a03-8dd3-c780e5377cb3/16-9"/>
+    <episode-num system="xmltv_ns">22.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624210000 +0000" stop="20240624220000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Men's Hockey: GER v GBR</title>
+    <desc lang="en">Action from the Men's FIH Hockey Pro League as Germany face Great Britain at SV Kampong in Utrecht.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/09ae67ee-204e-35c4-949d-8b81a7b914f3/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624220000 +0000" stop="20240624230000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Women's Hockey: GBR v GER</title>
+    <desc lang="en">Action from the Women's FIH Hockey Pro League as Great Britain face Germany at SV Kampong in Utrecht.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d307aa13-36c3-3678-b834-60ba897deecf/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240624230000 +0000" stop="20240625000000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Women's Hockey: NED v BEL</title>
+    <desc lang="en">Action from the Women's FIH Hockey Pro League as Netherlands meet Belgium at SV Kampong in Utrecht.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fdfae6c2-9c00-32c2-a630-71fb86536bc8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625000000 +0000" stop="20240625030000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">UFC Fight Night</title>
+    <desc lang="en">Action from UFC Fight Night at Kingdom Arena in Riyadh, Saudi Arabia. Middleweights Robert Whittaker and Ikram Aliskerov face-off in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3fe32da7-2512-34e9-843a-651717fc62c1/16-9"/>
+    <episode-num system="xmltv_ns">2023.44.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625030000 +0000" stop="20240625033000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Fight Week: UFC 303 Preview Show</title>
+    <desc lang="en">Adam Catterall, Nick Peet and Michael Bisping look ahead to a huge night of action at UFC 303 as Alex Pereira defends his light heavyweight title against Jiri Prochazka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3b4e2e80-dfbf-3827-8349-4f6033637748/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625033000 +0000" stop="20240625034500 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Crouchy and Cole: The Brabazon</title>
+    <desc lang="en">Joe Cole and Peter Crouch take on the Brabazon golf course at the Belfry Hotel and Resort. From Ancelotti to Mourinho, the lads discuss the best managers they have played under.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a70828a2-c385-375c-8bf8-1be49c55aafe/16-9"/>
+    <episode-num system="xmltv_ns">22.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625034500 +0000" stop="20240625041500 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Gallagher Premiership Rugby</title>
+    <desc lang="en">A look back at the best tries from the 2023/24 Gallagher Premiership Rugby season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/03de9aca-021e-3acb-8dd5-1940c483451f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625041500 +0000" stop="20240625043000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">TNT Sports Goals Reload</title>
+    <desc lang="en">We take a look at the best goals from the 2023/24 French Ligue 1 season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aa046484-e8d6-3757-a5dc-1f4988490eac/16-9"/>
+    <episode-num system="xmltv_ns">22.39.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625043000 +0000" stop="20240625050000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">NBA On Fire</title>
+    <desc lang="en">The latest episode of NBA On Fire.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8f955a9c-b181-31f2-931b-c776fc6af3da/16-9"/>
+    <episode-num system="xmltv_ns">22.33.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625050000 +0000" stop="20240625070000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">AFL: Melbourne v North Melbourne</title>
+    <desc lang="en">Action from the Australian Football League as Melbourne face rivals North Melbourne at the MCG.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c1f6d009-45f8-3e27-a953-51aeca9c8086/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625070000 +0000" stop="20240625090000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">AFL: Essendon v West Coast Eagles</title>
+    <desc lang="en">Action from the Australian Football League as Essendon and West Coast Eagles face-off at Marvel Stadium in Melbourne.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a6669ac2-1560-32f0-a1d2-8f1e3d5e6ecf/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625090000 +0000" stop="20240625110000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">AFL: Fremantle v Gold Coast Suns</title>
+    <desc lang="en">Action from the Australian Football League as Fremantle take on Gold Coast Suns at Optus Stadium in Perth.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9280e853-4f27-3306-8466-29636293f416/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625110000 +0000" stop="20240625123000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Story of the Premiership</title>
+    <desc lang="en">A special look back at the story of the 2023/24 Gallagher Premiership Rugby season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d60187fe-f3d8-3796-a707-89cebc7ee588/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625123000 +0000" stop="20240625130000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Gallagher Premiership Rugby</title>
+    <desc lang="en">A look back at the best tries from the 2023/24 Gallagher Premiership Rugby season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/03de9aca-021e-3acb-8dd5-1940c483451f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625130000 +0000" stop="20240625134500 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <desc lang="en">Action from the Junior GP Race 1 in Algarve, part of the FIM JuniorGP Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a43ca9dd-2c04-3e55-aee5-e0b1e7ac2b5c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625134500 +0000" stop="20240625143000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <desc lang="en">Action from the Moto2 Race 1 in Algarve, part of the FIM JuniorGP Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9d1257ec-dabc-382a-83aa-e965bb7b616c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625143000 +0000" stop="20240625151500 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <desc lang="en">Action from ETC Race in Algarve, part of the FIM JuniorGP Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cd668c61-cbb1-3c4e-8331-fc4e79e105c7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625151500 +0000" stop="20240625160000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <desc lang="en">Action from the Junior GP Race 2 in Algarve, part of the FIM JuniorGP Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/599c89b5-e647-38db-b52f-76310b15717d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625160000 +0000" stop="20240625164500 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <desc lang="en">Action from the Moto2 Race 2 in Algarve, part of the FIM JuniorGP Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f03f143b-b432-3695-aa6d-beca3c5c5d8d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625164500 +0000" stop="20240625173000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">FIM JuniorGP Championship</title>
+    <desc lang="en">Action from the Moto2 Stock class of the FIM JuniorGP Championship in Algarve.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd00a5fe-204c-37d6-b018-531b6d314840/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625173000 +0000" stop="20240625180000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">The WRC Magazine</title>
+    <desc lang="en">The latest news and action from the World Rally Championship and Rally Poland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7c1e42ab-6cd0-3e9b-a9cd-1de0c689b6bf/16-9"/>
+    <episode-num system="xmltv_ns">23.6.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625180000 +0000" stop="20240625190000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">V8 Supercars Highlights</title>
+    <desc lang="en">Highlights from the Betr Darwin Triple Crown and race 11 of the V8 Supercars Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/026611e2-27b2-3a49-ba30-a3c25d4eaa96/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625190000 +0000" stop="20240625200000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">V8 Supercars Highlights</title>
+    <desc lang="en">Highlights from the Betr Darwin Triple Crown and race 12 of the V8 Supercars Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9f8f9f3f-2b2a-30ac-b7e2-9aeea1a7630e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625200000 +0000" stop="20240625203000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Fight Week: UFC 303 Preview Show</title>
+    <desc lang="en">Adam Catterall, Nick Peet and Michael Bisping look ahead to a huge night of action at UFC 303 as Alex Pereira defends his light heavyweight title against Jiri Prochazka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3b4e2e80-dfbf-3827-8349-4f6033637748/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625203000 +0000" stop="20240625233000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">UFC Fight Night</title>
+    <desc lang="en">Action from UFC Fight Night at Kingdom Arena in Riyadh, Saudi Arabia. Middleweights Robert Whittaker and Ikram Aliskerov face-off in the main event.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3fe32da7-2512-34e9-843a-651717fc62c1/16-9"/>
+    <episode-num system="xmltv_ns">2023.44.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+</tv>
