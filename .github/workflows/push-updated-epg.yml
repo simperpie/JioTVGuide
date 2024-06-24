@@ -26,6 +26,6 @@ jobs:
         cd simperpie.github.io
         git config user.name "simperpie"
         git config user.email "91105635+simperpie@users.noreply.github.com"
-        git add epg
+        git add epg.xml.gz
         git commit -m "Updated epg link"
         git push
