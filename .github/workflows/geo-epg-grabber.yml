@@ -28,7 +28,7 @@ jobs:
       - name: Get EPG Data
         run: python epg.py epg.xml.gz
    
-       - name: Rename epg.xml.gz to geo.xml.gz
+      - name: Rename epg.xml.gz to geo.xml.gz
         run: mv epg.xml.gz geo.xml.gz
       
       - name: Move geo.xml.gz to another folder
