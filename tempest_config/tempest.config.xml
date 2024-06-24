@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Tempest EPG Generator (made by Kvanc) -->
 <configuration>
-  <filename>simper_original.xml</filename>
+  <filename>tempest_original.xml</filename>
   <user-agent/>
   <logger>on</logger>
   <retry>2</retry>
@@ -15,10 +15,14 @@
   <delay channel="" index="" detail=""/>
   <channel-lister>on</channel-lister>
   <inverter>on</inverter>
-  <inverter-filename>simper.xml</inverter-filename>
+  <inverter-filename>tempest.xml</inverter-filename>
   <inverter-path>["desc":"##subtitle##","##desc##": #rating##"]["subtitle":||#delete#]["episode":||#delete#]["category":||#delete#]["actor":||#delete#]["director":||#delete#]["date":||#delete#]["country":||#delete#]["rating":||#delete#]["colour":||#delete#]["aspect":||#delete#]["quality":||#delete#]["producer":||#delete#]["writer":||#delete#]["rating":||#delete#]["keyword":||#delete#]["star-rating":||#delete#]["language":||#delete#]</inverter-path>
-  <logname>simper.log</logname>
+  <logname>tempest.log</logname>
   <channel site="[ENC][EX]singtel.com_0" site_id="6421" xmltv_id="HBOSignatureHD.my">HBO Signature 🄼</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|3625" xmltv_id="TNTSports1HD.uk">TNT Sports 1 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|3627" xmltv_id="TNTSports2HD.uk">TNT Sports 2 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|3629" xmltv_id="TNTSports3HD.uk">TNT Sports 3 HD</channel>
+  <channel site="[ENC][EX]sky.com_0" site_id="4101-19|##|4040" xmltv_id="TNTSports4HD.uk">TNT Sports 4 HD</channel>  
   <channel site="[ENC][EX]tataplay.com_0" site_id="8" xmltv_id="STARPlusHD.in">STAR Plus HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="244" xmltv_id="StarBharatHD.in">Star Bharat HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="15" xmltv_id="SETHD.in">SET HD</channel>
@@ -26,7 +30,7 @@
   <channel site="[ENC][EX]tataplay.com_0" site_id="40" xmltv_id="&amp;tvHD.in">&amp;tv HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="63" xmltv_id="ZeeTVHD.in">Zee TV HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="52" xmltv_id="ColorsHD.in">Colors HD</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="633" xmltv_id="InvestigationDiscovery.in">Investigation Discovery</channel>
+  <channel site="[ENC][EX]tataplay.com_0" site_id="1276" xmltv_id="InvestigationDiscoveryHD.in">Investigation Discovery HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="438" xmltv_id="ColorsRishtey.in">Colors Rishtey</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="554" xmltv_id="SonyPal.in">Sony Pal</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="1184" xmltv_id="NAZARA.in">NAZARA</channel>
@@ -90,6 +94,7 @@
   <channel site="[ENC][EX]tataplay.com_0" site_id="93" xmltv_id="NDTVProfit.in">NDTV Profit</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="79" xmltv_id="News18UttarPradeshUttarakhand.in">News18 Uttar Pradesh Uttarakhand</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="613" xmltv_id="NewsState.in">News State</channel>
+  <channel site="[ENC][EX]tataplay.com_0" site_id="1267" xmltv_id="HNNNews.in">HNN News</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="637" xmltv_id="ZeeUttarPradeshUttarakhand.in">Zee Uttar Pradesh Uttarakhand</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="587" xmltv_id="SuperHungama.in">Super Hungama</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="114" xmltv_id="Disney.in">Disney</channel>
@@ -110,8 +115,9 @@
   <channel site="[ENC][EX]tataplay.com_0" site_id="287" xmltv_id="AnimalPlanetHDWorld.in">Animal Planet HD World</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="616" xmltv_id="HistoryTV18HD.in">History TV18 HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="460" xmltv_id="SONYBBCEarthHD.in">SONY BBC Earth HD</channel>
+  <channel site="[ENC][EX]tataplay.com_0" site_id="923" xmltv_id="TravelXP4KHDR.in">TravelXP 4K HDR</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="126" xmltv_id="EPIC.in">EPIC</channel>
-  <channel site="[ENC][EX]tataplay.com_0" site_id="367" xmltv_id="FOXLifeHD.in">FOX Life HD</channel>
+  <channel site="[ENC][EX]tataplay.com_0" site_id="367" xmltv_id="StarLifeHD.in">Star Life HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="480" xmltv_id="TLCHD.in">TLC HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="484" xmltv_id="TravelxpHD.in">Travelxp HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="382" xmltv_id="ZeeZestHD.in">Zee Zest HD</channel>
@@ -120,6 +126,7 @@
   <channel site="[ENC][EX]tataplay.com_0" site_id="405" xmltv_id="MTVBeatsHD.in">MTV Beats HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="39" xmltv_id="9XJalwa.in">9X Jalwa</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="733" xmltv_id="Showbox.in">Showbox</channel>
+  <channel site="[ENC][EX]tataplay.com_0" site_id="539" xmltv_id="VH1HD.in">VH1 HD</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="38" xmltv_id="Aastha.in">Aastha</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="43" xmltv_id="Sanskar.in">Sanskar</channel>
   <channel site="[ENC][EX]tataplay.com_0" site_id="456" xmltv_id="SatsangTV.in">Satsang TV</channel>
@@ -142,6 +149,10 @@
   <channel site="astro.afqad_0" site_id="HBOHits" xmltv_id="HBOHits.my">HBO Hits 🄼</channel>
   <channel site="astro.afqad_0" site_id="AXN" xmltv_id="AXNHD.my">AXN 🄼</channel>
   <channel site="astro.afqad_0" site_id="WarnerTV" xmltv_id="WarnerTVHD.my">Warner TV 🄼</channel>
+  <channel site="astro.afqad_0" site_id="W-Sport" xmltv_id="W-Sport.my">W-Sport 🄼</channel>
+  <channel site="astro.afqad_0" site_id="Eurosport" xmltv_id="Eurosport.my">Eurosport 🄼</channel>
+  <channel site="astro.afqad_0" site_id="WWENetwork" xmltv_id="WWENetwork.my">WWE Network 🄼</channel>
+  <channel site="astro.afqad_0" site_id="PremierSports" xmltv_id="PremierSports.my">Premier Sports 🄼</channel>
   <channel site="astro.afqad_0" site_id="AstroCricket" xmltv_id="AstroCricketHD.my">Astro Cricket 🄼</channel>
   <channel site="jiotv.simper_0" site_id="732" xmltv_id="9XTashan.in">9X Tashan</channel>
   <channel site="jiotv.simper_0" site_id="887" xmltv_id="SwarShree.in">Swar Shree</channel>
