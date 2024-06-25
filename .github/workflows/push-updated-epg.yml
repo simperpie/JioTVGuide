@@ -24,8 +24,8 @@ jobs:
     - name: Commit and push changes
       run: |
         cd simperpie.github.io
-        git config user.name "simperpie"
-        git config user.email "91105635+simperpie@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         git add epg.xml.gz
         git commit -m "Updated epg link"
         git push
