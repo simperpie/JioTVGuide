@@ -4,396 +4,6 @@
     <display-name lang="en">TNT Sports 1 HD</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb3625.png"/>
   </channel>
-  <programme start="20240623210000 +0000" stop="20240623220000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Men's Hockey: GBR v BEL</title>
-    <desc lang="en">Action from the Men's FIH Hockey Pro League as Great Britain and Belgium face-off at SV Kampong in Utrecht.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f1011ebb-39ee-39b7-887a-1833651e288e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240623220000 +0000" stop="20240623230000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Men's Hockey: NED v GER</title>
-    <desc lang="en">Action from the Men's FIH Hockey Pro League as Netherlands and Germany meet at SV Kampong in Utrecht.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/31a68a87-06f0-3fc2-932f-cc0885a287e2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240623230000 +0000" stop="20240624021500 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Live MLB: Mets @ Cubs</title>
-    <desc lang="en">Action from Major League Baseball as New York Mets face Chicago Cubs at Wrigley Field.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1a0bcf80-232e-3ea9-80d3-4e50ef1cc554/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624021500 +0000" stop="20240624024500 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1ec28811-63c7-3dc1-9548-797667781780/16-9"/>
-    <episode-num system="xmltv_ns">2023.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624024500 +0000" stop="20240624030000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">What I Wore: Andy Robertson</title>
-    <desc lang="en">Liverpool and Scotland defender Andy Robertson describes his passion for football via the shirts which have defined his life.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7deacdb4-6765-3d25-8272-03036b989d48/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624030000 +0000" stop="20240624033000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Lyon v Paris Saint-Germain 2011/12</title>
-    <desc lang="en">Look back at the classic eight-goal thriller between Lyon and Paris Saint-Germain in the 2011/12 French Ligue 1 season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/23d97f38-d179-3159-85b6-92b918933d9c/16-9"/>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624033000 +0000" stop="20240624040000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">PSG v Montpellier 2011/12</title>
-    <desc lang="en">Look back at the match that ultimately deciphered Montpellier as the 2011/12 French Ligue 1 champions, as they held title rivals Paris Saint-Germain to a 2-2 draw.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1d5a9ee5-fb6d-40e0-bdd9-c01d0c9776af/16-9"/>
-    <episode-num system="xmltv_ns">2019.7.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624040000 +0000" stop="20240624043000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Marseille v PSG 2012/13</title>
-    <desc lang="en">Classic Ligue 1 action from the 2012/13 season as Marseille hosted PSG, featuring an unbelievable Zlatan Ibrahimovic free-kick.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fd9b9380-6404-3a9f-acf8-b4ba13335111/16-9"/>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624043000 +0000" stop="20240624050000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">PSG v Brest 2012/13</title>
-    <desc lang="en">Paris Saint-Germain's penultimate game of the 2012/13 season saw the French giants seal a 3-1 win over the visitors, thanks to a sublime Zlatan Ibrahimovic free-kick.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/96666559-6a6c-3a1b-a609-71d5ea93bdcf/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624050000 +0000" stop="20240624054500 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Junior GP Race 1 in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a43ca9dd-2c04-3e55-aee5-e0b1e7ac2b5c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624054500 +0000" stop="20240624063000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Moto2 Race 1 in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9d1257ec-dabc-382a-83aa-e965bb7b616c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624063000 +0000" stop="20240624071500 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from ETC Race in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cd668c61-cbb1-3c4e-8331-fc4e79e105c7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624071500 +0000" stop="20240624080000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Junior GP Race 2 in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/599c89b5-e647-38db-b52f-76310b15717d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624080000 +0000" stop="20240624084500 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Moto2 Race 2 in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f03f143b-b432-3695-aa6d-beca3c5c5d8d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624084500 +0000" stop="20240624093000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Moto2 Stock class of the FIM JuniorGP Championship in Algarve.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/dd00a5fe-204c-37d6-b018-531b6d314840/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624093000 +0000" stop="20240624103000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Women's ODI: India v SA</title>
-    <desc lang="en">Women's cricket action from the third One Day International between India and South Africa. The previous game was a thriller with four centuries and a total of 646 runs scored.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2e82ce3c-1279-349c-9978-ee28f2b1f1ef/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624103000 +0000" stop="20240624110000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">The WRC Magazine</title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Rally Poland.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7c1e42ab-6cd0-3e9b-a9cd-1de0c689b6bf/16-9"/>
-    <episode-num system="xmltv_ns">23.6.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624110000 +0000" stop="20240624120000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Tom Aspinall's Fight Lab - UFC 303</title>
-    <desc lang="en">Tom Aspinall previews UFC 303 at T-Mobile Arena in Las Vegas. Alex Pereira will defend his light heavyweight title against Jiri Prochazka.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6bb8cf49-a40f-3a9e-b1c9-ff2b4b215e00/16-9"/>
-    <episode-num system="xmltv_ns">23.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624120000 +0000" stop="20240624130000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Men's Hockey: GBR v BEL</title>
-    <desc lang="en">Action from the Men's FIH Hockey Pro League as Great Britain and Belgium face-off at SV Kampong in Utrecht.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/dc10d1f0-b740-334b-967f-36be26283033/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624130000 +0000" stop="20240624150000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Live Women's Hockey: GBR v GER</title>
-    <desc lang="en">Action from the Women's FIH Hockey Pro League as Great Britain face Germany at SV Kampong in Utrecht.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e3be4595-3350-3fb4-9f89-139b988a9a0f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624150000 +0000" stop="20240624153000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Gallagher Premiership Rugby</title>
-    <desc lang="en">A look back at the best tries from the 2023/24 Gallagher Premiership Rugby season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/03de9aca-021e-3acb-8dd5-1940c483451f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624153000 +0000" stop="20240624173000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Live Men's Hockey: GER v GBR</title>
-    <desc lang="en">Action from the Men's FIH Hockey Pro League as Germany face Great Britain at SV Kampong in Utrecht.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f7591dcd-da88-30c5-9630-f8f72b5bc007/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624173000 +0000" stop="20240624180000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">The WRC Magazine</title>
-    <desc lang="en">The latest news and action from the World Rally Championship and Rally Poland.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7c1e42ab-6cd0-3e9b-a9cd-1de0c689b6bf/16-9"/>
-    <episode-num system="xmltv_ns">23.6.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624180000 +0000" stop="20240624200000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Live Women's Hockey: NED v BEL</title>
-    <desc lang="en">Action from the Women's FIH Hockey Pro League as Netherlands meet Belgium at SV Kampong in Utrecht.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/872369e7-072f-36b9-a109-771bb127cd58/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624200000 +0000" stop="20240624203000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Fight Week: UFC 303 Preview Show</title>
-    <desc lang="en">Adam Catterall, Nick Peet and Michael Bisping look ahead to a huge night of action at UFC 303 as Alex Pereira defends his light heavyweight title against Jiri Prochazka.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/edbd0227-be75-3a36-bc7c-6432b0b30694/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240624203000 +0000" stop="20240624213000 +0000" channel="TNTSports1HD.uk">
-    <title lang="en">Tom Aspinall's Fight Lab - UFC 303</title>
-    <desc lang="en">Tom Aspinall previews UFC 303 at T-Mobile Arena in Las Vegas. Alex Pereira will defend his light heavyweight title against Jiri Prochazka.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Other</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6bb8cf49-a40f-3a9e-b1c9-ff2b4b215e00/16-9"/>
-    <episode-num system="xmltv_ns">23.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240624213000 +0000" stop="20240624220000 +0000" channel="TNTSports1HD.uk">
     <title lang="en">Gallagher Premiership Rugby</title>
     <desc lang="en">A look back at the best tries from the 2023/24 Gallagher Premiership Rugby season.</desc>
@@ -733,6 +343,378 @@
     <category lang="en">Baseball</category>
     <icon src="https://images.metadata.sky.com/pd-image/fc03860a-d881-359e-aca8-4a58cc5603fa/16-9"/>
     <episode-num system="xmltv_ns">23.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240625230000 +0000" stop="20240626020000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Live MLB: Yankees @ Mets</title>
+    <desc lang="en">Action from Major League Baseball as New York Yankees take on New York Mets at Citi Field.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3f6e585e-429d-3588-82cd-827e4eb7e946/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626020000 +0000" stop="20240626023000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Live: MLB Closer</title>
+    <desc lang="en">A look back at the best action from the MLB following New York Yankees against New York Mets at Citi Field.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c8c35efd-8235-35e7-9448-83ad302cf06a/16-9"/>
+    <episode-num system="xmltv_ns">23.10.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">UCL Greatest Nights: Liverpool</title>
+    <desc lang="en">A nostalgic reflection on some of Liverpool's most unforgettable matches in the Champions League including interviews with former stars and managers who made history for the club.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dad2e12a-5558-4210-ba92-84793aa6ad1e/16-9"/>
+    <episode-num system="xmltv_ns">2019.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626033000 +0000" stop="20240626040000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Gallagher Premiership Rugby</title>
+    <desc lang="en">A look back at the best tries from the 2023/24 Gallagher Premiership Rugby season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/03de9aca-021e-3acb-8dd5-1940c483451f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626040000 +0000" stop="20240626050000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Fishing: On The Bank - 2023</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring action from the Cornish Lure Fishing Festival 2023.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fe6b557e-9af6-3a03-8dd3-c780e5377cb3/16-9"/>
+    <episode-num system="xmltv_ns">22.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626050000 +0000" stop="20240626053000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">PL Legends: Alan Shearer</title>
+    <desc lang="en">This episode profiles the Premier League's greatest ever goalscorer, Alan Shearer. The Newcastle United legend netted an impressive 260 goals in the English top division.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10cfac3d-9aca-3b04-91d9-2db7a713c733/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626053000 +0000" stop="20240626060000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">John Terry is one of the best defenders in Premier League history. We find out what set him apart from his peers and where he ranks amongst the very best in the world.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0daab25-6e87-332c-95bd-0988ff91e97d/16-9"/>
+    <episode-num system="xmltv_ns">22.47.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626060000 +0000" stop="20240626083000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch CM Punk, Drew McIntyre, Seth Rollins, Rhea Ripley, Becky Lynch and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/56c08ea9-d3d6-3b72-b4f9-d8d8e361a9fd/16-9"/>
+    <episode-num system="xmltv_ns">31.25.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626083000 +0000" stop="20240626093000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Tom Aspinall's Fight Lab - UFC 303</title>
+    <desc lang="en">Tom Aspinall previews UFC 303 at T-Mobile Arena in Las Vegas. Alex Pereira will defend his light heavyweight title against Jiri Prochazka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6bb8cf49-a40f-3a9e-b1c9-ff2b4b215e00/16-9"/>
+    <episode-num system="xmltv_ns">23.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">NJ/NY Gotham v Washington Spirit</title>
+    <desc lang="en">Action from the National Women's Soccer League as NJ/NY Gotham FC face Washington Spirit at Red Bull Arena.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9afd843b-150d-3a33-a633-2225197c70dc/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">The WRC Magazine</title>
+    <desc lang="en">The latest news and action from the World Rally Championship and Rally Poland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7c1e42ab-6cd0-3e9b-a9cd-1de0c689b6bf/16-9"/>
+    <episode-num system="xmltv_ns">23.6.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626110000 +0000" stop="20240626120000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">V8 Supercars Highlights</title>
+    <desc lang="en">Highlights from the Betr Darwin Triple Crown and race 11 of the V8 Supercars Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/09607a84-6a8a-3dfe-9d77-aa50b71568e3/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626120000 +0000" stop="20240626130000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">V8 Supercars Highlights</title>
+    <desc lang="en">Highlights from the Betr Darwin Triple Crown and race 12 of the V8 Supercars Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/629fe9d3-f665-3f02-b6c8-6061f0993137/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626130000 +0000" stop="20240626140000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">World Rugby SEVENS Repechage</title>
+    <desc lang="en">Action from the Men's and Women's Final of the World Rugby SEVENS Repechage. Who will claim a spot at the 2024 Olympic Games in Paris?</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bd619cf0-f8fd-36e4-bb60-9e02aad8e0c2/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626140000 +0000" stop="20240626144500 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Sign Up - Into Football</title>
+    <desc lang="en">Damaris and Rolf are at Wembley for the Champions League final. Steve McManaman joins them to review the season. Plus, a look ahead to Euro 2024 and the FA Disability Cup.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ddfa06e-6fab-3bde-acfc-38888624111e/16-9"/>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240626144500 +0000" stop="20240626150000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">TNT Sports Goals Reload</title>
+    <desc lang="en">A look back the best goals from the 2023/24 Serie A season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34608df0-8a32-3822-adfe-8f6259f5dfb2/16-9"/>
+    <episode-num system="xmltv_ns">22.40.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626150000 +0000" stop="20240626153000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Gallagher Premiership Rugby</title>
+    <desc lang="en">A look back at the best tries from the 2023/24 Gallagher Premiership Rugby season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/03de9aca-021e-3acb-8dd5-1940c483451f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626153000 +0000" stop="20240626160000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db88e3cc-7aea-34a8-8f8a-ec01148ec373/16-9"/>
+    <episode-num system="xmltv_ns">2023.11.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626160000 +0000" stop="20240626191500 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Live MLB: Mariners @ Rays</title>
+    <desc lang="en">Action from Major League Baseball as Seattle Mariners travel to face Tampa Bay Rays at Tropicana Field.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e9fc1bea-19a6-368f-80b4-c6cbd732408f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626191500 +0000" stop="20240626194500 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db88e3cc-7aea-34a8-8f8a-ec01148ec373/16-9"/>
+    <episode-num system="xmltv_ns">2023.11.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626194500 +0000" stop="20240626200000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">Badminton Weekly</title>
+    <desc lang="en">The latest episode of Badminton Weekly.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/58c1a500-2936-30b0-9d2e-cf124e493290/16-9"/>
+    <episode-num system="xmltv_ns">2023.16.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626200000 +0000" stop="20240626210000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">All the best highlights from the latest WWE Raw.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cc3e7497-4206-3840-9564-33bd56e69f6c/16-9"/>
+    <episode-num system="xmltv_ns">31.25.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626210000 +0000" stop="20240626220000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">UFC Countdown: 303</title>
+    <desc lang="en">UFC Countdown looks ahead to the upcoming UFC 303 action at T-Mobile Arena in Las Vegas. Alex Pereira defends his light heavyweight title against Jiri Prochazka.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2da51998-009b-37e9-9ede-cb9232501791/16-9"/>
+    <episode-num system="xmltv_ns">2023.19.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240626220000 +0000" stop="20240626230000 +0000" channel="TNTSports1HD.uk">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball, including New York Yankees at New York Mets. (26.06)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f0f43ba0-392d-38b7-99ef-a06569eb3cee/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
