@@ -4,365 +4,6 @@
     <display-name lang="en">TNT Sports 4 HD</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4040.png"/>
   </channel>
-  <programme start="20240625213000 +0000" stop="20240625220000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1ec28811-63c7-3dc1-9548-797667781780/16-9"/>
-    <episode-num system="xmltv_ns">2023.10.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240625220000 +0000" stop="20240625224500 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Junior GP Race 1 in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a43ca9dd-2c04-3e55-aee5-e0b1e7ac2b5c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240625224500 +0000" stop="20240625233000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Moto2 Race 1 in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9d1257ec-dabc-382a-83aa-e965bb7b616c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240625233000 +0000" stop="20240626001500 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from ETC Race in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cd668c61-cbb1-3c4e-8331-fc4e79e105c7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626001500 +0000" stop="20240626010000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Junior GP Race 2 in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/599c89b5-e647-38db-b52f-76310b15717d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626010000 +0000" stop="20240626014500 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Moto2 Race 2 in Algarve, part of the FIM JuniorGP Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f03f143b-b432-3695-aa6d-beca3c5c5d8d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626014500 +0000" stop="20240626023000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">FIM JuniorGP Championship</title>
-    <desc lang="en">Action from the Moto2 Stock class of the FIM JuniorGP Championship in Algarve.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/dd00a5fe-204c-37d6-b018-531b6d314840/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626023000 +0000" stop="20240626033000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Women's Hockey: GBR v BEL</title>
-    <desc lang="en">Action from the Women's FIH Hockey Pro League as Great Britain face Belgium at SV Kampong in Utrecht.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2e231423-3b77-3bec-8a88-faea389bb3d2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626033000 +0000" stop="20240626043000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Men's Hockey: NED v BEL</title>
-    <desc lang="en">Action from the Men's FIH Hockey Pro League as Netherlands and Belgium face-off at SV Kampong in Utrecht.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/96e3c8c4-49d4-30ea-9a72-90968974003b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626043000 +0000" stop="20240626050000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">TNT Sports Goals Reload</title>
-    <desc lang="en">We take a look at the best goals from the 2023/24 French Ligue 1 season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/aa046484-e8d6-3757-a5dc-1f4988490eac/16-9"/>
-    <episode-num system="xmltv_ns">22.39.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626050000 +0000" stop="20240626060000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">V8 Supercars Highlights</title>
-    <desc lang="en">Highlights from the Betr Darwin Triple Crown and race 11 of the V8 Supercars Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/50152fde-66f2-3aed-8ae2-722e435dfda7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626060000 +0000" stop="20240626070000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">V8 Supercars Highlights</title>
-    <desc lang="en">Highlights from the Betr Darwin Triple Crown and race 12 of the V8 Supercars Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9a928338-a5cd-31ab-881a-585b6b90cdee/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626070000 +0000" stop="20240626080000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">ABB FIA Formula E Preview Show</title>
-    <desc lang="en">A preview show looking ahead to rounds thirteen and fourteen of ABB FIA Formula E at the Portland International Raceway.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ac2f42c7-51b2-3b4f-ab0d-1e7bae279e77/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626080000 +0000" stop="20240626090000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">WRC Review: Mid-Season Review</title>
-    <desc lang="en">A mid-season review of all the best action from the World Rally Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fa3a5f0d-ab37-3f69-98fd-0fdcb1e11817/16-9"/>
-    <episode-num system="xmltv_ns">23.18.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626090000 +0000" stop="20240626093000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">NBA On Fire</title>
-    <desc lang="en">The latest episode of NBA On Fire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8f955a9c-b181-31f2-931b-c776fc6af3da/16-9"/>
-    <episode-num system="xmltv_ns">22.33.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626093000 +0000" stop="20240626103000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">WNBA: LA Sparks @ NY Liberty</title>
-    <desc lang="en">Action from the Women's National Basketball Association as Los Angeles Sparks and New York Liberty go head-to-head at Barclays Center.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e4cb4a7f-fa96-34af-9b50-e27da920c7e1/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626103000 +0000" stop="20240626110000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Gallagher Premiership Rugby</title>
-    <desc lang="en">A look back at the best tries from the 2023/24 Gallagher Premiership Rugby season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/03de9aca-021e-3acb-8dd5-1940c483451f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626110000 +0000" stop="20240626123000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Story of the Premiership</title>
-    <desc lang="en">A special look back at the story of the 2023/24 Gallagher Premiership Rugby season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Rugby</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d60187fe-f3d8-3796-a707-89cebc7ee588/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626123000 +0000" stop="20240626133000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Highlights from Major League Baseball, including New York Yankees at New York Mets. (26.06)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/50a52830-222d-3852-bf23-d8a67b299fb7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240626133000 +0000" stop="20240626140000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">NBA On Fire</title>
-    <desc lang="en">The latest episode of NBA On Fire.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8f955a9c-b181-31f2-931b-c776fc6af3da/16-9"/>
-    <episode-num system="xmltv_ns">22.33.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626140000 +0000" stop="20240626150000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Women's ODI: India v SA</title>
-    <desc lang="en">Women's cricket action from the third One Day International between India and South Africa. The previous game was a thriller with four centuries and a total of 646 runs scored.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b9bcb2da-40ba-32b2-bc85-68f87dcd9083/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626150000 +0000" stop="20240626170000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">AFL: Carlton v Geelong Cats</title>
-    <desc lang="en">Action from the Australian Football League as Carlton face Geelong Cats at the MCG.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a7e665a8-ebfd-36d8-ba5d-33b8234b89c3/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626170000 +0000" stop="20240626190000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">AFL: Port Adelaide v Brisbane L</title>
-    <desc lang="en">Action from the Australian Football League as Port Adelaide and Brisbane Lions go head-to-head at Adelaide Oval.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6caeb012-de58-3555-b4be-ca50b28764b9/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240626190000 +0000" stop="20240626210000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">AFL: GWS Giants v Sydney Swans</title>
-    <desc lang="en">Action from the Australian Football League as GWS Giants take on Sydney Swans at ENGIE Stadium.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1c7d592a-4d07-3d8f-95ca-32ed383c57d2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240626210000 +0000" stop="20240626230000 +0000" channel="TNTSports4HD.uk">
     <title lang="en">AFL: Melbourne v North Melbourne</title>
     <desc lang="en">Action from the Australian Football League as Melbourne face rivals North Melbourne at the MCG.</desc>
@@ -538,7 +179,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240627130000 +0000" stop="20240627140000 +0000" channel="TNTSports4HD.uk">
     <title lang="en">ABB FIA Formula E Preview Show</title>
@@ -614,7 +254,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240627200000 +0000" stop="20240627210000 +0000" channel="TNTSports4HD.uk">
     <title lang="en">Men's Hockey: GBR v BEL</title>
@@ -628,7 +267,6 @@
     <audio>
       <stereo>Mono</stereo>
     </audio>
-    <subtitles type="teletext"/>
   </programme>
   <programme start="20240627210000 +0000" stop="20240627220000 +0000" channel="TNTSports4HD.uk">
     <title lang="en">UFC The Ultimate Fighter - S32</title>
@@ -653,6 +291,201 @@
     <category lang="en">Other</category>
     <icon src="https://images.metadata.sky.com/pd-image/6bb8cf49-a40f-3a9e-b1c9-ff2b4b215e00/16-9"/>
     <episode-num system="xmltv_ns">23.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240627230000 +0000" stop="20240627231500 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">TNT Sports Reload</title>
+    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a831cc8c-2ae8-338b-a548-9e5f34a0eb6f/16-9"/>
+    <episode-num system="xmltv_ns">23.26.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240627231500 +0000" stop="20240628011500 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Action from Ultimate Pool and session 1 of the WEPF World Team Shootout.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/57c4b6b0-1245-3c31-9bdc-891f9c679370/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628011500 +0000" stop="20240628031500 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Ultimate Pool</title>
+    <desc lang="en">Action from Ultimate Pool and session 2 of the WEPF World Team Shootout.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f951e891-9e66-3a22-bf85-b7fd02115d0d/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628031500 +0000" stop="20240628034500 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB: Off The Bat</title>
+    <desc lang="en">All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fac9c5df-ce88-3169-af33-fa3e4edbcdc0/16-9"/>
+    <episode-num system="xmltv_ns">2023.12.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240628034500 +0000" stop="20240628120000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Live Women's Test: India v SA</title>
+    <desc lang="en">Women's cricket action from day one of the Test between India and South Africa at MA Chidambaram Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95285a50-a066-3138-8223-287bd22d917c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240628120000 +0000" stop="20240628130000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball, including Chicago Cubs at San Francisco Giants.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d2d87bc4-ba3a-3d15-8db9-df7cc3a6ea1f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628130000 +0000" stop="20240628140000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">World Rugby SEVENS Repechage</title>
+    <desc lang="en">Action from the Men's and Women's Final of the World Rugby SEVENS Repechage. Who will claim a spot at the 2024 Olympic Games in Paris?</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3a13053e-1127-3c48-867f-8e4ffba0c4f8/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628140000 +0000" stop="20240628153000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Gloucester v Hollywoodbets Sharks</title>
+    <desc lang="en">Action from the European Rugby Challenge Cup final as Gloucester Rugby face Hollywoodbets Sharks at Tottenham Hotspur Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/484b61e6-0799-375f-80d2-42d85ee71d2e/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628153000 +0000" stop="20240628170000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Leinster Rugby v Toulouse</title>
+    <desc lang="en">Action from the Investec Champions Cup final as two of European club rugby's most decorated teams, Leinster Rugby and Toulouse, face-off at Tottenham Hotspur Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9db573ae-990f-3763-afd8-2ab8ae3c4f4c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628170000 +0000" stop="20240628173000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Gallagher Premiership Rugby</title>
+    <desc lang="en">A look back at the best tries from the 2023/24 Gallagher Premiership Rugby season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/03de9aca-021e-3acb-8dd5-1940c483451f/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628173000 +0000" stop="20240628200000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Action from WWE Monday Night Raw at Gainbridge Fieldhouse in Indianapolis. Drew McIntyre addresses his attack on CM Punk, and Bron Breakker faces Ludwig Kaiser.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://images.metadata.sky.com/pd-image/56c08ea9-d3d6-3b72-b4f9-d8d8e361a9fd/16-9"/>
+    <episode-num system="xmltv_ns">31.25.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628200000 +0000" stop="20240628220000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">AFL: Brisbane Lions v Melbourne</title>
+    <desc lang="en">Action from the Australian Football League as Brisbane Lions face Melbourne at the Gabba.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/413774e7-3790-3180-b591-4d52e99ed1c7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240628220000 +0000" stop="20240628230000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Women's Test: India v South Africa</title>
+    <desc lang="en">Women's cricket action from day one of the Test between India and South Africa at MA Chidambaram Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a4e6324a-00ef-371b-a747-499ee9553ee6/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
