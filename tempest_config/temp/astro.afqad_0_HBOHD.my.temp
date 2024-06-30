@@ -3,183 +3,6 @@
   <channel id="HBOHD.my">
     <display-name lang="en">HBO 🄼</display-name>
   </channel>
-  <programme start="20240629001000 +0000" stop="20240629022000 +0000" channel="HBOHD.my">
-    <title lang="en">SOMETHING'S GOTTA GIVE</title>
-    <desc lang="en">An unlikely love triangle teaches three individuals the value of love and life.</desc>
-    <credits>
-      <director>Nancy Meyers</director>
-      <actor>Jack Nicholson</actor>
-      <actor>Diane Keaton</actor>
-      <actor>Keanu Reeves</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X389109.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240629022000 +0000" stop="20240629040500 +0000" channel="HBOHD.my">
-    <title lang="en">POKEMON DETECTIVE PIKACHU</title>
-    <desc lang="en">Tim, son of missing detective Harry Goodman, teams up with Harry's partner, Detective Pikachu, to uncover a plot that threatens the Pokemon world.</desc>
-    <credits>
-      <director>Rob Letterman</director>
-      <actor>Ryan Reynolds</actor>
-      <actor>Justice Smith</actor>
-      <actor>Kathryn Newton</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X446279.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240629040500 +0000" stop="20240629065000 +0000" channel="HBOHD.my">
-    <title lang="en">INTERSTELLAR</title>
-    <desc lang="en">An interspace exploratory team overcomes the odds in its heroic interstellar voyage to the very edge of the universe.</desc>
-    <credits>
-      <director>Christopher Nolan</director>
-      <actor>Matthew McConaughey</actor>
-      <actor>Anne Hathaway</actor>
-      <actor>Jessica Chastain</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X11081.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240629065000 +0000" stop="20240629091500 +0000" channel="HBOHD.my">
-    <title lang="en">MISSION: IMPOSSIBLE - FALLOUT</title>
-    <desc lang="en">Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.</desc>
-    <credits>
-      <director>Christopher McQuarrie</director>
-      <actor>Tom Cruise</actor>
-      <actor>Henry Cavill</actor>
-      <actor>Rebecca Ferguson</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X351287.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240629091500 +0000" stop="20240629112500 +0000" channel="HBOHD.my">
-    <title lang="en">Shazam! Fury of the Gods</title>
-    <desc lang="en">The film continues the story of teenage Billy Batson who, upon reciting the magic word 'SHAZAM!' is transformed into his adult Super Hero alter ego, Shazam.</desc>
-    <credits>
-      <director>David F. Sandberg</director>
-      <actor>Zachary Levi</actor>
-      <actor>Asher Angel</actor>
-      <actor>Jack Dylan Grazer</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X752014.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20240629112500 +0000" stop="20240629130000 +0000" channel="HBOHD.my">
-    <title lang="en">THE SUPER MARIO BROS. MOVIE</title>
-    <desc lang="en">The adventure about a mustachioed plumber Mario and his lanky brother, Luigi, in their quest to save Princess Peach from villain Bowser.</desc>
-    <credits>
-      <director>Aaron Horvath</director>
-      <actor>Chris Pratt</actor>
-      <actor>Anya Taylor Joy</actor>
-      <actor>Charlie Day</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Animation</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X778980.jpg"/>
-    <rating system="MY">
-      <value>P12</value>
-    </rating>
-  </programme>
-  <programme start="20240629130000 +0000" stop="20240629145500 +0000" channel="HBOHD.my">
-    <title lang="en">WONKA</title>
-    <desc lang="en">Wonka tells the wondrous story of how the world's greatest inventor, magician and chocolate-maker became the beloved Willy Wonka we know today.</desc>
-    <credits>
-      <director>Paul King</director>
-      <actor>Timothe Chalamet</actor>
-      <actor>Calah Lane</actor>
-      <actor>Keegan Michael Key</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X814166.jpg"/>
-    <rating system="MY">
-      <value>P12</value>
-    </rating>
-  </programme>
-  <programme start="20240629145500 +0000" stop="20240629174500 +0000" channel="HBOHD.my">
-    <title lang="en">HOUSE OF THE DRAGON</title>
-    <desc lang="en">Set 200 years before the events of Game of Thrones, this epic series tells the story of House Targaryen.</desc>
-    <credits>
-      <director>Clare Kilner</director>
-      <actor>Emma D'arcy</actor>
-      <actor>Matt Smith</actor>
-      <actor>Olivia Cooke</actor>
-    </credits>
-    <category lang="en">TV Show/Series</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X814160.jpg"/>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240629174500 +0000" stop="20240629203000 +0000" channel="HBOHD.my">
-    <title lang="en">IT CHAPTER TWO</title>
-    <desc lang="en">27 years after he was defeated, Pennywise is back to terrorise the town of Derry. Now adults, the Losers have to come together to conquer their deepest fears and destroy Pennywise once and for all.</desc>
-    <credits>
-      <director>Andy Muschietti</director>
-      <actor>Jessica Chastain</actor>
-      <actor>James McAvoy</actor>
-      <actor>Bill Hader</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X758720.jpg"/>
-    <rating system="MY">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20240629203000 +0000" stop="20240629222500 +0000" channel="HBOHD.my">
-    <title lang="en">THE LAST VOYAGE OF THE DEMETER</title>
-    <desc lang="en">Strange events befall on the doomed crew of the merchant ship Demeter, stalked each night by a merciless presence that causes their numbers to dwindle night after night.</desc>
-    <credits>
-      <director>Andr Vredal</director>
-      <actor>Corey Hawkins</actor>
-      <actor>Aisling Franciosi</actor>
-      <actor>Liam Cunningham</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X814165.jpg"/>
-    <rating system="MY">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20240629222500 +0000" stop="20240630000000 +0000" channel="HBOHD.my">
-    <title lang="en">GENIE</title>
-    <desc lang="en">A workaholic seeks the help of a magical genie in hopes of winning back his family before Christmas.</desc>
-    <credits>
-      <director>Sam Boyd</director>
-      <actor>Melissa McCarthy</actor>
-      <actor>Paapa Essiedu</actor>
-      <actor>Dene Benton</actor>
-    </credits>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X774923.jpg"/>
-    <rating system="MY">
-      <value>13</value>
-    </rating>
-  </programme>
   <programme start="20240630000000 +0000" stop="20240630014500 +0000" channel="HBOHD.my">
     <title lang="en">POKEMON DETECTIVE PIKACHU</title>
     <desc lang="en">Tim, son of missing detective Harry Goodman, teams up with Harry's partner, Detective Pikachu, to uncover a plot that threatens the Pokemon world.</desc>
@@ -414,6 +237,199 @@
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X792308.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240701032000 +0000" stop="20240701052000 +0000" channel="HBOHD.my">
+    <title lang="en">GUY RITCHIE'S THE COVENANT</title>
+    <desc lang="en">Guy Ritchie's The Covenant follows US Army Sergeant John Kinley and Afghan interpreter Ahmed. After an ambush, Ahmed goes to Herculean lengths to save Kinley's life.</desc>
+    <credits>
+      <director>Guy Ritchie</director>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Dar Salim</actor>
+      <actor>Antony Starr</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X792303.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240701052000 +0000" stop="20240701073500 +0000" channel="HBOHD.my">
+    <title lang="en">UNBROKEN</title>
+    <desc lang="en">Directed by Angelina Jolie, the movie tells the incredible story of Louis Zamperini, who survived on a raft in the ocean for 47 days.</desc>
+    <credits>
+      <director>Angelina Jolie</director>
+      <actor>Jack O'Connell</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>Garrett Hedlund</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X32676.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240701073500 +0000" stop="20240701093500 +0000" channel="HBOHD.my">
+    <title lang="en">NEW YEAR'S EVE</title>
+    <desc lang="en">The lives of several couples and singles in New York intertwine over the course of New Year's Eve.</desc>
+    <credits>
+      <director>Garry Marshall</director>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Ashton Kutcher</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X230963.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240701093500 +0000" stop="20240701115500 +0000" channel="HBOHD.my">
+    <title lang="en">The Flash</title>
+    <desc lang="en">Worlds collide in The Flash when Barry uses his superpowers to travel back in time in order to change the events of the past.</desc>
+    <credits>
+      <director>Andy Muschietti</director>
+      <actor>Ezra Miller</actor>
+      <actor>Sasha Calle</actor>
+      <actor>Michael Shannon</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000150X772588.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240701115500 +0000" stop="20240701140000 +0000" channel="HBOHD.my">
+    <title lang="en">KING ARTHUR: LEGEND of the SWORD</title>
+    <desc lang="en">Acclaimed filmmaker Guy Ritchie brings his dynamic style to the classic Excalibur myth, tracing Arthur's journey from the streets to the throne.</desc>
+    <credits>
+      <director>Guy Ritchie</director>
+      <actor>Charlie Hunnam</actor>
+      <actor>Astrid Berges Frisbey</actor>
+      <actor>Djimon Honsou</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X274524.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240701140000 +0000" stop="20240701150500 +0000" channel="HBOHD.my">
+    <title lang="en">HOUSE OF THE DRAGON</title>
+    <desc lang="en">Set 200 years before the events of Game of Thrones, this epic series tells the story of House Targaryen.</desc>
+    <credits>
+      <director>Geeta Vasant Patel</director>
+      <actor>Emma D'arcy</actor>
+      <actor>Matt Smith</actor>
+      <actor>Olivia Cooke</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Drama</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_1280x720.jpg"/>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240701150500 +0000" stop="20240701182500 +0000" channel="HBOHD.my">
+    <title lang="en">Ted</title>
+    <desc lang="en">A boy's favorite toy becomes the man's biggest liability.</desc>
+    <credits>
+      <director>Seth Macfarlane</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Mila Kunis</actor>
+      <actor>Seth Macfarlane</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240701182500 +0000" stop="20240701201000 +0000" channel="HBOHD.my">
+    <title lang="en">SHOWING UP</title>
+    <desc lang="en">A sculptor, opening a new show, balances her creative life with the daily dramas of family and friends. A vibrant, funny portrait of art and craft.</desc>
+    <credits>
+      <director>Kelly Reichardt</director>
+      <actor>Michelle Williams</actor>
+      <actor>Hong Chau</actor>
+      <actor>Maryann Plunkett</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240701201000 +0000" stop="20240701220000 +0000" channel="HBOHD.my">
+    <title lang="en">THE 40 YEAR OLD VIRGIN</title>
+    <desc lang="en">Andy Stitzer is a 40 year old virgin whose buddies insist on doing their part to facilitate his sexual awakening.</desc>
+    <credits>
+      <director>Judd Apatow</director>
+      <actor>Steve Carell</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Paul Rudd</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/ivp_default_10000018_IVP_LAND_1280x720.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240701220000 +0000" stop="20240701235500 +0000" channel="HBOHD.my">
+    <title lang="en">NEW YEAR'S EVE</title>
+    <desc lang="en">The lives of several couples and singles in New York intertwine over the course of New Year's Eve.</desc>
+    <credits>
+      <director>Garry Marshall</director>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Ashton Kutcher</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X230963.jpg"/>
+    <rating system="MY">
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20240701235500 +0000" stop="20240702014500 +0000" channel="HBOHD.my">
+    <title lang="en">THE WORLD'S END</title>
+    <desc lang="en">One night. Five friends. 12 pubs. They reconcile their past and present over an epic pub crawl but realize the real struggle is for the future.</desc>
+    <credits>
+      <director>Edgar Wright</director>
+      <actor>Simon Pegg</actor>
+      <actor>Nick Frost</actor>
+      <actor>Paddy Considine</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000371X1484.jpg"/>
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20240702014500 +0000" stop="20240702040000 +0000" channel="HBOHD.my">
+    <title lang="en">UNBROKEN</title>
+    <desc lang="en">Directed by Angelina Jolie, the movie tells the incredible story of Louis Zamperini, who survived on a raft in the ocean for 47 days.</desc>
+    <credits>
+      <director>Angelina Jolie</director>
+      <actor>Jack O'Connell</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>Garrett Hedlund</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000018X32676.jpg"/>
     <rating system="MY">
       <value>13</value>
     </rating>
