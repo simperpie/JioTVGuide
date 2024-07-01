@@ -4,160 +4,6 @@
     <display-name lang="en">TNT Sports 4 HD</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb4040.png"/>
   </channel>
-  <programme start="20240629200000 +0000" stop="20240629221500 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Live: Racing Louisville v Bay FC</title>
-    <desc lang="en">Action from the National Women's Soccer League as Racing Louisville FC host Bay FC at Lynn Family Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/864db067-1c25-30d7-b231-12c0ec05285b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240629221500 +0000" stop="20240629234500 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">WWE Friday Night SmackDown</title>
-    <desc lang="en">See all your favourite WWE SmackDown Superstars deliver edge-of-your-seat action, including Roman Reigns, Cody Rhodes, Bayley, Randy Orton and Bianca Belair.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f56c98a2-4371-3c19-904b-91c4c548f730/16-9"/>
-    <episode-num system="xmltv_ns">25.25.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240629234500 +0000" stop="20240630014500 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">AFL: Sydney Swans v Fremantle</title>
-    <desc lang="en">Action from the Australian Football League as Sydney Swans meet Fremantle at the SCG.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bbf5a760-86d4-3e27-9d5d-2478f534599c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240630014500 +0000" stop="20240630024500 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Women's Hockey: BEL v GBR</title>
-    <desc lang="en">Action from the Women's FIH Hockey Pro League as Belgium face Great Britain at Wagener Stadium in Amsterdam.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/76589a76-2a0d-3f38-972c-47e47539bd2d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240630024500 +0000" stop="20240630034500 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Women's Test: India v South Africa</title>
-    <desc lang="en">Women's cricket action from day two of the Test between India and South Africa at MA Chidambaram Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/988e5aa0-229c-38ea-9b11-2b0f83325e24/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240630034500 +0000" stop="20240630120000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Live Women's Test: India v SA</title>
-    <desc lang="en">Women's cricket action from day three of the Test between India and South Africa at MA Chidambaram Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/292f671a-b6f3-3a18-89b7-1852e2c22cf8/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240630120000 +0000" stop="20240630130000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">WWE SmackDown Highlights</title>
-    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6f9a9af6-a302-3e47-ab29-a0143b935328/16-9"/>
-    <episode-num system="xmltv_ns">25.25.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240630130000 +0000" stop="20240630150000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Live Men's Hockey: NED v BEL</title>
-    <desc lang="en">Action from the Men's FIH Hockey Pro League as Netherlands take on Belgium at Wagener Stadium.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/47e9e3ae-8823-3207-a183-752e01e2dd09/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240630150000 +0000" stop="20240630160000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Women's Hockey: GER v NED</title>
-    <desc lang="en">Action from the Women's FIH Hockey Pro League as Germany go head-to-head with Netherlands at Wagener Stadium in Amsterdam.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d106bf67-a384-344a-a6ed-fcca57609621/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240630160000 +0000" stop="20240630170000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Racing Louisville FC v Bay FC</title>
-    <desc lang="en">Action from the National Women's Soccer League as Racing Louisville FC host Bay FC at Lynn Family Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8470815b-20c8-3026-8afa-4aae20c377ef/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240630170000 +0000" stop="20240630190000 +0000" channel="TNTSports4HD.uk">
-    <title lang="en">Live WNBA: Dream @ Liberty</title>
-    <desc lang="en">Action from the Women's National Basketball Association as Atlanta Dream face New York Liberty at Barclays Center.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2ebec1c1-a256-3a06-bd8f-a66e12beb14f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
   <programme start="20240630190000 +0000" stop="20240630223000 +0000" channel="TNTSports4HD.uk">
     <title lang="en">Live Badminton: US Open</title>
     <desc lang="en">Badminton action from the US Open finals at Fort Worth Convention Center, part of the HSBC BWF World Tour.</desc>
@@ -533,6 +379,304 @@
     <desc lang="en">Action from the Australian Football League as Brisbane Lions face Melbourne at the Gabba.</desc>
     <category lang="en">Sports</category>
     <icon src="https://images.metadata.sky.com/pd-image/413774e7-3790-3180-b591-4d52e99ed1c7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702003000 +0000" stop="20240702023000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">AFL: Sydney Swans v Fremantle</title>
+    <desc lang="en">Action from the Australian Football League as Sydney Swans meet Fremantle at the SCG.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bbf5a760-86d4-3e27-9d5d-2478f534599c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702023000 +0000" stop="20240702043000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">AFL: N Melbourne v W Bulldogs</title>
+    <desc lang="en">Action from the Australian Football League as North Melbourne and Western Bulldogs go head-to-head at Marvel Stadium.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/697cc32e-ba64-3385-b308-8d63ec4cbdeb/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702043000 +0000" stop="20240702044500 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Around The Block: Virgil Van Dijk</title>
+    <desc lang="en">Virgil van Dijk joins Peter Crouch for a spin around the block as they discuss title ambitions, footballing idols, the Merseyside derby and much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a2c4746a-0298-3902-8475-c162ccee86e7/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702044500 +0000" stop="20240702050000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Around The Block: Ollie Watkins</title>
+    <desc lang="en">Peter Crouch chats to Aston Villa forward Ollie Watkins about idolising Thierry Henry, playing in the Europa Conference League, his hopes for the Champions League, and much more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0ef202df-2e01-3ea1-b318-e2623700350a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702050000 +0000" stop="20240702060000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball. (01.07)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2f8247be-89a1-3bca-bce1-2049ed741ba5/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702060000 +0000" stop="20240702063000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB Epic Moments: Rockies 2007</title>
+    <desc lang="en">A look back at MLB's Epic Moments including the Colorado Rockies winning 14 of their final 15 matches to set-up a play-in game against San Diego Padres.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4d38f0a6-b1c6-33f2-8261-232a7ec99149/16-9"/>
+    <episode-num system="xmltv_ns">2013..</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+  </programme>
+  <programme start="20240702063000 +0000" stop="20240702070000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db88e3cc-7aea-34a8-8f8a-ec01148ec373/16-9"/>
+    <episode-num system="xmltv_ns">2023.11.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702070000 +0000" stop="20240702090000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">SL v Afghanistan - Test Review</title>
+    <desc lang="en">A look back at the one-off Test between Sri Lanka and Afghanistan at SSC Cricket Ground in Colombo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b6ae9910-da60-3625-bdf3-8e2e00d41290/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702090000 +0000" stop="20240702100000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball. (01.07)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ebcb2fce-329e-39b2-85a9-fa6ecb461565/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702100000 +0000" stop="20240702110000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Fishing: On The Bank - 2024</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round 1 of the UK Angling Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <icon src="https://images.metadata.sky.com/pd-image/88281990-5ab5-336a-8502-d7b68dd5e0eb/16-9"/>
+    <episode-num system="xmltv_ns">23.7.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702110000 +0000" stop="20240702120000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Olympiacos U19 v AC Milan U19</title>
+    <desc lang="en">Action from the UEFA Youth League final as Olympiacos U19 face AC Milan U19 at Colovray Sports Centre in Nyon, Switzerland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bec230c0-5346-3288-9d45-71bbe3a3618c/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702120000 +0000" stop="20240702130000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball. (02.07)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/29a15610-6824-38db-beec-b2b5f960820a/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702130000 +0000" stop="20240702133000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db88e3cc-7aea-34a8-8f8a-ec01148ec373/16-9"/>
+    <episode-num system="xmltv_ns">2023.11.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702133000 +0000" stop="20240702143000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">WNBA: Dream @ Liberty</title>
+    <desc lang="en">Action from the Women's National Basketball Association as Atlanta Dream face New York Liberty at Barclays Center.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5667eee-aa28-360e-8208-602dfad44027/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702143000 +0000" stop="20240702160000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Premiership Women's Rugby Final</title>
+    <desc lang="en">Action from Allianz Premiership Women's Rugby final as Gloucester-Hartpury Women's RFC face Bristol Bears Women at Sandy Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rugby</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d7790e83-b590-3c73-999b-621f47a5cce5/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702160000 +0000" stop="20240702173000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">Women's Champions League Final</title>
+    <desc lang="en">Action from the UEFA Women's Champions League as Barcelona and Lyon face-off at San Mames Stadium in Bilbao.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/017723f4-07f9-3f24-9ddc-e972f5c35152/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702173000 +0000" stop="20240702183000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">MLB Highlights</title>
+    <desc lang="en">Highlights from Major League Baseball. (02.07)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e03189e4-4fdc-3a9c-b21a-eff2aaf918ee/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702183000 +0000" stop="20240702203000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">AFL: Gold Coast Suns v Collingwood</title>
+    <desc lang="en">Action from the Australian Football League as Gold Coast Suns take on Collingwood at People First Stadium.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/116301cd-3a35-37f9-aa24-093cc1ec8a23/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702203000 +0000" stop="20240702223000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">AFL: Adelaide Crows v GWS Giants</title>
+    <desc lang="en">Action from the Australian Football League as Adelaide Crows face GWS Giants at Adelaide Oval.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/94471c02-925f-371e-9964-fe205b2a8837/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240702223000 +0000" stop="20240703003000 +0000" channel="TNTSports4HD.uk">
+    <title lang="en">AFL: Geelong Cats v Essendon</title>
+    <desc lang="en">Action from the Australian Football League as Geelong Cats meet Essendon at the MCG.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5e2e3289-b1de-3663-aa2c-311f77ec963a/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
