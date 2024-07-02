@@ -7,777 +7,778 @@
 [                   ]     by Kivanc Altug aka "Kvanc"
 [                   ]-------------------------------------
 [                   ]
-[01-07-2024 01:52:28] Tempest Version : rv1.7.0.0-2405061442
-[01-07-2024 01:52:28] System Info : Linux fv-az1109-540 6.5.0-1022-azure #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024 x86_64
-[01-07-2024 01:52:28] PHP Version : 8.3.8
-[01-07-2024 01:52:28] Server Info : Command Line Interface (Cli)
-[01-07-2024 01:52:28] Initializing...
-[01-07-2024 01:52:28] Checking required modules...
-[01-07-2024 01:52:28] Inverter mode enabled...
-[01-07-2024 01:52:28] Fusion mode (Level 0) enabled...
-[01-07-2024 01:52:28] tempest_original.xml generated...
-[01-07-2024 01:52:28] Grabbing started for 2 days
-[                   ]
-[01-07-2024 01:52:28] (1/151) Site: [ENC][EX]singtel.com_0
-[01-07-2024 01:52:28] Channel id: 6421
-[01-07-2024 01:52:28] Xmltv id: HBOSignatureHD.my
-[01-07-2024 01:52:30] 32 shows grabbed in 2.12 seconds
-[                   ]
-[01-07-2024 01:52:30] (2/151) Site: [ENC][EX]sky.com_0
-[01-07-2024 01:52:30] Channel id: 3625
-[01-07-2024 01:52:30] Xmltv id: TNTSports1HD.uk
-[01-07-2024 01:52:31] 35 shows grabbed in 1.31 seconds
-[                   ]
-[01-07-2024 01:52:31] (3/151) Site: [ENC][EX]sky.com_0
-[01-07-2024 01:52:31] Channel id: 3627
-[01-07-2024 01:52:31] Xmltv id: TNTSports2HD.uk
-[01-07-2024 01:52:32] 63 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:52:32] (4/151) Site: [ENC][EX]sky.com_0
-[01-07-2024 01:52:32] Channel id: 3629
-[01-07-2024 01:52:32] Xmltv id: TNTSports3HD.uk
-[01-07-2024 01:52:32] 55 shows grabbed in 0.41 seconds
-[                   ]
-[01-07-2024 01:52:32] (5/151) Site: [ENC][EX]sky.com_0
-[01-07-2024 01:52:32] Channel id: 4040
-[01-07-2024 01:52:32] Xmltv id: TNTSports4HD.uk
-[01-07-2024 01:52:32] 46 shows grabbed in 0.44 seconds
-[                   ]
-[01-07-2024 01:52:32] (6/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:32] Channel id: 8
-[01-07-2024 01:52:32] Xmltv id: STARPlusHD.in
-[01-07-2024 01:52:34] 60 shows grabbed in 1.69 seconds
-[                   ]
-[01-07-2024 01:52:34] (7/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:34] Channel id: 244
-[01-07-2024 01:52:34] Xmltv id: StarBharatHD.in
-[01-07-2024 01:52:35] 61 shows grabbed in 0.69 seconds
-[                   ]
-[01-07-2024 01:52:35] (8/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:35] Channel id: 15
-[01-07-2024 01:52:35] Xmltv id: SETHD.in
-[01-07-2024 01:52:36] 58 shows grabbed in 0.98 seconds
-[                   ]
-[01-07-2024 01:52:36] (9/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:36] Channel id: 48
-[01-07-2024 01:52:36] Xmltv id: SONYSABHD.in
-[01-07-2024 01:52:37] 96 shows grabbed in 0.71 seconds
-[                   ]
-[01-07-2024 01:52:37] (10/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:37] Channel id: 40
-[01-07-2024 01:52:37] Xmltv id: &tvHD.in
-[01-07-2024 01:52:37] 76 shows grabbed in 0.70 seconds
-[                   ]
-[01-07-2024 01:52:37] (11/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:37] Channel id: 63
-[01-07-2024 01:52:37] Xmltv id: ZeeTVHD.in
-[01-07-2024 01:52:38] 124 shows grabbed in 0.75 seconds
-[                   ]
-[01-07-2024 01:52:38] (12/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:38] Channel id: 52
-[01-07-2024 01:52:38] Xmltv id: ColorsHD.in
-[01-07-2024 01:52:39] 55 shows grabbed in 0.66 seconds
-[                   ]
-[01-07-2024 01:52:39] (13/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:39] Channel id: 1276
-[01-07-2024 01:52:39] Xmltv id: InvestigationDiscoveryHD.in
-[01-07-2024 01:52:40] 64 shows grabbed in 0.98 seconds
-[                   ]
-[01-07-2024 01:52:40] (14/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:40] Channel id: 438
-[01-07-2024 01:52:40] Xmltv id: ColorsRishtey.in
-[01-07-2024 01:52:40] 49 shows grabbed in 0.64 seconds
-[                   ]
-[01-07-2024 01:52:40] (15/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:40] Channel id: 554
-[01-07-2024 01:52:40] Xmltv id: SonyPal.in
-[01-07-2024 01:52:41] 82 shows grabbed in 0.73 seconds
-[                   ]
-[01-07-2024 01:52:41] (16/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:41] Channel id: 1184
-[01-07-2024 01:52:41] Xmltv id: NAZARA.in
-[01-07-2024 01:52:42] 68 shows grabbed in 0.65 seconds
-[                   ]
-[01-07-2024 01:52:42] (17/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:42] Channel id: 502
-[01-07-2024 01:52:42] Xmltv id: ZeeCafeHD.in
-[01-07-2024 01:52:42] 66 shows grabbed in 0.63 seconds
-[                   ]
-[01-07-2024 01:52:42] (18/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:42] Channel id: 187
-[01-07-2024 01:52:42] Xmltv id: ColorsInfinityHD.in
-[01-07-2024 01:52:43] 54 shows grabbed in 0.66 seconds
-[                   ]
-[01-07-2024 01:52:43] (19/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:43] Channel id: 307
-[01-07-2024 01:52:43] Xmltv id: ComedyCentralHD.in
-[01-07-2024 01:52:44] 98 shows grabbed in 0.71 seconds
-[                   ]
-[01-07-2024 01:52:44] (20/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:44] Channel id: 486
-[01-07-2024 01:52:44] Xmltv id: TataPlayBollywoodPremiere.in
-[01-07-2024 01:52:44] 47 shows grabbed in 0.63 seconds
-[                   ]
-[01-07-2024 01:52:44] (21/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:44] Channel id: 245
-[01-07-2024 01:52:44] Xmltv id: STARGOLDHD.in
-[01-07-2024 01:52:45] 22 shows grabbed in 0.61 seconds
-[                   ]
-[01-07-2024 01:52:45] (22/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:45] Channel id: 80
-[01-07-2024 01:52:45] Xmltv id: SONYMAXHD.in
-[01-07-2024 01:52:45] 20 shows grabbed in 0.57 seconds
-[                   ]
-[01-07-2024 01:52:45] (23/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:45] Channel id: 503
-[01-07-2024 01:52:45] Xmltv id: ZeeCinemaHD.in
-[01-07-2024 01:52:46] 16 shows grabbed in 0.53 seconds
-[                   ]
-[01-07-2024 01:52:46] (24/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:46] Channel id: 666
-[01-07-2024 01:52:46] Xmltv id: TataPlayTheatreHD.in
-[01-07-2024 01:52:47] 30 shows grabbed in 0.61 seconds
-[                   ]
-[01-07-2024 01:52:47] (25/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:47] Channel id: 267
-[01-07-2024 01:52:47] Xmltv id: &picturesHD.in
-[01-07-2024 01:52:47] 21 shows grabbed in 0.58 seconds
-[                   ]
-[01-07-2024 01:52:47] (26/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:47] Channel id: 1183
-[01-07-2024 01:52:47] Xmltv id: &XplorHD.in
-[01-07-2024 01:52:48] 18 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:52:48] (27/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:48] Channel id: 61
-[01-07-2024 01:52:48] Xmltv id: ColorsCineplexHD.in
-[01-07-2024 01:52:48] 21 shows grabbed in 0.57 seconds
-[                   ]
-[01-07-2024 01:52:48] (28/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:48] Channel id: 56
-[01-07-2024 01:52:48] Xmltv id: SonyWah.in
-[01-07-2024 01:52:49] 32 shows grabbed in 0.58 seconds
-[                   ]
-[01-07-2024 01:52:49] (29/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:49] Channel id: 120
-[01-07-2024 01:52:49] Xmltv id: SONYMAX2.in
-[01-07-2024 01:52:50] 16 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:52:50] (30/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:50] Channel id: 1025
-[01-07-2024 01:52:50] Xmltv id: ColorsCineplexSuperhits.in
-[01-07-2024 01:52:50] 19 shows grabbed in 0.57 seconds
-[                   ]
-[01-07-2024 01:52:50] (31/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:50] Channel id: 1000
-[01-07-2024 01:52:50] Xmltv id: ColorsCineplexBollywood.in
-[01-07-2024 01:52:51] 16 shows grabbed in 0.60 seconds
-[                   ]
-[01-07-2024 01:52:51] (32/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:51] Channel id: 32
-[01-07-2024 01:52:51] Xmltv id: SONYPIXHD.in
-[01-07-2024 01:52:51] 23 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:52:51] (33/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:51] Channel id: 506
-[01-07-2024 01:52:51] Xmltv id: &FlixHD.in
-[01-07-2024 01:52:52] 19 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:52:52] (34/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:52] Channel id: 562
-[01-07-2024 01:52:52] Xmltv id: MoviesNowHD.in
-[01-07-2024 01:52:52] 36 shows grabbed in 0.61 seconds
-[                   ]
-[01-07-2024 01:52:52] (35/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:52] Channel id: 210
-[01-07-2024 01:52:52] Xmltv id: MN+HD.in
-[01-07-2024 01:52:53] 34 shows grabbed in 0.63 seconds
-[                   ]
-[01-07-2024 01:52:53] (36/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:53] Channel id: 599
-[01-07-2024 01:52:53] Xmltv id: MNXHD.in
-[01-07-2024 01:52:54] 32 shows grabbed in 0.90 seconds
-[                   ]
-[01-07-2024 01:52:54] (37/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:54] Channel id: 530
-[01-07-2024 01:52:54] Xmltv id: &PriveHD.in
-[01-07-2024 01:52:55] 28 shows grabbed in 0.62 seconds
-[                   ]
-[01-07-2024 01:52:55] (38/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:55] Channel id: 78
-[01-07-2024 01:52:55] Xmltv id: StarSports1HD.in
-[01-07-2024 01:52:55] 98 shows grabbed in 0.72 seconds
-[                   ]
-[01-07-2024 01:52:55] (39/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:55] Channel id: 235
-[01-07-2024 01:52:55] Xmltv id: StarSports2HD.in
-[01-07-2024 01:52:56] 61 shows grabbed in 0.65 seconds
-[                   ]
-[01-07-2024 01:52:56] (40/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:56] Channel id: 24
-[01-07-2024 01:52:56] Xmltv id: StarSports1HindiHD.in
-[01-07-2024 01:52:57] 64 shows grabbed in 0.67 seconds
-[                   ]
-[01-07-2024 01:52:57] (41/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:57] Channel id: 246
-[01-07-2024 01:52:57] Xmltv id: StarSportsSelect1HD.in
-[01-07-2024 01:52:57] 48 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:52:57] (42/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:57] Channel id: 463
-[01-07-2024 01:52:57] Xmltv id: StarSportsSelect2HD.in
-[01-07-2024 01:52:58] 46 shows grabbed in 0.65 seconds
-[                   ]
-[01-07-2024 01:52:58] (43/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:58] Channel id: 81
-[01-07-2024 01:52:58] Xmltv id: SONYSPORTSTEN1HD.in
-[01-07-2024 01:52:59] 33 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:52:59] (44/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:59] Channel id: 462
-[01-07-2024 01:52:59] Xmltv id: SONYSPORTSTEN2HD.in
-[01-07-2024 01:52:59] 54 shows grabbed in 0.63 seconds
-[                   ]
-[01-07-2024 01:52:59] (45/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:52:59] Channel id: 464
-[01-07-2024 01:52:59] Xmltv id: SONYSPORTSTEN3HD.in
-[01-07-2024 01:53:00] 37 shows grabbed in 0.83 seconds
-[                   ]
-[01-07-2024 01:53:00] (46/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:00] Channel id: 35
-[01-07-2024 01:53:00] Xmltv id: SONYSPORTSTEN5HD.in
-[01-07-2024 01:53:01] 48 shows grabbed in 0.62 seconds
-[                   ]
-[01-07-2024 01:53:01] (47/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:01] Channel id: 1033
-[01-07-2024 01:53:01] Xmltv id: Sports18-1HD.in
-[01-07-2024 01:53:01] 97 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:01] (48/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:01] Channel id: 812
-[01-07-2024 01:53:01] Xmltv id: EurosportHD.in
-[01-07-2024 01:53:02] 24 shows grabbed in 0.57 seconds
-[                   ]
-[01-07-2024 01:53:02] (49/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:02] Channel id: 691
-[01-07-2024 01:53:02] Xmltv id: DDNewsHD.in
-[01-07-2024 01:53:03] 68 shows grabbed in 0.65 seconds
-[                   ]
-[01-07-2024 01:53:03] (50/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:03] Channel id: 177
-[01-07-2024 01:53:03] Xmltv id: ABPNews.in
-[01-07-2024 01:53:03] 99 shows grabbed in 0.69 seconds
-[                   ]
-[01-07-2024 01:53:03] (51/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:03] Channel id: 179
-[01-07-2024 01:53:03] Xmltv id: NDTVIndia.in
-[01-07-2024 01:53:04] 47 shows grabbed in 0.61 seconds
-[                   ]
-[01-07-2024 01:53:04] (52/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:04] Channel id: 153
-[01-07-2024 01:53:04] Xmltv id: AajTak.in
-[01-07-2024 01:53:05] 116 shows grabbed in 0.77 seconds
-[                   ]
-[01-07-2024 01:53:05] (53/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:05] Channel id: 259
-[01-07-2024 01:53:05] Xmltv id: ZeeNews.in
-[01-07-2024 01:53:05] 95 shows grabbed in 0.66 seconds
-[                   ]
-[01-07-2024 01:53:05] (54/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:05] Channel id: 36
-[01-07-2024 01:53:05] Xmltv id: NewsNation.in
-[01-07-2024 01:53:06] 94 shows grabbed in 0.72 seconds
-[                   ]
-[01-07-2024 01:53:06] (55/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:06] Channel id: 104
-[01-07-2024 01:53:06] Xmltv id: IndiaTV.in
-[01-07-2024 01:53:07] 76 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:07] (56/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:07] Channel id: 209
-[01-07-2024 01:53:07] Xmltv id: News24.in
-[01-07-2024 01:53:07] 94 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:07] (57/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:07] Channel id: 106
-[01-07-2024 01:53:07] Xmltv id: News18India.in
-[01-07-2024 01:53:08] 34 shows grabbed in 0.57 seconds
-[                   ]
-[01-07-2024 01:53:08] (58/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:08] Channel id: 696
-[01-07-2024 01:53:08] Xmltv id: RBharat.in
-[01-07-2024 01:53:09] 96 shows grabbed in 0.70 seconds
-[                   ]
-[01-07-2024 01:53:09] (59/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:09] Channel id: 706
-[01-07-2024 01:53:09] Xmltv id: TV9Bharatvarsh.in
-[01-07-2024 01:53:09] 78 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:09] (60/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:09] Channel id: 932
-[01-07-2024 01:53:09] Xmltv id: TimesNowNavbharatHD.in
-[01-07-2024 01:53:10] 43 shows grabbed in 0.61 seconds
-[                   ]
-[01-07-2024 01:53:10] (61/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:10] Channel id: 1010
-[01-07-2024 01:53:10] Xmltv id: Bharat24.in
-[01-07-2024 01:53:11] 90 shows grabbed in 0.71 seconds
-[                   ]
-[01-07-2024 01:53:11] (62/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:11] Channel id: 1368
-[01-07-2024 01:53:11] Xmltv id: SansadTV1HD.in
-[01-07-2024 01:53:12] 121 shows grabbed in 1.25 seconds
-[                   ]
-[01-07-2024 01:53:12] (63/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:12] Channel id: 1032
-[01-07-2024 01:53:12] Xmltv id: SansadTV2HD.in
-[01-07-2024 01:53:13] 97 shows grabbed in 0.66 seconds
-[                   ]
-[01-07-2024 01:53:13] (64/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:13] Channel id: 260
-[01-07-2024 01:53:13] Xmltv id: ZeeBusiness.in
-[01-07-2024 01:53:13] 94 shows grabbed in 0.70 seconds
-[                   ]
-[01-07-2024 01:53:13] (65/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:13] Channel id: 204
-[01-07-2024 01:53:13] Xmltv id: CNBCAwaaz.in
-[01-07-2024 01:53:14] 107 shows grabbed in 0.97 seconds
-[                   ]
-[01-07-2024 01:53:14] (66/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:14] Channel id: 950
-[01-07-2024 01:53:14] Xmltv id: ETNowSwadesh.in
-[01-07-2024 01:53:15] 88 shows grabbed in 0.71 seconds
-[                   ]
-[01-07-2024 01:53:15] (67/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:15] Channel id: 1
-[01-07-2024 01:53:15] Xmltv id: INDIATODAY.in
-[01-07-2024 01:53:16] 94 shows grabbed in 0.71 seconds
-[                   ]
-[01-07-2024 01:53:16] (68/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:16] Channel id: 206
-[01-07-2024 01:53:16] Xmltv id: CNNNews18.in
-[01-07-2024 01:53:16] 59 shows grabbed in 0.64 seconds
-[                   ]
-[01-07-2024 01:53:16] (69/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:16] Channel id: 189
-[01-07-2024 01:53:16] Xmltv id: NewsX.in
-[01-07-2024 01:53:17] 64 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:17] (70/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:17] Channel id: 255
-[01-07-2024 01:53:17] Xmltv id: WION.in
-[01-07-2024 01:53:18] 96 shows grabbed in 0.74 seconds
-[                   ]
-[01-07-2024 01:53:18] (71/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:18] Channel id: 72
-[01-07-2024 01:53:18] Xmltv id: REPUBLICTV.in
-[01-07-2024 01:53:18] 65 shows grabbed in 0.66 seconds
-[                   ]
-[01-07-2024 01:53:18] (72/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:18] Channel id: 304
-[01-07-2024 01:53:18] Xmltv id: CNBCTV18.in
-[01-07-2024 01:53:19] 38 shows grabbed in 0.60 seconds
-[                   ]
-[01-07-2024 01:53:19] (73/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:19] Channel id: 324
-[01-07-2024 01:53:19] Xmltv id: DDIndia.in
-[01-07-2024 01:53:20] 76 shows grabbed in 0.67 seconds
-[                   ]
-[01-07-2024 01:53:20] (74/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:20] Channel id: 93
-[01-07-2024 01:53:20] Xmltv id: NDTVProfit.in
-[01-07-2024 01:53:20] 88 shows grabbed in 0.72 seconds
-[                   ]
-[01-07-2024 01:53:20] (75/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:20] Channel id: 79
-[01-07-2024 01:53:20] Xmltv id: News18UttarPradeshUttarakhand.in
-[01-07-2024 01:53:21] 70 shows grabbed in 0.64 seconds
-[                   ]
-[01-07-2024 01:53:21] (76/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:21] Channel id: 613
-[01-07-2024 01:53:21] Xmltv id: NewsState.in
-[01-07-2024 01:53:22] 96 shows grabbed in 0.72 seconds
-[                   ]
-[01-07-2024 01:53:22] (77/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:22] Channel id: 1267
-[01-07-2024 01:53:22] Xmltv id: HNNNews.in
-[01-07-2024 01:53:22] 74 shows grabbed in 0.69 seconds
-[                   ]
-[01-07-2024 01:53:22] (78/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:22] Channel id: 637
-[01-07-2024 01:53:22] Xmltv id: ZeeUttarPradeshUttarakhand.in
-[01-07-2024 01:53:23] 96 shows grabbed in 0.70 seconds
-[                   ]
-[01-07-2024 01:53:23] (79/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:23] Channel id: 587
-[01-07-2024 01:53:23] Xmltv id: SuperHungama.in
-[01-07-2024 01:53:24] 136 shows grabbed in 0.77 seconds
-[                   ]
-[01-07-2024 01:53:24] (80/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:24] Channel id: 114
-[01-07-2024 01:53:24] Xmltv id: Disney.in
-[01-07-2024 01:53:25] 161 shows grabbed in 0.82 seconds
-[                   ]
-[01-07-2024 01:53:25] (81/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:25] Channel id: 433
-[01-07-2024 01:53:25] Xmltv id: NickHD+.in
-[01-07-2024 01:53:25] 58 shows grabbed in 0.62 seconds
-[                   ]
-[01-07-2024 01:53:25] (82/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:25] Channel id: 138
-[01-07-2024 01:53:25] Xmltv id: Nick.in
-[01-07-2024 01:53:26] 28 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:53:26] (83/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:26] Channel id: 681
-[01-07-2024 01:53:26] Xmltv id: CartoonNetworkHD+.in
-[01-07-2024 01:53:26] 49 shows grabbed in 0.62 seconds
-[                   ]
-[01-07-2024 01:53:26] (84/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:26] Channel id: 238
-[01-07-2024 01:53:26] Xmltv id: CartoonNetwork.in
-[01-07-2024 01:53:27] 51 shows grabbed in 0.66 seconds
-[                   ]
-[01-07-2024 01:53:27] (85/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:27] Channel id: 239
-[01-07-2024 01:53:27] Xmltv id: Pogo.in
-[01-07-2024 01:53:28] 113 shows grabbed in 0.74 seconds
-[                   ]
-[01-07-2024 01:53:28] (86/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:28] Channel id: 119
-[01-07-2024 01:53:28] Xmltv id: DiscoveryKids.in
-[01-07-2024 01:53:29] 199 shows grabbed in 0.87 seconds
-[                   ]
-[01-07-2024 01:53:29] (87/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:29] Channel id: 127
-[01-07-2024 01:53:29] Xmltv id: SonicNickelodeon.in
-[01-07-2024 01:53:29] 22 shows grabbed in 0.64 seconds
-[                   ]
-[01-07-2024 01:53:29] (88/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:29] Channel id: 45
-[01-07-2024 01:53:29] Xmltv id: SONYYAY!.in
-[01-07-2024 01:53:31] 244 shows grabbed in 1.25 seconds
-[                   ]
-[01-07-2024 01:53:31] (89/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:31] Channel id: 867
-[01-07-2024 01:53:31] Xmltv id: Gubbare.in
-[01-07-2024 01:53:31] 22 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:53:31] (90/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:31] Channel id: 1181
-[01-07-2024 01:53:31] Xmltv id: NickJr.in
-[01-07-2024 01:53:32] 18 shows grabbed in 0.59 seconds
-[                   ]
-[01-07-2024 01:53:32] (91/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:32] Channel id: 144
-[01-07-2024 01:53:32] Xmltv id: DisneyJunior.in
-[01-07-2024 01:53:33] 145 shows grabbed in 0.78 seconds
-[                   ]
-[01-07-2024 01:53:33] (92/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:33] Channel id: 605
-[01-07-2024 01:53:33] Xmltv id: NationalGeographicHD.in
-[01-07-2024 01:53:33] 55 shows grabbed in 0.65 seconds
-[                   ]
-[01-07-2024 01:53:33] (93/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:33] Channel id: 413
-[01-07-2024 01:53:33] Xmltv id: NatGeoWildHD.in
-[01-07-2024 01:53:34] 49 shows grabbed in 0.62 seconds
-[                   ]
-[01-07-2024 01:53:34] (94/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:34] Channel id: 341
-[01-07-2024 01:53:34] Xmltv id: DiscoveryHDWorld.in
-[01-07-2024 01:53:35] 62 shows grabbed in 0.89 seconds
-[                   ]
-[01-07-2024 01:53:35] (95/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:35] Channel id: 287
-[01-07-2024 01:53:35] Xmltv id: AnimalPlanetHDWorld.in
-[01-07-2024 01:53:35] 68 shows grabbed in 0.72 seconds
-[                   ]
-[01-07-2024 01:53:35] (96/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:35] Channel id: 616
-[01-07-2024 01:53:35] Xmltv id: HistoryTV18HD.in
-[01-07-2024 01:53:36] 100 shows grabbed in 0.74 seconds
-[                   ]
-[01-07-2024 01:53:36] (97/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:36] Channel id: 460
-[01-07-2024 01:53:36] Xmltv id: SONYBBCEarthHD.in
-[01-07-2024 01:53:37] 75 shows grabbed in 0.69 seconds
-[                   ]
-[01-07-2024 01:53:37] (98/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:37] Channel id: 923
-[01-07-2024 01:53:37] Xmltv id: TravelXP4KHDR.in
-[01-07-2024 01:53:38] 97 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:38] (99/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:38] Channel id: 126
-[01-07-2024 01:53:38] Xmltv id: EPIC.in
-[01-07-2024 01:53:38] 71 shows grabbed in 0.65 seconds
-[                   ]
-[01-07-2024 01:53:38] (100/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:38] Channel id: 367
-[01-07-2024 01:53:38] Xmltv id: StarLifeHD.in
-[01-07-2024 01:53:39] 72 shows grabbed in 0.77 seconds
-[                   ]
-[01-07-2024 01:53:39] (101/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:39] Channel id: 480
-[01-07-2024 01:53:39] Xmltv id: TLCHD.in
-[01-07-2024 01:53:40] 71 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:40] (102/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:40] Channel id: 484
-[01-07-2024 01:53:40] Xmltv id: TravelxpHD.in
-[01-07-2024 01:53:40] 98 shows grabbed in 0.71 seconds
-[                   ]
-[01-07-2024 01:53:40] (103/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:40] Channel id: 382
-[01-07-2024 01:53:40] Xmltv id: ZeeZestHD.in
-[01-07-2024 01:53:41] 115 shows grabbed in 0.74 seconds
-[                   ]
-[01-07-2024 01:53:41] (104/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:41] Channel id: 406
-[01-07-2024 01:53:41] Xmltv id: MTVHD.in
-[01-07-2024 01:53:42] 46 shows grabbed in 0.65 seconds
-[                   ]
-[01-07-2024 01:53:42] (105/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:42] Channel id: 139
-[01-07-2024 01:53:42] Xmltv id: 9XM.in
-[01-07-2024 01:53:43] 98 shows grabbed in 0.74 seconds
-[                   ]
-[01-07-2024 01:53:43] (106/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:43] Channel id: 405
-[01-07-2024 01:53:43] Xmltv id: MTVBeatsHD.in
-[01-07-2024 01:53:43] 32 shows grabbed in 0.62 seconds
-[                   ]
-[01-07-2024 01:53:43] (107/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:43] Channel id: 39
-[01-07-2024 01:53:43] Xmltv id: 9XJalwa.in
-[01-07-2024 01:53:44] 84 shows grabbed in 0.69 seconds
-[                   ]
-[01-07-2024 01:53:44] (108/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:44] Channel id: 733
-[01-07-2024 01:53:44] Xmltv id: Showbox.in
-[01-07-2024 01:53:45] 63 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:45] (109/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:45] Channel id: 539
-[01-07-2024 01:53:45] Xmltv id: VH1HD.in
-[01-07-2024 01:53:45] 39 shows grabbed in 0.72 seconds
-[                   ]
-[01-07-2024 01:53:45] (110/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:45] Channel id: 38
-[01-07-2024 01:53:45] Xmltv id: Aastha.in
-[01-07-2024 01:53:46] 65 shows grabbed in 0.68 seconds
-[                   ]
-[01-07-2024 01:53:46] (111/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:46] Channel id: 43
-[01-07-2024 01:53:46] Xmltv id: Sanskar.in
-[01-07-2024 01:53:47] 92 shows grabbed in 0.70 seconds
-[                   ]
-[01-07-2024 01:53:47] (112/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:47] Channel id: 456
-[01-07-2024 01:53:47] Xmltv id: SatsangTV.in
-[01-07-2024 01:53:47] 55 shows grabbed in 0.61 seconds
-[                   ]
-[01-07-2024 01:53:47] (113/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:47] Channel id: 458
-[01-07-2024 01:53:47] Xmltv id: ShubhTV.in
-[01-07-2024 01:53:48] 72 shows grabbed in 0.66 seconds
-[                   ]
-[01-07-2024 01:53:48] (114/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:48] Channel id: 283
-[01-07-2024 01:53:48] Xmltv id: AasthaBhajan.in
-[01-07-2024 01:53:49] 88 shows grabbed in 0.69 seconds
-[                   ]
-[01-07-2024 01:53:49] (115/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:49] Channel id: 500
-[01-07-2024 01:53:49] Xmltv id: Vedic.in
-[01-07-2024 01:53:49] 90 shows grabbed in 0.69 seconds
-[                   ]
-[01-07-2024 01:53:49] (116/151) Site: [ENC][EX]tataplay.com_0
-[01-07-2024 01:53:49] Channel id: 837
-[01-07-2024 01:53:49] Xmltv id: HareKrsna.in
-[01-07-2024 01:53:50] 87 shows grabbed in 0.72 seconds
-[                   ]
-[01-07-2024 01:53:50] (117/151) Site: [ENC]distro.tv_0
-[01-07-2024 01:53:50] Channel id: 64138
-[01-07-2024 01:53:50] Xmltv id: Arré.distro
-[01-07-2024 01:53:50] 9 shows reloaded in 0.00 seconds
-[01-07-2024 01:53:50] 123 shows grabbed in 0.27 seconds
-[                   ]
-[01-07-2024 01:53:50] (118/151) Site: [ENC]distro.tv_0
-[01-07-2024 01:53:50] Channel id: 87417
-[01-07-2024 01:53:50] Xmltv id: BollywoodClassicHD.distro
-[01-07-2024 01:53:50] 18 shows grabbed in 0.16 seconds
-[                   ]
-[01-07-2024 01:53:50] (119/151) Site: [ENC]distro.tv_0
-[01-07-2024 01:53:50] Channel id: 87418
-[01-07-2024 01:53:50] Xmltv id: BollywoodHD.distro
-[01-07-2024 01:53:51] 21 shows grabbed in 0.17 seconds
-[                   ]
-[01-07-2024 01:53:51] (120/151) Site: [ENC]distro.tv_0
-[01-07-2024 01:53:51] Channel id: 105576
-[01-07-2024 01:53:51] Xmltv id: KidsTVIndia.distro
-[01-07-2024 01:53:51] 992 shows grabbed in 0.87 seconds
-[                   ]
-[01-07-2024 01:53:51] (121/151) Site: [ENC]distro.tv_0
-[01-07-2024 01:53:51] Channel id: 123695
-[01-07-2024 01:53:51] Xmltv id: ShemarooBollywood.us
-[01-07-2024 01:53:52] 12 shows grabbed in 0.14 seconds
-[                   ]
-[01-07-2024 01:53:52] (122/151) Site: astro.afqad_0
-[01-07-2024 01:53:52] Channel id: ColorsHD
-[01-07-2024 01:53:52] Xmltv id: ColorsHindiHD.my
-[01-07-2024 01:53:53] 94 shows grabbed in 1.32 seconds
-[                   ]
-[01-07-2024 01:53:53] (123/151) Site: astro.afqad_0
-[01-07-2024 01:53:53] Channel id: ZeeCinema
-[01-07-2024 01:53:53] Xmltv id: ZeeCinema.my
-[01-07-2024 01:53:53] 15 shows grabbed in 0.12 seconds
-[                   ]
-[01-07-2024 01:53:53] (124/151) Site: astro.afqad_0
-[01-07-2024 01:53:53] Channel id: HITSMovies
-[01-07-2024 01:53:53] Xmltv id: HITSMoviesHD.my
-[01-07-2024 01:53:53] 21 shows grabbed in 0.13 seconds
-[                   ]
-[01-07-2024 01:53:53] (125/151) Site: astro.afqad_0
-[01-07-2024 01:53:53] Channel id: BOO
-[01-07-2024 01:53:53] Xmltv id: BOOHD.my
-[01-07-2024 01:53:53] 30 shows grabbed in 0.15 seconds
-[                   ]
-[01-07-2024 01:53:53] (126/151) Site: astro.afqad_0
-[01-07-2024 01:53:53] Channel id: HBO
-[01-07-2024 01:53:53] Xmltv id: HBOHD.my
-[01-07-2024 01:53:53] 27 shows grabbed in 0.15 seconds
-[                   ]
-[01-07-2024 01:53:53] (127/151) Site: astro.afqad_0
-[01-07-2024 01:53:53] Channel id: Cinemax
-[01-07-2024 01:53:53] Xmltv id: CINEMAXHD.my
-[01-07-2024 01:53:54] 28 shows grabbed in 0.15 seconds
-[                   ]
-[01-07-2024 01:53:54] (128/151) Site: astro.afqad_0
-[01-07-2024 01:53:54] Channel id: Showcase
-[01-07-2024 01:53:54] Xmltv id: SHOWCASE.my
-[01-07-2024 01:53:54] 31 shows grabbed in 0.15 seconds
-[                   ]
-[01-07-2024 01:53:54] (129/151) Site: astro.afqad_0
-[01-07-2024 01:53:54] Channel id: HBOHits
-[01-07-2024 01:53:54] Xmltv id: HBOHits.my
-[01-07-2024 01:53:54] 27 shows grabbed in 0.14 seconds
-[                   ]
-[01-07-2024 01:53:54] (130/151) Site: astro.afqad_0
-[01-07-2024 01:53:54] Channel id: AXN
-[01-07-2024 01:53:54] Xmltv id: AXNHD.my
-[01-07-2024 01:53:54] 53 shows grabbed in 0.19 seconds
-[                   ]
-[01-07-2024 01:53:54] (131/151) Site: astro.afqad_0
-[01-07-2024 01:53:54] Channel id: WarnerTV
-[01-07-2024 01:53:54] Xmltv id: WarnerTVHD.my
-[01-07-2024 01:53:54] 78 shows grabbed in 0.24 seconds
-[                   ]
-[01-07-2024 01:53:54] (132/151) Site: astro.afqad_0
-[01-07-2024 01:53:54] Channel id: W-Sport
-[01-07-2024 01:53:54] Xmltv id: W-Sport.my
-[01-07-2024 01:53:54] 29 shows grabbed in 0.15 seconds
-[                   ]
-[01-07-2024 01:53:54] (133/151) Site: astro.afqad_0
-[01-07-2024 01:53:54] Channel id: Eurosport
-[01-07-2024 01:53:54] Xmltv id: Eurosport.my
-[01-07-2024 01:53:55] 40 shows grabbed in 0.17 seconds
-[                   ]
-[01-07-2024 01:53:55] (134/151) Site: astro.afqad_0
-[01-07-2024 01:53:55] Channel id: WWENetwork
-[01-07-2024 01:53:55] Xmltv id: WWENetwork.my
-[01-07-2024 01:53:55] 37 shows grabbed in 0.17 seconds
-[                   ]
-[01-07-2024 01:53:55] (135/151) Site: astro.afqad_0
-[01-07-2024 01:53:55] Channel id: PremierSports
-[01-07-2024 01:53:55] Xmltv id: PremierSports.my
-[01-07-2024 01:53:55] 60 shows grabbed in 0.18 seconds
-[                   ]
-[01-07-2024 01:53:55] (136/151) Site: astro.afqad_0
-[01-07-2024 01:53:55] Channel id: AstroCricket
-[01-07-2024 01:53:55] Xmltv id: AstroCricketHD.my
-[01-07-2024 01:53:55] 21 shows grabbed in 0.13 seconds
-[                   ]
-[01-07-2024 01:53:55] (137/151) Site: jiotv.simper_0
-[01-07-2024 01:53:55] Channel id: 732
-[01-07-2024 01:53:55] Xmltv id: 9XTashan.in
-[01-07-2024 01:53:58] 100 shows grabbed in 2.59 seconds
-[                   ]
-[01-07-2024 01:53:58] (138/151) Site: jiotv.simper_0
-[01-07-2024 01:53:58] Channel id: 887
-[01-07-2024 01:53:58] Xmltv id: SwarShree.in
-[01-07-2024 01:53:59] 111 shows grabbed in 1.30 seconds
-[                   ]
-[01-07-2024 01:53:59] (139/151) Site: jiotv.simper_0
-[01-07-2024 01:53:59] Channel id: 1192
-[01-07-2024 01:53:59] Xmltv id: BritAsiaTV.uk
-[01-07-2024 01:54:00] 51 shows grabbed in 1.25 seconds
-[                   ]
-[01-07-2024 01:54:00] (140/151) Site: jiotv.simper_0
-[01-07-2024 01:54:00] Channel id: 1205
-[01-07-2024 01:54:00] Xmltv id: ABPGanga.in
-[01-07-2024 01:54:02] 103 shows grabbed in 1.30 seconds
-[                   ]
-[01-07-2024 01:54:02] (141/151) Site: jiotv.simper_0
-[01-07-2024 01:54:02] Channel id: 1248
-[01-07-2024 01:54:02] Xmltv id: BolHadippa.in
-[01-07-2024 01:54:03] 19 shows grabbed in 1.13 seconds
-[                   ]
-[01-07-2024 01:54:03] (142/151) Site: jiotv.simper_0
-[01-07-2024 01:54:03] Channel id: 1249
-[01-07-2024 01:54:03] Xmltv id: KadakHits.in
-[01-07-2024 01:54:04] 21 shows grabbed in 1.12 seconds
-[                   ]
-[01-07-2024 01:54:04] (143/151) Site: jiotv.simper_0
-[01-07-2024 01:54:04] Channel id: 2036
-[01-07-2024 01:54:04] Xmltv id: DilSe.in
-[01-07-2024 01:54:05] 13 shows grabbed in 1.13 seconds
-[                   ]
-[01-07-2024 01:54:05] (144/151) Site: jiotv.simper_0
-[01-07-2024 01:54:05] Channel id: 2037
-[01-07-2024 01:54:05] Xmltv id: PopPataka.in
-[01-07-2024 01:54:06] 24 shows grabbed in 1.14 seconds
-[                   ]
-[01-07-2024 01:54:06] (145/151) Site: jiotv.simper_0
-[01-07-2024 01:54:06] Channel id: 2041
-[01-07-2024 01:54:06] Xmltv id: BhaktiSagar.in
-[01-07-2024 01:54:07] 12 shows grabbed in 1.10 seconds
-[                   ]
-[01-07-2024 01:54:07] (146/151) Site: jiotv.simper_0
-[01-07-2024 01:54:07] Channel id: 2043
-[01-07-2024 01:54:07] Xmltv id: ArtistAloud.in
-[01-07-2024 01:54:08] 15 shows grabbed in 1.16 seconds
-[                   ]
-[01-07-2024 01:54:08] (147/151) Site: jiotv.simper_0
-[01-07-2024 01:54:08] Channel id: 2064
-[01-07-2024 01:54:08] Xmltv id: MerchantRecords.in
-[01-07-2024 01:54:10] 51 shows grabbed in 1.24 seconds
-[                   ]
-[01-07-2024 01:54:10] (148/151) Site: jiotv.simper_0
-[01-07-2024 01:54:10] Channel id: 2065
-[01-07-2024 01:54:10] Xmltv id: SaregamaMusic.in
-[01-07-2024 01:54:11] 48 shows grabbed in 1.21 seconds
-[                   ]
-[01-07-2024 01:54:11] (149/151) Site: jiotv.simper_0
-[01-07-2024 01:54:11] Channel id: 2252
-[01-07-2024 01:54:11] Xmltv id: DesiMusicStation.in
-[01-07-2024 01:54:12] 51 shows grabbed in 1.22 seconds
-[                   ]
-[01-07-2024 01:54:12] (150/151) Site: jiotv.simper_0
-[01-07-2024 01:54:12] Channel id: 2753
-[01-07-2024 01:54:12] Xmltv id: YRFMusic.in
-[01-07-2024 01:54:13] 47 shows grabbed in 1.23 seconds
-[                   ]
-[01-07-2024 01:54:13] (151/151) Site: jiotv.simper_0
-[01-07-2024 01:54:13] Channel id: 2762
-[01-07-2024 01:54:13] Xmltv id: HollywoodDesi.distro
-[01-07-2024 01:54:14] 17 shows grabbed in 1.14 seconds
-[                   ]
-[01-07-2024 01:54:15] Grabbing completed...
-[01-07-2024 01:54:15] 10294 shows grabbed in 1 minute 47.09 seconds (107.09 seconds)
+[02-07-2024 01:43:33] Tempest Version : rv1.7.0.0-2405061442
+[02-07-2024 01:43:33] System Info : Linux fv-az1114-330 6.5.0-1022-azure #23~22.04.1-Ubuntu SMP Thu May  9 17:59:24 UTC 2024 x86_64
+[02-07-2024 01:43:33] PHP Version : 8.3.8
+[02-07-2024 01:43:33] Server Info : Command Line Interface (Cli)
+[02-07-2024 01:43:33] Initializing...
+[02-07-2024 01:43:33] Checking required modules...
+[02-07-2024 01:43:33] Inverter mode enabled...
+[02-07-2024 01:43:33] Fusion mode (Level 0) enabled...
+[02-07-2024 01:43:33] tempest_original.xml generated...
+[02-07-2024 01:43:33] Grabbing started for 2 days
+[                   ]
+[02-07-2024 01:43:33] (1/151) Site: [ENC][EX]singtel.com_0
+[02-07-2024 01:43:33] Channel id: 6421
+[02-07-2024 01:43:33] Xmltv id: HBOSignatureHD.my
+[02-07-2024 01:43:34] 31 shows grabbed in 1.12 seconds
+[                   ]
+[02-07-2024 01:43:34] (2/151) Site: [ENC][EX]sky.com_0
+[02-07-2024 01:43:34] Channel id: 3625
+[02-07-2024 01:43:34] Xmltv id: TNTSports1HD.uk
+[02-07-2024 01:43:41] 41 shows grabbed in 6.13 seconds
+[                   ]
+[02-07-2024 01:43:41] (3/151) Site: [ENC][EX]sky.com_0
+[02-07-2024 01:43:41] Channel id: 3627
+[02-07-2024 01:43:41] Xmltv id: TNTSports2HD.uk
+[02-07-2024 01:43:41] 62 shows grabbed in 0.44 seconds
+[                   ]
+[02-07-2024 01:43:41] (4/151) Site: [ENC][EX]sky.com_0
+[02-07-2024 01:43:41] Channel id: 3629
+[02-07-2024 01:43:41] Xmltv id: TNTSports3HD.uk
+[02-07-2024 01:43:41] 58 shows grabbed in 0.41 seconds
+[                   ]
+[02-07-2024 01:43:41] (5/151) Site: [ENC][EX]sky.com_0
+[02-07-2024 01:43:41] Channel id: 4040
+[02-07-2024 01:43:41] Xmltv id: TNTSports4HD.uk
+[02-07-2024 01:43:42] 49 shows grabbed in 0.63 seconds
+[                   ]
+[02-07-2024 01:43:42] (6/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:42] Channel id: 8
+[02-07-2024 01:43:42] Xmltv id: STARPlusHD.in
+[02-07-2024 01:43:44] 60 shows grabbed in 2.30 seconds
+[                   ]
+[02-07-2024 01:43:44] (7/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:44] Channel id: 244
+[02-07-2024 01:43:44] Xmltv id: StarBharatHD.in
+[02-07-2024 01:43:45] 59 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:43:45] (8/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:45] Channel id: 15
+[02-07-2024 01:43:45] Xmltv id: SETHD.in
+[02-07-2024 01:43:46] 59 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:43:46] (9/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:46] Channel id: 48
+[02-07-2024 01:43:46] Xmltv id: SONYSABHD.in
+[02-07-2024 01:43:46] 96 shows grabbed in 0.73 seconds
+[                   ]
+[02-07-2024 01:43:46] (10/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:46] Channel id: 40
+[02-07-2024 01:43:46] Xmltv id: &tvHD.in
+[02-07-2024 01:43:47] 75 shows grabbed in 0.68 seconds
+[                   ]
+[02-07-2024 01:43:47] (11/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:47] Channel id: 63
+[02-07-2024 01:43:47] Xmltv id: ZeeTVHD.in
+[02-07-2024 01:43:48] 125 shows grabbed in 0.78 seconds
+[                   ]
+[02-07-2024 01:43:48] (12/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:48] Channel id: 52
+[02-07-2024 01:43:48] Xmltv id: ColorsHD.in
+[02-07-2024 01:43:48] 53 shows grabbed in 0.64 seconds
+[                   ]
+[02-07-2024 01:43:48] (13/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:48] Channel id: 1276
+[02-07-2024 01:43:48] Xmltv id: InvestigationDiscoveryHD.in
+[02-07-2024 01:43:49] 64 shows grabbed in 0.68 seconds
+[                   ]
+[02-07-2024 01:43:49] (14/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:49] Channel id: 438
+[02-07-2024 01:43:49] Xmltv id: ColorsRishtey.in
+[02-07-2024 01:43:50] 38 shows grabbed in 0.63 seconds
+[                   ]
+[02-07-2024 01:43:50] (15/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:50] Channel id: 554
+[02-07-2024 01:43:50] Xmltv id: SonyPal.in
+[02-07-2024 01:43:50] 82 shows grabbed in 0.70 seconds
+[                   ]
+[02-07-2024 01:43:50] (16/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:50] Channel id: 1184
+[02-07-2024 01:43:50] Xmltv id: NAZARA.in
+[02-07-2024 01:43:51] 68 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:43:51] (17/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:51] Channel id: 502
+[02-07-2024 01:43:51] Xmltv id: ZeeCafeHD.in
+[02-07-2024 01:43:53] 30 shows grabbed in 1.94 seconds
+[                   ]
+[02-07-2024 01:43:53] (18/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:53] Channel id: 187
+[02-07-2024 01:43:53] Xmltv id: ColorsInfinityHD.in
+[02-07-2024 01:43:54] 51 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:43:54] (19/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:54] Channel id: 307
+[02-07-2024 01:43:54] Xmltv id: ComedyCentralHD.in
+[02-07-2024 01:43:54] 100 shows grabbed in 0.73 seconds
+[                   ]
+[02-07-2024 01:43:54] (20/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:54] Channel id: 486
+[02-07-2024 01:43:54] Xmltv id: TataPlayBollywoodPremiere.in
+[02-07-2024 01:43:56] 23 shows grabbed in 1.36 seconds
+[                   ]
+[02-07-2024 01:43:56] (21/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:56] Channel id: 245
+[02-07-2024 01:43:56] Xmltv id: STARGOLDHD.in
+[02-07-2024 01:43:56] 19 shows grabbed in 0.58 seconds
+[                   ]
+[02-07-2024 01:43:56] (22/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:56] Channel id: 80
+[02-07-2024 01:43:56] Xmltv id: SONYMAXHD.in
+[02-07-2024 01:43:57] 21 shows grabbed in 0.58 seconds
+[                   ]
+[02-07-2024 01:43:57] (23/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:57] Channel id: 503
+[02-07-2024 01:43:57] Xmltv id: ZeeCinemaHD.in
+[02-07-2024 01:43:58] 22 shows grabbed in 0.61 seconds
+[                   ]
+[02-07-2024 01:43:58] (24/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:58] Channel id: 666
+[02-07-2024 01:43:58] Xmltv id: TataPlayTheatreHD.in
+[02-07-2024 01:43:59] 15 shows grabbed in 1.15 seconds
+[                   ]
+[02-07-2024 01:43:59] (25/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:59] Channel id: 267
+[02-07-2024 01:43:59] Xmltv id: &picturesHD.in
+[02-07-2024 01:43:59] 20 shows grabbed in 0.57 seconds
+[                   ]
+[02-07-2024 01:43:59] (26/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:43:59] Channel id: 1183
+[02-07-2024 01:43:59] Xmltv id: &XplorHD.in
+[02-07-2024 01:44:00] 22 shows grabbed in 0.58 seconds
+[                   ]
+[02-07-2024 01:44:00] (27/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:00] Channel id: 61
+[02-07-2024 01:44:00] Xmltv id: ColorsCineplexHD.in
+[02-07-2024 01:44:00] 17 shows grabbed in 0.57 seconds
+[                   ]
+[02-07-2024 01:44:00] (28/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:00] Channel id: 56
+[02-07-2024 01:44:00] Xmltv id: SonyWah.in
+[02-07-2024 01:44:01] 18 shows grabbed in 0.58 seconds
+[                   ]
+[02-07-2024 01:44:01] (29/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:01] Channel id: 120
+[02-07-2024 01:44:01] Xmltv id: SONYMAX2.in
+[02-07-2024 01:44:02] 22 shows grabbed in 0.59 seconds
+[                   ]
+[02-07-2024 01:44:02] (30/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:02] Channel id: 1025
+[02-07-2024 01:44:02] Xmltv id: ColorsCineplexSuperhits.in
+[02-07-2024 01:44:02] 18 shows grabbed in 0.56 seconds
+[                   ]
+[02-07-2024 01:44:02] (31/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:02] Channel id: 1000
+[02-07-2024 01:44:02] Xmltv id: ColorsCineplexBollywood.in
+[02-07-2024 01:44:03] 15 shows grabbed in 0.59 seconds
+[                   ]
+[02-07-2024 01:44:03] (32/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:03] Channel id: 32
+[02-07-2024 01:44:03] Xmltv id: SONYPIXHD.in
+[02-07-2024 01:44:08] 22 shows grabbed in 5.34 seconds
+[                   ]
+[02-07-2024 01:44:08] (33/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:08] Channel id: 506
+[02-07-2024 01:44:08] Xmltv id: &FlixHD.in
+[02-07-2024 01:44:09] 27 shows grabbed in 0.61 seconds
+[                   ]
+[02-07-2024 01:44:09] (34/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:09] Channel id: 562
+[02-07-2024 01:44:09] Xmltv id: MoviesNowHD.in
+[02-07-2024 01:44:09] 26 shows grabbed in 0.59 seconds
+[                   ]
+[02-07-2024 01:44:09] (35/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:09] Channel id: 210
+[02-07-2024 01:44:09] Xmltv id: MN+HD.in
+[02-07-2024 01:44:10] 35 shows grabbed in 0.60 seconds
+[                   ]
+[02-07-2024 01:44:10] (36/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:10] Channel id: 599
+[02-07-2024 01:44:10] Xmltv id: MNXHD.in
+[02-07-2024 01:44:10] 33 shows grabbed in 0.60 seconds
+[                   ]
+[02-07-2024 01:44:10] (37/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:10] Channel id: 530
+[02-07-2024 01:44:10] Xmltv id: &PriveHD.in
+[02-07-2024 01:44:11] 28 shows grabbed in 0.59 seconds
+[                   ]
+[02-07-2024 01:44:11] (38/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:11] Channel id: 78
+[02-07-2024 01:44:11] Xmltv id: StarSports1HD.in
+[02-07-2024 01:44:12] 99 shows grabbed in 0.72 seconds
+[                   ]
+[02-07-2024 01:44:12] (39/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:12] Channel id: 235
+[02-07-2024 01:44:12] Xmltv id: StarSports2HD.in
+[02-07-2024 01:44:12] 53 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:44:12] (40/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:12] Channel id: 24
+[02-07-2024 01:44:12] Xmltv id: StarSports1HindiHD.in
+[02-07-2024 01:44:13] 65 shows grabbed in 0.67 seconds
+[                   ]
+[02-07-2024 01:44:13] (41/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:13] Channel id: 246
+[02-07-2024 01:44:13] Xmltv id: StarSportsSelect1HD.in
+[02-07-2024 01:44:14] 48 shows grabbed in 0.67 seconds
+[                   ]
+[02-07-2024 01:44:14] (42/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:14] Channel id: 463
+[02-07-2024 01:44:14] Xmltv id: StarSportsSelect2HD.in
+[02-07-2024 01:44:14] 44 shows grabbed in 0.61 seconds
+[                   ]
+[02-07-2024 01:44:14] (43/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:14] Channel id: 81
+[02-07-2024 01:44:14] Xmltv id: SONYSPORTSTEN1HD.in
+[02-07-2024 01:44:15] 41 shows grabbed in 0.61 seconds
+[                   ]
+[02-07-2024 01:44:15] (44/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:15] Channel id: 462
+[02-07-2024 01:44:15] Xmltv id: SONYSPORTSTEN2HD.in
+[02-07-2024 01:44:16] 56 shows grabbed in 0.64 seconds
+[                   ]
+[02-07-2024 01:44:16] (45/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:16] Channel id: 464
+[02-07-2024 01:44:16] Xmltv id: SONYSPORTSTEN3HD.in
+[02-07-2024 01:44:16] 44 shows grabbed in 0.61 seconds
+[                   ]
+[02-07-2024 01:44:16] (46/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:16] Channel id: 35
+[02-07-2024 01:44:16] Xmltv id: SONYSPORTSTEN5HD.in
+[02-07-2024 01:44:17] 51 shows grabbed in 0.64 seconds
+[                   ]
+[02-07-2024 01:44:17] (47/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:17] Channel id: 1033
+[02-07-2024 01:44:17] Xmltv id: Sports18-1HD.in
+[02-07-2024 01:44:18] 127 shows grabbed in 0.81 seconds
+[                   ]
+[02-07-2024 01:44:18] (48/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:18] Channel id: 812
+[02-07-2024 01:44:18] Xmltv id: EurosportHD.in
+[02-07-2024 01:44:18] 28 shows grabbed in 0.59 seconds
+[                   ]
+[02-07-2024 01:44:18] (49/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:18] Channel id: 691
+[02-07-2024 01:44:18] Xmltv id: DDNewsHD.in
+[02-07-2024 01:44:19] 68 shows grabbed in 0.64 seconds
+[                   ]
+[02-07-2024 01:44:19] (50/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:19] Channel id: 177
+[02-07-2024 01:44:19] Xmltv id: ABPNews.in
+[02-07-2024 01:44:20] 98 shows grabbed in 0.73 seconds
+[                   ]
+[02-07-2024 01:44:20] (51/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:20] Channel id: 179
+[02-07-2024 01:44:20] Xmltv id: NDTVIndia.in
+[02-07-2024 01:44:20] 51 shows grabbed in 0.62 seconds
+[                   ]
+[02-07-2024 01:44:20] (52/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:20] Channel id: 153
+[02-07-2024 01:44:20] Xmltv id: AajTak.in
+[02-07-2024 01:44:21] 116 shows grabbed in 0.96 seconds
+[                   ]
+[02-07-2024 01:44:21] (53/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:21] Channel id: 259
+[02-07-2024 01:44:21] Xmltv id: ZeeNews.in
+[02-07-2024 01:44:22] 96 shows grabbed in 0.70 seconds
+[                   ]
+[02-07-2024 01:44:22] (54/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:22] Channel id: 36
+[02-07-2024 01:44:22] Xmltv id: NewsNation.in
+[02-07-2024 01:44:23] 94 shows grabbed in 0.70 seconds
+[                   ]
+[02-07-2024 01:44:23] (55/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:23] Channel id: 104
+[02-07-2024 01:44:23] Xmltv id: IndiaTV.in
+[02-07-2024 01:44:23] 74 shows grabbed in 0.69 seconds
+[                   ]
+[02-07-2024 01:44:23] (56/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:23] Channel id: 209
+[02-07-2024 01:44:23] Xmltv id: News24.in
+[02-07-2024 01:44:24] 94 shows grabbed in 1.10 seconds
+[                   ]
+[02-07-2024 01:44:24] (57/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:24] Channel id: 106
+[02-07-2024 01:44:24] Xmltv id: News18India.in
+[02-07-2024 01:44:25] 34 shows grabbed in 0.60 seconds
+[                   ]
+[02-07-2024 01:44:25] (58/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:25] Channel id: 696
+[02-07-2024 01:44:25] Xmltv id: RBharat.in
+[02-07-2024 01:44:26] 96 shows grabbed in 0.66 seconds
+[                   ]
+[02-07-2024 01:44:26] (59/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:26] Channel id: 706
+[02-07-2024 01:44:26] Xmltv id: TV9Bharatvarsh.in
+[02-07-2024 01:44:26] 78 shows grabbed in 0.66 seconds
+[                   ]
+[02-07-2024 01:44:26] (60/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:26] Channel id: 932
+[02-07-2024 01:44:26] Xmltv id: TimesNowNavbharatHD.in
+[02-07-2024 01:44:27] 48 shows grabbed in 0.60 seconds
+[                   ]
+[02-07-2024 01:44:27] (61/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:27] Channel id: 1010
+[02-07-2024 01:44:27] Xmltv id: Bharat24.in
+[02-07-2024 01:44:28] 90 shows grabbed in 0.69 seconds
+[                   ]
+[02-07-2024 01:44:28] (62/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:28] Channel id: 1368
+[02-07-2024 01:44:28] Xmltv id: SansadTV1HD.in
+[02-07-2024 01:44:28] 177 shows grabbed in 0.84 seconds
+[                   ]
+[02-07-2024 01:44:28] (63/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:28] Channel id: 1032
+[02-07-2024 01:44:28] Xmltv id: SansadTV2HD.in
+[02-07-2024 01:44:29] 123 shows grabbed in 0.75 seconds
+[                   ]
+[02-07-2024 01:44:29] (64/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:29] Channel id: 260
+[02-07-2024 01:44:29] Xmltv id: ZeeBusiness.in
+[02-07-2024 01:44:30] 94 shows grabbed in 0.70 seconds
+[                   ]
+[02-07-2024 01:44:30] (65/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:30] Channel id: 204
+[02-07-2024 01:44:30] Xmltv id: CNBCAwaaz.in
+[02-07-2024 01:44:31] 106 shows grabbed in 0.71 seconds
+[                   ]
+[02-07-2024 01:44:31] (66/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:31] Channel id: 950
+[02-07-2024 01:44:31] Xmltv id: ETNowSwadesh.in
+[02-07-2024 01:44:31] 78 shows grabbed in 0.67 seconds
+[                   ]
+[02-07-2024 01:44:31] (67/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:31] Channel id: 1
+[02-07-2024 01:44:31] Xmltv id: INDIATODAY.in
+[02-07-2024 01:44:32] 95 shows grabbed in 0.73 seconds
+[                   ]
+[02-07-2024 01:44:32] (68/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:32] Channel id: 206
+[02-07-2024 01:44:32] Xmltv id: CNNNews18.in
+[02-07-2024 01:44:33] 52 shows grabbed in 0.63 seconds
+[                   ]
+[02-07-2024 01:44:33] (69/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:33] Channel id: 189
+[02-07-2024 01:44:33] Xmltv id: NewsX.in
+[02-07-2024 01:44:33] 62 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:44:33] (70/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:33] Channel id: 255
+[02-07-2024 01:44:33] Xmltv id: WION.in
+[02-07-2024 01:44:34] 96 shows grabbed in 0.67 seconds
+[                   ]
+[02-07-2024 01:44:34] (71/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:34] Channel id: 72
+[02-07-2024 01:44:34] Xmltv id: REPUBLICTV.in
+[02-07-2024 01:44:35] 63 shows grabbed in 0.64 seconds
+[                   ]
+[02-07-2024 01:44:35] (72/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:35] Channel id: 304
+[02-07-2024 01:44:35] Xmltv id: CNBCTV18.in
+[02-07-2024 01:44:35] 36 shows grabbed in 0.60 seconds
+[                   ]
+[02-07-2024 01:44:35] (73/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:35] Channel id: 324
+[02-07-2024 01:44:35] Xmltv id: DDIndia.in
+[02-07-2024 01:44:36] 71 shows grabbed in 0.66 seconds
+[                   ]
+[02-07-2024 01:44:36] (74/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:36] Channel id: 93
+[02-07-2024 01:44:36] Xmltv id: NDTVProfit.in
+[02-07-2024 01:44:37] 87 shows grabbed in 0.69 seconds
+[                   ]
+[02-07-2024 01:44:37] (75/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:37] Channel id: 79
+[02-07-2024 01:44:37] Xmltv id: News18UttarPradeshUttarakhand.in
+[02-07-2024 01:44:37] 70 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:44:37] (76/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:37] Channel id: 613
+[02-07-2024 01:44:37] Xmltv id: NewsState.in
+[02-07-2024 01:44:38] 96 shows grabbed in 0.70 seconds
+[                   ]
+[02-07-2024 01:44:38] (77/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:38] Channel id: 1267
+[02-07-2024 01:44:38] Xmltv id: HNNNews.in
+[02-07-2024 01:44:39] 74 shows grabbed in 0.66 seconds
+[                   ]
+[02-07-2024 01:44:39] (78/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:39] Channel id: 637
+[02-07-2024 01:44:39] Xmltv id: ZeeUttarPradeshUttarakhand.in
+[02-07-2024 01:44:39] 96 shows grabbed in 0.69 seconds
+[                   ]
+[02-07-2024 01:44:39] (79/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:39] Channel id: 587
+[02-07-2024 01:44:39] Xmltv id: SuperHungama.in
+[02-07-2024 01:44:40] 120 shows grabbed in 0.75 seconds
+[                   ]
+[02-07-2024 01:44:40] (80/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:40] Channel id: 114
+[02-07-2024 01:44:40] Xmltv id: Disney.in
+[02-07-2024 01:44:41] 189 shows grabbed in 0.88 seconds
+[                   ]
+[02-07-2024 01:44:41] (81/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:41] Channel id: 433
+[02-07-2024 01:44:41] Xmltv id: NickHD+.in
+[02-07-2024 01:44:42] 58 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:44:42] (82/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:42] Channel id: 138
+[02-07-2024 01:44:42] Xmltv id: Nick.in
+[02-07-2024 01:44:42] 28 shows grabbed in 0.57 seconds
+[                   ]
+[02-07-2024 01:44:42] (83/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:42] Channel id: 681
+[02-07-2024 01:44:42] Xmltv id: CartoonNetworkHD+.in
+[02-07-2024 01:44:43] 48 shows grabbed in 0.64 seconds
+[                   ]
+[02-07-2024 01:44:43] (84/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:43] Channel id: 238
+[02-07-2024 01:44:43] Xmltv id: CartoonNetwork.in
+[02-07-2024 01:44:44] 51 shows grabbed in 0.77 seconds
+[                   ]
+[02-07-2024 01:44:44] (85/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:44] Channel id: 239
+[02-07-2024 01:44:44] Xmltv id: Pogo.in
+[02-07-2024 01:44:44] 113 shows grabbed in 0.77 seconds
+[                   ]
+[02-07-2024 01:44:44] (86/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:44] Channel id: 119
+[02-07-2024 01:44:44] Xmltv id: DiscoveryKids.in
+[02-07-2024 01:44:45] 196 shows grabbed in 0.91 seconds
+[                   ]
+[02-07-2024 01:44:45] (87/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:45] Channel id: 127
+[02-07-2024 01:44:45] Xmltv id: SonicNickelodeon.in
+[02-07-2024 01:44:46] 22 shows grabbed in 0.58 seconds
+[                   ]
+[02-07-2024 01:44:46] (88/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:46] Channel id: 45
+[02-07-2024 01:44:46] Xmltv id: SONYYAY!.in
+[02-07-2024 01:44:47] 232 shows grabbed in 0.91 seconds
+[                   ]
+[02-07-2024 01:44:47] (89/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:47] Channel id: 867
+[02-07-2024 01:44:47] Xmltv id: Gubbare.in
+[02-07-2024 01:44:47] 22 shows grabbed in 0.59 seconds
+[                   ]
+[02-07-2024 01:44:47] (90/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:47] Channel id: 1181
+[02-07-2024 01:44:47] Xmltv id: NickJr.in
+[02-07-2024 01:44:48] 11 shows grabbed in 1.07 seconds
+[                   ]
+[02-07-2024 01:44:48] (91/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:48] Channel id: 144
+[02-07-2024 01:44:48] Xmltv id: DisneyJunior.in
+[02-07-2024 01:44:49] 152 shows grabbed in 0.88 seconds
+[                   ]
+[02-07-2024 01:44:49] (92/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:49] Channel id: 605
+[02-07-2024 01:44:49] Xmltv id: NationalGeographicHD.in
+[02-07-2024 01:44:50] 56 shows grabbed in 0.68 seconds
+[                   ]
+[02-07-2024 01:44:50] (93/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:50] Channel id: 413
+[02-07-2024 01:44:50] Xmltv id: NatGeoWildHD.in
+[02-07-2024 01:44:51] 49 shows grabbed in 0.62 seconds
+[                   ]
+[02-07-2024 01:44:51] (94/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:51] Channel id: 341
+[02-07-2024 01:44:51] Xmltv id: DiscoveryHDWorld.in
+[02-07-2024 01:44:51] 61 shows grabbed in 0.66 seconds
+[                   ]
+[02-07-2024 01:44:51] (95/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:51] Channel id: 287
+[02-07-2024 01:44:51] Xmltv id: AnimalPlanetHDWorld.in
+[02-07-2024 01:44:52] 66 shows grabbed in 0.64 seconds
+[                   ]
+[02-07-2024 01:44:52] (96/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:52] Channel id: 616
+[02-07-2024 01:44:52] Xmltv id: HistoryTV18HD.in
+[02-07-2024 01:44:53] 101 shows grabbed in 0.71 seconds
+[                   ]
+[02-07-2024 01:44:53] (97/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:53] Channel id: 460
+[02-07-2024 01:44:53] Xmltv id: SONYBBCEarthHD.in
+[02-07-2024 01:44:53] 70 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:44:53] (98/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:53] Channel id: 923
+[02-07-2024 01:44:53] Xmltv id: TravelXP4KHDR.in
+[02-07-2024 01:44:54] 98 shows grabbed in 0.73 seconds
+[                   ]
+[02-07-2024 01:44:54] (99/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:54] Channel id: 126
+[02-07-2024 01:44:54] Xmltv id: EPIC.in
+[02-07-2024 01:44:55] 70 shows grabbed in 0.66 seconds
+[                   ]
+[02-07-2024 01:44:55] (100/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:55] Channel id: 367
+[02-07-2024 01:44:55] Xmltv id: StarLifeHD.in
+[02-07-2024 01:44:55] 78 shows grabbed in 0.68 seconds
+[                   ]
+[02-07-2024 01:44:55] (101/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:55] Channel id: 480
+[02-07-2024 01:44:55] Xmltv id: TLCHD.in
+[02-07-2024 01:44:56] 68 shows grabbed in 0.67 seconds
+[                   ]
+[02-07-2024 01:44:56] (102/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:56] Channel id: 484
+[02-07-2024 01:44:56] Xmltv id: TravelxpHD.in
+[02-07-2024 01:44:57] 97 shows grabbed in 0.72 seconds
+[                   ]
+[02-07-2024 01:44:57] (103/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:44:57] Channel id: 382
+[02-07-2024 01:44:57] Xmltv id: ZeeZestHD.in
+[02-07-2024 01:45:00] 57 shows grabbed in 3.54 seconds
+[                   ]
+[02-07-2024 01:45:00] (104/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:00] Channel id: 406
+[02-07-2024 01:45:00] Xmltv id: MTVHD.in
+[02-07-2024 01:45:01] 46 shows grabbed in 0.62 seconds
+[                   ]
+[02-07-2024 01:45:01] (105/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:01] Channel id: 139
+[02-07-2024 01:45:01] Xmltv id: 9XM.in
+[02-07-2024 01:45:02] 98 shows grabbed in 0.70 seconds
+[                   ]
+[02-07-2024 01:45:02] (106/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:02] Channel id: 405
+[02-07-2024 01:45:02] Xmltv id: MTVBeatsHD.in
+[02-07-2024 01:45:02] 32 shows grabbed in 0.60 seconds
+[                   ]
+[02-07-2024 01:45:02] (107/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:02] Channel id: 39
+[02-07-2024 01:45:02] Xmltv id: 9XJalwa.in
+[02-07-2024 01:45:03] 84 shows grabbed in 0.68 seconds
+[                   ]
+[02-07-2024 01:45:03] (108/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:03] Channel id: 733
+[02-07-2024 01:45:03] Xmltv id: Showbox.in
+[02-07-2024 01:45:03] 63 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:45:03] (109/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:03] Channel id: 539
+[02-07-2024 01:45:03] Xmltv id: VH1HD.in
+[02-07-2024 01:45:06] 39 shows grabbed in 2.14 seconds
+[                   ]
+[02-07-2024 01:45:06] (110/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:06] Channel id: 38
+[02-07-2024 01:45:06] Xmltv id: Aastha.in
+[02-07-2024 01:45:06] 66 shows grabbed in 0.66 seconds
+[                   ]
+[02-07-2024 01:45:06] (111/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:06] Channel id: 43
+[02-07-2024 01:45:06] Xmltv id: Sanskar.in
+[02-07-2024 01:45:07] 89 shows grabbed in 0.68 seconds
+[                   ]
+[02-07-2024 01:45:07] (112/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:07] Channel id: 456
+[02-07-2024 01:45:07] Xmltv id: SatsangTV.in
+[02-07-2024 01:45:08] 55 shows grabbed in 0.65 seconds
+[                   ]
+[02-07-2024 01:45:08] (113/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:08] Channel id: 458
+[02-07-2024 01:45:08] Xmltv id: ShubhTV.in
+[02-07-2024 01:45:09] 74 shows grabbed in 1.45 seconds
+[                   ]
+[02-07-2024 01:45:09] (114/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:09] Channel id: 283
+[02-07-2024 01:45:09] Xmltv id: AasthaBhajan.in
+[02-07-2024 01:45:10] 88 shows grabbed in 1.01 seconds
+[                   ]
+[02-07-2024 01:45:10] (115/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:10] Channel id: 500
+[02-07-2024 01:45:10] Xmltv id: Vedic.in
+[02-07-2024 01:45:11] 88 shows grabbed in 0.72 seconds
+[                   ]
+[02-07-2024 01:45:11] (116/151) Site: [ENC][EX]tataplay.com_0
+[02-07-2024 01:45:11] Channel id: 837
+[02-07-2024 01:45:11] Xmltv id: HareKrsna.in
+[02-07-2024 01:45:11] 89 shows grabbed in 0.72 seconds
+[                   ]
+[02-07-2024 01:45:11] (117/151) Site: [ENC]distro.tv_0
+[02-07-2024 01:45:11] Channel id: 64138
+[02-07-2024 01:45:11] Xmltv id: Arré.distro
+[02-07-2024 01:45:12] 9 shows reloaded in 0.00 seconds
+[02-07-2024 01:45:12] 112 shows grabbed in 0.54 seconds
+[                   ]
+[02-07-2024 01:45:12] (118/151) Site: [ENC]distro.tv_0
+[02-07-2024 01:45:12] Channel id: 87417
+[02-07-2024 01:45:12] Xmltv id: BollywoodClassicHD.distro
+[02-07-2024 01:45:12] 16 shows grabbed in 0.39 seconds
+[                   ]
+[02-07-2024 01:45:12] (119/151) Site: [ENC]distro.tv_0
+[02-07-2024 01:45:12] Channel id: 87418
+[02-07-2024 01:45:12] Xmltv id: BollywoodHD.distro
+[02-07-2024 01:45:13] 20 shows grabbed in 0.40 seconds
+[                   ]
+[02-07-2024 01:45:13] (120/151) Site: [ENC]distro.tv_0
+[02-07-2024 01:45:13] Channel id: 105576
+[02-07-2024 01:45:13] Xmltv id: KidsTVIndia.distro
+[02-07-2024 01:45:14] 36 shows reloaded in 0.01 seconds
+[02-07-2024 01:45:14] 992 shows grabbed in 1.26 seconds
+[                   ]
+[02-07-2024 01:45:14] (121/151) Site: [ENC]distro.tv_0
+[02-07-2024 01:45:14] Channel id: 123695
+[02-07-2024 01:45:14] Xmltv id: ShemarooBollywood.us
+[02-07-2024 01:45:14] 12 shows grabbed in 0.37 seconds
+[                   ]
+[02-07-2024 01:45:14] (122/151) Site: astro.afqad_0
+[02-07-2024 01:45:14] Channel id: ColorsHD
+[02-07-2024 01:45:14] Xmltv id: ColorsHindiHD.my
+[02-07-2024 01:45:15] 93 shows grabbed in 0.92 seconds
+[                   ]
+[02-07-2024 01:45:15] (123/151) Site: astro.afqad_0
+[02-07-2024 01:45:15] Channel id: ZeeCinema
+[02-07-2024 01:45:15] Xmltv id: ZeeCinema.my
+[02-07-2024 01:45:15] 15 shows grabbed in 0.12 seconds
+[                   ]
+[02-07-2024 01:45:15] (124/151) Site: astro.afqad_0
+[02-07-2024 01:45:15] Channel id: HITSMovies
+[02-07-2024 01:45:15] Xmltv id: HITSMoviesHD.my
+[02-07-2024 01:45:16] 19 shows grabbed in 0.12 seconds
+[                   ]
+[02-07-2024 01:45:16] (125/151) Site: astro.afqad_0
+[02-07-2024 01:45:16] Channel id: BOO
+[02-07-2024 01:45:16] Xmltv id: BOOHD.my
+[02-07-2024 01:45:16] 30 shows grabbed in 0.14 seconds
+[                   ]
+[02-07-2024 01:45:16] (126/151) Site: astro.afqad_0
+[02-07-2024 01:45:16] Channel id: HBO
+[02-07-2024 01:45:16] Xmltv id: HBOHD.my
+[02-07-2024 01:45:16] 28 shows grabbed in 0.14 seconds
+[                   ]
+[02-07-2024 01:45:16] (127/151) Site: astro.afqad_0
+[02-07-2024 01:45:16] Channel id: Cinemax
+[02-07-2024 01:45:16] Xmltv id: CINEMAXHD.my
+[02-07-2024 01:45:16] 29 shows grabbed in 0.14 seconds
+[                   ]
+[02-07-2024 01:45:16] (128/151) Site: astro.afqad_0
+[02-07-2024 01:45:16] Channel id: Showcase
+[02-07-2024 01:45:16] Xmltv id: SHOWCASE.my
+[02-07-2024 01:45:16] 30 shows grabbed in 0.14 seconds
+[                   ]
+[02-07-2024 01:45:16] (129/151) Site: astro.afqad_0
+[02-07-2024 01:45:16] Channel id: HBOHits
+[02-07-2024 01:45:16] Xmltv id: HBOHits.my
+[02-07-2024 01:45:16] 26 shows grabbed in 0.14 seconds
+[                   ]
+[02-07-2024 01:45:16] (130/151) Site: astro.afqad_0
+[02-07-2024 01:45:16] Channel id: AXN
+[02-07-2024 01:45:16] Xmltv id: AXNHD.my
+[02-07-2024 01:45:16] 54 shows grabbed in 0.18 seconds
+[                   ]
+[02-07-2024 01:45:16] (131/151) Site: astro.afqad_0
+[02-07-2024 01:45:16] Channel id: WarnerTV
+[02-07-2024 01:45:16] Xmltv id: WarnerTVHD.my
+[02-07-2024 01:45:17] 78 shows grabbed in 0.23 seconds
+[                   ]
+[02-07-2024 01:45:17] (132/151) Site: astro.afqad_0
+[02-07-2024 01:45:17] Channel id: W-Sport
+[02-07-2024 01:45:17] Xmltv id: W-Sport.my
+[02-07-2024 01:45:17] 32 shows grabbed in 0.14 seconds
+[                   ]
+[02-07-2024 01:45:17] (133/151) Site: astro.afqad_0
+[02-07-2024 01:45:17] Channel id: Eurosport
+[02-07-2024 01:45:17] Xmltv id: Eurosport.my
+[02-07-2024 01:45:17] 43 shows grabbed in 0.16 seconds
+[                   ]
+[02-07-2024 01:45:17] (134/151) Site: astro.afqad_0
+[02-07-2024 01:45:17] Channel id: WWENetwork
+[02-07-2024 01:45:17] Xmltv id: WWENetwork.my
+[02-07-2024 01:45:17] 41 shows grabbed in 0.16 seconds
+[                   ]
+[02-07-2024 01:45:17] (135/151) Site: astro.afqad_0
+[02-07-2024 01:45:17] Channel id: PremierSports
+[02-07-2024 01:45:17] Xmltv id: PremierSports.my
+[02-07-2024 01:45:17] 54 shows grabbed in 0.17 seconds
+[                   ]
+[02-07-2024 01:45:17] (136/151) Site: astro.afqad_0
+[02-07-2024 01:45:17] Channel id: AstroCricket
+[02-07-2024 01:45:17] Xmltv id: AstroCricketHD.my
+[02-07-2024 01:45:17] 17 shows grabbed in 0.12 seconds
+[                   ]
+[02-07-2024 01:45:17] (137/151) Site: jiotv.simper_0
+[02-07-2024 01:45:17] Channel id: 732
+[02-07-2024 01:45:17] Xmltv id: 9XTashan.in
+[02-07-2024 01:45:20] 100 shows grabbed in 2.44 seconds
+[                   ]
+[02-07-2024 01:45:20] (138/151) Site: jiotv.simper_0
+[02-07-2024 01:45:20] Channel id: 887
+[02-07-2024 01:45:20] Xmltv id: SwarShree.in
+[02-07-2024 01:45:21] 111 shows grabbed in 1.27 seconds
+[                   ]
+[02-07-2024 01:45:21] (139/151) Site: jiotv.simper_0
+[02-07-2024 01:45:21] Channel id: 1192
+[02-07-2024 01:45:21] Xmltv id: BritAsiaTV.uk
+[02-07-2024 01:45:22] 51 shows grabbed in 1.20 seconds
+[                   ]
+[02-07-2024 01:45:22] (140/151) Site: jiotv.simper_0
+[02-07-2024 01:45:22] Channel id: 1205
+[02-07-2024 01:45:22] Xmltv id: ABPGanga.in
+[02-07-2024 01:45:24] 103 shows grabbed in 1.32 seconds
+[                   ]
+[02-07-2024 01:45:24] (141/151) Site: jiotv.simper_0
+[02-07-2024 01:45:24] Channel id: 1248
+[02-07-2024 01:45:24] Xmltv id: BolHadippa.in
+[02-07-2024 01:45:25] 19 shows grabbed in 1.11 seconds
+[                   ]
+[02-07-2024 01:45:25] (142/151) Site: jiotv.simper_0
+[02-07-2024 01:45:25] Channel id: 1249
+[02-07-2024 01:45:25] Xmltv id: KadakHits.in
+[02-07-2024 01:45:26] 21 shows grabbed in 1.15 seconds
+[                   ]
+[02-07-2024 01:45:26] (143/151) Site: jiotv.simper_0
+[02-07-2024 01:45:26] Channel id: 2036
+[02-07-2024 01:45:26] Xmltv id: DilSe.in
+[02-07-2024 01:45:27] 13 shows grabbed in 1.14 seconds
+[                   ]
+[02-07-2024 01:45:27] (144/151) Site: jiotv.simper_0
+[02-07-2024 01:45:27] Channel id: 2037
+[02-07-2024 01:45:27] Xmltv id: PopPataka.in
+[02-07-2024 01:45:28] 24 shows grabbed in 1.15 seconds
+[                   ]
+[02-07-2024 01:45:28] (145/151) Site: jiotv.simper_0
+[02-07-2024 01:45:28] Channel id: 2041
+[02-07-2024 01:45:28] Xmltv id: BhaktiSagar.in
+[02-07-2024 01:45:29] 12 shows grabbed in 1.14 seconds
+[                   ]
+[02-07-2024 01:45:29] (146/151) Site: jiotv.simper_0
+[02-07-2024 01:45:29] Channel id: 2043
+[02-07-2024 01:45:29] Xmltv id: ArtistAloud.in
+[02-07-2024 01:45:31] 15 shows grabbed in 1.14 seconds
+[                   ]
+[02-07-2024 01:45:31] (147/151) Site: jiotv.simper_0
+[02-07-2024 01:45:31] Channel id: 2064
+[02-07-2024 01:45:31] Xmltv id: MerchantRecords.in
+[02-07-2024 01:45:32] 51 shows grabbed in 1.23 seconds
+[                   ]
+[02-07-2024 01:45:32] (148/151) Site: jiotv.simper_0
+[02-07-2024 01:45:32] Channel id: 2065
+[02-07-2024 01:45:32] Xmltv id: SaregamaMusic.in
+[02-07-2024 01:45:33] 48 shows grabbed in 1.22 seconds
+[                   ]
+[02-07-2024 01:45:33] (149/151) Site: jiotv.simper_0
+[02-07-2024 01:45:33] Channel id: 2252
+[02-07-2024 01:45:33] Xmltv id: DesiMusicStation.in
+[02-07-2024 01:45:34] 51 shows grabbed in 1.22 seconds
+[                   ]
+[02-07-2024 01:45:34] (150/151) Site: jiotv.simper_0
+[02-07-2024 01:45:34] Channel id: 2753
+[02-07-2024 01:45:34] Xmltv id: YRFMusic.in
+[02-07-2024 01:45:35] 46 shows grabbed in 1.21 seconds
+[                   ]
+[02-07-2024 01:45:35] (151/151) Site: jiotv.simper_0
+[02-07-2024 01:45:35] Channel id: 2762
+[02-07-2024 01:45:35] Xmltv id: HollywoodDesi.distro
+[02-07-2024 01:45:37] 17 shows grabbed in 1.15 seconds
+[                   ]
+[02-07-2024 01:45:37] Grabbing completed...
+[02-07-2024 01:45:37] 10265 shows grabbed in 2 minutes 3.55 seconds (123.55 seconds)
 [     Completed     ]
-[01-07-2024 01:54:15] Tempest Overall Memory Usage: 7573KB
-[01-07-2024 01:54:15] Tempest Peak Memory Usage: 521651KB
-[01-07-2024 01:54:15] 
-[01-07-2024 01:54:15] tempest.xml.gz file created
+[02-07-2024 01:45:37] Tempest Overall Memory Usage: 7573KB
+[02-07-2024 01:45:37] Tempest Peak Memory Usage: 520454KB
+[02-07-2024 01:45:37] 
+[02-07-2024 01:45:37] tempest.xml.gz file created

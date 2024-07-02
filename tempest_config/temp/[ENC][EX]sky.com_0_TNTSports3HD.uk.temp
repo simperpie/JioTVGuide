@@ -4,273 +4,6 @@
     <display-name lang="en">TNT Sports 3 HD</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/150/150/skychb3629.png"/>
   </channel>
-  <programme start="20240630200000 +0000" stop="20240630231500 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Live MLB: Dodgers @ Giants</title>
-    <desc lang="en">Action from Major League Baseball as Los Angeles Dodgers take on San Francisco Giants at Oracle Park.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f8ae78a4-124c-34ef-aa8e-ded37c0006ae/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240630231500 +0000" stop="20240701001500 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">WWE SmackDown Highlights</title>
-    <desc lang="en">All the best highlights from the latest episode of WWE Friday Night SmackDown.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Wrestling</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6f9a9af6-a302-3e47-ab29-a0143b935328/16-9"/>
-    <episode-num system="xmltv_ns">25.25.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701001500 +0000" stop="20240701021500 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">AFL: St Kilda v Port Adelaide</title>
-    <desc lang="en">Action from the Australian Football League as St Kilda face Port Adelaide at Marvel Stadium in Melbourne.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1a4730a8-b6cf-32ce-b27e-512c5250802b/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701021500 +0000" stop="20240701041500 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">AFL: Richmond v Carlton</title>
-    <desc lang="en">Action from the Australian Football League as Richmond take on Carlton at the MCG.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c83a0ee8-76b4-378f-a002-f84ef8ee48ee/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240701041500 +0000" stop="20240701043000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">TNT Sports Reload</title>
-    <desc lang="en">The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a831cc8c-2ae8-338b-a548-9e5f34a0eb6f/16-9"/>
-    <episode-num system="xmltv_ns">23.26.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701043000 +0000" stop="20240701050000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Badminton Unlimited</title>
-    <desc lang="en">Catch up on all the latest news and information from the world of badminton.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6573639a-45a3-3e9c-8bb5-031ca2ad01fc/16-9"/>
-    <episode-num system="xmltv_ns">23.3.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701050000 +0000" stop="20240701070000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">AFL: Brisbane Lions v Melbourne</title>
-    <desc lang="en">Action from the Australian Football League as Brisbane Lions face Melbourne at the Gabba.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/413774e7-3790-3180-b591-4d52e99ed1c7/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701070000 +0000" stop="20240701090000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">AFL: Sydney Swans v Fremantle</title>
-    <desc lang="en">Action from the Australian Football League as Sydney Swans meet Fremantle at the SCG.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bbf5a760-86d4-3e27-9d5d-2478f534599c/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701090000 +0000" stop="20240701110000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">AFL: N Melbourne v W Bulldogs</title>
-    <desc lang="en">Action from the Australian Football League as North Melbourne and Western Bulldogs go head-to-head at Marvel Stadium.</desc>
-    <category lang="en">Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5c9f90a5-d274-350c-8c26-a05cb5b023de/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701110000 +0000" stop="20240701120000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Premier League: Best Goals 2010/11</title>
-    <desc lang="en">A look back at the best goals from the 2010/2011 season. Dimitar Berbatov and Carlos Tevez shared the Golden Boot with 20 goals, ahead of Robin van Persie who finished with 18.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3bcc3742-38fe-3db1-90cb-25f880e4291d/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701120000 +0000" stop="20240701130000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Premier League: Best Goals 2011/12</title>
-    <desc lang="en">A look back at the best goals from the 2011/12 season. With 30 goals, Robin van Persie won the Golden Boot in his final season for Arsenal, finishing three ahead of Wayne Rooney.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ed156758-4c14-395b-b98e-6c1f04d22499/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701130000 +0000" stop="20240701140000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Premier League: Best Goals 2012/13</title>
-    <desc lang="en">A look back at the top strikes from the 2012/13 season. Robin van Persie finished top of the charts with 26 goals, three ahead of Luis Suarez and five in front of Gareth Bale.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d195b01c-06bd-3866-9472-cb17a38bb632/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701140000 +0000" stop="20240701150000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Premier League: Best Goals 2013/14</title>
-    <desc lang="en">A look back at the top goals from the 2013/14 season. Luis Suarez - in his final season at Anfield - finished top scorer with 31 goals, 10 ahead of team-mate Daniel Sturridge.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bdeec4ad-71cd-3657-94ac-6e0b3bcbe03f/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701150000 +0000" stop="20240701160000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Premier League: Best Goals 2014/15</title>
-    <desc lang="en">A look back at the most memorable goals from the 2014/15 season. Sergio Aguero won the Golden Boot with 26 goals, five ahead of Harry Kane and six in front of Diego Costa.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d8e904bf-dc68-3792-8028-1b3d9a24253e/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701160000 +0000" stop="20240701170000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">NJ/NY Gotham FC v Seattle Reign</title>
-    <desc lang="en">Action from the National Women's Soccer League as NJ/NY Gotham FC face Seattle Reign.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0996f99d-48eb-3767-bf65-38464e54bef2/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701170000 +0000" stop="20240701190000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">PL Review of the Season</title>
-    <desc lang="en">A look back at the best action from the 2023/24 Premier League season. Man City set out to claim a fourth consecutive title, while Luton returned for the first time in 31 years.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4fadbf6d-fdef-38e2-b1c0-eb357b03b337/16-9"/>
-    <episode-num system="xmltv_ns">22.48.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
-  <programme start="20240701190000 +0000" stop="20240701200000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Women's Test: India v SA</title>
-    <desc lang="en">Women's cricket action from day four of the Test between India and South Africa at MA Chidambaram Stadium.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ffa6ccc0-3dbe-3abc-83cc-3f421f0956c3/16-9"/>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-  </programme>
-  <programme start="20240701200000 +0000" stop="20240701210000 +0000" channel="TNTSports3HD.uk">
-    <title lang="en">Fishing: On The Bank - 2024</title>
-    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford, featuring round 1 of the UK Angling Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Fishing</category>
-    <icon src="https://images.metadata.sky.com/pd-image/88281990-5ab5-336a-8502-d7b68dd5e0eb/16-9"/>
-    <episode-num system="xmltv_ns">23.7.</episode-num>
-    <video>
-      <aspect>16:9</aspect>
-      <quality>HDTV</quality>
-    </video>
-    <audio>
-      <stereo>Mono</stereo>
-    </audio>
-    <subtitles type="teletext"/>
-  </programme>
   <programme start="20240701210000 +0000" stop="20240701220000 +0000" channel="TNTSports3HD.uk">
     <title lang="en">Ariel Helwani Meets: Cody Rhodes</title>
     <desc lang="en">Acclaimed combat sport journalist Ariel Helwani sits down with WWE star Cody Rhodes for a fascinating interview about his rise from Stardust to the main event of WrestleMania.</desc>
@@ -587,7 +320,7 @@
     <desc lang="en">Action from the National Women's Soccer League as NJ/NY Gotham FC face Seattle Reign.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e617f77f-b9f6-3c75-b271-128d9a389e6d/16-9"/>
+    <icon src="https://images.metadata.sky.com/pd-image/96db5cd0-124b-35e8-a331-c4a0da528c1e/16-9"/>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
@@ -832,6 +565,334 @@
     <category lang="en">Other</category>
     <icon src="https://images.metadata.sky.com/pd-image/20f74516-e5a6-3b62-875b-b32c8002e439/16-9"/>
     <episode-num system="xmltv_ns">2023.47.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703013000 +0000" stop="20240703040000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">A look back at UFC 204 from 2016 in Manchester, featuring the thrilling headline middleweight title bout between champion Michael Bisping and challenger Dan Henderson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d16adc13-fb2a-3075-b39f-ddf204365fa2/16-9"/>
+    <episode-num system="xmltv_ns">5.6.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703040000 +0000" stop="20240703043000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Formula E Flashback</title>
+    <desc lang="en">We look back at the action-packed 2016 Buenos Aires ePrix at the Puerto Madero Street Circuit. Could Sebastien Buemi fight his way through the field to catch Sam Bird?</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/917e953a-6a7f-34f6-8029-6cc91da087ca/16-9"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703043000 +0000" stop="20240703050000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Formula E Flashback</title>
+    <desc lang="en">A look back at the 2016 London ePrix at Battersea Park Street Circuit in London. The race would get off to a dramatic start with a collision between two championship contenders.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a6a4c439-7084-336f-b8a8-383bcac43558/16-9"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703050000 +0000" stop="20240703060000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2004/05</title>
+    <desc lang="en">A review of the 2004/05 season. Jose Mourinho ended Chelsea's 50-year wait for a top-flight title, while Man Utd made Wayne Rooney the most expensive teenager in British football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5b83a0c7-7991-3f2c-9697-d34f71bc1226/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703060000 +0000" stop="20240703070000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League: Best Goals 2005/06</title>
+    <desc lang="en">A look back at the best goals from the 2005/06 season. Thierry Henry became the first player in the league's history to win the Golden Boot four times, top-scoring with 27 goals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2a0452d4-4e03-39ee-92b1-02cabb4eb739/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703070000 +0000" stop="20240703080000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2006/07</title>
+    <desc lang="en">A review of the 2006/07 season. Ashley Cole began life at Chelsea, Arsene Wenger celebrated his 10th year in charge and West Ham snapped up Carlos Tevez and Javier Mascherano.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0cff9166-757d-3a6b-aa9c-6e81217d8617/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703080000 +0000" stop="20240703090000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2007/08</title>
+    <desc lang="en">A review of the 2007/08 season. Jose Mourinho's first tenure as Chelsea manager ended, Cristiano Ronaldo topped the scoring charts and Fulham dramatically escaped relegation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aea4d83c-9916-30b8-af38-ebc44c6d0dd1/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703090000 +0000" stop="20240703100000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2008/09</title>
+    <desc lang="en">A review of the 2008/09 season. Manchester City began a new era under new ownership, Manchester United secured a third successive title and Newcastle were dramatically relegated.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c067ca02-2dda-4696-8e4f-f096b099cb31/16-9"/>
+    <episode-num system="xmltv_ns">2012.60.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703100000 +0000" stop="20240703110000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2009/10</title>
+    <desc lang="en">A review of the 2009/10 season. Top scorer Didier Drogba fired Chelsea to the title, Manchester City spent big and Spurs secured Champions League qualification for the first time.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/133eb964-4edf-49cd-a7ca-c68dcb441e8f/16-9"/>
+    <episode-num system="xmltv_ns">2012.61.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703110000 +0000" stop="20240703120000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2010/11</title>
+    <desc lang="en">A review of the 2010/11 season. Man Utd surpassed Liverpool's record of 18 top-flight titles, Man City secured the signing of Yaya Toure and Wolves dramatically avoided relegation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b1fe1316-c05d-3ecd-8a7c-d8d9c9600400/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703120000 +0000" stop="20240703123000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">What I Wore: Dimitar Berbatov</title>
+    <desc lang="en">Former Fulham and Manchester United forward Dimitar Berbatov describes his passion for football via the shirts which have defined his life.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b4c08504-f9ac-3596-973a-d2e592ff8b43/16-9"/>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703123000 +0000" stop="20240703130000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Henley Royal Regatta Highlights</title>
+    <desc lang="en">Highlights from day one of the Henley Royal Regatta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Water Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/89b404f7-4f81-314a-8071-8134cf63dcf5/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703130000 +0000" stop="20240703140000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2012/13</title>
+    <desc lang="en">A review of the 2012/13 season. Sir Alex Ferguson ended his managerial career as Manchester United clinched their 13th Premier League title and FA Cup winners Wigan were relegated.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0fde50ba-b63c-430c-83ca-c9e10af0fa7c/16-9"/>
+    <episode-num system="xmltv_ns">2012.212.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703140000 +0000" stop="20240703150000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2013/14</title>
+    <desc lang="en">A review of the 2013/14 season. Manchester City clinched their second Premier League title, Jose Mourinho returned to Chelsea and Tony Pulis masterminded a great escape at Palace.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/20c9b1ba-1b36-4702-ba8c-50012b0a0a46/16-9"/>
+    <episode-num system="xmltv_ns">2012.213.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703150000 +0000" stop="20240703160000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2014/15</title>
+    <desc lang="en">A review of the 2014/15 season. Eden Hazard's superb form helped Chelsea clinch their fifth title, while newly-promoted Burnley and QPR made immediate returns to the Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6eac5dbe-4545-48ee-ac45-a48a7bf66caa/16-9"/>
+    <episode-num system="xmltv_ns">2012.214.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703160000 +0000" stop="20240703170000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2015/16</title>
+    <desc lang="en">A review of the 2015/16 season. Leicester City shocked the footballing world, Jose Mourinho's second tenure at Chelsea came to an end and Newcastle dropped into the second tier.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2178c278-5093-3ab4-bb96-92f6e07f42b2/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703170000 +0000" stop="20240703180000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Premier League Review: 2016/17</title>
+    <desc lang="en">Take a look back at the 2016/17 Premier League season as Chelsea win their fifth Premier League title and reigning champions Leicester set a new record for worst title defence.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/44debd45-da22-447f-884c-7a698dedaa3f/16-9"/>
+    <episode-num system="xmltv_ns">2.59.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703180000 +0000" stop="20240703193000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Standing Firm: Football's Windrush Story</title>
+    <desc lang="en">Benjamin Zephaniah celebrates the legacy of the Windrush generation and examines the impact Caribbean migration to Britain has had on British football.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1da91969-f338-44c1-b31a-4ec839e0bffd/16-9"/>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703193000 +0000" stop="20240703203000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">Brentford legend Sam Saunders joins super fans Nathan Caton and Natalie Sawyer as The Football's On stages a night of comedy and celebration at the Gtech Community Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a9bd8563-dd02-3b0a-b737-6b878e0ca77c/16-9"/>
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703203000 +0000" stop="20240703213000 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">Women's Test: India v SA</title>
+    <desc lang="en">Women's cricket action from day four of the Test between India and South Africa at MA Chidambaram Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/259cd58a-8f49-36b4-9634-67f3de196d66/16-9"/>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>Mono</stereo>
+    </audio>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20240703213000 +0000" stop="20240703231500 +0000" channel="TNTSports3HD.uk">
+    <title lang="en">UFC Reloaded</title>
+    <desc lang="en">We revisit UFC Fight Night in Las Vegas from December 2015 as Rose Namajunas took on Paige VanZant in a strawweight showdown. In the co-main event, Michael Chiesa faced Jim Miller.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Other</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2ec41c4a-0020-3bc1-9124-7fce9306c200/16-9"/>
+    <episode-num system="xmltv_ns">5.8.</episode-num>
     <video>
       <aspect>16:9</aspect>
       <quality>HDTV</quality>
